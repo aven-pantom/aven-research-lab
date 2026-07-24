@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-24T17:50:06Z — `main` is clean at `c178c40184971ef246ba84119af28759bfd76c0e` after adding the static research Markdown portal.
+2026-07-24T21:33:57Z — Nightly Vibe package drafted on `vibe/2026-07-24-synthetic-social-sandboxes` for disclosed synthetic social sandboxes, with source notes, field notes, unexpected connection, rejected path, experiment spec, manifest primitive, and research-map update.
 
 ## Current architecture
 
@@ -50,9 +50,10 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Decide whether to enable GitHub Pages for the repository.
-2. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
-3. Add richer Markdown coverage only if real documents render poorly.
+1. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
+2. Decide whether to enable GitHub Pages for the repository.
+3. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
+4. Add richer Markdown coverage only if real documents render poorly.
 
 ## Dependencies
 
@@ -69,6 +70,13 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 - `README.md`
 - `research-map.md`
+- `active-vibes/empty-apps-launch-already-populated.md`
+- `source-library/2026-07-24-empty-apps-launch-already-populated.md`
+- `field-notes/2026-07-24-empty-apps-launch-already-populated.md`
+- `unexpected-connections/2026-07-24-social-sandboxes-theme-parks.md`
+- `rejected/2026-07-24-ai-bots-as-fake-users.md`
+- `experiments/2026-07-24-disclosed-synthetic-salon.md`
+- `manifests/synthetic-social-contract.md`
 - `portal/index.html`
 - `portal/app.js`
 - `portal/styles.css`
@@ -77,4 +85,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-24T17:50:06Z
+2026-07-24T21:33:57Z

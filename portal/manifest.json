@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:48:44.785342+00:00",
+  "generatedAt": "2026-07-24T21:34:38.166191+00:00",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -60,6 +60,16 @@
       "excerpt": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace Verified: Several recent single-cell perturbation prediction papers frame the problem as AI Virtual Cell modeling, while nearby critique papers…",
       "modified": "2026-07-20T05:04:28.549948+00:00",
       "size": 10000,
+      "meta": {}
+    },
+    {
+      "title": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks",
+      "path": "active-vibes/empty-apps-launch-already-populated.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks Verified: arXiv:2208.04024, Social Simulacra, describes a prototyping technique that generates populated social-computing prototypes…",
+      "modified": "2026-07-24T21:32:29.376032+00:00",
+      "size": 14632,
       "meta": {}
     },
     {
@@ -150,6 +160,16 @@
       "excerpt": "Test whether a simple rigid object can become a useful tactile sensor through sparse acoustic pickup. Robots Could Feel Through Their Bones../active-vibes/robots-feel-through-their-bones.md Can commodity audio/piezo sens…",
       "modified": "2026-07-23T05:06:13.304991+00:00",
       "size": 2079,
+      "meta": {}
+    },
+    {
+      "title": "Experiment Spec — Disclosed Synthetic Salon",
+      "path": "experiments/2026-07-24-disclosed-synthetic-salon.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Can disclosed synthetic inhabitants make a narrow social product feel alive without making users feel deceived or replaced? A role-bound, visibly synthetic salon will increase first-session posting and reply behavior com…",
+      "modified": "2026-07-24T21:33:49.492761+00:00",
+      "size": 1756,
       "meta": {}
     },
     {
@@ -263,6 +283,16 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-07-24 — Empty Apps Can Launch Already Populated",
+      "path": "field-notes/2026-07-24-empty-apps-launch-already-populated.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Source: arXiv:2208.04024v1, Social Simulacra: Creating Populated Prototypes for Social Computing Systems. - What caught attention: The paper turns a designer’s community goal, rules, and personas into a populated socia…",
+      "modified": "2026-07-24T21:33:49.434762+00:00",
+      "size": 3945,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-07-24 — Materials That Learn After Manufacturing",
       "path": "field-notes/2026-07-24-materials-that-learn.md",
       "category": "field-notes",
@@ -300,6 +330,16 @@
       "excerpt": "A reusable trace card for physical bodies that listen to contact through their own structure. Show a timeline of acoustic events overlaid on a simple body diagram: - raw waveform; - spectrogram / wavelet view; - estimate…",
       "modified": "2026-07-23T05:06:13.304991+00:00",
       "size": 882,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank — Disclosed Synthetic Salon Prototype",
+      "path": "idea-bank/2026-07-24-disclosed-synthetic-salon-prototype.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "A tiny social app where a user drops an outfit, room, song, palette, or object into a clearly synthetic salon and gets role-based responses from disclosed AI inhabitants before inviting real people. The Vibe is research-…",
+      "modified": "2026-07-24T21:33:49.521761+00:00",
+      "size": 1032,
       "meta": {}
     },
     {
@@ -383,6 +423,16 @@
       "meta": {}
     },
     {
+      "title": "Synthetic Social Contract — Draft Primitive",
+      "path": "manifests/synthetic-social-contract.md",
+      "category": "manifests",
+      "categoryLabel": "Manifests",
+      "excerpt": "A lightweight contract for products that use synthetic inhabitants inside social spaces. syntheticinhabitants: disclosure: required visuallabel: required roledescription: required allowedinitiation: - greetnewcomer - rep…",
+      "modified": "2026-07-24T21:33:49.491761+00:00",
+      "size": 1128,
+      "meta": {}
+    },
+    {
       "title": "Monthly Thesis — 2026-07",
       "path": "monthly-theses/2026-07.md",
       "category": "monthly-theses",
@@ -398,7 +448,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
-      "modified": "2026-07-24T17:46:10.628667+00:00",
+      "modified": "2026-07-24T17:49:47.548788+00:00",
       "size": 3175,
       "meta": {}
     },
@@ -408,8 +458,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-24T05:05:48.350875+00:00",
-      "size": 9595,
+      "modified": "2026-07-24T21:34:07.344700+00:00",
+      "size": 10162,
       "meta": {}
     },
     {
@@ -460,6 +510,16 @@
       "excerpt": "The obvious interpretation of generative AI plus end-user programming is: user describes app → AI generates app → user publishes app This is attractive because it is easy to explain and easy to demo. Most useful software…",
       "modified": "2026-07-23T06:35:10.717558+00:00",
       "size": 1486,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — AI Bots as Fake Users",
+      "path": "rejected/2026-07-24-ai-bots-as-fake-users.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The tempting headline is obvious: AI can solve social-app cold start by filling the feed with bots. That framing is commercially attractive because cold start is one of the hardest consumer-social problems, and synthetic…",
+      "modified": "2026-07-24T21:33:49.444762+00:00",
+      "size": 1957,
       "meta": {}
     },
     {
@@ -660,6 +720,16 @@
       "excerpt": "Sources below are real pages retrieved during the session. arXiv/Semantic Scholar searches were rate-limited, so this source map leans on official NASA/company/regulatory-accessible material and labels limits clearly. No…",
       "modified": "2026-07-18T13:45:55.531406+00:00",
       "size": 4879,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Empty Apps Can Launch Already Populated",
+      "path": "source-library/2026-07-24-empty-apps-launch-already-populated.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks The session began from arXiv:2208.04024, Social Simulacra, because it reframes social product design as something that can be tested…",
+      "modified": "2026-07-24T21:33:49.389762+00:00",
+      "size": 6104,
       "meta": {}
     },
     {
@@ -893,6 +963,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Social Sandboxes and Theme Parks",
+      "path": "unexpected-connections/2026-07-24-social-sandboxes-theme-parks.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Synthetic social sandboxes and theme parks solve the same hidden problem: safe first participation in a designed world. A theme park does not wait for visitors to invent culture. It creates a world before the crowd arriv…",
+      "modified": "2026-07-24T21:33:49.465762+00:00",
+      "size": 1945,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Software Workshops and Tailoring",
       "path": "unexpected-connections/2026-07-23-software-workshops-tailoring.md",
       "category": "unexpected-connections",
@@ -952,42 +1032,42 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 14
+      "count": 15
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 2
+      "count": 3
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 11
+      "count": 12
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 15
+      "count": 16
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 7
+      "count": 8
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 14
+      "count": 15
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 15
+      "count": 16
     },
     {
       "id": "manifests",
       "label": "Manifests",
-      "count": 4
+      "count": 5
     },
     {
       "id": "weekly-synthesis",
