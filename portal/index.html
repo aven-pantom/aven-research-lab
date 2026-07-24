@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aven Research Portal</title>
+  <meta name="description" content="Readable portal for the Aven Research Lab markdown repository." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar" aria-label="Research navigation">
+      <div class="brand">
+        <div class="eyebrow">Aven Research Lab</div>
+        <h1>Vibe research portal</h1>
+        <p>Readable access to the repo’s Markdown: active Vibes, field notes, source libraries, rejected paths, and syntheses.</p>
+      </div>
+
+      <div class="controls">
+        <input id="search" class="search" type="search" placeholder="Search in normal language…" autocomplete="off" />
+        <div class="toggle-row" aria-label="Theme">
+          <button class="pill-button" id="lightMode" type="button">Light</button>
+          <button class="pill-button" id="darkMode" type="button">Dark</button>
+        </div>
+      </div>
+
+      <nav id="categories" class="category-list" aria-label="Document categories"></nav>
+      <nav id="documents" class="doc-list" aria-label="Documents"></nav>
+    </aside>
+
+    <main class="main">
+      <div class="topbar">
+        <div id="breadcrumb" class="breadcrumb">Loading portal manifest…</div>
+        <div class="actions">
+          <a id="rawLink" class="action" href="#" target="_blank" rel="noreferrer">Raw</a>
+          <a id="githubLink" class="action" href="#" target="_blank" rel="noreferrer">GitHub</a>
+        </div>
+      </div>
+      <article id="document" class="document loading">Loading…</article>
+    </main>
+
+    <aside class="inspector" aria-label="Document inspector">
+      <div class="inspector-inner">
+        <section class="panel">
+          <h2>Repository</h2>
+          <div class="stat-grid">
+            <div class="stat"><strong id="docCount">—</strong><span>Markdown files</span></div>
+            <div class="stat"><strong id="categoryCount">—</strong><span>Sections</span></div>
+          </div>
+        </section>
+        <section class="panel">
+          <h2>Current document</h2>
+          <p id="currentSummary" class="note">Pick a document to inspect.</p>
+        </section>
+        <section class="panel">
+          <h2>Outline</h2>
+          <nav id="toc" class="toc"></nav>
+        </section>
+        <section class="panel">
+          <h2>Reference posture</h2>
+          <p class="note">Inspired by the supplied agent clarification UI, observability dashboard, and drone HUD: calm dark density, visible decisions, strong scanning, but not a game skin.</p>
+        </section>
+        <section class="panel">
+          <h2>Inspiration</h2>
+          <div class="inspiration-grid">
+            <img src="assets/inspiration-agent-clarify.jpg" alt="Minimal dark agent clarification interface" />
+            <img src="assets/inspiration-traffic-monitor.jpg" alt="Dark request monitoring dashboard" />
+            <img src="assets/inspiration-drone-hud.jpg" alt="Purple tactical drone HUD" />
+          </div>
+        </section>
+      </div>
+    </aside>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1008 @@
+{
+  "generatedAt": "2026-07-24T17:48:44.785342+00:00",
+  "repository": "aven-pantom/aven-research-lab",
+  "documents": [
+    {
+      "title": "A Drone Factory That Fits on a Desk: 250mm Printers and Quiet Persistent Aircraft",
+      "path": "active-vibes/desk-sized-factory-for-quiet-persistent-aircraft.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "A Drone Factory That Fits on a Desk: 250mm Printers and Quiet Persistent Aircraft Speculative signal from Max: long-range, lightweight, electric, mostly silent, autonomous ISR-style unmanned aircraft whose airframe can b…",
+      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "size": 12575,
+      "meta": {}
+    },
+    {
+      "title": "Actions Become Video Masks: Robots May Learn by Editing the Future",
+      "path": "active-vibes/actions-become-video-masks.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Actions Become Video Masks: Robots May Learn by Editing the Future Verified: On 2026-07-21, arXiv listed Masked Visual Actions for Unified World Modeling 2607.19343v1. The abstract frames the central problem as communica…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 11608,
+      "meta": {}
+    },
+    {
+      "title": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form",
+      "path": "active-vibes/bodies-hidden-programming-language.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form Verified: arXiv:2503.13489v2 proposes a framework combining deep reinforcement learning, lab automation, real-time bioelectric…",
+      "modified": "2026-07-23T06:21:21.400533+00:00",
+      "size": 12137,
+      "meta": {}
+    },
+    {
+      "title": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft",
+      "path": "active-vibes/breakthrough-in-drones-supersonic-unmanned-aircraft.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft Verified: NASA’s Quesst/X-59 work frames the next supersonic frontier around making supersonic flight over land socially/regulatorily acceptable through…",
+      "modified": "2026-07-18T13:45:55.530406+00:00",
+      "size": 10170,
+      "meta": {}
+    },
+    {
+      "title": "Cameras Should Capture Change, Not Pictures",
+      "path": "active-vibes/cameras-should-capture-change-not-pictures.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Cameras Should Capture Change, Not Pictures: An App for Events, Atmosphere, and Personal World-State Max asked for \"a new type of camera app\" that might capture \"something else or stuff\" and to make it creative. The stro…",
+      "modified": "2026-07-19T09:55:08.626487+00:00",
+      "size": 11496,
+      "meta": {}
+    },
+    {
+      "title": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace",
+      "path": "active-vibes/cells-need-debuggers-not-oracles.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace Verified: Several recent single-cell perturbation prediction papers frame the problem as AI Virtual Cell modeling, while nearby critique papers…",
+      "modified": "2026-07-20T05:04:28.549948+00:00",
+      "size": 10000,
+      "meta": {}
+    },
+    {
+      "title": "Materials That Learn After Manufacturing: The Body as a Trainable Interface",
+      "path": "active-vibes/materials-that-learn-after-manufacturing.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Materials That Learn After Manufacturing: The Body as a Trainable Interface A cluster of sources around mechanical neural networks, lattice-based mechanical metamaterials, topological mechanical classifiers, and soft-bod…",
+      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "size": 12134,
+      "meta": {}
+    },
+    {
+      "title": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics",
+      "path": "active-vibes/radios-need-moving-bodies.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics Verified: Fluid antenna systems FAS and movable/reconfigurable antenna work now treats antenna position, shape, orientation, or active port as a real-time…",
+      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "size": 12801,
+      "meta": {}
+    },
+    {
+      "title": "Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays",
+      "path": "active-vibes/robots-feel-through-their-bones.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays Verified: arXiv 2607.02827v1, submitted 2026-07-02 by Alexandros Rosakis, Alessio Tamborini, Basile Fakhoury, Cole Bailey, and Morteza Gharib, inv…",
+      "modified": "2026-07-23T05:06:13.303991+00:00",
+      "size": 13875,
+      "meta": {}
+    },
+    {
+      "title": "Robots Need Skin That Interrupts: Touch as an Event Stream, Not an Image",
+      "path": "active-vibes/robots-need-skin-that-interrupts.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Robots Need Skin That Interrupts: Touch as an Event Stream, Not an Image Verified: A cluster of 2026 arXiv papers around event-based tactile sensing describes tactile systems using dynamic vision sensor events, address-e…",
+      "modified": "2026-07-19T05:05:05.791538+00:00",
+      "size": 14053,
+      "meta": {}
+    },
+    {
+      "title": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work",
+      "path": "active-vibes/the-bird-drone-we-can-actually-build.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Verified: Current ornithopter/flapping-wing robotics literature already contains several working primitives: autonomous perching, event-c…",
+      "modified": "2026-07-19T15:17:47.150331+00:00",
+      "size": 13665,
+      "meta": {}
+    },
+    {
+      "title": "The Camera That Becomes a Scan: Photos as Spatial Capture, Not Flat Media",
+      "path": "active-vibes/the-camera-that-becomes-a-scan.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Camera That Becomes a Scan: Photos as Spatial Capture, Not Flat Media Max shared an X post claiming a Chinese open-source model can reconstruct a scene in 3D from ordinary monocular video in real time: one camera, no…",
+      "modified": "2026-07-19T15:24:08.583638+00:00",
+      "size": 9562,
+      "meta": {}
+    },
+    {
+      "title": "The Camera That Finds the Colors You Were Too Polite to Use",
+      "path": "active-vibes/camera-finds-colors-too-polite-to-use.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Camera That Finds the Colors You Were Too Polite to Use Verified: Max shared an Instagram reel by @anjeees with the visible caption UGLY MAXXING COLOR EDITION and asked for Vibe Research on an app where a user takes…",
+      "modified": "2026-07-20T11:52:35.793818+00:00",
+      "size": 9714,
+      "meta": {}
+    },
+    {
+      "title": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work",
+      "path": "active-vibes/personal-software-workshops.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Verified: Ink & Switch’s local-first essay is titled “Local-first software: You own your data, in spite of the cloud,” and its descriptio…",
+      "modified": "2026-07-23T06:35:10.717558+00:00",
+      "size": 12035,
+      "meta": {}
+    },
+    {
+      "title": "Experiment Spec — Acoustic Body Trace Card",
+      "path": "experiments/2026-07-23-acoustic-body-trace-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a simple rigid object can become a useful tactile sensor through sparse acoustic pickup. Robots Could Feel Through Their Bones../active-vibes/robots-feel-through-their-bones.md Can commodity audio/piezo sens…",
+      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "size": 2079,
+      "meta": {}
+    },
+    {
+      "title": "Experiment Spec — Future-Mask Trace Card",
+      "path": "experiments/2026-07-22-future-mask-trace-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-07-22 Actions Become Video Masks../active-vibes/actions-become-video-masks.md Test whether action proposals represented as partial futures are more inspectable than text logs or low-level action traces. Use a…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 1427,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-18",
+      "path": "field-notes/2026-07-18.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft This note treats supersonic unmanned aircraft as a civil/research frontier: test vehicles, sensing, autonomy, certification, noise, thermal/material cons…",
+      "modified": "2026-07-18T13:45:55.530406+00:00",
+      "size": 3111,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-19",
+      "path": "field-notes/2026-07-19.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Source: arXiv API searches for event-based tactile sensing, neuromorphic tactile, visuotactile event camera, and related terms. - What caught attention: Many recent papers do not merely use new tactile sensors; they re…",
+      "modified": "2026-07-19T15:24:08.584638+00:00",
+      "size": 7380,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-19 — Ornithopter",
+      "path": "field-notes/2026-07-19-ornithopter.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Max asked to Vibe Research an ornithopter: how we can build an unmanned one and benefit from it. This note treats an unmanned ornithopter…",
+      "modified": "2026-07-19T15:17:47.151331+00:00",
+      "size": 2974,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-20",
+      "path": "field-notes/2026-07-20.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "A cluster of 2026 preprints is using the phrase AI Virtual Cell for single-cell perturbation response prediction. The surface claim sounds like ordinary foundation-model expansion into biology, but the stronger signal is…",
+      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "size": 2325,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-20 — Insane Color Palettes",
+      "path": "field-notes/2026-07-20-insane-color-palettes.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "The Camera That Finds the Colors You Were Too Polite to Use Max shared an Instagram reel titled/captioned UGLY MAXXING COLOR EDITION and described an app idea: take picture → shows insane color pallets The phrase “insane…",
+      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "size": 2633,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-21",
+      "path": "field-notes/2026-07-21.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Started from Spatial Limits of Fluid Antenna Systems and wandered into FAS/FAMA, movable antennas, reconfigurable antennas, mmWave surface-wave FAS hardware, and channel acquisition problems. The recurring pattern: wirel…",
+      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "size": 1874,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-21 — Bioelectric Form Language",
+      "path": "field-notes/2026-07-21-bioelectric-form-language.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form A 2025 arXiv paper proposes using deep reinforcement learning plus real-time lab automation to control bioelectric signaling a…",
+      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "size": 2777,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-22",
+      "path": "field-notes/2026-07-22.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Calling title: Actions Become Video Masks: Robots May Learn by Editing the Future - Verified: arXiv 2607.19343v1, Masked Visual Actions for Unified World Modeling, appeared 2026-07-21. - Verified: The abstract introduces…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 2188,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-23",
+      "path": "field-notes/2026-07-23.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Recent arXiv cluster suggests tactile sensing may scale through wave-bearing structures rather than dense sensor skins. - Verified: 2607.02827v1 uses metallic ultrasound waveguides as distributed tactile sensors from a s…",
+      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "size": 2278,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-23 — Personal Software Workshops",
+      "path": "field-notes/2026-07-23-personal-software-workshops.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Max asked for another research direction and asked to ease up on biology and robot skin for now. I moved toward product/software infrastr…",
+      "modified": "2026-07-23T06:35:10.717558+00:00",
+      "size": 2136,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-24 — Materials That Learn After Manufacturing",
+      "path": "field-notes/2026-07-24-materials-that-learn.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Crossref surfaced Mechanical neural networks: Architected materials that learn behaviors by Lee, Mulder, and Hopkins in Science Robotics 2022, DOI 10.1126/scirobotics.abq7278. The phrase that caught: an architected mater…",
+      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "size": 3349,
+      "meta": {}
+    },
+    {
+      "title": "Five Banger Directions — 2026-07-18",
+      "path": "idea-bank/2026-07-18-five-banger-directions.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "These are the five high-potential directions selected after the initial Simulation Memory package. This is an exploratory portfolio, not a claim of completed experiments. 1. Deepen Cadence into a product architecture. 2.…",
+      "modified": "2026-07-18T08:37:06.206193+00:00",
+      "size": 1936,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank Entry — Cadence: Sovereign Training Data Foundry",
+      "path": "idea-bank/2026-07-18-cadence-sovereign-training-data-foundry.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Selected for primary research package on 2026-07-18. Cadence was selected over the other banked directions because it has the strongest combination of immediate prototype feasibility, durable infrastructure potential, an…",
+      "modified": "2026-07-18T08:38:57.199754+00:00",
+      "size": 4001,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank — Body-as-Waveguide Trace Card",
+      "path": "idea-bank/2026-07-23-body-as-waveguide-trace-card.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "A reusable trace card for physical bodies that listen to contact through their own structure. Show a timeline of acoustic events overlaid on a simple body diagram: - raw waveform; - spectrogram / wavelet view; - estimate…",
+      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "size": 882,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank — Future-Mask Interfaces",
+      "path": "idea-bank/2026-07-22-future-mask-interface.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Date: 2026-07-22 - Robot After Effects: draw object keyframes, see inferred robot motion, inspect impossible contact. - Agent rehearsal timeline: an agent proposes UI/file-system actions as masked future states before ex…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 745,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank — New Camera Apps That Capture Something Else",
+      "path": "idea-bank/2026-07-19-new-camera-apps-capture-something-else.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Date: 2026-07-19 Related Vibe: Cameras Should Capture Change, Not Pictures../active-vibes/cameras-should-capture-change-not-pictures.md These are deliberately not feature variants of Instagram/Snap/Lightroom. Each one ch…",
+      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "size": 4188,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank — Radio Proprioception Trace Card",
+      "path": "idea-bank/2026-07-21-radio-proprioception-trace-card.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "A standard trace card and viewer for reconfigurable/movable antenna experiments that shows what the radio knew, where it sampled, what it chose, and whether the result depended on unrealistic oracle assumptions. Fluid an…",
+      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "size": 1021,
+      "meta": {}
+    },
+    {
+      "title": "Initial Research Directions — 2026-07-17",
+      "path": "idea-bank/initial-directions.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Scoring scale: 1–5. Total = Originality + Technical plausibility + Importance + Alignment + Prototype potential + Research depth. Simulation Memory for Embodied Agents is selected because it passes the quality filter str…",
+      "modified": "2026-07-18T01:09:41.179366+00:00",
+      "size": 6027,
+      "meta": {}
+    },
+    {
+      "title": "Manifest — Future-Mask Action Schema",
+      "path": "manifests/2026-07-22-future-mask-action-schema.md",
+      "category": "manifests",
+      "categoryLabel": "Manifests",
+      "excerpt": "Date: 2026-07-22 Related Vibe: Actions Become Video Masks../active-vibes/actions-become-video-masks.md Capture the smallest useful experiment implied by tonight's Vibe: represent an action proposal as a partial future th…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 1532,
+      "meta": {}
+    },
+    {
+      "title": "Nightly Manifest — 2026-07-22",
+      "path": "manifests/2026-07-22.md",
+      "category": "manifests",
+      "categoryLabel": "Manifests",
+      "excerpt": "Calling title: Actions Become Video Masks: Robots May Learn by Editing the Future Primary signal: Masked Visual Actions for Unified World Modeling arXiv:2607.19343v1. Primary Vibe: Actions Become Video Masks../active-vib…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 1037,
+      "meta": {}
+    },
+    {
+      "title": "Nightly Vibe Research Manifest — 2026-07-21",
+      "path": "manifests/2026-07-21-fluid-antennas.md",
+      "category": "manifests",
+      "categoryLabel": "Manifests",
+      "excerpt": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics active-vibes/radios-need-moving-bodies.md Fluid antenna systems treat antenna location/shape/port as an adaptive control variable and point toward radios t…",
+      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "size": 1229,
+      "meta": {}
+    },
+    {
+      "title": "Session Manifest — 2026-07-23 Acoustic Bones",
+      "path": "manifests/2026-07-23-acoustic-bones.md",
+      "category": "manifests",
+      "categoryLabel": "Manifests",
+      "excerpt": "Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays - Robots Could Feel Through Their Bones../active-vibes/robots-feel-through-their-bones.md - active-vibes/robots-feel-through-their-bones.md - sour…",
+      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "size": 1672,
+      "meta": {}
+    },
+    {
+      "title": "Monthly Thesis — 2026-07",
+      "path": "monthly-theses/2026-07.md",
+      "category": "monthly-theses",
+      "categoryLabel": "Monthly Theses",
+      "excerpt": "Date updated: 2026-07-22 Media is turning into an action substrate. Cameras, radio fields, event skins, spatial scans, and now masked video actions all point to the same shift: perception streams are no longer just obser…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 2078,
+      "meta": {}
+    },
+    {
+      "title": "Aven Research Lab",
+      "path": "README.md",
+      "category": ".",
+      "categoryLabel": "Overview",
+      "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
+      "modified": "2026-07-24T17:46:10.628667+00:00",
+      "size": 3175,
+      "meta": {}
+    },
+    {
+      "title": "Research Map",
+      "path": "research-map.md",
+      "category": ".",
+      "categoryLabel": "Overview",
+      "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
+      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "size": 9595,
+      "meta": {}
+    },
+    {
+      "title": "Vibe Research Mode",
+      "path": "VIBE_RESEARCH_MODE.md",
+      "category": ".",
+      "categoryLabel": "Overview",
+      "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
+      "modified": "2026-07-18T12:04:18.306116+00:00",
+      "size": 1202,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Directions — 2026-07-17",
+      "path": "rejected/2026-07-17-rejected-directions.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "These were rejected or deferred during the first autonomous research session. - Reason: Too crowded; weak original capability; likely to become a wrapper around existing task/chat/calendar surfaces. - Condition for reviv…",
+      "modified": "2026-07-18T01:09:41.179366+00:00",
+      "size": 1459,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Directions — 2026-07-18 Cadence Session",
+      "path": "rejected/2026-07-18-cadence-rejected-directions.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The session selected Cadence — Sovereign Training Data Foundry as the primary idea and rejected or deferred adjacent ideas that did not isolate a strong enough primitive. - Reason rejected: Crowded, services-heavy, and a…",
+      "modified": "2026-07-18T08:38:57.199754+00:00",
+      "size": 2867,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Acoustic Touch as Generic HCI Surface",
+      "path": "rejected/2026-07-23-acoustic-touch-as-generic-hci.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The 2009 Lamb-wave multi-touch plate and newer flexible acoustic waveguide work both suggest acoustic touch surfaces could become large, cheap, low-wiring interfaces. As a standalone HCI surface, the idea becomes too fam…",
+      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "size": 1363,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — AI App Builder as the Main Category",
+      "path": "rejected/2026-07-23-ai-app-builder-main-category.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The obvious interpretation of generative AI plus end-user programming is: user describes app → AI generates app → user publishes app This is attractive because it is easy to explain and easy to demo. Most useful software…",
+      "modified": "2026-07-23T06:35:10.717558+00:00",
+      "size": 1486,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Always-On Life Camera as the Product",
+      "path": "rejected/2026-07-19-always-on-life-camera.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "If the goal is to capture more than photos, an always-on camera seems like the obvious complete answer. It would record everything, then let models extract memories later. - Verified: Ego4D demonstrates the research valu…",
+      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "size": 1586,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Biology as Literal Software Programming",
+      "path": "rejected/2026-07-21-biology-as-software-programming.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The language around bioelectricity is seductive: bioelectric code body memory somatic computation pattern control living software It is tempting to say the body has a hidden programming language and that future tools wil…",
+      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "size": 1756,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Fluid Antenna as Generic 6G Hype",
+      "path": "rejected/2026-07-21-fluid-antenna-as-6g-hype.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Fluid antenna systems appear in current 6G/mmWave research and make large performance claims around outage probability, multiplexing, and spatial diversity. The obvious shallow path would be to frame the session as FAS w…",
+      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "size": 2015,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Mechanical Neural Networks as AI Accelerators",
+      "path": "rejected/2026-07-24-mechanical-neural-networks-as-ai-accelerators.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Mechanical neural networks and physical neural networks can sound like a new compute substrate for AI: energy-efficient, parallel, physical, and outside normal silicon scaling. - Verified: the sources inspected tonight e…",
+      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "size": 1730,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Ornithopter as Operational Drone Build Recipe",
+      "path": "rejected/2026-07-19-ornithopter-build-recipe.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Max asked how we can build an unmanned ornithopter and benefit. The natural pull is to jump directly into airframe instructions, component choices, control tuning, and field deployment. An unmanned aerial vehicle can bec…",
+      "modified": "2026-07-19T15:17:47.151331+00:00",
+      "size": 1502,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Photo Palette App as Simple Hex Extractor",
+      "path": "rejected/2026-07-20-simple-photo-palette-extractor.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "A user takes a picture and gets colors. The obvious implementation is dominant-color extraction: upload image → k-means/quantization → five hex values This is technically easy and useful. This already exists in many tool…",
+      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "size": 1355,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Printable Quiet ISR Drone as Build Recipe",
+      "path": "rejected/2026-07-19-printable-quiet-isr-build-recipe.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Max's signal has strong technical pull: long range, lightweight, electric propulsion, mostly silent operation, autonomy, ISR-style sensing, and a consumer 3D printer constraint around a 250 mm print bed. A build-recipe f…",
+      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "size": 1878,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Supersonic Drone as Build Recipe",
+      "path": "rejected/2026-07-18-supersonic-drone-build-recipe.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The phrase “how to make a supersonic unmanned aircraft” has obvious technical pull: speed, autonomy, propulsion, materials, and aerospace design. A build-recipe framing is the wrong research object. It risks becoming uns…",
+      "modified": "2026-07-18T13:45:55.530406+00:00",
+      "size": 1200,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Video World Models Solve Robotics",
+      "path": "rejected/2026-07-22-video-world-models-solve-robotics.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-07-22 Masked Visual Actions for Unified World Modeling is a strong signal: video models are being adapted into robot world models through visually specified action. The abstract claims forward dynamics, policy…",
+      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "size": 1598,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Virtual Cell as Foundation-Model Hype",
+      "path": "rejected/2026-07-20-virtual-cell-as-foundation-model-hype.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "“AI Virtual Cell” sounds like a large category-forming phrase: train on massive single-cell datasets, predict perturbations, simulate biology, accelerate drug discovery. - Verified: A 2024 benchmark abstract reports a si…",
+      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "size": 1429,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path: Neuromorphic Tactile Hardware as the Whole Opportunity",
+      "path": "rejected/2026-07-19-neuromorphic-tactile-hardware-first.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-07-19 The strongest surface signal from the source cluster was neuromorphic tactile hardware: GelNeuro’s sensor-to-chip path, SpikingTac’s custom event-camera module, event-driven e-skin with FPGA SNN inferenc…",
+      "modified": "2026-07-19T05:05:05.791538+00:00",
+      "size": 2414,
+      "meta": {}
+    },
+    {
+      "title": "Source Capture Log — 2026-07-22",
+      "path": "source-library/2026-07-22-source-capture-log.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Commands/sources used during this session: - date +%F returned 2026-07-22. - git status --short --untracked-files=all, git branch --show-current, and git rev-parse --short HEAD confirmed start state on main at cae70b7 wi…",
+      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "size": 1077,
+      "meta": {}
+    },
+    {
+      "title": "Source Library — 2026-07-24 — Materials That Learn After Manufacturing",
+      "path": "source-library/2026-07-24-materials-that-learn.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- Authors: Lee, Mulder, Hopkins - Venue: Science Robotics - Date: 2022-10-26 - DOI: 10.1126/scirobotics.abq7278 - URL: https://doi.org/10.1126/scirobotics.abq7278 - Evidence: Verified via Crossref metadata during this se…",
+      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "size": 4133,
+      "meta": {}
+    },
+    {
+      "title": "Source Library — Cameras Should Capture Change, Not Pictures",
+      "path": "source-library/2026-07-19-cameras-capture-change.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-19 A new camera app may need to capture change, atmosphere, semantic transitions, and personal world-state rather than only pictures and videos. - URL: https://arxiv.org/abs/1904.08405 - Type: survey / near-prima…",
+      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "size": 3424,
+      "meta": {}
+    },
+    {
+      "title": "Source Note — X post: real-time monocular 3D reconstruction",
+      "path": "source-library/2026-07-19-x-realtime-monocular-3d-reconstruction.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- URL: https://x.com/AiwithYasir/status/2078381492368253063 - Creator: Yasir Ai / @AiwithYasir - Captured: 2026-07-19 - Duration of attached video: 70.4 seconds from browser video element. - Original X page inspected in…",
+      "modified": "2026-07-19T15:24:08.584638+00:00",
+      "size": 2212,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — A Camera That Finds the Colors You Were Too Polite to Use",
+      "path": "source-library/2026-07-20-photo-to-insane-palettes.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Max shared an Instagram reel as inspiration for an app where you take a picture and it shows “insane color palettes.” Canonical saved inspiration: - Content library entry: 40 - URL: <https://www.instagram.com/reel/Da-5Qp…",
+      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "size": 5483,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Acoustic Waveguide Touch",
+      "path": "source-library/2026-07-23-acoustic-waveguide-touch.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date captured: 2026-07-23 Session signal: recent arXiv cluster around tactile sensing through wave-bearing structures. Calling title: Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays - Source: Al…",
+      "modified": "2026-07-23T05:06:13.305991+00:00",
+      "size": 6328,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — AI Virtual Cell Perturbation Models",
+      "path": "source-library/2026-07-20-ai-virtual-cell-perturbation.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-07-20 Session signal: single-cell perturbation prediction papers framing themselves as AI Virtual Cell work. - DOI: 10.64898/2026.06.08.731000 - Authors listed by Crossref: Danning Jiang, Zheming An, Yalong Zh…",
+      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "size": 4534,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Bodies May Have a Hidden Programming Language",
+      "path": "source-library/2026-07-21-bioelectric-form-language.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form A 2025 arXiv paper proposes combining deep reinforcement learning, lab automation, and real-time bioelectric measurement/manip…",
+      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "size": 6406,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft",
+      "path": "source-library/2026-07-18-supersonic-unmanned-aircraft.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Sources below are real pages retrieved during the session. arXiv/Semantic Scholar searches were rate-limited, so this source map leans on official NASA/company/regulatory-accessible material and labels limits clearly. No…",
+      "modified": "2026-07-18T13:45:55.531406+00:00",
+      "size": 4879,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Event-Tactile Skin",
+      "path": "source-library/2026-07-19-event-tactile-skin.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-07-19 Session calling title: Robots Need Skin That Interrupts: Touch as an Event Stream, Not an Image A current arXiv search for event-based and neuromorphic tactile sensing produced a dense 2026 cluster. The…",
+      "modified": "2026-07-19T05:05:05.792538+00:00",
+      "size": 9100,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Fluid Antennas and Embodied Radio Adaptation",
+      "path": "source-library/2026-07-21-fluid-antennas.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "The session began from a recent arXiv signal: Spatial Limits of Fluid Antenna Systems 2026, which treats continuous fluid antenna systems as an upper bound where antennas can be positioned anywhere inside a defined regio…",
+      "modified": "2026-07-21T05:06:09.926528+00:00",
+      "size": 6684,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Masked Visual Actions / Future Masks",
+      "path": "source-library/2026-07-22-masked-visual-actions.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date captured: 2026-07-22 - URL: https://arxiv.org/abs/2607.19343 - arXiv ID: 2607.19343v1 - Published: 2026-07-21 - Authors listed by arXiv/project page: Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey, Lvmin…",
+      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "size": 4968,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Printable Quiet Persistent Aircraft",
+      "path": "source-library/2026-07-19-printable-quiet-aircraft.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "This source note was created from programmatic metadata searches through arXiv, Crossref, and Semantic Scholar on 2026-07-19. It preserves only claims supported by retrieved metadata/abstract text. It does not claim airc…",
+      "modified": "2026-07-19T09:55:08.628487+00:00",
+      "size": 7785,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work",
+      "path": "source-library/2026-07-19-unmanned-ornithopter.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "This source note uses arXiv metadata retrieved through the arXiv API on 2026-07-19, plus one accessible near-primary Wyss Institute page. Several official project pages for Festo SmartBird/BionicOpter, TU Delft DelFly, U…",
+      "modified": "2026-07-19T15:17:47.151331+00:00",
+      "size": 6303,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — The Next Software Company Might Be a Workshop, Not an App",
+      "path": "source-library/2026-07-23-personal-software-workshops.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Several separate threads are converging: 1. Ink & Switch argues for local-first software where users retain ownership of their data despi…",
+      "modified": "2026-07-23T06:35:10.718558+00:00",
+      "size": 6865,
+      "meta": {}
+    },
+    {
+      "title": "<Research Direction>",
+      "path": "templates/research-direction.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "At least three independent signals required. 1. 2. 3.",
+      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "size": 306,
+      "meta": {}
+    },
+    {
+      "title": "<Research Program>",
+      "path": "templates/research-program.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "",
+      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "size": 402,
+      "meta": {}
+    },
+    {
+      "title": "<Unexpected Connection>",
+      "path": "templates/unexpected-connection.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "- - Do both fields solve the same hidden problem? Represent information similarly? Share a missing primitive? Transfer an evaluation method? Reveal a failure pattern?",
+      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "size": 368,
+      "meta": {}
+    },
+    {
+      "title": "<Vibe Name>",
+      "path": "templates/vibe.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "What originally caught attention: paper, technology, contradiction, repository, patent, lab, behavior, artifact, historical invention, or failed attempt. Why this feels larger than it first appears. - Model, protocol, in…",
+      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "size": 1414,
+      "meta": {}
+    },
+    {
+      "title": "Body-as-Waveguide Tactile Trace Card",
+      "path": "templates/body-as-waveguide-trace-card.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "- Name: - Geometry: - Material: - Mount state: - Known resonant features: - Event ID: - Contact type: - Ground-truth location: - Ground-truth material: - Force reference: - Environment: - Raw waveform: - Spectrogram / wa…",
+      "modified": "2026-07-23T05:06:13.305991+00:00",
+      "size": 889,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — YYYY-MM-DD",
+      "path": "templates/field-note.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "- Source: - What caught attention: - Why it may matter: - Follow-up threads: - Evidence label:",
+      "modified": "2026-07-18T12:04:18.308116+00:00",
+      "size": 292,
+      "meta": {}
+    },
+    {
+      "title": "Future-Mask Trace Card",
+      "path": "templates/future-mask-trace-card.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "Proceed / revise / reject / gather more evidence.",
+      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "size": 393,
+      "meta": {}
+    },
+    {
+      "title": "Camera Rolls and Operating-System Logs",
+      "path": "unexpected-connections/2026-07-19-camera-rolls-operating-system-logs.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Consumer camera apps / personal media - Operating-system logs / event streams / observability Event cameras do not continuously save full images; they emit sparse changes. Operating systems similarly do not treat every…",
+      "modified": "2026-07-19T09:55:08.628487+00:00",
+      "size": 2528,
+      "meta": {}
+    },
+    {
+      "title": "Spatial Negatives and RAW Photography",
+      "path": "unexpected-connections/2026-07-19-spatial-negatives-and-raw-photography.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Computational photography / RAW image pipelines - Spatial computing / 3D reconstruction / SLAM Max's camera-app question made the failure of “scan mode” obvious. Camera apps already separate capture from development: a…",
+      "modified": "2026-07-19T15:24:08.584638+00:00",
+      "size": 2769,
+      "meta": {}
+    },
+    {
+      "title": "Trainable Materials and Camera Profiles",
+      "path": "unexpected-connections/2026-07-24-trainable-materials-and-camera-profiles.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Mechanical neural networks / mechanical metamaterials - Computational photography / camera color profiles / sensor calibration Mechanical neural networks tune physical parameters so a structure maps force/load conditio…",
+      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "size": 2870,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Bioelectricity and Debuggers",
+      "path": "unexpected-connections/2026-07-21-bioelectric-debuggers.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Bioelectric morphogenesis - Software debugging - Control theory - Lab automation - Regenerative medicine Both software and living tissue can fail in ways that are not explained by final output alone. A broken program a…",
+      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "size": 2173,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Cell Perturbation Models and Software Debuggers",
+      "path": "unexpected-connections/2026-07-20-cell-perturbations-software-debuggers.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Single-cell perturbation prediction / AI Virtual Cell modeling - Software debugging, observability, and execution tracing Both fields are trying to explain system behavior under intervention. A software debugger does n…",
+      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "size": 2553,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Color Palettes and Perfume Notes",
+      "path": "unexpected-connections/2026-07-20-color-palettes-perfume-notes.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Color palette generation - Perfume/fragrance composition - Fashion/editorial styling - Brand identity - Camera-native creative tools Perfume does not present ingredients as raw chemistry. It organizes them into an expe…",
+      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "size": 1839,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Ornithopters and Instrumented Animal Behavior",
+      "path": "unexpected-connections/2026-07-19-ornithopters-instrumented-animal-behavior.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Ornithopter robotics - Event-based vision - Wildlife/conservation technology - Scientific instrumentation - Ethology / animal behavior observation - Flight-test evidence systems Both ornithopter robotics and animal beh…",
+      "modified": "2026-07-19T15:17:47.152332+00:00",
+      "size": 2439,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Printable Aircraft and Software Package Managers",
+      "path": "unexpected-connections/2026-07-19-printable-aircraft-package-managers.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Printable aircraft modules and software packages solve the same hidden problem: how to make reusable components compose safely inside systems that fail when assumptions are invisible. A software package is not just code.…",
+      "modified": "2026-07-19T09:55:08.628487+00:00",
+      "size": 2544,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Radio Proprioception and Active Touch",
+      "path": "unexpected-connections/2026-07-21-radio-proprioception-active-touch.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Fluid antenna systems - Movable/reconfigurable antennas - Wireless channel estimation - Robotic active touch - Tactile exploration - Embodied AI Robotic touch and fluid antennas solve the same hidden problem: The world…",
+      "modified": "2026-07-21T05:06:09.926528+00:00",
+      "size": 2559,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Robot Bones, Structural Health, and Musical Instruments",
+      "path": "unexpected-connections/2026-07-23-robot-bones-structural-health-musical-instruments.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "A musical instrument, an aircraft wing under structural health monitoring, and a robot limb used as an acoustic tactile sensor all solve the same hidden inverse problem:  A local physical event enters a resonant body. Sp…",
+      "modified": "2026-07-23T05:06:13.305991+00:00",
+      "size": 2060,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Software Workshops and Tailoring",
+      "path": "unexpected-connections/2026-07-23-software-workshops-tailoring.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Malleable software - Local-first tools - Tailoring / atelier craft - Small business operations - Agent-maintained software - Design systems Both software and clothing fail when they assume a universal body. A prefabric…",
+      "modified": "2026-07-23T06:35:10.718558+00:00",
+      "size": 2333,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Supersonic Drones and Scientific Instruments",
+      "path": "unexpected-connections/2026-07-18-supersonic-drones-scientific-instruments.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Supersonic unmanned aircraft - Scientific instruments - Regulatory evidence systems - Low-boom civil aviation research The obvious question is “how do you make a supersonic drone?” The less obvious question is “what wo…",
+      "modified": "2026-07-18T13:45:55.531406+00:00",
+      "size": 2579,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Video Masks and Animation Keyframes",
+      "path": "unexpected-connections/2026-07-22-video-masks-animation-keyframes.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-07-22 - Masked visual actions for robot world models - Animation keyframing / video editing / inbetweening Both fields solve the same hidden problem: how to specify only the parts of a future that matter, then…",
+      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "size": 2477,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection: Robot Skin and Operating-System Interrupts",
+      "path": "unexpected-connections/2026-07-19-robot-skin-operating-system-interrupts.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Event-based tactile sensing for robots - Operating-system interrupt and event-loop design The tactile papers repeatedly emphasized sparse events, low latency, dynamic changes, high-frequency control, and sensor-to-chip…",
+      "modified": "2026-07-19T05:05:05.792538+00:00",
+      "size": 3623,
+      "meta": {}
+    },
+    {
+      "title": "Weekly Synthesis — 2026-W30",
+      "path": "weekly-synthesis/2026-W30.md",
+      "category": "weekly-synthesis",
+      "categoryLabel": "Weekly Synthesis",
+      "excerpt": "Date updated: 2026-07-22 Actions Become Video Masks../active-vibes/actions-become-video-masks.md: robot action as partial future evidence rather than embodiment-specific command. Video masks and animation keyframes../une…",
+      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "size": 2115,
+      "meta": {}
+    }
+  ],
+  "categories": [
+    {
+      "id": ".",
+      "label": "Overview",
+      "count": 3
+    },
+    {
+      "id": "active-vibes",
+      "label": "Active Vibes",
+      "count": 14
+    },
+    {
+      "id": "experiments",
+      "label": "Experiments",
+      "count": 2
+    },
+    {
+      "id": "field-notes",
+      "label": "Field Notes",
+      "count": 11
+    },
+    {
+      "id": "source-library",
+      "label": "Source Library",
+      "count": 15
+    },
+    {
+      "id": "idea-bank",
+      "label": "Idea Bank",
+      "count": 7
+    },
+    {
+      "id": "unexpected-connections",
+      "label": "Unexpected Connections",
+      "count": 14
+    },
+    {
+      "id": "rejected",
+      "label": "Rejected",
+      "count": 15
+    },
+    {
+      "id": "manifests",
+      "label": "Manifests",
+      "count": 4
+    },
+    {
+      "id": "weekly-synthesis",
+      "label": "Weekly Synthesis",
+      "count": 1
+    },
+    {
+      "id": "monthly-theses",
+      "label": "Monthly Theses",
+      "count": 1
+    },
+    {
+      "id": "templates",
+      "label": "Templates",
+      "count": 7
+    }
+  ]
+}
