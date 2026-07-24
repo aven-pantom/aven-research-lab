@@ -6,6 +6,26 @@ The lab now runs on **Vibe Research Mode**: research without a fixed answer, pro
 
 - [Vibe Research Mode](VIBE_RESEARCH_MODE.md)
 - [Living Research Map](research-map.md)
+- [Research Portal](portal/)
+
+## Research portal
+
+The repo includes a static Markdown viewer at `portal/`. It renders the lab's `.md` files in normal readable language with search, categories, document outline, and light/dark modes.
+
+Run it from the repository root:
+
+```bash
+python3 scripts/build-portal-manifest.py
+python3 -m http.server 8787
+```
+
+Then open:
+
+```text
+http://localhost:8787/portal/
+```
+
+The portal intentionally fetches Markdown from the repo instead of duplicating content. If new research files are added, rebuild `portal/manifest.json`.
 
 ## Current map
 
