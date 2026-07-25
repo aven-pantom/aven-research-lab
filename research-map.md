@@ -35,7 +35,11 @@ Research begins from signals, not fixed questions. The primary unit is a **Vibe*
 
 ## Map maintenance rules
 
-- Add every active Vibe, Research Direction, Research Program, experiment, weekly synthesis, and monthly thesis.
+- Add every active Vibe, Research Direction, Research Program, experiment, weekly synthesis, monthly thesis, and recurring Trend Sparks run.
 - Link related Vibes explicitly.
 - Mark confidence honestly.
 - Keep legacy research visible, but do not let it bias future sessions toward Cadence.
+
+## Trend Sparks lane
+
+Each autonomous Vibe Research run should also produce exactly 10 **Trend Sparks** in `idea-bank/trend-sparks/YYYY-MM-DD.md`: current, evidence-backed app opportunities derived from visible social/product/search trends and existing product behavior. Trend Sparks are not generic ideas; each must include the trend signal, existing proof, gap, smallest prototype, spread loop, risk, fit for Max, and evidence label.

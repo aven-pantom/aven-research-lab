@@ -10,11 +10,12 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-25T21:35:12Z — Added nightly Vibe Research package `Wardrobes Need Simulation Memory`: diffusion virtual try-on plus consumer wardrobe apps point toward local-first Wear Traces and style simulation memory rather than ecommerce-first fitting rooms.
+2026-07-25T22:20:00Z — Added the **Trend Sparks** lane under `idea-bank/trend-sparks/`: each autonomous Vibe Research run should now produce exactly 10 current, evidence-backed app opportunities derived from visible social/product/search trends and existing product behavior.
 
 ## Current architecture
 
 - Markdown-first research corpus in top-level folders: `active-vibes/`, `field-notes/`, `source-library/`, `unexpected-connections/`, `experiments/`, `idea-bank/`, `rejected/`, `manifests/`, `weekly-synthesis/`, and `monthly-theses/`.
+- Recurring app-opportunity lane: `idea-bank/trend-sparks/YYYY-MM-DD.md` captures 10 Trend Sparks per autonomous Vibe Research run.
 - Living index: `research-map.md`.
 - Static portal: `portal/`.
   - `portal/index.html` is the browser shell.
@@ -39,6 +40,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Avoid orange accents and brown/cream backgrounds for this portal direction; use neutral graphite/cold off-white foundations with a cooler restrained accent.
 - Use Geist, Inter, or IBM Plex for portal UI text; reserve the serif display face only for the large Research Portal heading or explicitly approved display moments.
 - Avoid making the portal typography broadly bold; prefer 450–600 weights with hierarchy from scale, spacing, and contrast.
+- Use **Trend Sparks** rather than “ideas” for the recurring current-trend app opportunity lane. Each Spark must be grounded in current evidence, name existing proof, identify a gap, define a smallest prototype, explain spread potential, and state why it may be fake.
 - Initial document load selects the document's own section so the index remains oriented instead of defaulting to all 109 documents.
 
 ## Rejected ideas
@@ -60,11 +62,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
-2. Run the Design History Ledger trace-card experiment on one simple CAD object and compare agent edits with/without the ledger.
-3. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
-4. Decide whether to enable GitHub Pages for the repository.
-5. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
+1. Ensure the next autonomous Vibe Research run creates `idea-bank/trend-sparks/YYYY-MM-DD.md` with exactly 10 Trend Sparks.
+2. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
+3. Run the Design History Ledger trace-card experiment on one simple CAD object and compare agent edits with/without the ledger.
+4. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
+5. Decide whether to enable GitHub Pages for the repository.
 
 ## Dependencies
 
@@ -87,6 +89,8 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `field-notes/2026-07-25-wardrobes-need-simulation-memory.md`
 - `unexpected-connections/2026-07-25-wardrobes-need-simulation-memory.md`
 - `rejected/2026-07-25-ai-virtual-fitting-room-ecommerce.md`
+- `idea-bank/trend-sparks/README.md`
+- `templates/trend-sparks.md`
 - `active-vibes/cad-as-design-history-not-geometry.md`
 - `source-library/2026-07-25-cad-as-design-history.md`
 - `field-notes/2026-07-25.md`
@@ -106,4 +110,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-25T21:35:12Z
+2026-07-25T22:20:00Z
