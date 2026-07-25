@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-25T18:28:00Z — Reduced the portal's typographic heaviness per Max's correction. UI text now uses Geist/Inter/IBM Plex Sans with IBM Plex/Geist Mono for metadata; only the large Research Portal heading keeps the serif display treatment. Hero and document heading sizes were reduced, and most UI weights were normalized to 450–600 instead of bold/heavy.
+2026-07-25T21:35:12Z — Added nightly Vibe Research package `Wardrobes Need Simulation Memory`: diffusion virtual try-on plus consumer wardrobe apps point toward local-first Wear Traces and style simulation memory rather than ecommerce-first fitting rooms.
 
 ## Current architecture
 
@@ -60,11 +60,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Run the Design History Ledger trace-card experiment on one simple CAD object and compare agent edits with/without the ledger.
-2. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
-3. Decide whether to enable GitHub Pages for the repository.
-4. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
-5. Review the neutral/cool simplified reader with lighter typography and decide whether it should become the long-term research-lab portal default.
+1. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
+2. Run the Design History Ledger trace-card experiment on one simple CAD object and compare agent edits with/without the ledger.
+3. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
+4. Decide whether to enable GitHub Pages for the repository.
+5. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
 
 ## Dependencies
 
@@ -82,6 +82,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 - `README.md`
 - `research-map.md`
+- `active-vibes/wardrobes-need-simulation-memory.md`
+- `source-library/2026-07-25-wardrobes-need-simulation-memory.md`
+- `field-notes/2026-07-25-wardrobes-need-simulation-memory.md`
+- `unexpected-connections/2026-07-25-wardrobes-need-simulation-memory.md`
+- `rejected/2026-07-25-ai-virtual-fitting-room-ecommerce.md`
 - `active-vibes/cad-as-design-history-not-geometry.md`
 - `source-library/2026-07-25-cad-as-design-history.md`
 - `field-notes/2026-07-25.md`
@@ -101,4 +106,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-25T18:28:00Z
+2026-07-25T21:35:12Z
