@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-25T05:05:34Z — Nightly Vibe package drafted on `vibe/2026-07-25-cad-that-remembers-how-it-was-made` for CAD as replayable design history, with source notes, field notes, unexpected connection, rejected path, experiment spec, weekly synthesis, and research-map update.
+2026-07-25T17:16:32Z — Research portal implementation pivoted to HTML + Tailwind + Node per Max's direction. The portal remains static/Markdown-first, uses `portal/tailwind.css` compiled to `portal/styles.css`, uses `scripts/build-portal-manifest.mjs` for the manifest, and no longer relies on Python for portal build/serve instructions.
 
 ## Current architecture
 
@@ -18,18 +18,23 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Living index: `research-map.md`.
 - Static portal: `portal/`.
   - `portal/index.html` is the browser shell.
-  - `portal/styles.css` defines the light/dark visual system.
+  - `portal/tailwind.css` is the Tailwind source for the light/dark visual system.
+  - `portal/styles.css` is the compiled Tailwind output.
   - `portal/app.js` fetches and renders Markdown from the repo.
   - `portal/manifest.json` lists Markdown documents.
-  - `scripts/build-portal-manifest.py` regenerates the manifest from repository files.
+  - `scripts/build-portal-manifest.mjs` regenerates the manifest from repository files.
+- Node/Tailwind toolchain: `package.json`, `package-lock.json`, and `tailwind.config.cjs`.
+- Design source of truth: `DESIGN.md` defines the default interface direction for future portal/app/site/dashboard/tool work.
 
 ## Important decisions
 
-- The repository remains Markdown-first; the portal reads `.md` files instead of becoming a separate CMS.
-- The portal is plain static HTML/CSS/JS with no package manager or build dependency.
+- The portal remains Markdown-first; the portal reads `.md` files instead of becoming a separate CMS.
+- Portal interface work should use HTML + Tailwind + Node rather than Python. The shipped portal is still static HTML/CSS/JS after build.
 - Light and dark modes are supported.
 - Search is intentionally normal-language tolerant: matching any meaningful term with title-weighted scoring.
 - Supplied screenshots are used as visual inspiration assets, not copied UI skins.
+- `DESIGN.md` is now the project-local design source of truth for interface work: calm, precise, editorial, spatial, technical, premium, composed, and instrument-like rather than generic SaaS.
+- `DESIGN.md` is included in the portal manifest as an Overview document so the standard remains visible inside the portal.
 
 ## Rejected ideas
 
@@ -54,17 +59,19 @@ Active Vibe Research operations plus repo readability infrastructure.
 2. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
 3. Decide whether to enable GitHub Pages for the repository.
 4. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
+5. Review the rebuilt portal on a wider desktop viewport and decide whether the amber editorial system should become the long-term research-lab brand default.
 
 ## Dependencies
 
-- Python 3 for manifest generation and local static serving.
+- Node/npm for manifest generation, Tailwind compilation, and local static serving.
 - A modern browser with `fetch`, CSS variables, and basic modern CSS support.
 
 ## Risks
 
-- Portal manifest can drift if research files change without regeneration.
+- Portal manifest can drift if research files change without `npm run build:portal`.
 - The custom Markdown renderer is intentionally small and may not support edge-case Markdown extensions.
 - Design polish can hide weak research structure; the Markdown corpus remains the source of truth.
+- The new portal design is stronger but more typographically assertive; future dense documents should be checked for readability and scroll behavior on small screens.
 
 ## Relevant files
 
@@ -79,10 +86,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `weekly-synthesis/2026-W30.md`
 - `portal/index.html`
 - `portal/app.js`
+- `portal/tailwind.css`
 - `portal/styles.css`
 - `portal/manifest.json`
-- `scripts/build-portal-manifest.py`
+- `scripts/build-portal-manifest.mjs`
+- `package.json`
+- `tailwind.config.cjs`
+- `DESIGN.md`
 
 ## Last updated
 
-2026-07-25T05:05:34Z
+2026-07-25T17:16:32Z

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T05:05:52.227615+00:00",
+  "generatedAt": "2026-07-25T17:23:20.594Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -8,7 +8,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "A Drone Factory That Fits on a Desk: 250mm Printers and Quiet Persistent Aircraft Speculative signal from Max: long-range, lightweight, electric, mostly silent, autonomous ISR-style unmanned aircraft whose airframe can b…",
-      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "modified": "2026-07-19T09:55:08.627Z",
       "size": 12575,
       "meta": {}
     },
@@ -18,7 +18,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Actions Become Video Masks: Robots May Learn by Editing the Future Verified: On 2026-07-21, arXiv listed Masked Visual Actions for Unified World Modeling 2607.19343v1. The abstract frames the central problem as communica…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 11608,
       "meta": {}
     },
@@ -28,7 +28,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form Verified: arXiv:2503.13489v2 proposes a framework combining deep reinforcement learning, lab automation, real-time bioelectric…",
-      "modified": "2026-07-23T06:21:21.400533+00:00",
+      "modified": "2026-07-23T06:21:21.401Z",
       "size": 12137,
       "meta": {}
     },
@@ -38,7 +38,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft Verified: NASA’s Quesst/X-59 work frames the next supersonic frontier around making supersonic flight over land socially/regulatorily acceptable through…",
-      "modified": "2026-07-18T13:45:55.530406+00:00",
+      "modified": "2026-07-18T13:45:55.530Z",
       "size": 10170,
       "meta": {}
     },
@@ -48,7 +48,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Cameras Should Capture Change, Not Pictures: An App for Events, Atmosphere, and Personal World-State Max asked for \"a new type of camera app\" that might capture \"something else or stuff\" and to make it creative. The stro…",
-      "modified": "2026-07-19T09:55:08.626487+00:00",
+      "modified": "2026-07-19T09:55:08.626Z",
       "size": 11496,
       "meta": {}
     },
@@ -58,7 +58,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace Verified: Several recent single-cell perturbation prediction papers frame the problem as AI Virtual Cell modeling, while nearby critique papers…",
-      "modified": "2026-07-20T05:04:28.549948+00:00",
+      "modified": "2026-07-20T05:04:28.550Z",
       "size": 10000,
       "meta": {}
     },
@@ -68,7 +68,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks Verified: arXiv:2208.04024, Social Simulacra, describes a prototyping technique that generates populated social-computing prototypes…",
-      "modified": "2026-07-24T21:35:40.444376+00:00",
+      "modified": "2026-07-24T21:35:40.444Z",
       "size": 14632,
       "meta": {}
     },
@@ -78,7 +78,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry Verified: The ACM TOG paper Fusion 360 Gallery frames parametric CAD as a programmatic representation of manufactured objects and introduces a…",
-      "modified": "2026-07-25T05:04:33.746656+00:00",
+      "modified": "2026-07-25T05:07:00.949Z",
       "size": 15010,
       "meta": {}
     },
@@ -88,7 +88,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Materials That Learn After Manufacturing: The Body as a Trainable Interface A cluster of sources around mechanical neural networks, lattice-based mechanical metamaterials, topological mechanical classifiers, and soft-bod…",
-      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "modified": "2026-07-24T05:05:48.351Z",
       "size": 12134,
       "meta": {}
     },
@@ -98,7 +98,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics Verified: Fluid antenna systems FAS and movable/reconfigurable antenna work now treats antenna position, shape, orientation, or active port as a real-time…",
-      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "modified": "2026-07-21T05:06:09.926Z",
       "size": 12801,
       "meta": {}
     },
@@ -108,7 +108,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays Verified: arXiv 2607.02827v1, submitted 2026-07-02 by Alexandros Rosakis, Alessio Tamborini, Basile Fakhoury, Cole Bailey, and Morteza Gharib, inv…",
-      "modified": "2026-07-23T05:06:13.303991+00:00",
+      "modified": "2026-07-23T05:06:13.304Z",
       "size": 13875,
       "meta": {}
     },
@@ -118,7 +118,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Robots Need Skin That Interrupts: Touch as an Event Stream, Not an Image Verified: A cluster of 2026 arXiv papers around event-based tactile sensing describes tactile systems using dynamic vision sensor events, address-e…",
-      "modified": "2026-07-19T05:05:05.791538+00:00",
+      "modified": "2026-07-19T05:05:05.792Z",
       "size": 14053,
       "meta": {}
     },
@@ -128,7 +128,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Verified: Current ornithopter/flapping-wing robotics literature already contains several working primitives: autonomous perching, event-c…",
-      "modified": "2026-07-19T15:17:47.150331+00:00",
+      "modified": "2026-07-19T15:17:47.150Z",
       "size": 13665,
       "meta": {}
     },
@@ -138,7 +138,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Camera That Becomes a Scan: Photos as Spatial Capture, Not Flat Media Max shared an X post claiming a Chinese open-source model can reconstruct a scene in 3D from ordinary monocular video in real time: one camera, no…",
-      "modified": "2026-07-19T15:24:08.583638+00:00",
+      "modified": "2026-07-19T15:24:08.584Z",
       "size": 9562,
       "meta": {}
     },
@@ -148,7 +148,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Camera That Finds the Colors You Were Too Polite to Use Verified: Max shared an Instagram reel by @anjeees with the visible caption UGLY MAXXING COLOR EDITION and asked for Vibe Research on an app where a user takes…",
-      "modified": "2026-07-20T11:52:35.793818+00:00",
+      "modified": "2026-07-20T11:52:35.794Z",
       "size": 9714,
       "meta": {}
     },
@@ -158,7 +158,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Verified: Ink & Switch’s local-first essay is titled “Local-first software: You own your data, in spite of the cloud,” and its descriptio…",
-      "modified": "2026-07-23T06:35:10.717558+00:00",
+      "modified": "2026-07-23T06:35:10.718Z",
       "size": 12035,
       "meta": {}
     },
@@ -168,7 +168,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a simple rigid object can become a useful tactile sensor through sparse acoustic pickup. Robots Could Feel Through Their Bones../active-vibes/robots-feel-through-their-bones.md Can commodity audio/piezo sens…",
-      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "modified": "2026-07-23T05:06:13.305Z",
       "size": 2079,
       "meta": {}
     },
@@ -178,7 +178,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a lightweight design-history ledger makes a simple CAD object more editable and reviewable by an agent than final geometry or code alone. Does preserving construction intent, constraints, uncertainty, and va…",
-      "modified": "2026-07-25T05:04:33.861656+00:00",
+      "modified": "2026-07-25T05:07:00.949Z",
       "size": 2156,
       "meta": {}
     },
@@ -188,7 +188,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Can disclosed synthetic inhabitants make a narrow social product feel alive without making users feel deceived or replaced? A role-bound, visibly synthetic salon will increase first-session posting and reply behavior com…",
-      "modified": "2026-07-24T21:35:40.444376+00:00",
+      "modified": "2026-07-24T21:35:40.444Z",
       "size": 1756,
       "meta": {}
     },
@@ -198,7 +198,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-07-22 Actions Become Video Masks../active-vibes/actions-become-video-masks.md Test whether action proposals represented as partial futures are more inspectable than text logs or low-level action traces. Use a…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 1427,
       "meta": {}
     },
@@ -208,7 +208,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft This note treats supersonic unmanned aircraft as a civil/research frontier: test vehicles, sensing, autonomy, certification, noise, thermal/material cons…",
-      "modified": "2026-07-18T13:45:55.530406+00:00",
+      "modified": "2026-07-18T13:45:55.530Z",
       "size": 3111,
       "meta": {}
     },
@@ -218,7 +218,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Source: arXiv API searches for event-based tactile sensing, neuromorphic tactile, visuotactile event camera, and related terms. - What caught attention: Many recent papers do not merely use new tactile sensors; they re…",
-      "modified": "2026-07-19T15:24:08.584638+00:00",
+      "modified": "2026-07-19T15:24:08.585Z",
       "size": 7380,
       "meta": {}
     },
@@ -228,7 +228,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Max asked to Vibe Research an ornithopter: how we can build an unmanned one and benefit from it. This note treats an unmanned ornithopter…",
-      "modified": "2026-07-19T15:17:47.151331+00:00",
+      "modified": "2026-07-19T15:17:47.151Z",
       "size": 2974,
       "meta": {}
     },
@@ -238,7 +238,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "A cluster of 2026 preprints is using the phrase AI Virtual Cell for single-cell perturbation response prediction. The surface claim sounds like ordinary foundation-model expansion into biology, but the stronger signal is…",
-      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "modified": "2026-07-20T05:04:28.551Z",
       "size": 2325,
       "meta": {}
     },
@@ -248,7 +248,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "The Camera That Finds the Colors You Were Too Polite to Use Max shared an Instagram reel titled/captioned UGLY MAXXING COLOR EDITION and described an app idea: take picture → shows insane color pallets The phrase “insane…",
-      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "modified": "2026-07-20T11:52:35.795Z",
       "size": 2633,
       "meta": {}
     },
@@ -258,7 +258,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Started from Spatial Limits of Fluid Antenna Systems and wandered into FAS/FAMA, movable antennas, reconfigurable antennas, mmWave surface-wave FAS hardware, and channel acquisition problems. The recurring pattern: wirel…",
-      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "modified": "2026-07-21T05:06:09.926Z",
       "size": 1874,
       "meta": {}
     },
@@ -268,7 +268,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form A 2025 arXiv paper proposes using deep reinforcement learning plus real-time lab automation to control bioelectric signaling a…",
-      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "modified": "2026-07-23T06:21:21.402Z",
       "size": 2777,
       "meta": {}
     },
@@ -278,7 +278,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Calling title: Actions Become Video Masks: Robots May Learn by Editing the Future - Verified: arXiv 2607.19343v1, Masked Visual Actions for Unified World Modeling, appeared 2026-07-21. - Verified: The abstract introduces…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 2188,
       "meta": {}
     },
@@ -288,7 +288,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Recent arXiv cluster suggests tactile sensing may scale through wave-bearing structures rather than dense sensor skins. - Verified: 2607.02827v1 uses metallic ultrasound waveguides as distributed tactile sensors from a s…",
-      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "modified": "2026-07-23T05:06:13.305Z",
       "size": 2278,
       "meta": {}
     },
@@ -298,7 +298,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Max asked for another research direction and asked to ease up on biology and robot skin for now. I moved toward product/software infrastr…",
-      "modified": "2026-07-23T06:35:10.717558+00:00",
+      "modified": "2026-07-23T06:35:10.718Z",
       "size": 2136,
       "meta": {}
     },
@@ -308,7 +308,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Source: arXiv:2208.04024v1, Social Simulacra: Creating Populated Prototypes for Social Computing Systems. - What caught attention: The paper turns a designer’s community goal, rules, and personas into a populated socia…",
-      "modified": "2026-07-24T21:35:40.444376+00:00",
+      "modified": "2026-07-24T21:35:40.444Z",
       "size": 3945,
       "meta": {}
     },
@@ -318,7 +318,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Crossref surfaced Mechanical neural networks: Architected materials that learn behaviors by Lee, Mulder, and Hopkins in Science Robotics 2022, DOI 10.1126/scirobotics.abq7278. The phrase that caught: an architected mater…",
-      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "modified": "2026-07-24T05:05:48.351Z",
       "size": 3349,
       "meta": {}
     },
@@ -328,7 +328,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Parametric CAD research keeps turning physical objects into sequences, programs, and code: Fusion 360 Gallery, DeepCAD, Text2CAD, CAD-Recode. - Verified: Fusion 360 Gallery formalizes sketch/extrude CAD construction as b…",
-      "modified": "2026-07-25T05:04:33.751656+00:00",
+      "modified": "2026-07-25T05:07:00.949Z",
       "size": 1435,
       "meta": {}
     },
@@ -338,18 +338,8 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "These are the five high-potential directions selected after the initial Simulation Memory package. This is an exploratory portfolio, not a claim of completed experiments. 1. Deepen Cadence into a product architecture. 2.…",
-      "modified": "2026-07-18T08:37:06.206193+00:00",
+      "modified": "2026-07-18T08:37:06.206Z",
       "size": 1936,
-      "meta": {}
-    },
-    {
-      "title": "Idea Bank Entry — Cadence: Sovereign Training Data Foundry",
-      "path": "idea-bank/2026-07-18-cadence-sovereign-training-data-foundry.md",
-      "category": "idea-bank",
-      "categoryLabel": "Idea Bank",
-      "excerpt": "Selected for primary research package on 2026-07-18. Cadence was selected over the other banked directions because it has the strongest combination of immediate prototype feasibility, durable infrastructure potential, an…",
-      "modified": "2026-07-18T08:38:57.199754+00:00",
-      "size": 4001,
       "meta": {}
     },
     {
@@ -358,7 +348,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "A reusable trace card for physical bodies that listen to contact through their own structure. Show a timeline of acoustic events overlaid on a simple body diagram: - raw waveform; - spectrogram / wavelet view; - estimate…",
-      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "modified": "2026-07-23T05:06:13.305Z",
       "size": 882,
       "meta": {}
     },
@@ -368,7 +358,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "A tiny social app where a user drops an outfit, room, song, palette, or object into a clearly synthetic salon and gets role-based responses from disclosed AI inhabitants before inviting real people. The Vibe is research-…",
-      "modified": "2026-07-24T21:35:40.445375+00:00",
+      "modified": "2026-07-24T21:35:40.445Z",
       "size": 1032,
       "meta": {}
     },
@@ -378,7 +368,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Date: 2026-07-22 - Robot After Effects: draw object keyframes, see inferred robot motion, inspect impossible contact. - Agent rehearsal timeline: an agent proposes UI/file-system actions as masked future states before ex…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 745,
       "meta": {}
     },
@@ -388,7 +378,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Date: 2026-07-19 Related Vibe: Cameras Should Capture Change, Not Pictures../active-vibes/cameras-should-capture-change-not-pictures.md These are deliberately not feature variants of Instagram/Snap/Lightroom. Each one ch…",
-      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "modified": "2026-07-19T09:55:08.627Z",
       "size": 4188,
       "meta": {}
     },
@@ -398,8 +388,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "A standard trace card and viewer for reconfigurable/movable antenna experiments that shows what the radio knew, where it sampled, what it chose, and whether the result depended on unrealistic oracle assumptions. Fluid an…",
-      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "modified": "2026-07-21T05:06:09.926Z",
       "size": 1021,
+      "meta": {}
+    },
+    {
+      "title": "Idea Bank Entry — Cadence: Sovereign Training Data Foundry",
+      "path": "idea-bank/2026-07-18-cadence-sovereign-training-data-foundry.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Selected for primary research package on 2026-07-18. Cadence was selected over the other banked directions because it has the strongest combination of immediate prototype feasibility, durable infrastructure potential, an…",
+      "modified": "2026-07-18T08:38:57.200Z",
+      "size": 4001,
       "meta": {}
     },
     {
@@ -408,7 +408,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Scoring scale: 1–5. Total = Originality + Technical plausibility + Importance + Alignment + Prototype potential + Research depth. Simulation Memory for Embodied Agents is selected because it passes the quality filter str…",
-      "modified": "2026-07-18T01:09:41.179366+00:00",
+      "modified": "2026-07-18T01:09:41.179Z",
       "size": 6027,
       "meta": {}
     },
@@ -418,7 +418,7 @@
       "category": "manifests",
       "categoryLabel": "Manifests",
       "excerpt": "Date: 2026-07-22 Related Vibe: Actions Become Video Masks../active-vibes/actions-become-video-masks.md Capture the smallest useful experiment implied by tonight's Vibe: represent an action proposal as a partial future th…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 1532,
       "meta": {}
     },
@@ -428,7 +428,7 @@
       "category": "manifests",
       "categoryLabel": "Manifests",
       "excerpt": "Calling title: Actions Become Video Masks: Robots May Learn by Editing the Future Primary signal: Masked Visual Actions for Unified World Modeling arXiv:2607.19343v1. Primary Vibe: Actions Become Video Masks../active-vib…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 1037,
       "meta": {}
     },
@@ -438,7 +438,7 @@
       "category": "manifests",
       "categoryLabel": "Manifests",
       "excerpt": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics active-vibes/radios-need-moving-bodies.md Fluid antenna systems treat antenna location/shape/port as an adaptive control variable and point toward radios t…",
-      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "modified": "2026-07-21T05:06:09.926Z",
       "size": 1229,
       "meta": {}
     },
@@ -448,7 +448,7 @@
       "category": "manifests",
       "categoryLabel": "Manifests",
       "excerpt": "Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays - Robots Could Feel Through Their Bones../active-vibes/robots-feel-through-their-bones.md - active-vibes/robots-feel-through-their-bones.md - sour…",
-      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "modified": "2026-07-23T05:06:13.305Z",
       "size": 1672,
       "meta": {}
     },
@@ -458,7 +458,7 @@
       "category": "manifests",
       "categoryLabel": "Manifests",
       "excerpt": "A lightweight contract for products that use synthetic inhabitants inside social spaces. syntheticinhabitants: disclosure: required visuallabel: required roledescription: required allowedinitiation: - greetnewcomer - rep…",
-      "modified": "2026-07-24T21:35:40.445375+00:00",
+      "modified": "2026-07-24T21:35:40.445Z",
       "size": 1128,
       "meta": {}
     },
@@ -468,7 +468,7 @@
       "category": "monthly-theses",
       "categoryLabel": "Monthly Theses",
       "excerpt": "Date updated: 2026-07-22 Media is turning into an action substrate. Cameras, radio fields, event skins, spatial scans, and now masked video actions all point to the same shift: perception streams are no longer just obser…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 2078,
       "meta": {}
     },
@@ -478,8 +478,18 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
-      "modified": "2026-07-24T17:49:47.548788+00:00",
-      "size": 3175,
+      "modified": "2026-07-25T17:18:21.636Z",
+      "size": 3311,
+      "meta": {}
+    },
+    {
+      "title": "DESIGN.md",
+      "path": "DESIGN.md",
+      "category": ".",
+      "categoryLabel": "Overview",
+      "excerpt": "This document defines the default design direction for products, apps, websites, dashboards, tools, and interfaces. It should be used as a reusable design standard when starting a new product or reviewing an existing one…",
+      "modified": "2026-07-25T09:54:34.568Z",
+      "size": 18849,
       "meta": {}
     },
     {
@@ -488,7 +498,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-25T05:05:31.808410+00:00",
+      "modified": "2026-07-25T05:07:00.950Z",
       "size": 11588,
       "meta": {}
     },
@@ -498,7 +508,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
-      "modified": "2026-07-18T12:04:18.306116+00:00",
+      "modified": "2026-07-18T12:04:18.306Z",
       "size": 1202,
       "meta": {}
     },
@@ -508,7 +518,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "These were rejected or deferred during the first autonomous research session. - Reason: Too crowded; weak original capability; likely to become a wrapper around existing task/chat/calendar surfaces. - Condition for reviv…",
-      "modified": "2026-07-18T01:09:41.179366+00:00",
+      "modified": "2026-07-18T01:09:41.179Z",
       "size": 1459,
       "meta": {}
     },
@@ -518,7 +528,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The session selected Cadence — Sovereign Training Data Foundry as the primary idea and rejected or deferred adjacent ideas that did not isolate a strong enough primitive. - Reason rejected: Crowded, services-heavy, and a…",
-      "modified": "2026-07-18T08:38:57.199754+00:00",
+      "modified": "2026-07-18T08:38:57.200Z",
       "size": 2867,
       "meta": {}
     },
@@ -528,7 +538,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The 2009 Lamb-wave multi-touch plate and newer flexible acoustic waveguide work both suggest acoustic touch surfaces could become large, cheap, low-wiring interfaces. As a standalone HCI surface, the idea becomes too fam…",
-      "modified": "2026-07-23T05:06:13.304991+00:00",
+      "modified": "2026-07-23T05:06:13.305Z",
       "size": 1363,
       "meta": {}
     },
@@ -538,7 +548,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The obvious interpretation of generative AI plus end-user programming is: user describes app → AI generates app → user publishes app This is attractive because it is easy to explain and easy to demo. Most useful software…",
-      "modified": "2026-07-23T06:35:10.717558+00:00",
+      "modified": "2026-07-23T06:35:10.718Z",
       "size": 1486,
       "meta": {}
     },
@@ -548,7 +558,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The tempting headline is obvious: AI can solve social-app cold start by filling the feed with bots. That framing is commercially attractive because cold start is one of the hardest consumer-social problems, and synthetic…",
-      "modified": "2026-07-24T21:35:40.445375+00:00",
+      "modified": "2026-07-24T21:35:40.445Z",
       "size": 1957,
       "meta": {}
     },
@@ -558,7 +568,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "If the goal is to capture more than photos, an always-on camera seems like the obvious complete answer. It would record everything, then let models extract memories later. - Verified: Ego4D demonstrates the research valu…",
-      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "modified": "2026-07-19T09:55:08.627Z",
       "size": 1586,
       "meta": {}
     },
@@ -568,7 +578,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The language around bioelectricity is seductive: bioelectric code body memory somatic computation pattern control living software It is tempting to say the body has a hidden programming language and that future tools wil…",
-      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "modified": "2026-07-23T06:21:21.402Z",
       "size": 1756,
       "meta": {}
     },
@@ -578,7 +588,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Fluid antenna systems appear in current 6G/mmWave research and make large performance claims around outage probability, multiplexing, and spatial diversity. The obvious shallow path would be to frame the session as FAS w…",
-      "modified": "2026-07-21T05:06:09.925528+00:00",
+      "modified": "2026-07-21T05:06:09.926Z",
       "size": 2015,
       "meta": {}
     },
@@ -588,7 +598,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Mechanical neural networks and physical neural networks can sound like a new compute substrate for AI: energy-efficient, parallel, physical, and outside normal silicon scaling. - Verified: the sources inspected tonight e…",
-      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "modified": "2026-07-24T05:05:48.351Z",
       "size": 1730,
       "meta": {}
     },
@@ -598,7 +608,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Max asked how we can build an unmanned ornithopter and benefit. The natural pull is to jump directly into airframe instructions, component choices, control tuning, and field deployment. An unmanned aerial vehicle can bec…",
-      "modified": "2026-07-19T15:17:47.151331+00:00",
+      "modified": "2026-07-19T15:17:47.151Z",
       "size": 1502,
       "meta": {}
     },
@@ -608,7 +618,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "A user takes a picture and gets colors. The obvious implementation is dominant-color extraction: upload image → k-means/quantization → five hex values This is technically easy and useful. This already exists in many tool…",
-      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "modified": "2026-07-20T11:52:35.795Z",
       "size": 1355,
       "meta": {}
     },
@@ -618,7 +628,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Max's signal has strong technical pull: long range, lightweight, electric propulsion, mostly silent operation, autonomy, ISR-style sensing, and a consumer 3D printer constraint around a 250 mm print bed. A build-recipe f…",
-      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "modified": "2026-07-19T09:55:08.627Z",
       "size": 1878,
       "meta": {}
     },
@@ -628,7 +638,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Text-to-CAD papers make it tempting to frame the Vibe as: “type what you want and receive a manufacturable part.” That would be a clean consumer/product story. - Verified: Text2CAD-Bench says existing benchmarks focus on…",
-      "modified": "2026-07-25T05:04:33.858656+00:00",
+      "modified": "2026-07-25T05:07:00.950Z",
       "size": 1938,
       "meta": {}
     },
@@ -638,7 +648,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The phrase “how to make a supersonic unmanned aircraft” has obvious technical pull: speed, autonomy, propulsion, materials, and aerospace design. A build-recipe framing is the wrong research object. It risks becoming uns…",
-      "modified": "2026-07-18T13:45:55.530406+00:00",
+      "modified": "2026-07-18T13:45:55.530Z",
       "size": 1200,
       "meta": {}
     },
@@ -648,7 +658,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-07-22 Masked Visual Actions for Unified World Modeling is a strong signal: video models are being adapted into robot world models through visually specified action. The abstract claims forward dynamics, policy…",
-      "modified": "2026-07-22T05:07:54.569517+00:00",
+      "modified": "2026-07-22T05:07:54.570Z",
       "size": 1598,
       "meta": {}
     },
@@ -658,7 +668,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "“AI Virtual Cell” sounds like a large category-forming phrase: train on massive single-cell datasets, predict perturbations, simulate biology, accelerate drug discovery. - Verified: A 2024 benchmark abstract reports a si…",
-      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "modified": "2026-07-20T05:04:28.551Z",
       "size": 1429,
       "meta": {}
     },
@@ -668,7 +678,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-07-19 The strongest surface signal from the source cluster was neuromorphic tactile hardware: GelNeuro’s sensor-to-chip path, SpikingTac’s custom event-camera module, event-driven e-skin with FPGA SNN inferenc…",
-      "modified": "2026-07-19T05:05:05.791538+00:00",
+      "modified": "2026-07-19T05:05:05.792Z",
       "size": 2414,
       "meta": {}
     },
@@ -678,7 +688,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Commands/sources used during this session: - date +%F returned 2026-07-22. - git status --short --untracked-files=all, git branch --show-current, and git rev-parse --short HEAD confirmed start state on main at cae70b7 wi…",
-      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "modified": "2026-07-22T05:07:54.571Z",
       "size": 1077,
       "meta": {}
     },
@@ -688,7 +698,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- Authors: Lee, Mulder, Hopkins - Venue: Science Robotics - Date: 2022-10-26 - DOI: 10.1126/scirobotics.abq7278 - URL: https://doi.org/10.1126/scirobotics.abq7278 - Evidence: Verified via Crossref metadata during this se…",
-      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "modified": "2026-07-24T05:05:48.351Z",
       "size": 4133,
       "meta": {}
     },
@@ -698,7 +708,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-19 A new camera app may need to capture change, atmosphere, semantic transitions, and personal world-state rather than only pictures and videos. - URL: https://arxiv.org/abs/1904.08405 - Type: survey / near-prima…",
-      "modified": "2026-07-19T09:55:08.627487+00:00",
+      "modified": "2026-07-19T09:55:08.627Z",
       "size": 3424,
       "meta": {}
     },
@@ -708,7 +718,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- URL: https://x.com/AiwithYasir/status/2078381492368253063 - Creator: Yasir Ai / @AiwithYasir - Captured: 2026-07-19 - Duration of attached video: 70.4 seconds from browser video element. - Original X page inspected in…",
-      "modified": "2026-07-19T15:24:08.584638+00:00",
+      "modified": "2026-07-19T15:24:08.585Z",
       "size": 2212,
       "meta": {}
     },
@@ -718,7 +728,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Max shared an Instagram reel as inspiration for an app where you take a picture and it shows “insane color palettes.” Canonical saved inspiration: - Content library entry: 40 - URL: <https://www.instagram.com/reel/Da-5Qp…",
-      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "modified": "2026-07-20T11:52:35.795Z",
       "size": 5483,
       "meta": {}
     },
@@ -728,7 +738,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date captured: 2026-07-23 Session signal: recent arXiv cluster around tactile sensing through wave-bearing structures. Calling title: Robots Could Feel Through Their Bones: Tactile Skin Without Sensor Arrays - Source: Al…",
-      "modified": "2026-07-23T05:06:13.305991+00:00",
+      "modified": "2026-07-23T05:06:13.306Z",
       "size": 6328,
       "meta": {}
     },
@@ -738,7 +748,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-07-20 Session signal: single-cell perturbation prediction papers framing themselves as AI Virtual Cell work. - DOI: 10.64898/2026.06.08.731000 - Authors listed by Crossref: Danning Jiang, Zheming An, Yalong Zh…",
-      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "modified": "2026-07-20T05:04:28.551Z",
       "size": 4534,
       "meta": {}
     },
@@ -748,7 +758,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form A 2025 arXiv paper proposes combining deep reinforcement learning, lab automation, and real-time bioelectric measurement/manip…",
-      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "modified": "2026-07-23T06:21:21.402Z",
       "size": 6406,
       "meta": {}
     },
@@ -758,7 +768,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Sources below are real pages retrieved during the session. arXiv/Semantic Scholar searches were rate-limited, so this source map leans on official NASA/company/regulatory-accessible material and labels limits clearly. No…",
-      "modified": "2026-07-18T13:45:55.531406+00:00",
+      "modified": "2026-07-18T13:45:55.531Z",
       "size": 4879,
       "meta": {}
     },
@@ -768,7 +778,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- Date: 2026-07-25 - Calling title: Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry - Starting signal: parametric CAD papers increasingly treat physical objects as sequences/programs/code ra…",
-      "modified": "2026-07-25T05:04:33.778656+00:00",
+      "modified": "2026-07-25T05:07:00.951Z",
       "size": 6767,
       "meta": {}
     },
@@ -778,7 +788,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks The session began from arXiv:2208.04024, Social Simulacra, because it reframes social product design as something that can be tested…",
-      "modified": "2026-07-24T21:35:40.445375+00:00",
+      "modified": "2026-07-24T21:35:40.445Z",
       "size": 6104,
       "meta": {}
     },
@@ -788,7 +798,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-07-19 Session calling title: Robots Need Skin That Interrupts: Touch as an Event Stream, Not an Image A current arXiv search for event-based and neuromorphic tactile sensing produced a dense 2026 cluster. The…",
-      "modified": "2026-07-19T05:05:05.792538+00:00",
+      "modified": "2026-07-19T05:05:05.793Z",
       "size": 9100,
       "meta": {}
     },
@@ -798,7 +808,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "The session began from a recent arXiv signal: Spatial Limits of Fluid Antenna Systems 2026, which treats continuous fluid antenna systems as an upper bound where antennas can be positioned anywhere inside a defined regio…",
-      "modified": "2026-07-21T05:06:09.926528+00:00",
+      "modified": "2026-07-21T05:06:09.927Z",
       "size": 6684,
       "meta": {}
     },
@@ -808,7 +818,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date captured: 2026-07-22 - URL: https://arxiv.org/abs/2607.19343 - arXiv ID: 2607.19343v1 - Published: 2026-07-21 - Authors listed by arXiv/project page: Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey, Lvmin…",
-      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "modified": "2026-07-22T05:07:54.571Z",
       "size": 4968,
       "meta": {}
     },
@@ -818,7 +828,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "This source note was created from programmatic metadata searches through arXiv, Crossref, and Semantic Scholar on 2026-07-19. It preserves only claims supported by retrieved metadata/abstract text. It does not claim airc…",
-      "modified": "2026-07-19T09:55:08.628487+00:00",
+      "modified": "2026-07-19T09:55:08.628Z",
       "size": 7785,
       "meta": {}
     },
@@ -828,7 +838,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "This source note uses arXiv metadata retrieved through the arXiv API on 2026-07-19, plus one accessible near-primary Wyss Institute page. Several official project pages for Festo SmartBird/BionicOpter, TU Delft DelFly, U…",
-      "modified": "2026-07-19T15:17:47.151331+00:00",
+      "modified": "2026-07-19T15:17:47.151Z",
       "size": 6303,
       "meta": {}
     },
@@ -838,7 +848,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Several separate threads are converging: 1. Ink & Switch argues for local-first software where users retain ownership of their data despi…",
-      "modified": "2026-07-23T06:35:10.718558+00:00",
+      "modified": "2026-07-23T06:35:10.719Z",
       "size": 6865,
       "meta": {}
     },
@@ -848,7 +858,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "At least three independent signals required. 1. 2. 3.",
-      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "modified": "2026-07-18T12:04:18.309Z",
       "size": 306,
       "meta": {}
     },
@@ -858,7 +868,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "",
-      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "modified": "2026-07-18T12:04:18.309Z",
       "size": 402,
       "meta": {}
     },
@@ -868,7 +878,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "- - Do both fields solve the same hidden problem? Represent information similarly? Share a missing primitive? Transfer an evaluation method? Reveal a failure pattern?",
-      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "modified": "2026-07-18T12:04:18.309Z",
       "size": 368,
       "meta": {}
     },
@@ -878,7 +888,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "What originally caught attention: paper, technology, contradiction, repository, patent, lab, behavior, artifact, historical invention, or failed attempt. Why this feels larger than it first appears. - Model, protocol, in…",
-      "modified": "2026-07-18T12:04:18.309116+00:00",
+      "modified": "2026-07-18T12:04:18.309Z",
       "size": 1414,
       "meta": {}
     },
@@ -888,7 +898,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "- Name: - Geometry: - Material: - Mount state: - Known resonant features: - Event ID: - Contact type: - Ground-truth location: - Ground-truth material: - Force reference: - Environment: - Raw waveform: - Spectrogram / wa…",
-      "modified": "2026-07-23T05:06:13.305991+00:00",
+      "modified": "2026-07-23T05:06:13.306Z",
       "size": 889,
       "meta": {}
     },
@@ -898,7 +908,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "- Source: - What caught attention: - Why it may matter: - Follow-up threads: - Evidence label:",
-      "modified": "2026-07-18T12:04:18.308116+00:00",
+      "modified": "2026-07-18T12:04:18.308Z",
       "size": 292,
       "meta": {}
     },
@@ -908,7 +918,7 @@
       "category": "templates",
       "categoryLabel": "Templates",
       "excerpt": "Proceed / revise / reject / gather more evidence.",
-      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "modified": "2026-07-22T05:07:54.571Z",
       "size": 393,
       "meta": {}
     },
@@ -918,7 +928,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Parametric CAD / feature trees / physical design provenance - AI agent action logs / local-first software workshops / workflow replay Fusion 360 Gallery and DeepCAD treat CAD models as operation sequences; CAD-Recode t…",
-      "modified": "2026-07-25T05:04:33.744656+00:00",
+      "modified": "2026-07-25T05:07:00.951Z",
       "size": 3300,
       "meta": {}
     },
@@ -928,7 +938,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Consumer camera apps / personal media - Operating-system logs / event streams / observability Event cameras do not continuously save full images; they emit sparse changes. Operating systems similarly do not treat every…",
-      "modified": "2026-07-19T09:55:08.628487+00:00",
+      "modified": "2026-07-19T09:55:08.628Z",
       "size": 2528,
       "meta": {}
     },
@@ -938,7 +948,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Computational photography / RAW image pipelines - Spatial computing / 3D reconstruction / SLAM Max's camera-app question made the failure of “scan mode” obvious. Camera apps already separate capture from development: a…",
-      "modified": "2026-07-19T15:24:08.584638+00:00",
+      "modified": "2026-07-19T15:24:08.585Z",
       "size": 2769,
       "meta": {}
     },
@@ -948,7 +958,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Mechanical neural networks / mechanical metamaterials - Computational photography / camera color profiles / sensor calibration Mechanical neural networks tune physical parameters so a structure maps force/load conditio…",
-      "modified": "2026-07-24T05:05:48.350875+00:00",
+      "modified": "2026-07-24T05:05:48.351Z",
       "size": 2870,
       "meta": {}
     },
@@ -958,7 +968,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Bioelectric morphogenesis - Software debugging - Control theory - Lab automation - Regenerative medicine Both software and living tissue can fail in ways that are not explained by final output alone. A broken program a…",
-      "modified": "2026-07-23T06:21:21.401533+00:00",
+      "modified": "2026-07-23T06:21:21.402Z",
       "size": 2173,
       "meta": {}
     },
@@ -968,7 +978,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Single-cell perturbation prediction / AI Virtual Cell modeling - Software debugging, observability, and execution tracing Both fields are trying to explain system behavior under intervention. A software debugger does n…",
-      "modified": "2026-07-20T05:04:28.550948+00:00",
+      "modified": "2026-07-20T05:04:28.551Z",
       "size": 2553,
       "meta": {}
     },
@@ -978,7 +988,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Color palette generation - Perfume/fragrance composition - Fashion/editorial styling - Brand identity - Camera-native creative tools Perfume does not present ingredients as raw chemistry. It organizes them into an expe…",
-      "modified": "2026-07-20T11:52:35.794818+00:00",
+      "modified": "2026-07-20T11:52:35.795Z",
       "size": 1839,
       "meta": {}
     },
@@ -988,7 +998,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Ornithopter robotics - Event-based vision - Wildlife/conservation technology - Scientific instrumentation - Ethology / animal behavior observation - Flight-test evidence systems Both ornithopter robotics and animal beh…",
-      "modified": "2026-07-19T15:17:47.152332+00:00",
+      "modified": "2026-07-19T15:17:47.152Z",
       "size": 2439,
       "meta": {}
     },
@@ -998,7 +1008,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Printable aircraft modules and software packages solve the same hidden problem: how to make reusable components compose safely inside systems that fail when assumptions are invisible. A software package is not just code.…",
-      "modified": "2026-07-19T09:55:08.628487+00:00",
+      "modified": "2026-07-19T09:55:08.628Z",
       "size": 2544,
       "meta": {}
     },
@@ -1008,7 +1018,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Fluid antenna systems - Movable/reconfigurable antennas - Wireless channel estimation - Robotic active touch - Tactile exploration - Embodied AI Robotic touch and fluid antennas solve the same hidden problem: The world…",
-      "modified": "2026-07-21T05:06:09.926528+00:00",
+      "modified": "2026-07-21T05:06:09.927Z",
       "size": 2559,
       "meta": {}
     },
@@ -1018,7 +1028,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "A musical instrument, an aircraft wing under structural health monitoring, and a robot limb used as an acoustic tactile sensor all solve the same hidden inverse problem:  A local physical event enters a resonant body. Sp…",
-      "modified": "2026-07-23T05:06:13.305991+00:00",
+      "modified": "2026-07-23T05:06:13.306Z",
       "size": 2060,
       "meta": {}
     },
@@ -1028,7 +1038,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Synthetic social sandboxes and theme parks solve the same hidden problem: safe first participation in a designed world. A theme park does not wait for visitors to invent culture. It creates a world before the crowd arriv…",
-      "modified": "2026-07-24T21:35:40.446375+00:00",
+      "modified": "2026-07-24T21:35:40.446Z",
       "size": 1945,
       "meta": {}
     },
@@ -1038,7 +1048,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Malleable software - Local-first tools - Tailoring / atelier craft - Small business operations - Agent-maintained software - Design systems Both software and clothing fail when they assume a universal body. A prefabric…",
-      "modified": "2026-07-23T06:35:10.718558+00:00",
+      "modified": "2026-07-23T06:35:10.719Z",
       "size": 2333,
       "meta": {}
     },
@@ -1048,7 +1058,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Supersonic unmanned aircraft - Scientific instruments - Regulatory evidence systems - Low-boom civil aviation research The obvious question is “how do you make a supersonic drone?” The less obvious question is “what wo…",
-      "modified": "2026-07-18T13:45:55.531406+00:00",
+      "modified": "2026-07-18T13:45:55.531Z",
       "size": 2579,
       "meta": {}
     },
@@ -1058,7 +1068,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-07-22 - Masked visual actions for robot world models - Animation keyframing / video editing / inbetweening Both fields solve the same hidden problem: how to specify only the parts of a future that matter, then…",
-      "modified": "2026-07-22T05:07:54.570517+00:00",
+      "modified": "2026-07-22T05:07:54.571Z",
       "size": 2477,
       "meta": {}
     },
@@ -1068,7 +1078,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Event-based tactile sensing for robots - Operating-system interrupt and event-loop design The tactile papers repeatedly emphasized sparse events, low latency, dynamic changes, high-frequency control, and sensor-to-chip…",
-      "modified": "2026-07-19T05:05:05.792538+00:00",
+      "modified": "2026-07-19T05:05:05.793Z",
       "size": 3623,
       "meta": {}
     },
@@ -1078,7 +1088,7 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry. The strongest shift is from generated artifacts to preserved construction traces. CAD-as-program, future masks, tactile event streams, materi…",
-      "modified": "2026-07-25T05:05:04.603525+00:00",
+      "modified": "2026-07-25T05:07:00.951Z",
       "size": 2822,
       "meta": {}
     }
@@ -1087,7 +1097,7 @@
     {
       "id": ".",
       "label": "Overview",
-      "count": 3
+      "count": 4
     },
     {
       "id": "active-vibes",

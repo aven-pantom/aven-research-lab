@@ -15,8 +15,9 @@ The repo includes a static Markdown viewer at `portal/`. It renders the lab's `.
 Run it from the repository root:
 
 ```bash
-python3 scripts/build-portal-manifest.py
-python3 -m http.server 8787
+npm install
+npm run build:portal
+npm run dev:portal
 ```
 
 Then open:
@@ -26,6 +27,7 @@ http://localhost:8787/portal/
 ```
 
 The portal intentionally fetches Markdown from the repo instead of duplicating content. If new research files are added, rebuild `portal/manifest.json`.
+The portal build path is HTML, Tailwind, and Node: `portal/index.html`, `portal/app.js`, `portal/tailwind.css`, and `scripts/build-portal-manifest.mjs`.
 
 ## Current map
 

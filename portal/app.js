@@ -195,8 +195,8 @@ function renderDocumentList() {
     els.documents.innerHTML = '<div class="empty">No matching documents.</div>';
     return;
   }
-  els.documents.innerHTML = docs.map(doc => `
-    <button class="doc-button ${state.selectedPath === doc.path ? 'active' : ''}" data-path="${escapeHtml(doc.path)}" type="button">
+  els.documents.innerHTML = docs.map((doc, index) => `
+    <button class="doc-button ${state.selectedPath === doc.path ? 'active' : ''}" data-path="${escapeHtml(doc.path)}" data-index="${String(index + 1).padStart(2, '0')}" type="button">
       <strong>${escapeHtml(doc.title)}</strong>
       <span>${escapeHtml(doc.excerpt || doc.path)}</span>
     </button>
@@ -236,7 +236,7 @@ async function selectDocument(path, push = true) {
     if (push) history.replaceState(null, '', `#${encodeURIComponent(doc.path)}`);
   } catch (error) {
     els.document.className = 'document';
-    els.document.innerHTML = `<div class="prose"><h1>Could not load Markdown</h1><p>${escapeHtml(String(error))}</p><p>Serve the repository root with <code>python3 -m http.server 8787</code>, then open <code>http://localhost:8787/portal/</code>. Browser file URLs cannot fetch neighboring Markdown files reliably.</p></div>`;
+    els.document.innerHTML = `<div class="prose"><h1>Could not load Markdown</h1><p>${escapeHtml(String(error))}</p><p>Run <code>npm run dev:portal</code>, then open <code>http://localhost:8787/portal/</code>. Browser file URLs cannot fetch neighboring Markdown files reliably.</p></div>`;
     els.toc.innerHTML = '';
   }
 }
