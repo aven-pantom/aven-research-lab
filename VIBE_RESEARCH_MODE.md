@@ -16,7 +16,8 @@ This repository now uses Vibe Research Mode as its nightly operating system. The
 6. Formalize a Vibe, field note, unexpected connection, Research Direction, or Research Program.
 7. Propose an experiment when appropriate.
 8. Update `research-map.md`.
-9. Preserve the evolution in Git.
+9. Create the run's **Trend Sparks** file: `idea-bank/trend-sparks/YYYY-MM-DD.md` with exactly 10 current, evidence-backed app opportunities.
+10. Preserve the evolution in Git.
 
 ## What counts as success
 
@@ -30,5 +31,12 @@ Valid outputs include:
 - one unexpected connection
 - one strengthened question
 - one Research Direction if multiple Vibes converge
+- ten Trend Sparks: current trend-derived app opportunities with existing proof, gap, prototype, spread loop, risk, Max fit, and evidence label
 
 The best result is a small number of ideas that become difficult to unsee once discovered.
+
+## Trend Sparks
+
+Trend Sparks are the recurring consumer/app opportunity lane inside Vibe Research. They are not generic “ideas.” They are current, signal-derived app opportunities based on visible product, social, creator, search, app-store, or niche-community movement.
+
+Each autonomous run should create exactly 10 Trend Sparks unless explicitly scoped otherwise. Use the template at `templates/trend-sparks.md` and save the run at `idea-bank/trend-sparks/YYYY-MM-DD.md`.

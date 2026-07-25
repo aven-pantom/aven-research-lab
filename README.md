@@ -7,6 +7,7 @@ The lab now runs on **Vibe Research Mode**: research without a fixed answer, pro
 - [Vibe Research Mode](VIBE_RESEARCH_MODE.md)
 - [Living Research Map](research-map.md)
 - [Research Portal](portal/)
+- [Trend Sparks](idea-bank/trend-sparks/) — 10 current trend-derived app opportunities per Vibe Research run
 
 ## Research portal
 
@@ -46,7 +47,8 @@ research-programs/         Long-running programs with experiment sequences
 experiments/               Experiment specs and results
 field-notes/               Fast raw observations and weak signals
 source-library/            Source notes and reusable bibliographic/context material
-idea-bank/                 Older idea lists and candidate directions
+idea-bank/                 Older idea lists, candidate directions, and Trend Sparks
+idea-bank/trend-sparks/    Recurring current-trend app opportunity scans; 10 per Vibe Research run
 unexpected-connections/    Cross-field connections with useful shared structure
 rejected/                  Negative research and killed ideas
 dormant/                   Vibes paused until the world changes

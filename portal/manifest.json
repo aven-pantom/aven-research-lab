@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:35:51.130Z",
+  "generatedAt": "2026-07-25T22:29:12.506Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -168,7 +168,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Wardrobes Need Simulation Memory: Style Engines That Remember What Actually Worked Verified: Recent image-based virtual try-on work has moved from older warping/fusion pipelines toward diffusion-based garment transfer. I…",
-      "modified": "2026-07-25T21:34:01.316Z",
+      "modified": "2026-07-25T21:36:45.291Z",
       "size": 13405,
       "meta": {}
     },
@@ -348,7 +348,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Date: 2026-07-25 Diffusion virtual try-on is getting lighter and more public at the same time consumer wardrobe apps are normalizing closet digitization. The overlooked possibility is a style memory system that learns fr…",
-      "modified": "2026-07-25T21:34:46.145Z",
+      "modified": "2026-07-25T21:36:45.291Z",
       "size": 2595,
       "meta": {}
     },
@@ -433,6 +433,16 @@
       "meta": {}
     },
     {
+      "title": "Trend Sparks",
+      "path": "idea-bank/trend-sparks/README.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Trend Sparks are the recurring consumer-app opportunity lane inside Vibe Research. They are not generic startup ideas. Each Spark starts from current evidence: visible social behavior, app-store/product movement, creator…",
+      "modified": "2026-07-25T22:27:12.263Z",
+      "size": 2501,
+      "meta": {}
+    },
+    {
       "title": "Manifest — Future-Mask Action Schema",
       "path": "manifests/2026-07-22-future-mask-action-schema.md",
       "category": "manifests",
@@ -498,8 +508,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
-      "modified": "2026-07-25T17:24:30.149Z",
-      "size": 3311,
+      "modified": "2026-07-25T22:27:39.824Z",
+      "size": 3536,
       "meta": {}
     },
     {
@@ -518,8 +528,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-25T21:35:27.760Z",
-      "size": 12085,
+      "modified": "2026-07-25T22:27:45.717Z",
+      "size": 12550,
       "meta": {}
     },
     {
@@ -528,8 +538,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
-      "modified": "2026-07-18T12:04:18.306Z",
-      "size": 1202,
+      "modified": "2026-07-25T22:28:13.471Z",
+      "size": 1969,
       "meta": {}
     },
     {
@@ -588,7 +598,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-07-25 Diffusion virtual try-on papers and repos make it natural to frame the opportunity as an ecommerce fitting room: upload a body photo, choose a garment, see yourself wearing it, buy with more confidence.…",
-      "modified": "2026-07-25T21:35:06.098Z",
+      "modified": "2026-07-25T21:36:45.291Z",
       "size": 1856,
       "meta": {}
     },
@@ -748,7 +758,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-07-25 Slug: wardrobes-need-simulation-memory The session began from a fresh signal: diffusion virtual try-on is improving while consumer wardrobe apps are already teaching users to digitize closets. The intere…",
-      "modified": "2026-07-25T21:34:28.874Z",
+      "modified": "2026-07-25T21:36:45.292Z",
       "size": 5868,
       "meta": {}
     },
@@ -963,6 +973,16 @@
       "meta": {}
     },
     {
+      "title": "Trend Sparks — YYYY-MM-DD",
+      "path": "templates/trend-sparks.md",
+      "category": "templates",
+      "categoryLabel": "Templates",
+      "excerpt": "YYYY-MM-DD Summarize the sources checked. Prefer current evidence from social platforms, app stores/product launches, creator behavior, search trends, public trend reports, GitHub/product communities, and niche forums. D…",
+      "modified": "2026-07-25T22:27:30.611Z",
+      "size": 2643,
+      "meta": {}
+    },
+    {
       "title": "CAD Histories and Agent Action Logs",
       "path": "unexpected-connections/2026-07-25-cad-histories-agent-action-logs.md",
       "category": "unexpected-connections",
@@ -1118,7 +1138,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-07-25 Wardrobe apps and agent memory systems fail in the same way when they store only static state. A wardrobe inventory records: item exists An agent memory records: event happened → context → action → outco…",
-      "modified": "2026-07-25T21:34:56.026Z",
+      "modified": "2026-07-25T21:36:45.292Z",
       "size": 1867,
       "meta": {}
     },
@@ -1172,7 +1192,7 @@
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 8
+      "count": 9
     },
     {
       "id": "unexpected-connections",
@@ -1202,7 +1222,7 @@
     {
       "id": "templates",
       "label": "Templates",
-      "count": 7
+      "count": 8
     }
   ]
 }
