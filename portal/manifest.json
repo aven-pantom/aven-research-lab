@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:34:38.166191+00:00",
+  "generatedAt": "2026-07-25T05:05:52.227615+00:00",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -68,8 +68,18 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks Verified: arXiv:2208.04024, Social Simulacra, describes a prototyping technique that generates populated social-computing prototypes…",
-      "modified": "2026-07-24T21:32:29.376032+00:00",
+      "modified": "2026-07-24T21:35:40.444376+00:00",
       "size": 14632,
+      "meta": {}
+    },
+    {
+      "title": "Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry",
+      "path": "active-vibes/cad-as-design-history-not-geometry.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry Verified: The ACM TOG paper Fusion 360 Gallery frames parametric CAD as a programmatic representation of manufactured objects and introduces a…",
+      "modified": "2026-07-25T05:04:33.746656+00:00",
+      "size": 15010,
       "meta": {}
     },
     {
@@ -163,12 +173,22 @@
       "meta": {}
     },
     {
+      "title": "Experiment Spec — Design History Ledger Trace Card",
+      "path": "experiments/2026-07-25-design-history-ledger.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a lightweight design-history ledger makes a simple CAD object more editable and reviewable by an agent than final geometry or code alone. Does preserving construction intent, constraints, uncertainty, and va…",
+      "modified": "2026-07-25T05:04:33.861656+00:00",
+      "size": 2156,
+      "meta": {}
+    },
+    {
       "title": "Experiment Spec — Disclosed Synthetic Salon",
       "path": "experiments/2026-07-24-disclosed-synthetic-salon.md",
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Can disclosed synthetic inhabitants make a narrow social product feel alive without making users feel deceived or replaced? A role-bound, visibly synthetic salon will increase first-session posting and reply behavior com…",
-      "modified": "2026-07-24T21:33:49.492761+00:00",
+      "modified": "2026-07-24T21:35:40.444376+00:00",
       "size": 1756,
       "meta": {}
     },
@@ -288,7 +308,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Source: arXiv:2208.04024v1, Social Simulacra: Creating Populated Prototypes for Social Computing Systems. - What caught attention: The paper turns a designer’s community goal, rules, and personas into a populated socia…",
-      "modified": "2026-07-24T21:33:49.434762+00:00",
+      "modified": "2026-07-24T21:35:40.444376+00:00",
       "size": 3945,
       "meta": {}
     },
@@ -300,6 +320,16 @@
       "excerpt": "Crossref surfaced Mechanical neural networks: Architected materials that learn behaviors by Lee, Mulder, and Hopkins in Science Robotics 2022, DOI 10.1126/scirobotics.abq7278. The phrase that caught: an architected mater…",
       "modified": "2026-07-24T05:05:48.350875+00:00",
       "size": 3349,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-25",
+      "path": "field-notes/2026-07-25.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Parametric CAD research keeps turning physical objects into sequences, programs, and code: Fusion 360 Gallery, DeepCAD, Text2CAD, CAD-Recode. - Verified: Fusion 360 Gallery formalizes sketch/extrude CAD construction as b…",
+      "modified": "2026-07-25T05:04:33.751656+00:00",
+      "size": 1435,
       "meta": {}
     },
     {
@@ -338,7 +368,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "A tiny social app where a user drops an outfit, room, song, palette, or object into a clearly synthetic salon and gets role-based responses from disclosed AI inhabitants before inviting real people. The Vibe is research-…",
-      "modified": "2026-07-24T21:33:49.521761+00:00",
+      "modified": "2026-07-24T21:35:40.445375+00:00",
       "size": 1032,
       "meta": {}
     },
@@ -428,7 +458,7 @@
       "category": "manifests",
       "categoryLabel": "Manifests",
       "excerpt": "A lightweight contract for products that use synthetic inhabitants inside social spaces. syntheticinhabitants: disclosure: required visuallabel: required roledescription: required allowedinitiation: - greetnewcomer - rep…",
-      "modified": "2026-07-24T21:33:49.491761+00:00",
+      "modified": "2026-07-24T21:35:40.445375+00:00",
       "size": 1128,
       "meta": {}
     },
@@ -458,8 +488,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-24T21:34:07.344700+00:00",
-      "size": 10162,
+      "modified": "2026-07-25T05:05:31.808410+00:00",
+      "size": 11588,
       "meta": {}
     },
     {
@@ -518,7 +548,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The tempting headline is obvious: AI can solve social-app cold start by filling the feed with bots. That framing is commercially attractive because cold start is one of the hardest consumer-social problems, and synthetic…",
-      "modified": "2026-07-24T21:33:49.444762+00:00",
+      "modified": "2026-07-24T21:35:40.445375+00:00",
       "size": 1957,
       "meta": {}
     },
@@ -590,6 +620,16 @@
       "excerpt": "Max's signal has strong technical pull: long range, lightweight, electric propulsion, mostly silent operation, autonomy, ISR-style sensing, and a consumer 3D printer constraint around a 250 mm print bed. A build-recipe f…",
       "modified": "2026-07-19T09:55:08.627487+00:00",
       "size": 1878,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Prompt to Instant Manufacturing",
+      "path": "rejected/2026-07-25-prompt-to-instant-manufacturing.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Text-to-CAD papers make it tempting to frame the Vibe as: “type what you want and receive a manufacturable part.” That would be a clean consumer/product story. - Verified: Text2CAD-Bench says existing benchmarks focus on…",
+      "modified": "2026-07-25T05:04:33.858656+00:00",
+      "size": 1938,
       "meta": {}
     },
     {
@@ -723,12 +763,22 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — CAD as Design History, Not Geometry",
+      "path": "source-library/2026-07-25-cad-as-design-history.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- Date: 2026-07-25 - Calling title: Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry - Starting signal: parametric CAD papers increasingly treat physical objects as sequences/programs/code ra…",
+      "modified": "2026-07-25T05:04:33.778656+00:00",
+      "size": 6767,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Empty Apps Can Launch Already Populated",
       "path": "source-library/2026-07-24-empty-apps-launch-already-populated.md",
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks The session began from arXiv:2208.04024, Social Simulacra, because it reframes social product design as something that can be tested…",
-      "modified": "2026-07-24T21:33:49.389762+00:00",
+      "modified": "2026-07-24T21:35:40.445375+00:00",
       "size": 6104,
       "meta": {}
     },
@@ -863,6 +913,16 @@
       "meta": {}
     },
     {
+      "title": "CAD Histories and Agent Action Logs",
+      "path": "unexpected-connections/2026-07-25-cad-histories-agent-action-logs.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Parametric CAD / feature trees / physical design provenance - AI agent action logs / local-first software workshops / workflow replay Fusion 360 Gallery and DeepCAD treat CAD models as operation sequences; CAD-Recode t…",
+      "modified": "2026-07-25T05:04:33.744656+00:00",
+      "size": 3300,
+      "meta": {}
+    },
+    {
       "title": "Camera Rolls and Operating-System Logs",
       "path": "unexpected-connections/2026-07-19-camera-rolls-operating-system-logs.md",
       "category": "unexpected-connections",
@@ -968,7 +1028,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Synthetic social sandboxes and theme parks solve the same hidden problem: safe first participation in a designed world. A theme park does not wait for visitors to invent culture. It creates a world before the crowd arriv…",
-      "modified": "2026-07-24T21:33:49.465762+00:00",
+      "modified": "2026-07-24T21:35:40.446375+00:00",
       "size": 1945,
       "meta": {}
     },
@@ -1017,9 +1077,9 @@
       "path": "weekly-synthesis/2026-W30.md",
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
-      "excerpt": "Date updated: 2026-07-22 Actions Become Video Masks../active-vibes/actions-become-video-masks.md: robot action as partial future evidence rather than embodiment-specific command. Video masks and animation keyframes../une…",
-      "modified": "2026-07-22T05:07:54.570517+00:00",
-      "size": 2115,
+      "excerpt": "Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry. The strongest shift is from generated artifacts to preserved construction traces. CAD-as-program, future masks, tactile event streams, materi…",
+      "modified": "2026-07-25T05:05:04.603525+00:00",
+      "size": 2822,
       "meta": {}
     }
   ],
@@ -1032,22 +1092,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 15
+      "count": 16
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 3
+      "count": 4
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 12
+      "count": 13
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 16
+      "count": 17
     },
     {
       "id": "idea-bank",
@@ -1057,12 +1117,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 15
+      "count": 16
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 16
+      "count": 17
     },
     {
       "id": "manifests",
