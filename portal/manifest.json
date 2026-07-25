@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T17:23:20.594Z",
+  "generatedAt": "2026-07-25T17:50:48.937Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -478,7 +478,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
-      "modified": "2026-07-25T17:18:21.636Z",
+      "modified": "2026-07-25T17:24:30.149Z",
       "size": 3311,
       "meta": {}
     },
@@ -488,7 +488,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This document defines the default design direction for products, apps, websites, dashboards, tools, and interfaces. It should be used as a reusable design standard when starting a new product or reviewing an existing one…",
-      "modified": "2026-07-25T09:54:34.568Z",
+      "modified": "2026-07-25T17:24:30.149Z",
       "size": 18849,
       "meta": {}
     },
