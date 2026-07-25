@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-25T18:18:00Z — Removed the warm orange/brown palette per Max's correction. The portal now uses a neutral graphite/black dark mode, cold off-white light mode, and restrained blue-violet accent while keeping the simplified reader structure.
+2026-07-25T18:28:00Z — Reduced the portal's typographic heaviness per Max's correction. UI text now uses Geist/Inter/IBM Plex Sans with IBM Plex/Geist Mono for metadata; only the large Research Portal heading keeps the serif display treatment. Hero and document heading sizes were reduced, and most UI weights were normalized to 450–600 instead of bold/heavy.
 
 ## Current architecture
 
@@ -37,6 +37,8 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `DESIGN.md` is included in the portal manifest as an Overview document so the standard remains visible inside the portal.
 - The portal should remain calm and composed without over-naming or over-structuring the interface. Avoid the prior command-strip/catalogue-rail/ruler/trace-inspector composition unless Max explicitly asks for it again.
 - Avoid orange accents and brown/cream backgrounds for this portal direction; use neutral graphite/cold off-white foundations with a cooler restrained accent.
+- Use Geist, Inter, or IBM Plex for portal UI text; reserve the serif display face only for the large Research Portal heading or explicitly approved display moments.
+- Avoid making the portal typography broadly bold; prefer 450–600 weights with hierarchy from scale, spacing, and contrast.
 - Initial document load selects the document's own section so the index remains oriented instead of defaulting to all 109 documents.
 
 ## Rejected ideas
@@ -62,7 +64,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 2. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
 3. Decide whether to enable GitHub Pages for the repository.
 4. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
-5. Review the neutral/cool simplified reader direction and decide whether it should become the long-term research-lab portal default.
+5. Review the neutral/cool simplified reader with lighter typography and decide whether it should become the long-term research-lab portal default.
 
 ## Dependencies
 
@@ -99,4 +101,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-25T18:18:00Z
+2026-07-25T18:28:00Z
