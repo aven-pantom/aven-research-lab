@@ -17,9 +17,6 @@ const els = {
   githubLink: document.getElementById('githubLink'),
   docCount: document.getElementById('docCount'),
   categoryCount: document.getElementById('categoryCount'),
-  generatedAt: document.getElementById('generatedAt'),
-  currentSummary: document.getElementById('currentSummary'),
-  toc: document.getElementById('toc'),
   lightMode: document.getElementById('lightMode'),
   darkMode: document.getElementById('darkMode'),
 };
@@ -199,18 +196,10 @@ function renderDocumentList() {
   els.documents.innerHTML = docs.map((doc, index) => `
     <button class="doc-button ${state.selectedPath === doc.path ? 'active' : ''}" data-path="${escapeHtml(doc.path)}" data-index="${String(index + 1).padStart(2, '0')}" type="button">
       <strong>${escapeHtml(doc.title)}</strong>
-      <span>${escapeHtml(doc.excerpt || doc.path)}</span>
     </button>
   `).join('');
   const active = els.documents.querySelector('.doc-button.active');
   if (active) active.scrollIntoView({ block: 'center' });
-}
-
-function renderToc() {
-  const headings = [...els.document.querySelectorAll('.prose h2, .prose h3')].slice(0, 18);
-  els.toc.innerHTML = headings.length
-    ? headings.map(h => `<a href="#${h.id}">${escapeHtml(h.textContent)}</a>`).join('')
-    : '<p class="note">No section outline.</p>';
 }
 
 async function selectDocument(path, push = true) {
@@ -218,12 +207,11 @@ async function selectDocument(path, push = true) {
   if (!doc) return;
   state.selectedPath = doc.path;
   renderDocumentList();
-  els.document.className = 'document-surface loading';
+  els.document.className = 'document loading';
   els.document.textContent = `Loading ${doc.path}…`;
   els.breadcrumb.textContent = doc.path;
   els.rawLink.href = `../${doc.path}`;
   els.githubLink.href = `https://github.com/aven-pantom/aven-research-lab/blob/main/${doc.path}`;
-  els.currentSummary.textContent = `${doc.categoryLabel} · ${doc.excerpt || 'No excerpt available.'}`;
 
   try {
     const response = await fetch(`../${doc.path}`, { cache: 'no-cache' });
@@ -233,14 +221,12 @@ async function selectDocument(path, push = true) {
     for (const [key, value] of Object.entries(doc.meta || {})) {
       if (value) chips.push(`<span class="badge">${escapeHtml(key)}: ${escapeHtml(value)}</span>`);
     }
-    els.document.className = 'document-surface';
+    els.document.className = 'document';
     els.document.innerHTML = `<div class="doc-meta">${chips.join('')}</div><div class="prose">${renderMarkdown(markdown)}</div>`;
-    renderToc();
     if (push) history.replaceState(null, '', `#${encodeURIComponent(doc.path)}`);
   } catch (error) {
-    els.document.className = 'document-surface';
+    els.document.className = 'document';
     els.document.innerHTML = `<div class="prose"><h1>Could not load Markdown</h1><p>${escapeHtml(String(error))}</p><p>Run <code>npm run dev:portal</code>, then open <code>http://localhost:8787/portal/</code>. Browser file URLs cannot fetch neighboring Markdown files reliably.</p></div>`;
-    els.toc.innerHTML = '';
   }
 }
 
@@ -258,7 +244,6 @@ async function boot() {
   state.documents = state.manifest.documents;
   els.docCount.textContent = state.documents.length;
   els.categoryCount.textContent = state.manifest.categories.length;
-  els.generatedAt.textContent = new Date(state.manifest.generatedAt).toISOString().slice(0, 10);
   const initialPath = decodeURIComponent(location.hash.slice(1)) || 'research-map.md';
   const initialDoc = state.documents.find(doc => doc.path === initialPath);
   state.selectedCategory = initialDoc?.category || 'all';
@@ -289,6 +274,6 @@ window.addEventListener('hashchange', () => {
 });
 
 boot().catch(error => {
-  els.document.className = 'document-surface';
+  els.document.className = 'document';
   els.document.innerHTML = `<div class="prose"><h1>Portal failed to start</h1><p>${escapeHtml(String(error))}</p></div>`;
 });
