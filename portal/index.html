@@ -4,103 +4,61 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Aven Research Portal</title>
-  <meta name="description" content="A composed research instrument for the Aven Research Lab markdown repository." />
-  <link rel="stylesheet" href="styles.css?v=instrument-20260725" />
+  <meta name="description" content="A quiet HTML and Tailwind reader for the Aven Research Lab markdown repository." />
+  <link rel="stylesheet" href="styles.css?v=simple-20260725" />
 </head>
 <body>
-  <div class="atmosphere" aria-hidden="true"></div>
-  <div class="page-frame">
-    <header class="command-strip" aria-label="Portal status and commands">
-      <div class="identity-lockup">
-        <span class="index-mark">ARL</span>
-        <span class="mode-label">Vibe Research Instrument</span>
+  <main class="portal">
+    <section class="intro" aria-label="Portal introduction">
+      <p class="kicker">Aven Research Lab</p>
+      <div class="intro-grid">
+        <h1>Research<br />Portal</h1>
+        <div class="intro-copy">
+          <p>A quiet reader for Vibe Research notes, source material, experiments, rejected paths, and synthesis.</p>
+          <div class="meta-line">
+            <span><strong id="docCount">—</strong> docs</span>
+            <span><strong id="categoryCount">—</strong> sections</span>
+            <span>HTML + Tailwind</span>
+          </div>
+        </div>
       </div>
-      <div class="command-center">
-        <label class="command-search" for="search">
-          <span>Find signal</span>
-          <input id="search" type="search" placeholder="cadence, drones, materials, cameras…" autocomplete="off" />
-        </label>
+    </section>
+
+    <section class="tools" aria-label="Search and theme">
+      <label class="search-control" for="search">
+        <span>Search</span>
+        <input id="search" type="search" placeholder="cadence, drones, materials, cameras…" autocomplete="off" />
+      </label>
+      <div class="theme-toggle" aria-label="Theme">
+        <button id="lightMode" type="button">Light</button>
+        <button id="darkMode" type="button">Dark</button>
       </div>
-      <div class="command-actions" aria-label="Theme">
-        <button class="field-toggle" id="lightMode" type="button">Light</button>
-        <button class="field-toggle" id="darkMode" type="button">Dark</button>
-      </div>
-    </header>
+    </section>
 
-    <div class="instrument-grid">
-      <aside class="catalogue-rail" aria-label="Research navigation">
-        <section class="portal-title-block">
-          <div class="eyebrow"><span>Catalogue / Control Surface</span><i></i></div>
-          <h1>Aven<br />Research<br />Lab</h1>
-          <p>Markdown research arranged as a living instrument: active signals, source notes, experiments, rejected paths, and synthesis.</p>
-        </section>
+    <nav id="categories" class="sections" aria-label="Document categories"></nav>
 
-        <section class="rail-section section-selector">
-          <div class="rail-heading">Sections</div>
-          <nav id="categories" class="category-list" aria-label="Document categories"></nav>
-        </section>
-
-        <section class="rail-section index-selector">
-          <div class="rail-heading">Index</div>
-          <nav id="documents" class="doc-list" aria-label="Documents"></nav>
-        </section>
+    <section class="workspace">
+      <aside class="document-index" aria-label="Documents">
+        <div class="index-heading">Index</div>
+        <nav id="documents" class="doc-list"></nav>
       </aside>
 
-      <main class="reading-field" aria-label="Selected research document">
-        <div class="field-ruler" aria-hidden="true">
-          <span>00</span><span>25</span><span>50</span><span>75</span><span>100</span>
-        </div>
-        <div class="document-toolbar">
+      <article class="reader">
+        <header class="reader-header">
           <div>
-            <div class="toolbar-kicker">Current document</div>
-            <div id="breadcrumb" class="breadcrumb">Loading portal manifest…</div>
+            <p class="reader-label">Current document</p>
+            <p id="breadcrumb" class="breadcrumb">Loading portal manifest…</p>
           </div>
-          <div class="toolbar-actions">
-            <a id="rawLink" class="action-link" href="#" target="_blank" rel="noreferrer">Raw MD</a>
-            <a id="githubLink" class="action-link accent-link" href="#" target="_blank" rel="noreferrer">GitHub</a>
+          <div class="reader-links">
+            <a id="rawLink" href="#" target="_blank" rel="noreferrer">Raw MD</a>
+            <a id="githubLink" href="#" target="_blank" rel="noreferrer">GitHub</a>
           </div>
-        </div>
-        <article id="document" class="document-surface loading">Loading…</article>
-      </main>
+        </header>
+        <div id="document" class="document loading">Loading…</div>
+      </article>
+    </section>
+  </main>
 
-      <aside class="trace-rail" aria-label="Document inspector">
-        <section class="trace-panel status-panel">
-          <div class="trace-heading">System state</div>
-          <div class="live-readout"><span></span><strong>Static / Live</strong></div>
-          <p>HTML + Tailwind + Node. Markdown remains the source; the interface is the instrument, not a CMS.</p>
-        </section>
-
-        <section class="trace-panel metric-panel">
-          <div class="trace-heading">Repository mass</div>
-          <div class="metric-row"><strong id="docCount">—</strong><span>Documents</span></div>
-          <div class="metric-row"><strong id="categoryCount">—</strong><span>Sections</span></div>
-          <div class="metric-row subtle"><strong id="generatedAt">—</strong><span>Manifest</span></div>
-        </section>
-
-        <section class="trace-panel current-panel">
-          <div class="trace-heading">Selected trace</div>
-          <p id="currentSummary">Pick a document to inspect.</p>
-        </section>
-
-        <section class="trace-panel outline-panel">
-          <div class="trace-heading">Outline</div>
-          <nav id="toc" class="toc"></nav>
-        </section>
-
-        <section class="trace-panel posture-panel">
-          <div class="trace-heading">Design law</div>
-          <p>Minimal on the surface, deeply involved underneath.</p>
-          <ol>
-            <li>One dominant composition</li>
-            <li>Controlled density</li>
-            <li>Typography as interface</li>
-            <li>Quiet base, singular disruption</li>
-          </ol>
-        </section>
-      </aside>
-    </div>
-  </div>
-
-  <script src="app.js?v=instrument-20260725"></script>
+  <script src="app.js?v=simple-20260725"></script>
 </body>
 </html>
