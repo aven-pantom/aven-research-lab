@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T18:36:38.377Z",
+  "generatedAt": "2026-07-25T21:35:51.130Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -160,6 +160,16 @@
       "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Verified: Ink & Switch’s local-first essay is titled “Local-first software: You own your data, in spite of the cloud,” and its descriptio…",
       "modified": "2026-07-23T06:35:10.718Z",
       "size": 12035,
+      "meta": {}
+    },
+    {
+      "title": "Wardrobes Need Simulation Memory: Style Engines That Remember What Actually Worked",
+      "path": "active-vibes/wardrobes-need-simulation-memory.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Wardrobes Need Simulation Memory: Style Engines That Remember What Actually Worked Verified: Recent image-based virtual try-on work has moved from older warping/fusion pipelines toward diffusion-based garment transfer. I…",
+      "modified": "2026-07-25T21:34:01.316Z",
+      "size": 13405,
       "meta": {}
     },
     {
@@ -333,6 +343,16 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — Wardrobes Need Simulation Memory",
+      "path": "field-notes/2026-07-25-wardrobes-need-simulation-memory.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Date: 2026-07-25 Diffusion virtual try-on is getting lighter and more public at the same time consumer wardrobe apps are normalizing closet digitization. The overlooked possibility is a style memory system that learns fr…",
+      "modified": "2026-07-25T21:34:46.145Z",
+      "size": 2595,
+      "meta": {}
+    },
+    {
       "title": "Five Banger Directions — 2026-07-18",
       "path": "idea-bank/2026-07-18-five-banger-directions.md",
       "category": "idea-bank",
@@ -498,8 +518,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-25T05:07:00.950Z",
-      "size": 11588,
+      "modified": "2026-07-25T21:35:27.760Z",
+      "size": 12085,
       "meta": {}
     },
     {
@@ -560,6 +580,16 @@
       "excerpt": "The tempting headline is obvious: AI can solve social-app cold start by filling the feed with bots. That framing is commercially attractive because cold start is one of the hardest consumer-social problems, and synthetic…",
       "modified": "2026-07-24T21:35:40.445Z",
       "size": 1957,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — AI Virtual Fitting Room for Ecommerce",
+      "path": "rejected/2026-07-25-ai-virtual-fitting-room-ecommerce.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-07-25 Diffusion virtual try-on papers and repos make it natural to frame the opportunity as an ecommerce fitting room: upload a body photo, choose a garment, see yourself wearing it, buy with more confidence.…",
+      "modified": "2026-07-25T21:35:06.098Z",
+      "size": 1856,
       "meta": {}
     },
     {
@@ -710,6 +740,16 @@
       "excerpt": "2026-07-19 A new camera app may need to capture change, atmosphere, semantic transitions, and personal world-state rather than only pictures and videos. - URL: https://arxiv.org/abs/1904.08405 - Type: survey / near-prima…",
       "modified": "2026-07-19T09:55:08.627Z",
       "size": 3424,
+      "meta": {}
+    },
+    {
+      "title": "Source Library — Wardrobes Need Simulation Memory",
+      "path": "source-library/2026-07-25-wardrobes-need-simulation-memory.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-07-25 Slug: wardrobes-need-simulation-memory The session began from a fresh signal: diffusion virtual try-on is improving while consumer wardrobe apps are already teaching users to digitize closets. The intere…",
+      "modified": "2026-07-25T21:34:28.874Z",
+      "size": 5868,
       "meta": {}
     },
     {
@@ -1073,6 +1113,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Wardrobe Apps and Agent Memory",
+      "path": "unexpected-connections/2026-07-25-wardrobes-need-simulation-memory.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-07-25 Wardrobe apps and agent memory systems fail in the same way when they store only static state. A wardrobe inventory records: item exists An agent memory records: event happened → context → action → outco…",
+      "modified": "2026-07-25T21:34:56.026Z",
+      "size": 1867,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection: Robot Skin and Operating-System Interrupts",
       "path": "unexpected-connections/2026-07-19-robot-skin-operating-system-interrupts.md",
       "category": "unexpected-connections",
@@ -1102,7 +1152,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 16
+      "count": 17
     },
     {
       "id": "experiments",
@@ -1112,12 +1162,12 @@
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 13
+      "count": 14
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 17
+      "count": 18
     },
     {
       "id": "idea-bank",
@@ -1127,12 +1177,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 16
+      "count": 17
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 17
+      "count": 18
     },
     {
       "id": "manifests",
