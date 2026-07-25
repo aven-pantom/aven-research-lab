@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-25T17:16:32Z — Research portal implementation pivoted to HTML + Tailwind + Node per Max's direction. The portal remains static/Markdown-first, uses `portal/tailwind.css` compiled to `portal/styles.css`, uses `scripts/build-portal-manifest.mjs` for the manifest, and no longer relies on Python for portal build/serve instructions.
+2026-07-25T17:25:18Z — Research portal redesigned again against `DESIGN.md` as a composed catalogue/control-surface instrument. The interface now emphasizes a command strip, catalogue rail, measurement/ruler reading field, paper-like document plane, and trace inspector. Light and dark modes were verified live through Wormkey.
 
 ## Current architecture
 
@@ -35,6 +35,8 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Supplied screenshots are used as visual inspiration assets, not copied UI skins.
 - `DESIGN.md` is now the project-local design source of truth for interface work: calm, precise, editorial, spatial, technical, premium, composed, and instrument-like rather than generic SaaS.
 - `DESIGN.md` is included in the portal manifest as an Overview document so the standard remains visible inside the portal.
+- The portal interface should feel like a research instrument, not a dashboard: top command strip, catalogue/index rail, central reading plane, and trace/metadata rail.
+- Initial document load selects the document's own section so the index remains oriented instead of defaulting to all 109 documents.
 
 ## Rejected ideas
 
@@ -59,7 +61,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 2. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
 3. Decide whether to enable GitHub Pages for the repository.
 4. If public browsing matters, add a small workflow that rebuilds `portal/manifest.json` on Markdown changes.
-5. Review the rebuilt portal on a wider desktop viewport and decide whether the amber editorial system should become the long-term research-lab brand default.
+5. Decide whether this catalogue/control-surface instrument direction should become the long-term research-lab brand default.
 
 ## Dependencies
 
@@ -71,7 +73,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Portal manifest can drift if research files change without `npm run build:portal`.
 - The custom Markdown renderer is intentionally small and may not support edge-case Markdown extensions.
 - Design polish can hide weak research structure; the Markdown corpus remains the source of truth.
-- The new portal design is stronger but more typographically assertive; future dense documents should be checked for readability and scroll behavior on small screens.
+- The portal design is now more distinctive but relies heavily on typographic scale and fixed regions; future dense documents should be checked for readability and scroll behavior on small screens.
 
 ## Relevant files
 
@@ -96,4 +98,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-25T17:16:32Z
+2026-07-25T17:25:18Z

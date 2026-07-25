@@ -4,99 +4,103 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Aven Research Portal</title>
-  <meta name="description" content="Editorial instrument for reading the Aven Research Lab markdown repository." />
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="A composed research instrument for the Aven Research Lab markdown repository." />
+  <link rel="stylesheet" href="styles.css?v=instrument-20260725" />
 </head>
 <body>
-  <div class="grain" aria-hidden="true"></div>
-  <div class="shell">
-    <aside class="sidebar" aria-label="Research navigation">
-      <div class="brand">
-        <div class="eyebrow"><span>Research instrument</span><span class="system-dot"></span></div>
-        <h1>Aven<br />Research<br />Portal</h1>
-        <p>Markdown-first Vibe research, arranged as a living catalogue: active signals, source notes, rejected paths, experiments, and syntheses.</p>
+  <div class="atmosphere" aria-hidden="true"></div>
+  <div class="page-frame">
+    <header class="command-strip" aria-label="Portal status and commands">
+      <div class="identity-lockup">
+        <span class="index-mark">ARL</span>
+        <span class="mode-label">Vibe Research Instrument</span>
       </div>
-
-      <div class="controls">
-        <label class="search-shell" for="search">
-          <span>Search</span>
-          <input id="search" class="search" type="search" placeholder="materials, agents, drones, cadence…" autocomplete="off" />
+      <div class="command-center">
+        <label class="command-search" for="search">
+          <span>Find signal</span>
+          <input id="search" type="search" placeholder="cadence, drones, materials, cameras…" autocomplete="off" />
         </label>
-        <div class="toggle-row" aria-label="Theme">
-          <button class="pill-button" id="lightMode" type="button">Light field</button>
-          <button class="pill-button" id="darkMode" type="button">Dark field</button>
-        </div>
       </div>
-
-      <div class="rail-label">Sections</div>
-      <nav id="categories" class="category-list" aria-label="Document categories"></nav>
-      <div class="rail-label">Index</div>
-      <nav id="documents" class="doc-list" aria-label="Documents"></nav>
-    </aside>
-
-    <main class="main">
-      <div class="topbar">
-        <div>
-          <div class="top-kicker">Current document</div>
-          <div id="breadcrumb" class="breadcrumb">Loading portal manifest…</div>
-        </div>
-        <div class="actions">
-          <a id="rawLink" class="action" href="#" target="_blank" rel="noreferrer">Raw MD</a>
-          <a id="githubLink" class="action accent-action" href="#" target="_blank" rel="noreferrer">GitHub</a>
-        </div>
+      <div class="command-actions" aria-label="Theme">
+        <button class="field-toggle" id="lightMode" type="button">Light</button>
+        <button class="field-toggle" id="darkMode" type="button">Dark</button>
       </div>
-      <article id="document" class="document loading">Loading…</article>
-    </main>
+    </header>
 
-    <aside class="inspector" aria-label="Document inspector">
-      <div class="inspector-inner">
-        <section class="panel panel-status">
-          <div class="panel-title">System state</div>
-          <div class="status-line"><span></span><strong>Live static portal</strong></div>
-          <p class="note">No CMS. No build chain. The portal reads repository Markdown directly through a generated manifest.</p>
+    <div class="instrument-grid">
+      <aside class="catalogue-rail" aria-label="Research navigation">
+        <section class="portal-title-block">
+          <div class="eyebrow"><span>Catalogue / Control Surface</span><i></i></div>
+          <h1>Aven<br />Research<br />Lab</h1>
+          <p>Markdown research arranged as a living instrument: active signals, source notes, experiments, rejected paths, and synthesis.</p>
         </section>
 
-        <section class="panel metrics-panel">
-          <div class="panel-title">Repository</div>
-          <div class="stat-grid">
-            <div class="stat"><strong id="docCount">—</strong><span>Markdown files</span></div>
-            <div class="stat"><strong id="categoryCount">—</strong><span>Sections</span></div>
+        <section class="rail-section section-selector">
+          <div class="rail-heading">Sections</div>
+          <nav id="categories" class="category-list" aria-label="Document categories"></nav>
+        </section>
+
+        <section class="rail-section index-selector">
+          <div class="rail-heading">Index</div>
+          <nav id="documents" class="doc-list" aria-label="Documents"></nav>
+        </section>
+      </aside>
+
+      <main class="reading-field" aria-label="Selected research document">
+        <div class="field-ruler" aria-hidden="true">
+          <span>00</span><span>25</span><span>50</span><span>75</span><span>100</span>
+        </div>
+        <div class="document-toolbar">
+          <div>
+            <div class="toolbar-kicker">Current document</div>
+            <div id="breadcrumb" class="breadcrumb">Loading portal manifest…</div>
           </div>
+          <div class="toolbar-actions">
+            <a id="rawLink" class="action-link" href="#" target="_blank" rel="noreferrer">Raw MD</a>
+            <a id="githubLink" class="action-link accent-link" href="#" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </div>
+        <article id="document" class="document-surface loading">Loading…</article>
+      </main>
+
+      <aside class="trace-rail" aria-label="Document inspector">
+        <section class="trace-panel status-panel">
+          <div class="trace-heading">System state</div>
+          <div class="live-readout"><span></span><strong>Static / Live</strong></div>
+          <p>HTML + Tailwind + Node. Markdown remains the source; the interface is the instrument, not a CMS.</p>
         </section>
 
-        <section class="panel">
-          <div class="panel-title">Current document</div>
-          <p id="currentSummary" class="note">Pick a document to inspect.</p>
+        <section class="trace-panel metric-panel">
+          <div class="trace-heading">Repository mass</div>
+          <div class="metric-row"><strong id="docCount">—</strong><span>Documents</span></div>
+          <div class="metric-row"><strong id="categoryCount">—</strong><span>Sections</span></div>
+          <div class="metric-row subtle"><strong id="generatedAt">—</strong><span>Manifest</span></div>
         </section>
 
-        <section class="panel">
-          <div class="panel-title">Outline</div>
+        <section class="trace-panel current-panel">
+          <div class="trace-heading">Selected trace</div>
+          <p id="currentSummary">Pick a document to inspect.</p>
+        </section>
+
+        <section class="trace-panel outline-panel">
+          <div class="trace-heading">Outline</div>
           <nav id="toc" class="toc"></nav>
         </section>
 
-        <section class="panel manifesto-panel">
-          <div class="panel-title">Design posture</div>
-          <p class="note">Calm surface, involved underneath. Catalogue discipline, poster confidence, instrument logic.</p>
-          <ol class="principles">
-            <li>Fewer, stronger regions</li>
-            <li>Visible grid logic</li>
-            <li>Typography carries hierarchy</li>
-            <li>One singular disruption</li>
+        <section class="trace-panel posture-panel">
+          <div class="trace-heading">Design law</div>
+          <p>Minimal on the surface, deeply involved underneath.</p>
+          <ol>
+            <li>One dominant composition</li>
+            <li>Controlled density</li>
+            <li>Typography as interface</li>
+            <li>Quiet base, singular disruption</li>
           </ol>
         </section>
-
-        <section class="panel inspiration-panel">
-          <div class="panel-title">Visual references</div>
-          <div class="inspiration-grid">
-            <img src="assets/inspiration-agent-clarify.jpg" alt="Minimal dark agent clarification interface" />
-            <img src="assets/inspiration-traffic-monitor.jpg" alt="Dark request monitoring dashboard" />
-            <img src="assets/inspiration-drone-hud.jpg" alt="Purple tactical drone HUD" />
-          </div>
-        </section>
-      </div>
-    </aside>
+      </aside>
+    </div>
   </div>
 
-  <script src="app.js"></script>
+  <script src="app.js?v=instrument-20260725"></script>
 </body>
 </html>

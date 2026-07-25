@@ -17,6 +17,7 @@ const els = {
   githubLink: document.getElementById('githubLink'),
   docCount: document.getElementById('docCount'),
   categoryCount: document.getElementById('categoryCount'),
+  generatedAt: document.getElementById('generatedAt'),
   currentSummary: document.getElementById('currentSummary'),
   toc: document.getElementById('toc'),
   lightMode: document.getElementById('lightMode'),
@@ -201,6 +202,8 @@ function renderDocumentList() {
       <span>${escapeHtml(doc.excerpt || doc.path)}</span>
     </button>
   `).join('');
+  const active = els.documents.querySelector('.doc-button.active');
+  if (active) active.scrollIntoView({ block: 'center' });
 }
 
 function renderToc() {
@@ -215,7 +218,7 @@ async function selectDocument(path, push = true) {
   if (!doc) return;
   state.selectedPath = doc.path;
   renderDocumentList();
-  els.document.className = 'document loading';
+  els.document.className = 'document-surface loading';
   els.document.textContent = `Loading ${doc.path}…`;
   els.breadcrumb.textContent = doc.path;
   els.rawLink.href = `../${doc.path}`;
@@ -230,12 +233,12 @@ async function selectDocument(path, push = true) {
     for (const [key, value] of Object.entries(doc.meta || {})) {
       if (value) chips.push(`<span class="badge">${escapeHtml(key)}: ${escapeHtml(value)}</span>`);
     }
-    els.document.className = 'document';
+    els.document.className = 'document-surface';
     els.document.innerHTML = `<div class="doc-meta">${chips.join('')}</div><div class="prose">${renderMarkdown(markdown)}</div>`;
     renderToc();
     if (push) history.replaceState(null, '', `#${encodeURIComponent(doc.path)}`);
   } catch (error) {
-    els.document.className = 'document';
+    els.document.className = 'document-surface';
     els.document.innerHTML = `<div class="prose"><h1>Could not load Markdown</h1><p>${escapeHtml(String(error))}</p><p>Run <code>npm run dev:portal</code>, then open <code>http://localhost:8787/portal/</code>. Browser file URLs cannot fetch neighboring Markdown files reliably.</p></div>`;
     els.toc.innerHTML = '';
   }
@@ -255,8 +258,11 @@ async function boot() {
   state.documents = state.manifest.documents;
   els.docCount.textContent = state.documents.length;
   els.categoryCount.textContent = state.manifest.categories.length;
-  renderCategories();
+  els.generatedAt.textContent = new Date(state.manifest.generatedAt).toISOString().slice(0, 10);
   const initialPath = decodeURIComponent(location.hash.slice(1)) || 'research-map.md';
+  const initialDoc = state.documents.find(doc => doc.path === initialPath);
+  state.selectedCategory = initialDoc?.category || 'all';
+  renderCategories();
   await selectDocument(initialPath, false);
 }
 
@@ -283,6 +289,6 @@ window.addEventListener('hashchange', () => {
 });
 
 boot().catch(error => {
-  els.document.className = 'document';
+  els.document.className = 'document-surface';
   els.document.innerHTML = `<div class="prose"><h1>Portal failed to start</h1><p>${escapeHtml(String(error))}</p></div>`;
 });
