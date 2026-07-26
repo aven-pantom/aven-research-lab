@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T05:05:17.644Z",
+  "generatedAt": "2026-07-26T21:35:43.835Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -28,7 +28,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Borrowed Rooms, Not Keys: Personal AI Workspaces with Visible Boundaries Verified: Product Hunt's 2026-07-25 feed surfaced several agent-adjacent products around persistent workspaces, managed agent environme…",
-      "modified": "2026-07-26T05:02:53.586Z",
+      "modified": "2026-07-26T05:06:15.297Z",
       "size": 13740,
       "meta": {}
     },
@@ -160,6 +160,16 @@
       "excerpt": "The Camera That Finds the Colors You Were Too Polite to Use Verified: Max shared an Instagram reel by @anjeees with the visible caption UGLY MAXXING COLOR EDITION and asked for Vibe Research on an app where a user takes…",
       "modified": "2026-07-20T11:52:35.794Z",
       "size": 9714,
+      "meta": {}
+    },
+    {
+      "title": "The Next Creative Tool Might Be a Tiny World: Software With Its Own Physics",
+      "path": "active-vibes/tiny-world-tools.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Next Creative Tool Might Be a Tiny World: Software With Its Own Physics On 2026-07-26, Hacker News surfaced Decker, a HyperCard-descended multimedia platform that makes interactive documents with sound, images, hyper…",
+      "modified": "2026-07-26T21:33:21.972Z",
+      "size": 9600,
       "meta": {}
     },
     {
@@ -358,8 +368,8 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Current scan across Product Hunt, GitHub Trending, and HN showed a cluster: - managed computers for agents; - AI browsers sharing logged-in state; - lock-screen approvals for AI requests; - coding agents synced everywher…",
-      "modified": "2026-07-26T05:03:31.368Z",
-      "size": 2274,
+      "modified": "2026-07-26T21:34:06.098Z",
+      "size": 4561,
       "meta": {}
     },
     {
@@ -467,10 +477,12 @@
       "path": "idea-bank/trend-sparks/2026-07-26.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-07-26 Checked current public signals from Product Hunt feed 2026-07-25, GitHub Trending daily, fetched 2026-07-26, Hacker News RSS fetched 2026-07-26, Apple App Store charts page, Google Play top apps page, Google's…",
-      "modified": "2026-07-26T05:04:34.914Z",
-      "size": 12339,
-      "meta": {}
+      "excerpt": "2026-07-26 Checked current public signals from Product Hunt feed, Hacker News RSS, GitHub Trending daily, selected GitHub repository metadata/READMEs, Decker’s project site, and arXiv search for end-user programming/gene…",
+      "modified": "2026-07-26T21:35:09.457Z",
+      "size": 12070,
+      "meta": {
+        "name": "Airport Parking Choreographer"
+      }
     },
     {
       "title": "Manifest — Future-Mask Action Schema",
@@ -558,8 +570,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-26T05:04:47.104Z",
-      "size": 13487,
+      "modified": "2026-07-26T21:35:22.783Z",
+      "size": 13992,
       "meta": {}
     },
     {
@@ -778,7 +790,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-07-26 Slug: agents-need-borrowed-rooms-not-keys The session began from a current product/source scan where agent tools were no longer only chatbots or APIs. The interesting cluster was: managed computers for a…",
-      "modified": "2026-07-26T05:03:19.545Z",
+      "modified": "2026-07-26T05:06:15.298Z",
       "size": 5221,
       "meta": {}
     },
@@ -943,6 +955,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Tiny World Tools",
+      "path": "source-library/2026-07-26-tiny-world-tools.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-26 autonomous Vibe Research loop. A cluster around constrained creative environments and anti-handoff interfaces: - Decker surfaced on Hacker News RSS as “a platform that builds on the legacy of Hypercard and cla…",
+      "modified": "2026-07-26T21:33:44.983Z",
+      "size": 4606,
+      "meta": {}
+    },
+    {
       "title": "<Research Direction>",
       "path": "templates/research-direction.md",
       "category": "templates",
@@ -1098,7 +1120,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-07-26 A home guest room and a secure agent workspace solve the same hidden problem: temporary intimacy without total access. A guest room says: you are welcome here → this is your room → these shared spaces ar…",
-      "modified": "2026-07-26T05:03:42.799Z",
+      "modified": "2026-07-26T05:06:15.298Z",
       "size": 2287,
       "meta": {}
     },
@@ -1173,6 +1195,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Tiny Worlds and Capability Security",
+      "path": "unexpected-connections/2026-07-26-tiny-worlds-capability-security.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-07-26 Tiny creative environments and agent permission rooms solve the same hidden problem: bounded agency. - HyperCard-like creative tools / Decker / interactive documents - AI agent workspaces / capability security…",
+      "modified": "2026-07-26T21:34:18.417Z",
+      "size": 2431,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Video Masks and Animation Keyframes",
       "path": "unexpected-connections/2026-07-22-video-masks-animation-keyframes.md",
       "category": "unexpected-connections",
@@ -1222,7 +1254,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 18
+      "count": 19
     },
     {
       "id": "experiments",
@@ -1237,7 +1269,7 @@
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 19
+      "count": 20
     },
     {
       "id": "idea-bank",
@@ -1247,7 +1279,7 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 18
+      "count": 19
     },
     {
       "id": "rejected",

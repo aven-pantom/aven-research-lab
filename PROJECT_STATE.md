@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-26T05:04:56Z — Ran autonomous Vibe Research on agent workspace containment. Added **Agents Need Borrowed Rooms, Not Keys**, source notes, field notes, unexpected connection, and exactly 10 Trend Sparks for 2026-07-26. Regenerated the portal manifest after Markdown changes.
+2026-07-26T21:35:25Z — Ran autonomous Vibe Research on tiny creative worlds as anti-handoff interfaces. Added **The Next Creative Tool Might Be a Tiny World**, source notes, field-note additions, unexpected connection, refreshed exactly 10 Trend Sparks for 2026-07-26, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -43,6 +43,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Use **Trend Sparks** rather than “ideas” for the recurring current-trend app opportunity lane. Each Spark must be grounded in current evidence, name existing proof, identify a gap, define a smallest prototype, explain spread potential, and state why it may be fake.
 - Initial document load selects the document's own section so the index remains oriented instead of defaulting to all 109 documents.
 - Agent workspace research should treat permissions as product architecture, not hidden plumbing: Room Contracts, visible boundaries, approval gates, receipts, eviction, and memory policy are the primitives to test.
+- Tiny-world tools are a promising anti-handoff interface primitive: constrained, portable, scriptable environments where humans and agents act through visible verbs, receipts, and aesthetic law.
 
 ## Rejected ideas
 
@@ -63,10 +64,10 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Prototype a Room Contract UI around one safe browser task with allowed surfaces, forbidden actions, approval gates, receipts, and eviction.
-2. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
-3. Run the Design History Ledger trace-card experiment on one simple CAD object and compare agent edits with/without the ledger.
-4. Prototype the disclosed synthetic salon in the narrowest possible form: one room, five labeled synthetic roles, hide toggle, and culture trace logging.
+1. Prototype a one-file research worldlet with fixed objects, visible sources, three allowed agent actions, edit receipts, and Markdown export.
+2. Prototype a Room Contract UI around one safe browser task with allowed surfaces, forbidden actions, approval gates, receipts, and eviction.
+3. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
+4. Run the Design History Ledger trace-card experiment on one simple CAD object and compare agent edits with/without the ledger.
 5. Decide whether to enable GitHub Pages for the repository.
 
 ## Dependencies
@@ -87,6 +88,9 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `research-map.md`
 - `active-vibes/wardrobes-need-simulation-memory.md`
 - `active-vibes/agents-need-borrowed-rooms-not-keys.md`
+- `active-vibes/tiny-world-tools.md`
+- `source-library/2026-07-26-tiny-world-tools.md`
+- `unexpected-connections/2026-07-26-tiny-worlds-capability-security.md`
 - `source-library/2026-07-26-agents-need-borrowed-rooms-not-keys.md`
 - `field-notes/2026-07-26.md`
 - `unexpected-connections/2026-07-26-guest-rooms-capability-security.md`
@@ -116,4 +120,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-26T05:04:56Z
+2026-07-26T21:35:25Z
