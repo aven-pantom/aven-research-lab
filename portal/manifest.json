@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T05:05:11.982Z",
+  "generatedAt": "2026-07-27T21:34:56.548Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -38,8 +38,18 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs On 2026-07-27, the scan converged on a repeated structure across agent benchmarks, browser automation, computer-use demos, and web security…",
-      "modified": "2026-07-27T05:03:29.272Z",
+      "modified": "2026-07-27T05:06:14.781Z",
       "size": 12849,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Peripheral Vision: Ambient Communication for Computer-Use Work",
+      "path": "active-vibes/agents-need-peripheral-vision.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Peripheral Vision: Ambient Communication for Computer-Use Work On 2026-07-27, a fresh arXiv scan surfaced Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents arXiv:2607.17527…",
+      "modified": "2026-07-27T21:34:22.450Z",
+      "size": 12370,
       "meta": {}
     },
     {
@@ -388,8 +398,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Computer-use agents are becoming operational surfaces, not just chat features. The weak pattern across Playwright traces, GUI-agent benchmarks, Anthropic's computer-use risk notes, BrowserGym/WebArena/OSWorld/WAA, and Pr…",
-      "modified": "2026-07-27T05:03:29.354Z",
+      "modified": "2026-07-27T05:06:14.781Z",
       "size": 2319,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-27 — Agent Peripheral Vision",
+      "path": "field-notes/2026-07-27-agent-peripheral-vision.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- arXiv:2607.17527, Sidekick, is unusually direct: CUA feedback is too text-heavy, attention-demanding, and weak for tracing past GUI interactions. - Sidekick's three stages — background ambient cue, resumption summary,…",
+      "modified": "2026-07-27T21:34:22.505Z",
+      "size": 1398,
       "meta": {}
     },
     {
@@ -509,11 +529,11 @@
       "path": "idea-bank/trend-sparks/2026-07-27.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-07-27 Checked current public signals from Product Hunt feed, Hacker News RSS, arXiv search results for web/browser agents, and near-primary project READMEs for Playwright traces, WebArena, BrowserGym, OSWorld, Windo…",
-      "modified": "2026-07-27T05:04:31.411Z",
-      "size": 13045,
+      "excerpt": "2026-07-27 Checked current public signals from Apple Marketing Tools top-free app RSS, Hacker News Algolia recent results, arXiv CUA/HCI papers, and near-primary GitHub READMEs for agent-operation and creator-tool projec…",
+      "modified": "2026-07-27T21:34:22.530Z",
+      "size": 12773,
       "meta": {
-        "name": "Proof-Carrying Compression Studio"
+        "name": "Rare-Sky Briefing"
       }
     },
     {
@@ -602,8 +622,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-27T05:05:02.577Z",
-      "size": 15027,
+      "modified": "2026-07-27T21:34:52.323Z",
+      "size": 15561,
       "meta": {}
     },
     {
@@ -647,12 +667,22 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Agent Avatar Companion",
+      "path": "rejected/2026-07-27-agent-avatar-companion.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-07-27 Sidekick and other agent-operation signals point toward richer communication than chat. A tempting interpretation is to give agents avatars, expressive characters, or companion bodies so users can sense progre…",
+      "modified": "2026-07-27T21:34:22.503Z",
+      "size": 1803,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Agent Bot Defense Arms Race",
       "path": "rejected/2026-07-27-agent-bot-defense-arms-race.md",
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-07-27 Broken Gates surfaces a real frontier: LLM browser agents stress existing bot-management systems, and fine-grained interaction traces reveal security-relevant differences between agents and environments. The p…",
-      "modified": "2026-07-27T05:03:29.324Z",
+      "modified": "2026-07-27T05:06:14.782Z",
       "size": 1428,
       "meta": {}
     },
@@ -892,8 +922,18 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-27 Computer-use agents are moving from chat demos toward persistent browser/desktop/account operation, but the evidence layer is still fragmented across test traces, benchmark logs, security measurements, product…",
-      "modified": "2026-07-27T05:03:29.273Z",
+      "modified": "2026-07-27T05:06:14.783Z",
       "size": 4362,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Agents Need Peripheral Vision",
+      "path": "source-library/2026-07-27-agents-need-peripheral-vision.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-27 A current arXiv paper, Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents arXiv:2607.17527, directly frames the communication gap around background computer-use agents: text…",
+      "modified": "2026-07-27T21:34:22.499Z",
+      "size": 4787,
       "meta": {}
     },
     {
@@ -1142,8 +1182,18 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-07-27 Agent computer-use traces and aviation flight data recorders solve the same hidden problem: reconstructing distributed action after trust has already been spent. An aircraft incident is not explained by one ac…",
-      "modified": "2026-07-27T05:03:29.321Z",
+      "modified": "2026-07-27T05:06:14.783Z",
       "size": 1971,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Agent Peripheral Vision and Cockpit Caution Systems",
+      "path": "unexpected-connections/2026-07-27-agent-peripheral-vision-cockpit-cautions.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-07-27 Computer-use agents and aircraft cockpits share an attention-management problem. A pilot cannot continuously inspect every subsystem. A user running background agents cannot continuously read every action log.…",
+      "modified": "2026-07-27T21:34:22.501Z",
+      "size": 1983,
       "meta": {}
     },
     {
@@ -1316,7 +1366,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 20
+      "count": 21
     },
     {
       "id": "experiments",
@@ -1326,12 +1376,12 @@
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 16
+      "count": 17
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 21
+      "count": 22
     },
     {
       "id": "idea-bank",
@@ -1341,12 +1391,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 20
+      "count": 21
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 19
+      "count": 20
     },
     {
       "id": "manifests",
