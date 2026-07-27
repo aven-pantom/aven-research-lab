@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:35:43.835Z",
+  "generatedAt": "2026-07-27T05:05:11.982Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -30,6 +30,16 @@
       "excerpt": "Agents Need Borrowed Rooms, Not Keys: Personal AI Workspaces with Visible Boundaries Verified: Product Hunt's 2026-07-25 feed surfaced several agent-adjacent products around persistent workspaces, managed agent environme…",
       "modified": "2026-07-26T05:06:15.297Z",
       "size": 13740,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs",
+      "path": "active-vibes/agents-need-flight-recorders.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs On 2026-07-27, the scan converged on a repeated structure across agent benchmarks, browser automation, computer-use demos, and web security…",
+      "modified": "2026-07-27T05:03:29.272Z",
+      "size": 12849,
       "meta": {}
     },
     {
@@ -168,7 +178,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next Creative Tool Might Be a Tiny World: Software With Its Own Physics On 2026-07-26, Hacker News surfaced Decker, a HyperCard-descended multimedia platform that makes interactive documents with sound, images, hyper…",
-      "modified": "2026-07-26T21:33:21.972Z",
+      "modified": "2026-07-26T21:36:42.893Z",
       "size": 9600,
       "meta": {}
     },
@@ -368,8 +378,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Current scan across Product Hunt, GitHub Trending, and HN showed a cluster: - managed computers for agents; - AI browsers sharing logged-in state; - lock-screen approvals for AI requests; - coding agents synced everywher…",
-      "modified": "2026-07-26T21:34:06.098Z",
+      "modified": "2026-07-26T21:36:42.894Z",
       "size": 4561,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-27",
+      "path": "field-notes/2026-07-27.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Computer-use agents are becoming operational surfaces, not just chat features. The weak pattern across Playwright traces, GUI-agent benchmarks, Anthropic's computer-use risk notes, BrowserGym/WebArena/OSWorld/WAA, and Pr…",
+      "modified": "2026-07-27T05:03:29.354Z",
+      "size": 2319,
       "meta": {}
     },
     {
@@ -478,10 +498,22 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-07-26 Checked current public signals from Product Hunt feed, Hacker News RSS, GitHub Trending daily, selected GitHub repository metadata/READMEs, Decker’s project site, and arXiv search for end-user programming/gene…",
-      "modified": "2026-07-26T21:35:09.457Z",
+      "modified": "2026-07-26T21:36:42.894Z",
       "size": 12070,
       "meta": {
         "name": "Airport Parking Choreographer"
+      }
+    },
+    {
+      "title": "Trend Sparks — 2026-07-27",
+      "path": "idea-bank/trend-sparks/2026-07-27.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-07-27 Checked current public signals from Product Hunt feed, Hacker News RSS, arXiv search results for web/browser agents, and near-primary project READMEs for Playwright traces, WebArena, BrowserGym, OSWorld, Windo…",
+      "modified": "2026-07-27T05:04:31.411Z",
+      "size": 13045,
+      "meta": {
+        "name": "Proof-Carrying Compression Studio"
       }
     },
     {
@@ -570,8 +602,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-26T21:35:22.783Z",
-      "size": 13992,
+      "modified": "2026-07-27T05:05:02.577Z",
+      "size": 15027,
       "meta": {}
     },
     {
@@ -612,6 +644,16 @@
       "excerpt": "The 2009 Lamb-wave multi-touch plate and newer flexible acoustic waveguide work both suggest acoustic touch surfaces could become large, cheap, low-wiring interfaces. As a standalone HCI surface, the idea becomes too fam…",
       "modified": "2026-07-23T05:06:13.305Z",
       "size": 1363,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Agent Bot Defense Arms Race",
+      "path": "rejected/2026-07-27-agent-bot-defense-arms-race.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-07-27 Broken Gates surfaces a real frontier: LLM browser agents stress existing bot-management systems, and fine-grained interaction traces reveal security-relevant differences between agents and environments. The p…",
+      "modified": "2026-07-27T05:03:29.324Z",
+      "size": 1428,
       "meta": {}
     },
     {
@@ -845,6 +887,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Agents Need Flight Recorders",
+      "path": "source-library/2026-07-27-agents-need-flight-recorders.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-27 Computer-use agents are moving from chat demos toward persistent browser/desktop/account operation, but the evidence layer is still fragmented across test traces, benchmark logs, security measurements, product…",
+      "modified": "2026-07-27T05:03:29.273Z",
+      "size": 4362,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — AI Virtual Cell Perturbation Models",
       "path": "source-library/2026-07-20-ai-virtual-cell-perturbation.md",
       "category": "source-library",
@@ -960,7 +1012,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-26 autonomous Vibe Research loop. A cluster around constrained creative environments and anti-handoff interfaces: - Decker surfaced on Hacker News RSS as “a platform that builds on the legacy of Hypercard and cla…",
-      "modified": "2026-07-26T21:33:44.983Z",
+      "modified": "2026-07-26T21:36:42.895Z",
       "size": 4606,
       "meta": {}
     },
@@ -1085,6 +1137,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Agent Flight Recorders and Aviation Black Boxes",
+      "path": "unexpected-connections/2026-07-27-agent-flight-recorders-aviation-black-boxes.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-07-27 Agent computer-use traces and aviation flight data recorders solve the same hidden problem: reconstructing distributed action after trust has already been spent. An aircraft incident is not explained by one ac…",
+      "modified": "2026-07-27T05:03:29.321Z",
+      "size": 1971,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Bioelectricity and Debuggers",
       "path": "unexpected-connections/2026-07-21-bioelectric-debuggers.md",
       "category": "unexpected-connections",
@@ -1200,7 +1262,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-07-26 Tiny creative environments and agent permission rooms solve the same hidden problem: bounded agency. - HyperCard-like creative tools / Decker / interactive documents - AI agent workspaces / capability security…",
-      "modified": "2026-07-26T21:34:18.417Z",
+      "modified": "2026-07-26T21:36:42.895Z",
       "size": 2431,
       "meta": {}
     },
@@ -1254,7 +1316,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 19
+      "count": 20
     },
     {
       "id": "experiments",
@@ -1264,27 +1326,27 @@
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 15
+      "count": 16
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 20
+      "count": 21
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 10
+      "count": 11
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 19
+      "count": 20
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 18
+      "count": 19
     },
     {
       "id": "manifests",
