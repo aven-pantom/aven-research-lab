@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T21:34:56.548Z",
+  "generatedAt": "2026-07-28T05:07:35.126Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -48,7 +48,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Peripheral Vision: Ambient Communication for Computer-Use Work On 2026-07-27, a fresh arXiv scan surfaced Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents arXiv:2607.17527…",
-      "modified": "2026-07-27T21:34:22.450Z",
+      "modified": "2026-07-27T21:35:51.129Z",
       "size": 12370,
       "meta": {}
     },
@@ -90,6 +90,16 @@
       "excerpt": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace Verified: Several recent single-cell perturbation prediction papers frame the problem as AI Virtual Cell modeling, while nearby critique papers…",
       "modified": "2026-07-20T05:04:28.550Z",
       "size": 10000,
+      "meta": {}
+    },
+    {
+      "title": "Drones Need Airspace Manners: Tiny Intent Signals for Civil Autonomy",
+      "path": "active-vibes/drones-need-airspace-manners.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Drones Need Airspace Manners: Tiny Intent Signals for Civil Autonomy Verified: FAA Remote ID explains Remote ID as a drone in flight providing identification and location information by broadcast, and says it helps the F…",
+      "modified": "2026-07-28T05:04:43.027Z",
+      "size": 11138,
       "meta": {}
     },
     {
@@ -253,6 +263,16 @@
       "meta": {}
     },
     {
+      "title": "2026-07-28 — Drone intent cards",
+      "path": "field-notes/2026-07-28.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Remote ID answers identity/location for drones, but it does not make autonomous behavior locally understandable. The research path started from a simple mismatch: cars have turn signals and brake lights; many drones have…",
+      "modified": "2026-07-28T05:04:59.815Z",
+      "size": 2422,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-07-18",
       "path": "field-notes/2026-07-18.md",
       "category": "field-notes",
@@ -408,7 +428,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- arXiv:2607.17527, Sidekick, is unusually direct: CUA feedback is too text-heavy, attention-demanding, and weak for tracing past GUI interactions. - Sidekick's three stages — background ambient cue, resumption summary,…",
-      "modified": "2026-07-27T21:34:22.505Z",
+      "modified": "2026-07-27T21:35:51.129Z",
       "size": 1398,
       "meta": {}
     },
@@ -530,11 +550,21 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-07-27 Checked current public signals from Apple Marketing Tools top-free app RSS, Hacker News Algolia recent results, arXiv CUA/HCI papers, and near-primary GitHub READMEs for agent-operation and creator-tool projec…",
-      "modified": "2026-07-27T21:34:22.530Z",
+      "modified": "2026-07-27T21:35:51.129Z",
       "size": 12773,
       "meta": {
         "name": "Rare-Sky Briefing"
       }
+    },
+    {
+      "title": "Trend Sparks — 2026-07-28",
+      "path": "idea-bank/trend-sparks/2026-07-28.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer behavior. These are Trend Sparks, not generic ideas. - Trend signal: Claude Code, GitHub Copilot coding agent, browser-use agent…",
+      "modified": "2026-07-28T05:06:51.274Z",
+      "size": 10885,
+      "meta": {}
     },
     {
       "title": "Manifest — Future-Mask Action Schema",
@@ -622,8 +652,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-27T21:34:52.323Z",
-      "size": 15561,
+      "modified": "2026-07-28T05:07:08.058Z",
+      "size": 16580,
       "meta": {}
     },
     {
@@ -672,7 +702,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-07-27 Sidekick and other agent-operation signals point toward richer communication than chat. A tempting interpretation is to give agents avatars, expressive characters, or companion bodies so users can sense progre…",
-      "modified": "2026-07-27T21:34:22.503Z",
+      "modified": "2026-07-27T21:35:51.130Z",
       "size": 1803,
       "meta": {}
     },
@@ -932,7 +962,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-27 A current arXiv paper, Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents arXiv:2607.17527, directly frames the communication gap around background computer-use agents: text…",
-      "modified": "2026-07-27T21:34:22.499Z",
+      "modified": "2026-07-27T21:35:51.130Z",
       "size": 4787,
       "meta": {}
     },
@@ -974,6 +1004,16 @@
       "excerpt": "- Date: 2026-07-25 - Calling title: Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry - Starting signal: parametric CAD papers increasingly treat physical objects as sequences/programs/code ra…",
       "modified": "2026-07-25T05:07:00.951Z",
       "size": 6767,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Drones Need Airspace Manners",
+      "path": "source-library/2026-07-28-drones-need-airspace-manners.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Active Vibe: Drones Need Airspace Manners../active-vibes/drones-need-airspace-manners.md - URL: https://www.faa.gov/uas/gettingstarted/remoteid - Producer: Federal Aviation Administration. - Source type: official regulat…",
+      "modified": "2026-07-28T05:05:21.866Z",
+      "size": 3571,
       "meta": {}
     },
     {
@@ -1192,7 +1232,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-07-27 Computer-use agents and aircraft cockpits share an attention-management problem. A pilot cannot continuously inspect every subsystem. A user running background agents cannot continuously read every action log.…",
-      "modified": "2026-07-27T21:34:22.501Z",
+      "modified": "2026-07-27T21:35:51.130Z",
       "size": 1983,
       "meta": {}
     },
@@ -1224,6 +1264,16 @@
       "excerpt": "- Color palette generation - Perfume/fragrance composition - Fashion/editorial styling - Brand identity - Camera-native creative tools Perfume does not present ingredients as raw chemistry. It organizes them into an expe…",
       "modified": "2026-07-20T11:52:35.795Z",
       "size": 1839,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Drone Intent Cards and Turn Signals for Shared Autonomy",
+      "path": "unexpected-connections/2026-07-28-drone-intent-cards-turn-signals.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Drone intent cards and vehicle turn signals solve the same hidden problem: they compress a private future plan into a small public cue that lets others safely predict behavior without needing full access to the operator'…",
+      "modified": "2026-07-28T05:05:40.352Z",
+      "size": 2650,
       "meta": {}
     },
     {
@@ -1366,7 +1416,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 21
+      "count": 22
     },
     {
       "id": "experiments",
@@ -1376,22 +1426,22 @@
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 17
+      "count": 18
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 22
+      "count": 23
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 11
+      "count": 12
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 21
+      "count": 22
     },
     {
       "id": "rejected",
