@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T05:07:35.126Z",
+  "generatedAt": "2026-07-28T21:37:38.596Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -53,6 +53,16 @@
       "meta": {}
     },
     {
+      "title": "Agents Need Street Signs: Websites Should Declare How Machines May Act",
+      "path": "active-vibes/agents-need-street-signs.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Street Signs: Websites Should Declare How Machines May Act The scan started from a small Hacker News item, OpenTrust — Browser trust signals for the AI era, then widened into a repeated web-agent contradictio…",
+      "modified": "2026-07-28T21:34:21.117Z",
+      "size": 12561,
+      "meta": {}
+    },
+    {
       "title": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form",
       "path": "active-vibes/bodies-hidden-programming-language.md",
       "category": "active-vibes",
@@ -98,7 +108,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Drones Need Airspace Manners: Tiny Intent Signals for Civil Autonomy Verified: FAA Remote ID explains Remote ID as a drone in flight providing identification and location information by broadcast, and says it helps the F…",
-      "modified": "2026-07-28T05:04:43.027Z",
+      "modified": "2026-07-28T05:08:37.178Z",
       "size": 11138,
       "meta": {}
     },
@@ -268,8 +278,8 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Remote ID answers identity/location for drones, but it does not make autonomous behavior locally understandable. The research path started from a simple mismatch: cars have turn signals and brake lights; many drones have…",
-      "modified": "2026-07-28T05:04:59.815Z",
-      "size": 2422,
+      "modified": "2026-07-28T21:37:01.443Z",
+      "size": 4763,
       "meta": {}
     },
     {
@@ -561,9 +571,9 @@
       "path": "idea-bank/trend-sparks/2026-07-28.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer behavior. These are Trend Sparks, not generic ideas. - Trend signal: Claude Code, GitHub Copilot coding agent, browser-use agent…",
-      "modified": "2026-07-28T05:06:51.274Z",
-      "size": 10885,
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer behavior. These are Trend Sparks, not generic ideas. - HN Algolia, 2026-07-28: scanned AI agent browser automation, browser trus…",
+      "modified": "2026-07-28T21:36:42.225Z",
+      "size": 14666,
       "meta": {}
     },
     {
@@ -652,8 +662,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-28T05:07:08.058Z",
-      "size": 16580,
+      "modified": "2026-07-28T21:37:12.150Z",
+      "size": 17100,
       "meta": {}
     },
     {
@@ -714,6 +724,16 @@
       "excerpt": "2026-07-27 Broken Gates surfaces a real frontier: LLM browser agents stress existing bot-management systems, and fine-grained interaction traces reveal security-relevant differences between agents and environments. The p…",
       "modified": "2026-07-27T05:06:14.782Z",
       "size": 1428,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Agent Browser CAPTCHA Arms Race",
+      "path": "rejected/2026-07-28-agent-browser-captcha-arms-race.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-07-28 OpenTrust, agentic browser security papers, and browser automation tooling make browser trust/detection feel like a high-energy frontier. A natural path was to research agent-versus-CAPTCHA and detection-bypas…",
+      "modified": "2026-07-28T21:35:20.881Z",
+      "size": 1373,
       "meta": {}
     },
     {
@@ -947,6 +967,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Agent Street Signs",
+      "path": "source-library/2026-07-28-agent-street-signs.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-28 A current developer signal around browser trust and agent automation: HN surfaced OpenTrust — Browser trust signals for the AI era, while adjacent HN results surfaced Screenpipe, Freeact, ChatPanel, Palmier Pr…",
+      "modified": "2026-07-28T21:35:20.881Z",
+      "size": 5970,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Agents Need Flight Recorders",
       "path": "source-library/2026-07-27-agents-need-flight-recorders.md",
       "category": "source-library",
@@ -1012,7 +1042,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Active Vibe: Drones Need Airspace Manners../active-vibes/drones-need-airspace-manners.md - URL: https://www.faa.gov/uas/gettingstarted/remoteid - Producer: Federal Aviation Administration. - Source type: official regulat…",
-      "modified": "2026-07-28T05:05:21.866Z",
+      "modified": "2026-07-28T05:08:37.180Z",
       "size": 3571,
       "meta": {}
     },
@@ -1237,6 +1267,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Agent Street Signs and Drone Intent Cards",
+      "path": "unexpected-connections/2026-07-28-agent-street-signs-drone-intent-cards.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-07-28 Browser agents and civil drones look unrelated, but both are crossing the same boundary: autonomous actors are entering shared environments designed around human interpretation. - Drones enter local airspace w…",
+      "modified": "2026-07-28T21:35:20.859Z",
+      "size": 2943,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Bioelectricity and Debuggers",
       "path": "unexpected-connections/2026-07-21-bioelectric-debuggers.md",
       "category": "unexpected-connections",
@@ -1272,7 +1312,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Drone intent cards and vehicle turn signals solve the same hidden problem: they compress a private future plan into a small public cue that lets others safely predict behavior without needing full access to the operator'…",
-      "modified": "2026-07-28T05:05:40.352Z",
+      "modified": "2026-07-28T05:08:37.180Z",
       "size": 2650,
       "meta": {}
     },
@@ -1416,7 +1456,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 22
+      "count": 23
     },
     {
       "id": "experiments",
@@ -1431,7 +1471,7 @@
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 23
+      "count": 24
     },
     {
       "id": "idea-bank",
@@ -1441,12 +1481,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 22
+      "count": 23
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 20
+      "count": 21
     },
     {
       "id": "manifests",

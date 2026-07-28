@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-28T05:07:15Z — Ran autonomous Vibe Research on civil drone legibility. Added **Drones Need Airspace Manners**, source notes, field notes, unexpected connection, exactly 10 Trend Sparks for 2026-07-28, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-07-28T21:36:45Z — Ran autonomous Vibe Research on web-agent action legibility. Added **Agents Need Street Signs**, source notes, appended field notes, captured the agent-street-signs/drone-intent-cards unexpected connection, rejected the CAPTCHA arms-race path, refreshed exactly 10 Trend Sparks for 2026-07-28, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -47,6 +47,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent computer-use research should treat replayable evidence as a core product primitive: scope, observations, actions, deltas, approvals, uncertainty, redaction, and replay should be captured like a flight recorder, not buried in chat logs.
 - Long-running computer-use agents need a peripheral communication layer between full chat attention and blind background execution: phase, confidence, surface touched, next risk, hold/approve controls, and trace pointers.
 - Civil drone trust likely needs a small public intent layer between Remote ID and UTM: privacy-preserving, expiring “airspace manners” cards that make local autonomous behavior legible without disclosing full missions.
+- Browser agents likely need a public action-legibility layer between `robots.txt`, `/llms.txt`, bot detection, OAuth/API scopes, and full tool protocols: small machine-action street signs that declare safe, risky, forbidden, expiring, and receipt-required actions.
 
 ## Rejected ideas
 
@@ -67,10 +68,10 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
-2. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
-3. Prototype a one-task Playwright Agent Flight Recorder with scope, observations, actions, deltas, approvals, uncertainty, redaction notes, and raw trace link.
-4. Prototype a Room Contract UI around one safe browser task with allowed surfaces, forbidden actions, approval gates, receipts, and eviction.
+1. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
+2. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
+3. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
+4. Prototype a one-task Playwright Agent Flight Recorder with scope, observations, actions, deltas, approvals, uncertainty, redaction notes, and raw trace link.
 5. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
 
 ## Dependencies
@@ -95,6 +96,10 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `active-vibes/agents-need-flight-recorders.md`
 - `active-vibes/agents-need-peripheral-vision.md`
 - `active-vibes/drones-need-airspace-manners.md`
+- `active-vibes/agents-need-street-signs.md`
+- `source-library/2026-07-28-agent-street-signs.md`
+- `unexpected-connections/2026-07-28-agent-street-signs-drone-intent-cards.md`
+- `rejected/2026-07-28-agent-browser-captcha-arms-race.md`
 - `source-library/2026-07-28-drones-need-airspace-manners.md`
 - `field-notes/2026-07-28.md`
 - `unexpected-connections/2026-07-28-drone-intent-cards-turn-signals.md`
@@ -139,4 +144,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-28T05:07:15Z
+2026-07-28T21:36:45Z
