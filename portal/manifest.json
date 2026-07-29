@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T05:05:28.064Z",
+  "generatedAt": "2026-07-29T21:34:51.040Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -60,6 +60,16 @@
       "excerpt": "Agents Need Street Signs: Websites Should Declare How Machines May Act The scan started from a small Hacker News item, OpenTrust — Browser trust signals for the AI era, then widened into a repeated web-agent contradictio…",
       "modified": "2026-07-28T21:38:31.562Z",
       "size": 12561,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Transition Tests: Computer Use Should Be Judged by State Change, Not Screenshots",
+      "path": "active-vibes/agents-need-transition-tests.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Transition Tests: Computer Use Should Be Judged by State Change, Not Screenshots A new arXiv paper, Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?, frames a precise failure in…",
+      "modified": "2026-07-29T21:34:08.565Z",
+      "size": 10514,
       "meta": {}
     },
     {
@@ -178,7 +188,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Social Apps Need Portable Taste Graphs: Style, Feeds, and Identity Should Travel Separately On 2026-07-29, the scan began from a visible contradiction in social/product infrastructure: AT Protocol treats account data as…",
-      "modified": "2026-07-29T05:02:30.214Z",
+      "modified": "2026-07-29T05:06:16.909Z",
       "size": 12782,
       "meta": {}
     },
@@ -240,6 +250,16 @@
       "excerpt": "Wardrobes Need Simulation Memory: Style Engines That Remember What Actually Worked Verified: Recent image-based virtual try-on work has moved from older warping/fusion pipelines toward diffusion-based garment transfer. I…",
       "modified": "2026-07-25T21:36:45.291Z",
       "size": 13405,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Transition Card Recorder",
+      "path": "experiments/2026-07-29-transition-card-recorder.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a small expected-delta / observed-delta record catches computer-use agent failures that a normal chat/action log hides. Agents Need Transition Tests../active-vibes/agents-need-transition-tests.md Use one saf…",
+      "modified": "2026-07-29T21:34:08.563Z",
+      "size": 1924,
       "meta": {}
     },
     {
@@ -458,8 +478,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Taste is becoming technically separable from the apps that mine it. AT Protocol repositories/custom feeds, ActivityPub social objects, Solid personal storage, Pinterest pins/boards, and agent-memory/tool chatter all poin…",
-      "modified": "2026-07-29T05:03:19.162Z",
+      "modified": "2026-07-29T05:06:16.909Z",
       "size": 1529,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-29 — Desktop Delta Agents",
+      "path": "field-notes/2026-07-29-desktop-delta.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Desktop-Delta Bench names an agent failure that feels more fundamental than visual grounding: models may not understand whether a GUI action caused the relevant state transition. - Verified: arXiv metadata for 2607.26041…",
+      "modified": "2026-07-29T21:34:08.571Z",
+      "size": 1622,
       "meta": {}
     },
     {
@@ -601,9 +631,9 @@
       "path": "idea-bank/trend-sparks/2026-07-29.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-07-29 Sources checked: AT Protocol overview/repository docs, Bluesky custom feed docs, ActivityPub W3C Recommendation, Solid Protocol, Pinterest API v5 docs, FAA Remote ID page, GitHub pages for Model Context Protoc…",
-      "modified": "2026-07-29T05:04:44.189Z",
-      "size": 12388,
+      "excerpt": "Sources scanned this run: - HN Algolia search-by-date for agent/browser automation, local-first software, fashion/outfit apps, creator AI video tools, drone Remote ID, design moodboards, Pinterest alternatives, personal…",
+      "modified": "2026-07-29T21:34:08.593Z",
+      "size": 12028,
       "meta": {}
     },
     {
@@ -692,8 +722,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-29T05:05:00.568Z",
-      "size": 18127,
+      "modified": "2026-07-29T21:34:20.919Z",
+      "size": 19183,
       "meta": {}
     },
     {
@@ -807,6 +837,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Better Agent Screenshots as the Main Fix",
+      "path": "rejected/2026-07-29-agent-screenshot-polish.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Computer-use agents operate visually, so improving screenshots, visual grounding, and interface screenshot understanding appears to be the obvious path. - Desktop-Delta Bench argues that end-task success and single-frame…",
+      "modified": "2026-07-29T21:34:08.535Z",
+      "size": 1461,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Biology as Literal Software Programming",
       "path": "rejected/2026-07-21-biology-as-software-programming.md",
       "category": "rejected",
@@ -891,9 +931,9 @@
       "path": "rejected/2026-07-29-universal-aesthetic-ontology-first.md",
       "category": "rejected",
       "categoryLabel": "Rejected",
-      "excerpt": "2026-07-29 A portable taste graph seems to imply a universal vocabulary for style, mood, color, media, creators, and shopping. A common ontology would make cross-app taste queries cleaner. The scanned sources support por…",
-      "modified": "2026-07-29T05:03:33.531Z",
-      "size": 1662,
+      "excerpt": "Portable taste graphs could be made interoperable if every aesthetic preference had a shared vocabulary: silhouette, palette, material, era, subculture, formality, fit, mood, and social context. - Pinterest-style boards…",
+      "modified": "2026-07-29T21:34:08.597Z",
+      "size": 1653,
       "meta": {}
     },
     {
@@ -947,12 +987,22 @@
       "meta": {}
     },
     {
+      "title": "Source Library — 2026-07-29 — Desktop Delta Agents",
+      "path": "source-library/2026-07-29-desktop-delta-agents.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- Source: arXiv API metadata - URL: https://arxiv.org/abs/2607.26041 - Version observed: 2607.26041v1 - Published: 2026-07-28 - Authors: Abhishek Pillai, Samir Kumar Nayak, Yuan Chen - Categories: cs.AI, cs.CV - Evidence…",
+      "modified": "2026-07-29T21:34:08.475Z",
+      "size": 4757,
+      "meta": {}
+    },
+    {
       "title": "Source Library — 2026-07-29 — Portable Taste Graphs",
       "path": "source-library/2026-07-29-portable-taste-graphs.md",
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Signal: taste is becoming technically separable from the apps that harvest it. The scan followed social protocol primitives, personal data stores, custom feeds, pins/boards, and current developer discussion around AT Pro…",
-      "modified": "2026-07-29T05:02:54.920Z",
+      "modified": "2026-07-29T05:06:16.910Z",
       "size": 4365,
       "meta": {}
     },
@@ -1452,7 +1502,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-07-29 Portable taste graphs and custom social feeds look like different problems. One belongs to fashion/design/personal AI; the other belongs to federated social infrastructure. They share the same hidden object: a…",
-      "modified": "2026-07-29T05:03:10.160Z",
+      "modified": "2026-07-29T05:06:16.910Z",
       "size": 2280,
       "meta": {}
     },
@@ -1464,6 +1514,16 @@
       "excerpt": "2026-07-26 Tiny creative environments and agent permission rooms solve the same hidden problem: bounded agency. - HyperCard-like creative tools / Decker / interactive documents - AI agent workspaces / capability security…",
       "modified": "2026-07-26T21:36:42.895Z",
       "size": 2431,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Transition Tests and Flight Recorders",
+      "path": "unexpected-connections/2026-07-29-transition-tests-flight-recorders.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Computer-use agents and aircraft flight recorders solve the same hidden problem: reconstructing a failure after the system has already moved through a sequence of partially observed states. Both domains need a reliable c…",
+      "modified": "2026-07-29T21:34:08.484Z",
+      "size": 2647,
       "meta": {}
     },
     {
@@ -1516,22 +1576,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 24
+      "count": 25
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 4
+      "count": 5
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 19
+      "count": 20
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 25
+      "count": 26
     },
     {
       "id": "idea-bank",
@@ -1541,12 +1601,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 22
+      "count": 23
     },
     {
       "id": "manifests",
