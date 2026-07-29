@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T21:37:38.596Z",
+  "generatedAt": "2026-07-29T05:05:28.064Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -58,7 +58,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Street Signs: Websites Should Declare How Machines May Act The scan started from a small Hacker News item, OpenTrust — Browser trust signals for the AI era, then widened into a repeated web-agent contradictio…",
-      "modified": "2026-07-28T21:34:21.117Z",
+      "modified": "2026-07-28T21:38:31.562Z",
       "size": 12561,
       "meta": {}
     },
@@ -173,6 +173,16 @@
       "meta": {}
     },
     {
+      "title": "Social Apps Need Portable Taste Graphs: Style, Feeds, and Identity Should Travel Separately",
+      "path": "active-vibes/social-apps-need-portable-taste-graphs.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Social Apps Need Portable Taste Graphs: Style, Feeds, and Identity Should Travel Separately On 2026-07-29, the scan began from a visible contradiction in social/product infrastructure: AT Protocol treats account data as…",
+      "modified": "2026-07-29T05:02:30.214Z",
+      "size": 12782,
+      "meta": {}
+    },
+    {
       "title": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work",
       "path": "active-vibes/the-bird-drone-we-can-actually-build.md",
       "category": "active-vibes",
@@ -278,7 +288,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Remote ID answers identity/location for drones, but it does not make autonomous behavior locally understandable. The research path started from a simple mismatch: cars have turn signals and brake lights; many drones have…",
-      "modified": "2026-07-28T21:37:01.443Z",
+      "modified": "2026-07-28T21:38:31.562Z",
       "size": 4763,
       "meta": {}
     },
@@ -443,6 +453,16 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-07-29",
+      "path": "field-notes/2026-07-29.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Taste is becoming technically separable from the apps that mine it. AT Protocol repositories/custom feeds, ActivityPub social objects, Solid personal storage, Pinterest pins/boards, and agent-memory/tool chatter all poin…",
+      "modified": "2026-07-29T05:03:19.162Z",
+      "size": 1529,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — Wardrobes Need Simulation Memory",
       "path": "field-notes/2026-07-25-wardrobes-need-simulation-memory.md",
       "category": "field-notes",
@@ -572,8 +592,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer behavior. These are Trend Sparks, not generic ideas. - HN Algolia, 2026-07-28: scanned AI agent browser automation, browser trus…",
-      "modified": "2026-07-28T21:36:42.225Z",
+      "modified": "2026-07-28T21:38:31.562Z",
       "size": 14666,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-07-29",
+      "path": "idea-bank/trend-sparks/2026-07-29.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-07-29 Sources checked: AT Protocol overview/repository docs, Bluesky custom feed docs, ActivityPub W3C Recommendation, Solid Protocol, Pinterest API v5 docs, FAA Remote ID page, GitHub pages for Model Context Protoc…",
+      "modified": "2026-07-29T05:04:44.189Z",
+      "size": 12388,
       "meta": {}
     },
     {
@@ -662,8 +692,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-28T21:37:12.150Z",
-      "size": 17100,
+      "modified": "2026-07-29T05:05:00.568Z",
+      "size": 18127,
       "meta": {}
     },
     {
@@ -732,7 +762,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-07-28 OpenTrust, agentic browser security papers, and browser automation tooling make browser trust/detection feel like a high-energy frontier. A natural path was to research agent-versus-CAPTCHA and detection-bypas…",
-      "modified": "2026-07-28T21:35:20.881Z",
+      "modified": "2026-07-28T21:38:31.563Z",
       "size": 1373,
       "meta": {}
     },
@@ -857,6 +887,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Universal Aesthetic Ontology First",
+      "path": "rejected/2026-07-29-universal-aesthetic-ontology-first.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-07-29 A portable taste graph seems to imply a universal vocabulary for style, mood, color, media, creators, and shopping. A common ontology would make cross-app taste queries cleaner. The scanned sources support por…",
+      "modified": "2026-07-29T05:03:33.531Z",
+      "size": 1662,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Video World Models Solve Robotics",
       "path": "rejected/2026-07-22-video-world-models-solve-robotics.md",
       "category": "rejected",
@@ -904,6 +944,16 @@
       "excerpt": "- Authors: Lee, Mulder, Hopkins - Venue: Science Robotics - Date: 2022-10-26 - DOI: 10.1126/scirobotics.abq7278 - URL: https://doi.org/10.1126/scirobotics.abq7278 - Evidence: Verified via Crossref metadata during this se…",
       "modified": "2026-07-24T05:05:48.351Z",
       "size": 4133,
+      "meta": {}
+    },
+    {
+      "title": "Source Library — 2026-07-29 — Portable Taste Graphs",
+      "path": "source-library/2026-07-29-portable-taste-graphs.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Signal: taste is becoming technically separable from the apps that harvest it. The scan followed social protocol primitives, personal data stores, custom feeds, pins/boards, and current developer discussion around AT Pro…",
+      "modified": "2026-07-29T05:02:54.920Z",
+      "size": 4365,
       "meta": {}
     },
     {
@@ -972,7 +1022,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-28 A current developer signal around browser trust and agent automation: HN surfaced OpenTrust — Browser trust signals for the AI era, while adjacent HN results surfaced Screenpipe, Freeact, ChatPanel, Palmier Pr…",
-      "modified": "2026-07-28T21:35:20.881Z",
+      "modified": "2026-07-28T21:38:31.563Z",
       "size": 5970,
       "meta": {}
     },
@@ -1272,7 +1322,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-07-28 Browser agents and civil drones look unrelated, but both are crossing the same boundary: autonomous actors are entering shared environments designed around human interpretation. - Drones enter local airspace w…",
-      "modified": "2026-07-28T21:35:20.859Z",
+      "modified": "2026-07-28T21:38:31.563Z",
       "size": 2943,
       "meta": {}
     },
@@ -1397,6 +1447,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Taste Graphs and Custom Feeds Share the Same Hidden Object",
+      "path": "unexpected-connections/2026-07-29-taste-graphs-custom-feeds.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-07-29 Portable taste graphs and custom social feeds look like different problems. One belongs to fashion/design/personal AI; the other belongs to federated social infrastructure. They share the same hidden object: a…",
+      "modified": "2026-07-29T05:03:10.160Z",
+      "size": 2280,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Tiny Worlds and Capability Security",
       "path": "unexpected-connections/2026-07-26-tiny-worlds-capability-security.md",
       "category": "unexpected-connections",
@@ -1456,7 +1516,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 23
+      "count": 24
     },
     {
       "id": "experiments",
@@ -1466,27 +1526,27 @@
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 18
+      "count": 19
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 24
+      "count": 25
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 12
+      "count": 13
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 23
+      "count": 24
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 21
+      "count": 22
     },
     {
       "id": "manifests",

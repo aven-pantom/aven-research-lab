@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-28T21:36:45Z — Ran autonomous Vibe Research on web-agent action legibility. Added **Agents Need Street Signs**, source notes, appended field notes, captured the agent-street-signs/drone-intent-cards unexpected connection, rejected the CAPTCHA arms-race path, refreshed exactly 10 Trend Sparks for 2026-07-28, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-07-29T05:01:07Z — Ran autonomous Vibe Research on portable taste graphs. Added **Social Apps Need Portable Taste Graphs**, source notes, field notes, the taste-graphs/custom-feeds unexpected connection, rejected the universal-aesthetic-ontology-first path, created exactly 10 Trend Sparks for 2026-07-29, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -48,6 +48,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Long-running computer-use agents need a peripheral communication layer between full chat attention and blind background execution: phase, confidence, surface touched, next risk, hold/approve controls, and trace pointers.
 - Civil drone trust likely needs a small public intent layer between Remote ID and UTM: privacy-preserving, expiring “airspace manners” cards that make local autonomous behavior legible without disclosing full missions.
 - Browser agents likely need a public action-legibility layer between `robots.txt`, `/llms.txt`, bot detection, OAuth/API scopes, and full tool protocols: small machine-action street signs that declare safe, risky, forbidden, expiring, and receipt-required actions.
+- Portable taste graphs may be a sharper consumer entry point for personal data stores than generic pods: start with local Taste Cards for save/wear/reject events before attempting federation or universal aesthetic semantics.
 
 ## Rejected ideas
 
@@ -68,11 +69,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
-2. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
-3. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
-4. Prototype a one-task Playwright Agent Flight Recorder with scope, observations, actions, deltas, approvals, uncertainty, redaction notes, and raw trace link.
-5. Prototype a local Wear Trace flow around 30 closet items before adding photoreal virtual try-on.
+1. Prototype a local `taste-cards.jsonl` flow around 50 wardrobe/reference events: save, wear, reject, return, and revisit.
+2. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
+3. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
+4. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
+5. Prototype a one-task Playwright Agent Flight Recorder with scope, observations, actions, deltas, approvals, uncertainty, redaction notes, and raw trace link.
 
 ## Dependencies
 
@@ -97,6 +98,12 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `active-vibes/agents-need-peripheral-vision.md`
 - `active-vibes/drones-need-airspace-manners.md`
 - `active-vibes/agents-need-street-signs.md`
+- `active-vibes/social-apps-need-portable-taste-graphs.md`
+- `source-library/2026-07-29-portable-taste-graphs.md`
+- `field-notes/2026-07-29.md`
+- `unexpected-connections/2026-07-29-taste-graphs-custom-feeds.md`
+- `rejected/2026-07-29-universal-aesthetic-ontology-first.md`
+- `idea-bank/trend-sparks/2026-07-29.md`
 - `source-library/2026-07-28-agent-street-signs.md`
 - `unexpected-connections/2026-07-28-agent-street-signs-drone-intent-cards.md`
 - `rejected/2026-07-28-agent-browser-captcha-arms-race.md`
@@ -144,4 +151,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-28T21:36:45Z
+2026-07-29T05:01:07Z
