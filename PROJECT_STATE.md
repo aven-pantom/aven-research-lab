@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-29T05:01:07Z — Ran autonomous Vibe Research on portable taste graphs. Added **Social Apps Need Portable Taste Graphs**, source notes, field notes, the taste-graphs/custom-feeds unexpected connection, rejected the universal-aesthetic-ontology-first path, created exactly 10 Trend Sparks for 2026-07-29, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-07-29T21:34:23Z — Ran autonomous Vibe Research on desktop GUI transition understanding for computer-use agents. Added **Agents Need Transition Tests**, source notes, field notes, the transition-tests/flight-recorders unexpected connection, rejected the screenshot-polish-first path, proposed the Transition Card Recorder experiment, refreshed exactly 10 Trend Sparks for 2026-07-29, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -49,6 +49,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Civil drone trust likely needs a small public intent layer between Remote ID and UTM: privacy-preserving, expiring “airspace manners” cards that make local autonomous behavior legible without disclosing full missions.
 - Browser agents likely need a public action-legibility layer between `robots.txt`, `/llms.txt`, bot detection, OAuth/API scopes, and full tool protocols: small machine-action street signs that declare safe, risky, forbidden, expiring, and receipt-required actions.
 - Portable taste graphs may be a sharper consumer entry point for personal data stores than generic pods: start with local Taste Cards for save/wear/reject events before attempting federation or universal aesthetic semantics.
+- Computer-use agents likely need Transition Cards: expected delta, observed delta, source attribution, staleness risk, judgment, and recovery. Step-level transition verification may be the product primitive between benchmark scores and trustworthy background automation.
 
 ## Rejected ideas
 
@@ -69,11 +70,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Prototype a local `taste-cards.jsonl` flow around 50 wardrobe/reference events: save, wear, reject, return, and revisit.
-2. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
-3. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
-4. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
-5. Prototype a one-task Playwright Agent Flight Recorder with scope, observations, actions, deltas, approvals, uncertainty, redaction notes, and raw trace link.
+1. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+2. Prototype a local `taste-cards.jsonl` flow around 50 wardrobe/reference events: save, wear, reject, return, and revisit.
+3. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
+4. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
+5. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
 
 ## Dependencies
 
@@ -99,6 +100,12 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `active-vibes/drones-need-airspace-manners.md`
 - `active-vibes/agents-need-street-signs.md`
 - `active-vibes/social-apps-need-portable-taste-graphs.md`
+- `active-vibes/agents-need-transition-tests.md`
+- `experiments/2026-07-29-transition-card-recorder.md`
+- `source-library/2026-07-29-desktop-delta-agents.md`
+- `field-notes/2026-07-29-desktop-delta.md`
+- `unexpected-connections/2026-07-29-transition-tests-flight-recorders.md`
+- `rejected/2026-07-29-agent-screenshot-polish.md`
 - `source-library/2026-07-29-portable-taste-graphs.md`
 - `field-notes/2026-07-29.md`
 - `unexpected-connections/2026-07-29-taste-graphs-custom-feeds.md`
