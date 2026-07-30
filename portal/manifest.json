@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T21:34:51.040Z",
+  "generatedAt": "2026-07-30T05:05:02.228Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -68,7 +68,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Transition Tests: Computer Use Should Be Judged by State Change, Not Screenshots A new arXiv paper, Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?, frames a precise failure in…",
-      "modified": "2026-07-29T21:34:08.565Z",
+      "modified": "2026-07-29T21:36:09.829Z",
       "size": 10514,
       "meta": {}
     },
@@ -110,6 +110,16 @@
       "excerpt": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace Verified: Several recent single-cell perturbation prediction papers frame the problem as AI Virtual Cell modeling, while nearby critique papers…",
       "modified": "2026-07-20T05:04:28.550Z",
       "size": 10000,
+      "meta": {}
+    },
+    {
+      "title": "Creative Tools Need Provenance Sandboxes: Receipts as Playable Material",
+      "path": "active-vibes/creative-tools-need-provenance-sandboxes.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Creative Tools Need Provenance Sandboxes: Receipts as Playable Material Verified: The C2PA specification defines a technical standard for binding provenance assertions to media assets, Content Credentials is a public-fac…",
+      "modified": "2026-07-30T05:02:32.368Z",
+      "size": 9835,
       "meta": {}
     },
     {
@@ -258,7 +268,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a small expected-delta / observed-delta record catches computer-use agent failures that a normal chat/action log hides. Agents Need Transition Tests../active-vibes/agents-need-transition-tests.md Use one saf…",
-      "modified": "2026-07-29T21:34:08.563Z",
+      "modified": "2026-07-29T21:36:09.829Z",
       "size": 1924,
       "meta": {}
     },
@@ -488,8 +498,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Desktop-Delta Bench names an agent failure that feels more fundamental than visual grounding: models may not understand whether a GUI action caused the relevant state transition. - Verified: arXiv metadata for 2607.26041…",
-      "modified": "2026-07-29T21:34:08.571Z",
+      "modified": "2026-07-29T21:36:09.829Z",
       "size": 1622,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-30",
+      "path": "field-notes/2026-07-30.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Provenance is being treated as authenticity infrastructure, but the same structure may be more valuable as creative workflow memory. - Verified: C2PA has a specification family and guidance materials around content prove…",
+      "modified": "2026-07-30T05:03:23.950Z",
+      "size": 1678,
       "meta": {}
     },
     {
@@ -632,8 +652,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Sources scanned this run: - HN Algolia search-by-date for agent/browser automation, local-first software, fashion/outfit apps, creator AI video tools, drone Remote ID, design moodboards, Pinterest alternatives, personal…",
-      "modified": "2026-07-29T21:34:08.593Z",
+      "modified": "2026-07-29T21:36:09.829Z",
       "size": 12028,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-07-30",
+      "path": "idea-bank/trend-sparks/2026-07-30.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-07-30 Checked primary/near-primary signals from C2PA, Content Credentials, TikTok Newsroom, Anthropic MCP, Cloudflare MCP docs, FAA Remote ID, and GitHub API readings for active agent/tool repos. GitHub API readings…",
+      "modified": "2026-07-30T05:04:26.942Z",
+      "size": 11766,
       "meta": {}
     },
     {
@@ -722,8 +752,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-29T21:34:20.919Z",
-      "size": 19183,
+      "modified": "2026-07-30T05:04:41.371Z",
+      "size": 20237,
       "meta": {}
     },
     {
@@ -842,7 +872,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Computer-use agents operate visually, so improving screenshots, visual grounding, and interface screenshot understanding appears to be the obvious path. - Desktop-Delta Bench argues that end-task success and single-frame…",
-      "modified": "2026-07-29T21:34:08.535Z",
+      "modified": "2026-07-29T21:36:09.830Z",
       "size": 1461,
       "meta": {}
     },
@@ -931,9 +961,19 @@
       "path": "rejected/2026-07-29-universal-aesthetic-ontology-first.md",
       "category": "rejected",
       "categoryLabel": "Rejected",
-      "excerpt": "Portable taste graphs could be made interoperable if every aesthetic preference had a shared vocabulary: silhouette, palette, material, era, subculture, formality, fit, mood, and social context. - Pinterest-style boards…",
-      "modified": "2026-07-29T21:34:08.597Z",
-      "size": 1653,
+      "excerpt": "2026-07-29 A portable taste graph seems to imply a universal vocabulary for style, mood, color, media, creators, and shopping. A common ontology would make cross-app taste queries cleaner. The scanned sources support por…",
+      "modified": "2026-07-29T21:35:11.949Z",
+      "size": 1662,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Universal Provenance Standard First",
+      "path": "rejected/2026-07-30-universal-provenance-standard-first.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-07-30 C2PA and Content Credentials suggest a growing standards layer for media provenance. It is tempting to start by designing a universal creative provenance schema that could cover all tools, media types, and pla…",
+      "modified": "2026-07-30T05:03:23.979Z",
+      "size": 1360,
       "meta": {}
     },
     {
@@ -992,7 +1032,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- Source: arXiv API metadata - URL: https://arxiv.org/abs/2607.26041 - Version observed: 2607.26041v1 - Published: 2026-07-28 - Authors: Abhishek Pillai, Samir Kumar Nayak, Yuan Chen - Categories: cs.AI, cs.CV - Evidence…",
-      "modified": "2026-07-29T21:34:08.475Z",
+      "modified": "2026-07-29T21:36:09.830Z",
       "size": 4757,
       "meta": {}
     },
@@ -1134,6 +1174,16 @@
       "excerpt": "- Date: 2026-07-25 - Calling title: Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry - Starting signal: parametric CAD papers increasingly treat physical objects as sequences/programs/code ra…",
       "modified": "2026-07-25T05:07:00.951Z",
       "size": 6767,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Creative Provenance Sandboxes",
+      "path": "source-library/2026-07-30-provenance-sandboxes.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-30 Media provenance infrastructure is maturing as defensive authenticity machinery while agent toolchains are making process traces operational. The research question is whether provenance can become a creative s…",
+      "modified": "2026-07-30T05:03:23.937Z",
+      "size": 4580,
       "meta": {}
     },
     {
@@ -1427,6 +1477,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Media Provenance and Agent Flight Recorders",
+      "path": "unexpected-connections/2026-07-30-provenance-sandboxes-agent-flight-recorders.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-07-30 C2PA-style media provenance and agent flight recorders appear to solve different problems: one protects media authenticity; the other makes autonomous work auditable. But structurally they share the same missi…",
+      "modified": "2026-07-30T05:03:24.022Z",
+      "size": 1873,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Ornithopters and Instrumented Animal Behavior",
       "path": "unexpected-connections/2026-07-19-ornithopters-instrumented-animal-behavior.md",
       "category": "unexpected-connections",
@@ -1522,7 +1582,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Computer-use agents and aircraft flight recorders solve the same hidden problem: reconstructing a failure after the system has already moved through a sequence of partially observed states. Both domains need a reliable c…",
-      "modified": "2026-07-29T21:34:08.484Z",
+      "modified": "2026-07-29T21:36:09.830Z",
       "size": 2647,
       "meta": {}
     },
@@ -1576,7 +1636,7 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 25
+      "count": 26
     },
     {
       "id": "experiments",
@@ -1586,27 +1646,27 @@
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 20
+      "count": 21
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 26
+      "count": 27
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 13
+      "count": 14
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 25
+      "count": 26
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 23
+      "count": 24
     },
     {
       "id": "manifests",

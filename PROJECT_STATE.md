@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-29T21:34:23Z — Ran autonomous Vibe Research on desktop GUI transition understanding for computer-use agents. Added **Agents Need Transition Tests**, source notes, field notes, the transition-tests/flight-recorders unexpected connection, rejected the screenshot-polish-first path, proposed the Transition Card Recorder experiment, refreshed exactly 10 Trend Sparks for 2026-07-29, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-07-30T05:01:34Z — Ran autonomous Vibe Research on creative provenance as a playable workflow primitive. Added **Creative Tools Need Provenance Sandboxes**, source notes, field notes, the provenance/agent-flight-recorder unexpected connection, rejected the universal-standard-first path, refreshed exactly 10 Trend Sparks for 2026-07-30, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -50,6 +50,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Browser agents likely need a public action-legibility layer between `robots.txt`, `/llms.txt`, bot detection, OAuth/API scopes, and full tool protocols: small machine-action street signs that declare safe, risky, forbidden, expiring, and receipt-required actions.
 - Portable taste graphs may be a sharper consumer entry point for personal data stores than generic pods: start with local Taste Cards for save/wear/reject events before attempting federation or universal aesthetic semantics.
 - Computer-use agents likely need Transition Cards: expected delta, observed delta, source attribution, staleness risk, judgment, and recovery. Step-level transition verification may be the product primitive between benchmark scores and trustworthy background automation.
+- Creative provenance may be more valuable before publication than after publication: a Playable Provenance Card can turn sources, prompts, edits, approvals, redactions, branches, and exports into creator-owned workflow memory rather than only an authenticity badge.
 
 ## Rejected ideas
 
@@ -70,11 +71,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
-2. Prototype a local `taste-cards.jsonl` flow around 50 wardrobe/reference events: save, wear, reject, return, and revisit.
-3. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
-4. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
-5. Prototype a one-agent menubar/web Agent Peripheral Vision surface with phase, confidence, last action, next risk, hold/approve, and replay link.
+1. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+2. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+3. Prototype a local `taste-cards.jsonl` flow around 50 wardrobe/reference events: save, wear, reject, return, and revisit.
+4. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
+5. Prototype a simulator-first Civil Drone Intent Card receiver using synthetic MAVLink/Remote-ID-like events, with expiration, confidence, and privacy labels.
 
 ## Dependencies
 
@@ -101,6 +102,12 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `active-vibes/agents-need-street-signs.md`
 - `active-vibes/social-apps-need-portable-taste-graphs.md`
 - `active-vibes/agents-need-transition-tests.md`
+- `active-vibes/creative-tools-need-provenance-sandboxes.md`
+- `source-library/2026-07-30-provenance-sandboxes.md`
+- `field-notes/2026-07-30.md`
+- `unexpected-connections/2026-07-30-provenance-sandboxes-agent-flight-recorders.md`
+- `rejected/2026-07-30-universal-provenance-standard-first.md`
+- `idea-bank/trend-sparks/2026-07-30.md`
 - `experiments/2026-07-29-transition-card-recorder.md`
 - `source-library/2026-07-29-desktop-delta-agents.md`
 - `field-notes/2026-07-29-desktop-delta.md`
@@ -158,4 +165,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-07-29T05:01:07Z
+2026-07-30T05:01:34Z
