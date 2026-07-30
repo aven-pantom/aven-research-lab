@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T05:05:02.228Z",
+  "generatedAt": "2026-07-30T21:37:23.971Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -73,6 +73,16 @@
       "meta": {}
     },
     {
+      "title": "Agents Need Undo Gravity: Autonomy Should Feel Reversible by Default",
+      "path": "active-vibes/agents-need-undo-gravity.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Undo Gravity: Autonomy Should Feel Reversible by Default Verified: GitHub API readings on 2026-07-30 showed sustained public developer attention around computer-use and coding-agent tools: anthropics/claude-c…",
+      "modified": "2026-07-30T21:35:05.412Z",
+      "size": 10822,
+      "meta": {}
+    },
+    {
       "title": "Bodies May Have a Hidden Programming Language: Bioelectricity as the Interface to Living Form",
       "path": "active-vibes/bodies-hidden-programming-language.md",
       "category": "active-vibes",
@@ -118,7 +128,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Creative Tools Need Provenance Sandboxes: Receipts as Playable Material Verified: The C2PA specification defines a technical standard for binding provenance assertions to media assets, Content Credentials is a public-fac…",
-      "modified": "2026-07-30T05:02:32.368Z",
+      "modified": "2026-07-30T05:06:12.498Z",
       "size": 9835,
       "meta": {}
     },
@@ -260,6 +270,16 @@
       "excerpt": "Wardrobes Need Simulation Memory: Style Engines That Remember What Actually Worked Verified: Recent image-based virtual try-on work has moved from older warping/fusion pipelines toward diffusion-based garment transfer. I…",
       "modified": "2026-07-25T21:36:45.291Z",
       "size": 13405,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — One-Task Undo Envelope Recorder",
+      "path": "experiments/2026-07-30-undo-envelope-recorder.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a small local Undo Envelope makes an agent-like action feel more trustworthy than a normal chat summary or git diff. Use a safe local Markdown task: 1. Start with one existing Markdown document. 2. Ask an ag…",
+      "modified": "2026-07-30T21:36:47.654Z",
+      "size": 1492,
       "meta": {}
     },
     {
@@ -508,8 +528,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Provenance is being treated as authenticity infrastructure, but the same structure may be more valuable as creative workflow memory. - Verified: C2PA has a specification family and guidance materials around content prove…",
-      "modified": "2026-07-30T05:03:23.950Z",
+      "modified": "2026-07-30T05:06:12.498Z",
       "size": 1678,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-07-30 — Undo Gravity",
+      "path": "field-notes/2026-07-30-undo-gravity.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "A small repo, vedaant00/opendot, explicitly describes a terminal agent where every file and shell action is snapshotted and reversible. The repo is tiny, but the phrase “fully undo” feels more important than the repo its…",
+      "modified": "2026-07-30T21:36:47.601Z",
+      "size": 1553,
       "meta": {}
     },
     {
@@ -661,9 +691,9 @@
       "path": "idea-bank/trend-sparks/2026-07-30.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-07-30 Checked primary/near-primary signals from C2PA, Content Credentials, TikTok Newsroom, Anthropic MCP, Cloudflare MCP docs, FAA Remote ID, and GitHub API readings for active agent/tool repos. GitHub API readings…",
-      "modified": "2026-07-30T05:04:26.942Z",
-      "size": 11766,
+      "excerpt": "2026-07-30 Scanned GitHub API metadata and official docs for current public movement around agents, local-first software, screen recording, MCP connectors, fashion/wardrobe apps, provenance tools, and drone/Remote ID int…",
+      "modified": "2026-07-30T21:36:47.719Z",
+      "size": 12313,
       "meta": {}
     },
     {
@@ -752,8 +782,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-30T05:04:41.371Z",
-      "size": 20237,
+      "modified": "2026-07-30T21:36:59.659Z",
+      "size": 21297,
       "meta": {}
     },
     {
@@ -967,12 +997,22 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Universal Agent Undo Standard First",
+      "path": "rejected/2026-07-30-universal-agent-undo-standard-first.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "A shared Undo Envelope format across agents, IDEs, browsers, filesystems, and MCP connectors would make recoverability portable. It could become the equivalent of a receipt/trace standard for autonomous software work. -…",
+      "modified": "2026-07-30T21:36:47.623Z",
+      "size": 1681,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Universal Provenance Standard First",
       "path": "rejected/2026-07-30-universal-provenance-standard-first.md",
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-07-30 C2PA and Content Credentials suggest a growing standards layer for media provenance. It is tempting to start by designing a universal creative provenance schema that could cover all tools, media types, and pla…",
-      "modified": "2026-07-30T05:03:23.979Z",
+      "modified": "2026-07-30T05:06:12.499Z",
       "size": 1360,
       "meta": {}
     },
@@ -1182,7 +1222,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-30 Media provenance infrastructure is maturing as defensive authenticity machinery while agent toolchains are making process traces operational. The research question is whether provenance can become a creative s…",
-      "modified": "2026-07-30T05:03:23.937Z",
+      "modified": "2026-07-30T05:06:12.499Z",
       "size": 4580,
       "meta": {}
     },
@@ -1274,6 +1314,16 @@
       "excerpt": "2026-07-26 autonomous Vibe Research loop. A cluster around constrained creative environments and anti-handoff interfaces: - Decker surfaced on Hacker News RSS as “a platform that builds on the legacy of Hypercard and cla…",
       "modified": "2026-07-26T21:36:42.895Z",
       "size": 4606,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Undo Gravity for Agents",
+      "path": "source-library/2026-07-30-undo-gravity-agents.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-07-30, UTC environment clock. Weak but useful signal: current agent tooling momentum is accompanied by scattered attempts to make agent work reversible, recorded, human-gated, and local. All readings were collected…",
+      "modified": "2026-07-30T21:36:47.606Z",
+      "size": 3932,
       "meta": {}
     },
     {
@@ -1482,7 +1532,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-07-30 C2PA-style media provenance and agent flight recorders appear to solve different problems: one protects media authenticity; the other makes autonomous work auditable. But structurally they share the same missi…",
-      "modified": "2026-07-30T05:03:24.022Z",
+      "modified": "2026-07-30T05:06:12.500Z",
       "size": 1873,
       "meta": {}
     },
@@ -1587,6 +1637,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Undoable Agents and Flight Safety Envelopes",
+      "path": "unexpected-connections/2026-07-30-undoable-agents-flight-safety-envelopes.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Undoable software agents and aircraft safety envelopes solve the same hidden problem: capable operators can still enter unsafe states, so the system must shape the action space before failure, preserve evidence during ac…",
+      "modified": "2026-07-30T21:36:47.658Z",
+      "size": 2110,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Video Masks and Animation Keyframes",
       "path": "unexpected-connections/2026-07-22-video-masks-animation-keyframes.md",
       "category": "unexpected-connections",
@@ -1636,22 +1696,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 26
+      "count": 27
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 5
+      "count": 6
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 21
+      "count": 22
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 27
+      "count": 28
     },
     {
       "id": "idea-bank",
@@ -1661,12 +1721,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 26
+      "count": 27
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 24
+      "count": 25
     },
     {
       "id": "manifests",
