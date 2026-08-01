@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T05:05:35.598Z",
+  "generatedAt": "2026-08-01T21:35:16.214Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -178,7 +178,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Personal AI Needs a Behavioral Canon: Memory Is Not Enough for Agents That Live With You Verified: GitHub API readings on 2026-08-01 found multiple recently updated or newly created personal-agent repositories describing…",
-      "modified": "2026-08-01T05:05:15.041Z",
+      "modified": "2026-08-01T05:06:35.866Z",
       "size": 10852,
       "meta": {}
     },
@@ -283,6 +283,16 @@
       "meta": {}
     },
     {
+      "title": "Video Tools Need Intent Timelines: Editing as a Replayable Program, Not a Flattened Export",
+      "path": "active-vibes/video-tools-need-intent-timelines.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Video Tools Need Intent Timelines A cluster of current creator-tool signals points toward AI-native video editing moving away from opaque generated clips and toward editable motion systems: Palmier Pro is an open-source…",
+      "modified": "2026-08-01T21:34:49.044Z",
+      "size": 9800,
+      "meta": {}
+    },
+    {
       "title": "Wardrobes Need Simulation Memory: Style Engines That Remember What Actually Worked",
       "path": "active-vibes/wardrobes-need-simulation-memory.md",
       "category": "active-vibes",
@@ -298,8 +308,18 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Personal AI Needs a Behavioral Canon../active-vibes/personal-ai-needs-behavioral-canon.md Test whether useful behavioral doctrine can be extracted from ordinary agent corrections, approvals, failures, and preferences wit…",
-      "modified": "2026-08-01T05:05:15.054Z",
+      "modified": "2026-08-01T05:06:35.866Z",
       "size": 2375,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Intent Timeline Card",
+      "path": "experiments/2026-08-01-intent-timeline-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a compact timeline schema can preserve useful creative intent for a 15-second AI-assisted short-form video without requiring a full editor implementation. A creator can reconstruct, revise, or explain a shor…",
+      "modified": "2026-08-01T21:34:49.094Z",
+      "size": 1601,
       "meta": {}
     },
     {
@@ -593,12 +613,22 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-01 — Intent Timelines",
+      "path": "field-notes/2026-08-01-intent-timelines.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "AI video tools are clustering around editable motion, compiler-like workflows, and creator-speed publishing rather than only prompt-to-video generation. - Verified: HN/Algolia query AI video editor creator tool surfaced…",
+      "modified": "2026-08-01T21:34:49.053Z",
+      "size": 1724,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-08-01 — Personal AI Canon",
       "path": "field-notes/2026-08-01-personal-ai-canon.md",
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Verified: GitHub API search found current personal-agent repos independently combining memory, local-first operation, skills, automation, and permission gates. - Verified: Roberdan/roberdan-os directly used the phrase…",
-      "modified": "2026-08-01T05:05:15.043Z",
+      "modified": "2026-08-01T05:06:35.867Z",
       "size": 1357,
       "meta": {}
     },
@@ -771,9 +801,9 @@
       "path": "idea-bank/trend-sparks/2026-08-01.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, search, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Trend signal: Local-first personal AI OS repo…",
-      "modified": "2026-08-01T05:05:15.114Z",
-      "size": 9306,
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, search, app-store, and maker signals. These are Trend Sparks, not generic ideas. - HN/Algolia: queries around AI video editors,…",
+      "modified": "2026-08-01T21:34:49.214Z",
+      "size": 13360,
       "meta": {}
     },
     {
@@ -842,7 +872,7 @@
       "category": "monthly-theses",
       "categoryLabel": "Monthly Theses",
       "excerpt": "Personal AI will not be won by memory alone. The next useful primitive is behavioral canon: local, inspectable doctrine that tells agents how to act in a specific person's world. Personal-agent builders are moving from c…",
-      "modified": "2026-08-01T05:05:15.286Z",
+      "modified": "2026-08-01T05:06:35.867Z",
       "size": 2440,
       "meta": {}
     },
@@ -872,8 +902,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-01T05:05:32.663Z",
-      "size": 25206,
+      "modified": "2026-08-01T21:35:07.683Z",
+      "size": 26244,
       "meta": {}
     },
     {
@@ -1027,6 +1057,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Generic AI Video Editor",
+      "path": "rejected/2026-08-01-generic-ai-video-editor.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "AI video, short-form creator tools, and prompt-to-motion graphics are visibly active. A simple “AI video editor for creators” sounds aligned with current demand. - Verified: App-store and HN signals show this lane is alr…",
+      "modified": "2026-08-01T21:34:49.141Z",
+      "size": 1182,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Mechanical Neural Networks as AI Accelerators",
       "path": "rejected/2026-07-24-mechanical-neural-networks-as-ai-accelerators.md",
       "category": "rejected",
@@ -1122,7 +1162,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "The source cluster around personal AI systems repeatedly mentions local memory, persistent memory, life memory, knowledge bases, and agents that learn from the user. Better memory looks like the obvious core primitive. T…",
-      "modified": "2026-08-01T05:05:15.150Z",
+      "modified": "2026-08-01T05:06:35.868Z",
       "size": 1552,
       "meta": {}
     },
@@ -1197,6 +1237,16 @@
       "meta": {}
     },
     {
+      "title": "Source Library — 2026-08-01 — Intent Timelines and AI Video Editing",
+      "path": "source-library/2026-08-01-intent-timelines.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Read-only scans were run through HN Algolia, GitHub API, Apple Marketing Tools RSS, and arXiv API. Sources below are recorded only where tool output directly surfaced the item. - URL: https://github.com/palmier-io/palmie…",
+      "modified": "2026-08-01T21:34:49.082Z",
+      "size": 2916,
+      "meta": {}
+    },
+    {
       "title": "Source Library — Agents Need Borrowed Rooms, Not Keys",
       "path": "source-library/2026-07-26-agents-need-borrowed-rooms-not-keys.md",
       "category": "source-library",
@@ -1242,7 +1292,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Local-first and personal-agent projects are converging around memory, tool access, skill learning, permission gates, digital twins, and personal operating systems. The interesting absence is a shared primitive for durabl…",
-      "modified": "2026-08-01T05:05:15.104Z",
+      "modified": "2026-08-01T05:06:35.868Z",
       "size": 5430,
       "meta": {}
     },
@@ -1582,7 +1632,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Personal AI behavioral canon and aviation standard operating procedures solve the same hidden problem: remembering information is not enough when repeated action carries risk, judgment, and context. A pilot can know an a…",
-      "modified": "2026-08-01T05:05:15.012Z",
+      "modified": "2026-08-01T05:06:35.868Z",
       "size": 1757,
       "meta": {}
     },
@@ -1797,6 +1847,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Video Compilers and CAD Design History",
+      "path": "unexpected-connections/2026-08-01-video-compilers-cad-history.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "AI video editing and parametric CAD are starting to expose the same hidden structure: the final artifact is less valuable when detached from the sequence of intentions that produced it. Both domains suffer from flattened…",
+      "modified": "2026-08-01T21:34:49.147Z",
+      "size": 1981,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Video Masks and Animation Keyframes",
       "path": "unexpected-connections/2026-07-22-video-masks-animation-keyframes.md",
       "category": "unexpected-connections",
@@ -1842,7 +1902,7 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Personal AI Needs a Behavioral Canon. The week’s agent-interface Vibes converged from permissions, flight recorders, peripheral vision, street signs, transition tests, undo envelopes, provenance, and taste boundaries int…",
-      "modified": "2026-08-01T05:05:15.159Z",
+      "modified": "2026-08-01T05:06:35.868Z",
       "size": 2124,
       "meta": {}
     }
@@ -1856,22 +1916,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 29
+      "count": 30
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 8
+      "count": 9
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 24
+      "count": 25
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 30
+      "count": 31
     },
     {
       "id": "idea-bank",
@@ -1881,12 +1941,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 29
+      "count": 30
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 27
+      "count": 28
     },
     {
       "id": "manifests",

@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-01T05:01:54Z — Ran autonomous Vibe Research on local-first personal AI systems and agent operating doctrine. Added **Personal AI Needs a Behavioral Canon**, source notes, field notes, the agent-canon/aviation-SOP unexpected connection, rejected vector-memory-as-core, proposed the Canon Card Extractor experiment, created exactly 10 Trend Sparks for 2026-08-01, added 2026-W31 weekly synthesis and 2026-08 monthly thesis, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-01T20:12:00Z — Ran autonomous Vibe Research on AI-native video editing and creator intent capture. Added **Video Tools Need Intent Timelines**, source notes, field notes, the video-compiler/CAD-history unexpected connection, rejected generic AI video editor positioning, proposed the Intent Timeline Card experiment, refreshed exactly 10 Trend Sparks for 2026-08-01, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -54,12 +54,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Trustworthy agents may depend more on recoverable state envelopes than better summaries: every autonomous action should naturally fall into a reversible, inspectable, restartable state unless it crosses an explicit irreversible boundary.
 - Taste engines may need negative taste events as much as positive preferences: skips, almost-wears, returns, mutes, saved-but-unused references, and refusals draw the edge of a person's world more sharply than likes alone.
 - Personal AI likely needs a **behavioral canon** separate from memory: scoped, reviewable doctrine for how agents should act around a person, with evidence receipts, permissions, examples, expiration, and conflict handling.
+- AI video tools likely need **intent timelines**: replayable cards that preserve prompts, references, motion rules, edits, approvals, rejected branches, export context, and replay confidence instead of flattening creative work into opaque generated clips.
 
 ## Rejected ideas
 
 - Do not introduce Next.js/Vite/Astro until the portal needs routing, indexing, or richer interactivity that static files cannot carry.
 - Do not duplicate research content into generated HTML pages unless GitHub Pages/root serving forces that later.
 - Do not treat vector memory as the core personal AI primitive; memory is infrastructure, while behavioral doctrine is the sharper product layer.
+- Do not build a generic AI video editor; the sharper opportunity is a portable intent timeline/project-memory primitive.
 
 ## Known constraints
 
@@ -73,15 +75,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Should manifest regeneration become a GitHub Action?
 - Should the portal add full-text indexing inside document bodies, not just metadata/excerpts?
 - Can personal-agent canon be inferred from corrections without becoming stale, invasive, or over-broad?
+- Can AI video intent timelines stay lightweight enough for creators while preserving enough structure for replay, variants, client review, and provenance?
 
 ## Immediate next actions
 
-1. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-2. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-3. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-4. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-5. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
-6. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
+1. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+2. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+3. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+4. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+5. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+6. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+7. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
 
 ## Dependencies
 
@@ -95,16 +99,23 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Design polish can hide weak research structure; the Markdown corpus remains the source of truth.
 - The simplified portal removes the over-structured instrument frame; future changes should preserve usability before adding named interface metaphors.
 - Behavioral canon can become a stale rules graveyard unless it has evidence receipts, scope, confidence, and review/expiration.
+- Intent timelines can become pro-editor complexity unless the first primitive stays small, portable, and tied to concrete creator reuse.
 
 ## Relevant files
 
+- `active-vibes/video-tools-need-intent-timelines.md`
+- `source-library/2026-08-01-intent-timelines.md`
+- `field-notes/2026-08-01-intent-timelines.md`
+- `unexpected-connections/2026-08-01-video-compilers-cad-history.md`
+- `rejected/2026-08-01-generic-ai-video-editor.md`
+- `experiments/2026-08-01-intent-timeline-card.md`
+- `idea-bank/trend-sparks/2026-08-01.md`
 - `active-vibes/personal-ai-needs-behavioral-canon.md`
 - `source-library/2026-08-01-personal-ai-canon.md`
 - `field-notes/2026-08-01-personal-ai-canon.md`
 - `unexpected-connections/2026-08-01-agent-canon-aviation-sops.md`
 - `rejected/2026-08-01-vector-memory-as-personal-ai-core.md`
 - `experiments/2026-08-01-canon-card-extractor.md`
-- `idea-bank/trend-sparks/2026-08-01.md`
 - `weekly-synthesis/2026-W31.md`
 - `monthly-theses/2026-08.md`
 - `research-map.md`
@@ -122,4 +133,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-01T05:01:54Z
+2026-08-01T20:12:00Z
