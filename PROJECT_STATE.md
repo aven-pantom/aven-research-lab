@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-07-31T21:31:01Z — Ran autonomous Vibe Research on negative taste signals in fashion/style engines. Added **Taste Engines Need Negative Space**, source notes, field notes, the music-skips/wardrobe-almost-wears unexpected connection, rejected the generic-virtual-try-on-first path, proposed the Negative Taste Card Sampler experiment, refreshed exactly 10 Trend Sparks for 2026-07-31, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-01T05:01:54Z — Ran autonomous Vibe Research on local-first personal AI systems and agent operating doctrine. Added **Personal AI Needs a Behavioral Canon**, source notes, field notes, the agent-canon/aviation-SOP unexpected connection, rejected vector-memory-as-core, proposed the Canon Card Extractor experiment, created exactly 10 Trend Sparks for 2026-08-01, added 2026-W31 weekly synthesis and 2026-08 monthly thesis, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -41,7 +41,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Use Geist, Inter, or IBM Plex for portal UI text; reserve the serif display face only for the large Research Portal heading or explicitly approved display moments.
 - Avoid making the portal typography broadly bold; prefer 450–600 weights with hierarchy from scale, spacing, and contrast.
 - Use **Trend Sparks** rather than “ideas” for the recurring current-trend app opportunity lane. Each Spark must be grounded in current evidence, name existing proof, identify a gap, define a smallest prototype, explain spread potential, and state why it may be fake.
-- Initial document load selects the document's own section so the index remains oriented instead of defaulting to all 109 documents.
+- Initial document load selects the document's own section so the index remains oriented instead of defaulting to all documents.
 - Agent workspace research should treat permissions as product architecture, not hidden plumbing: Room Contracts, visible boundaries, approval gates, receipts, eviction, and memory policy are the primitives to test.
 - Tiny-world tools are a promising anti-handoff interface primitive: constrained, portable, scriptable environments where humans and agents act through visible verbs, receipts, and aesthetic law.
 - Agent computer-use research should treat replayable evidence as a core product primitive: scope, observations, actions, deltas, approvals, uncertainty, redaction, and replay should be captured like a flight recorder, not buried in chat logs.
@@ -53,11 +53,13 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Creative provenance may be more valuable before publication than after publication: a Playable Provenance Card can turn sources, prompts, edits, approvals, redactions, branches, and exports into creator-owned workflow memory rather than only an authenticity badge.
 - Trustworthy agents may depend more on recoverable state envelopes than better summaries: every autonomous action should naturally fall into a reversible, inspectable, restartable state unless it crosses an explicit irreversible boundary.
 - Taste engines may need negative taste events as much as positive preferences: skips, almost-wears, returns, mutes, saved-but-unused references, and refusals draw the edge of a person's world more sharply than likes alone.
+- Personal AI likely needs a **behavioral canon** separate from memory: scoped, reviewable doctrine for how agents should act around a person, with evidence receipts, permissions, examples, expiration, and conflict handling.
 
 ## Rejected ideas
 
 - Do not introduce Next.js/Vite/Astro until the portal needs routing, indexing, or richer interactivity that static files cannot carry.
 - Do not duplicate research content into generated HTML pages unless GitHub Pages/root serving forces that later.
+- Do not treat vector memory as the core personal AI primitive; memory is infrastructure, while behavioral doctrine is the sharper product layer.
 
 ## Known constraints
 
@@ -70,14 +72,15 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Should the repo enable GitHub Pages from root so `/portal/` is publicly browsable?
 - Should manifest regeneration become a GitHub Action?
 - Should the portal add full-text indexing inside document bodies, not just metadata/excerpts?
+- Can personal-agent canon be inferred from corrections without becoming stale, invasive, or over-broad?
 
 ## Immediate next actions
 
-1. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-2. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-3. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-4. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
-5. Prototype a local `taste-cards.jsonl` flow around 50 wardrobe/reference events: save, wear, reject, return, and revisit.
+1. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+2. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+3. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+4. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+5. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
 6. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
 
 ## Dependencies
@@ -91,94 +94,32 @@ Active Vibe Research operations plus repo readability infrastructure.
 - The custom Markdown renderer is intentionally small and may not support edge-case Markdown extensions.
 - Design polish can hide weak research structure; the Markdown corpus remains the source of truth.
 - The simplified portal removes the over-structured instrument frame; future changes should preserve usability before adding named interface metaphors.
+- Behavioral canon can become a stale rules graveyard unless it has evidence receipts, scope, confidence, and review/expiration.
 
 ## Relevant files
 
-- `active-vibes/taste-engines-need-negative-space.md`
-- `source-library/2026-07-31-negative-taste-signals.md`
-- `field-notes/2026-07-31-negative-taste.md`
-- `unexpected-connections/2026-07-31-music-skips-wardrobe-almost-wears.md`
-- `rejected/2026-07-31-generic-virtual-try-on-first.md`
-- `experiments/2026-07-31-negative-taste-card-sampler.md`
-- `idea-bank/trend-sparks/2026-07-31.md`
-- `README.md`
+- `active-vibes/personal-ai-needs-behavioral-canon.md`
+- `source-library/2026-08-01-personal-ai-canon.md`
+- `field-notes/2026-08-01-personal-ai-canon.md`
+- `unexpected-connections/2026-08-01-agent-canon-aviation-sops.md`
+- `rejected/2026-08-01-vector-memory-as-personal-ai-core.md`
+- `experiments/2026-08-01-canon-card-extractor.md`
+- `idea-bank/trend-sparks/2026-08-01.md`
+- `weekly-synthesis/2026-W31.md`
+- `monthly-theses/2026-08.md`
 - `research-map.md`
-- `active-vibes/wardrobes-need-simulation-memory.md`
+- `portal/manifest.json`
+- `README.md`
+- `DESIGN.md`
 - `active-vibes/agents-need-borrowed-rooms-not-keys.md`
-- `active-vibes/tiny-world-tools.md`
 - `active-vibes/agents-need-flight-recorders.md`
 - `active-vibes/agents-need-peripheral-vision.md`
-- `active-vibes/drones-need-airspace-manners.md`
 - `active-vibes/agents-need-street-signs.md`
-- `active-vibes/social-apps-need-portable-taste-graphs.md`
 - `active-vibes/agents-need-transition-tests.md`
-- `active-vibes/creative-tools-need-provenance-sandboxes.md`
 - `active-vibes/agents-need-undo-gravity.md`
-- `source-library/2026-07-30-undo-gravity-agents.md`
-- `field-notes/2026-07-30-undo-gravity.md`
-- `unexpected-connections/2026-07-30-undoable-agents-flight-safety-envelopes.md`
-- `rejected/2026-07-30-universal-agent-undo-standard-first.md`
-- `experiments/2026-07-30-undo-envelope-recorder.md`
-- `source-library/2026-07-30-provenance-sandboxes.md`
-- `field-notes/2026-07-30.md`
-- `unexpected-connections/2026-07-30-provenance-sandboxes-agent-flight-recorders.md`
-- `rejected/2026-07-30-universal-provenance-standard-first.md`
-- `idea-bank/trend-sparks/2026-07-30.md`
-- `experiments/2026-07-29-transition-card-recorder.md`
-- `source-library/2026-07-29-desktop-delta-agents.md`
-- `field-notes/2026-07-29-desktop-delta.md`
-- `unexpected-connections/2026-07-29-transition-tests-flight-recorders.md`
-- `rejected/2026-07-29-agent-screenshot-polish.md`
-- `source-library/2026-07-29-portable-taste-graphs.md`
-- `field-notes/2026-07-29.md`
-- `unexpected-connections/2026-07-29-taste-graphs-custom-feeds.md`
-- `rejected/2026-07-29-universal-aesthetic-ontology-first.md`
-- `idea-bank/trend-sparks/2026-07-29.md`
-- `source-library/2026-07-28-agent-street-signs.md`
-- `unexpected-connections/2026-07-28-agent-street-signs-drone-intent-cards.md`
-- `rejected/2026-07-28-agent-browser-captcha-arms-race.md`
-- `source-library/2026-07-28-drones-need-airspace-manners.md`
-- `field-notes/2026-07-28.md`
-- `unexpected-connections/2026-07-28-drone-intent-cards-turn-signals.md`
-- `idea-bank/trend-sparks/2026-07-28.md`
-- `source-library/2026-07-27-agents-need-peripheral-vision.md`
-- `field-notes/2026-07-27-agent-peripheral-vision.md`
-- `unexpected-connections/2026-07-27-agent-peripheral-vision-cockpit-cautions.md`
-- `rejected/2026-07-27-agent-avatar-companion.md`
-- `source-library/2026-07-27-agents-need-flight-recorders.md`
-- `field-notes/2026-07-27.md`
-- `unexpected-connections/2026-07-27-agent-flight-recorders-aviation-black-boxes.md`
-- `rejected/2026-07-27-agent-bot-defense-arms-race.md`
-- `idea-bank/trend-sparks/2026-07-27.md`
-- `source-library/2026-07-26-tiny-world-tools.md`
-- `unexpected-connections/2026-07-26-tiny-worlds-capability-security.md`
-- `source-library/2026-07-26-agents-need-borrowed-rooms-not-keys.md`
-- `field-notes/2026-07-26.md`
-- `unexpected-connections/2026-07-26-guest-rooms-capability-security.md`
-- `idea-bank/trend-sparks/2026-07-26.md`
-- `source-library/2026-07-25-wardrobes-need-simulation-memory.md`
-- `field-notes/2026-07-25-wardrobes-need-simulation-memory.md`
-- `unexpected-connections/2026-07-25-wardrobes-need-simulation-memory.md`
-- `rejected/2026-07-25-ai-virtual-fitting-room-ecommerce.md`
-- `idea-bank/trend-sparks/README.md`
-- `templates/trend-sparks.md`
-- `active-vibes/cad-as-design-history-not-geometry.md`
-- `source-library/2026-07-25-cad-as-design-history.md`
-- `field-notes/2026-07-25.md`
-- `unexpected-connections/2026-07-25-cad-histories-agent-action-logs.md`
-- `rejected/2026-07-25-prompt-to-instant-manufacturing.md`
-- `experiments/2026-07-25-design-history-ledger.md`
-- `weekly-synthesis/2026-W30.md`
-- `portal/index.html`
-- `portal/app.js`
-- `portal/tailwind.css`
-- `portal/styles.css`
-- `portal/manifest.json`
-- `scripts/build-portal-manifest.mjs`
-- `package.json`
-- `tailwind.config.cjs`
-- `DESIGN.md`
+- `active-vibes/creative-tools-need-provenance-sandboxes.md`
+- `active-vibes/taste-engines-need-negative-space.md`
 
 ## Last updated
 
-2026-07-31T21:31:01Z
+2026-08-01T05:01:54Z
