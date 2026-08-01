@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:36:07.243Z",
+  "generatedAt": "2026-08-01T05:05:35.598Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -173,6 +173,16 @@
       "meta": {}
     },
     {
+      "title": "Personal AI Needs a Behavioral Canon: Memory Is Not Enough for Agents That Live With You",
+      "path": "active-vibes/personal-ai-needs-behavioral-canon.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Personal AI Needs a Behavioral Canon: Memory Is Not Enough for Agents That Live With You Verified: GitHub API readings on 2026-08-01 found multiple recently updated or newly created personal-agent repositories describing…",
+      "modified": "2026-08-01T05:05:15.041Z",
+      "size": 10852,
+      "meta": {}
+    },
+    {
       "title": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics",
       "path": "active-vibes/radios-need-moving-bodies.md",
       "category": "active-vibes",
@@ -218,7 +228,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Taste Engines Need Negative Space: Style Learned From Rejections, Skips, and Almost-Wears Verified: GitHub API readings on 2026-07-31 showed a cluster of newly created or recently pushed fashion/try-on projects: zaid5561…",
-      "modified": "2026-07-31T21:32:58.063Z",
+      "modified": "2026-07-31T21:36:46.959Z",
       "size": 10858,
       "meta": {}
     },
@@ -283,12 +293,22 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Canon Card Extractor",
+      "path": "experiments/2026-08-01-canon-card-extractor.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Personal AI Needs a Behavioral Canon../active-vibes/personal-ai-needs-behavioral-canon.md Test whether useful behavioral doctrine can be extracted from ordinary agent corrections, approvals, failures, and preferences wit…",
+      "modified": "2026-08-01T05:05:15.054Z",
+      "size": 2375,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Negative Taste Card Sampler",
       "path": "experiments/2026-07-31-negative-taste-card-sampler.md",
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Negative Taste Card Sampler Taste Engines Need Negative Space../active-vibes/taste-engines-need-negative-space.md Test whether a small set of negative taste events makes a personal style/recommendation prompt more specif…",
-      "modified": "2026-07-31T21:35:11.430Z",
+      "modified": "2026-07-31T21:36:46.959Z",
       "size": 2128,
       "meta": {}
     },
@@ -568,8 +588,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Fashion AI appears active in two layers: research papers improving virtual try-on/outfit recommendation and tiny new repos making AI wardrobes or try-on shopping assistants. The product surface is crowded and mostly obvi…",
-      "modified": "2026-07-31T21:33:40.247Z",
+      "modified": "2026-07-31T21:36:46.959Z",
       "size": 1819,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-01 — Personal AI Canon",
+      "path": "field-notes/2026-08-01-personal-ai-canon.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Verified: GitHub API search found current personal-agent repos independently combining memory, local-first operation, skills, automation, and permission gates. - Verified: Roberdan/roberdan-os directly used the phrase…",
+      "modified": "2026-08-01T05:05:15.043Z",
+      "size": 1357,
       "meta": {}
     },
     {
@@ -732,8 +762,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-07-31 Scanned GitHub API metadata and arXiv API results for visible movement around AI wardrobes, virtual try-on, taste/recommendation systems, local-first personal AI, creator provenance, agent interfaces, workflow…",
-      "modified": "2026-07-31T21:34:59.287Z",
+      "modified": "2026-07-31T21:36:46.959Z",
       "size": 13425,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-01",
+      "path": "idea-bank/trend-sparks/2026-08-01.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, search, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Trend signal: Local-first personal AI OS repo…",
+      "modified": "2026-08-01T05:05:15.114Z",
+      "size": 9306,
       "meta": {}
     },
     {
@@ -797,6 +837,16 @@
       "meta": {}
     },
     {
+      "title": "Monthly Thesis — 2026-08",
+      "path": "monthly-theses/2026-08.md",
+      "category": "monthly-theses",
+      "categoryLabel": "Monthly Theses",
+      "excerpt": "Personal AI will not be won by memory alone. The next useful primitive is behavioral canon: local, inspectable doctrine that tells agents how to act in a specific person's world. Personal-agent builders are moving from c…",
+      "modified": "2026-08-01T05:05:15.286Z",
+      "size": 2440,
+      "meta": {}
+    },
+    {
       "title": "Aven Research Lab",
       "path": "README.md",
       "category": ".",
@@ -822,8 +872,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-07-31T21:35:24.985Z",
-      "size": 22859,
+      "modified": "2026-08-01T05:05:32.663Z",
+      "size": 25206,
       "meta": {}
     },
     {
@@ -842,7 +892,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Virtual try-on is active in research and visible in small app repos. It fits Max's fashion/style/taste frontier and has an obvious consumer surface. The 2026-07-31 GitHub scan found multiple new AI wardrobe/try-on repos,…",
-      "modified": "2026-07-31T21:33:59.671Z",
+      "modified": "2026-07-31T21:36:46.960Z",
       "size": 1546,
       "meta": {}
     },
@@ -1067,6 +1117,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Vector Memory as the Core Personal AI Primitive",
+      "path": "rejected/2026-08-01-vector-memory-as-personal-ai-core.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "The source cluster around personal AI systems repeatedly mentions local memory, persistent memory, life memory, knowledge bases, and agents that learn from the user. Better memory looks like the obvious core primitive. T…",
+      "modified": "2026-08-01T05:05:15.150Z",
+      "size": 1552,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Video World Models Solve Robotics",
       "path": "rejected/2026-07-22-video-world-models-solve-robotics.md",
       "category": "rejected",
@@ -1174,6 +1234,16 @@
       "excerpt": "- URL: https://x.com/AiwithYasir/status/2078381492368253063 - Creator: Yasir Ai / @AiwithYasir - Captured: 2026-07-19 - Duration of attached video: 70.4 seconds from browser video element. - Original X page inspected in…",
       "modified": "2026-07-19T15:24:08.585Z",
       "size": 2212,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — 2026-08-01 — Personal AI Needs a Behavioral Canon",
+      "path": "source-library/2026-08-01-personal-ai-canon.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Local-first and personal-agent projects are converging around memory, tool access, skill learning, permission gates, digital twins, and personal operating systems. The interesting absence is a shared primitive for durabl…",
+      "modified": "2026-08-01T05:05:15.104Z",
+      "size": 5430,
       "meta": {}
     },
     {
@@ -1332,7 +1402,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-07-31, UTC environment clock. Fashion/taste tooling is converging on AI wardrobes, virtual try-on, and preference-aware recommendations, but most visible projects and papers still foreground positive/compatibility s…",
-      "modified": "2026-07-31T21:33:29.534Z",
+      "modified": "2026-07-31T21:36:46.960Z",
       "size": 6653,
       "meta": {}
     },
@@ -1507,6 +1577,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Agent Canon and Aviation SOPs",
+      "path": "unexpected-connections/2026-08-01-agent-canon-aviation-sops.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Personal AI behavioral canon and aviation standard operating procedures solve the same hidden problem: remembering information is not enough when repeated action carries risk, judgment, and context. A pilot can know an a…",
+      "modified": "2026-08-01T05:05:15.012Z",
+      "size": 1757,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Agent Flight Recorders and Aviation Black Boxes",
       "path": "unexpected-connections/2026-07-27-agent-flight-recorders-aviation-black-boxes.md",
       "category": "unexpected-connections",
@@ -1602,7 +1682,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Music recommendation systems and wardrobe/style engines appear to be different consumer categories, but they share a hidden problem: taste is often defined at the moment of refusal. A music skip is not simply “I dislike…",
-      "modified": "2026-07-31T21:33:51.124Z",
+      "modified": "2026-07-31T21:36:46.962Z",
       "size": 1868,
       "meta": {}
     },
@@ -1755,6 +1835,16 @@
       "modified": "2026-07-25T05:07:00.951Z",
       "size": 2822,
       "meta": {}
+    },
+    {
+      "title": "Weekly Synthesis — 2026-W31",
+      "path": "weekly-synthesis/2026-W31.md",
+      "category": "weekly-synthesis",
+      "categoryLabel": "Weekly Synthesis",
+      "excerpt": "Personal AI Needs a Behavioral Canon. The week’s agent-interface Vibes converged from permissions, flight recorders, peripheral vision, street signs, transition tests, undo envelopes, provenance, and taste boundaries int…",
+      "modified": "2026-08-01T05:05:15.159Z",
+      "size": 2124,
+      "meta": {}
     }
   ],
   "categories": [
@@ -1766,37 +1856,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 28
+      "count": 29
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 7
+      "count": 8
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 23
+      "count": 24
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 29
+      "count": 30
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 15
+      "count": 16
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 28
+      "count": 29
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 26
+      "count": 27
     },
     {
       "id": "manifests",
@@ -1806,12 +1896,12 @@
     {
       "id": "weekly-synthesis",
       "label": "Weekly Synthesis",
-      "count": 1
+      "count": 2
     },
     {
       "id": "monthly-theses",
       "label": "Monthly Theses",
-      "count": 1
+      "count": 2
     },
     {
       "id": "templates",
