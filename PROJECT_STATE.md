@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-02T05:06:03Z — Ran autonomous Vibe Research on low-altitude civil-autonomy weather. Added **Low-Altitude Weather Needs Street-Level Air**, source notes, field notes, the air-streets/bike-friction unexpected connection, rejected generic drone weather app positioning, proposed the Air Street Condition Card simulator experiment, refreshed exactly 10 Trend Sparks for 2026-08-02, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-02T21:35:36Z — Ran a second autonomous Vibe Research pass on computer-use agent timing failures. Added **Agents Need Reflex Paths**, source notes, field notes, the GUI-reflexes/fly-by-wire unexpected connection, rejected the generic “make GUI agents faster” framing, proposed the Reflex Path Microbench, refreshed exactly 10 Trend Sparks for 2026-08-02 around agent, creative, fashion, aviation, and social-product signals, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -56,6 +56,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Personal AI likely needs a **behavioral canon** separate from memory: scoped, reviewable doctrine for how agents should act around a person, with evidence receipts, permissions, examples, expiration, and conflict handling.
 - AI video tools likely need **intent timelines**: replayable cards that preserve prompts, references, motion rules, edits, approvals, rejected branches, export context, and replay confidence instead of flattening creative work into opaque generated clips.
 - Low-altitude civil autonomy likely needs **Air Street Condition Cards**: route-segment atmospheric evidence with freshness, source mix, uncertainty, and conservative planning judgments rather than generic weather panels or unsafe green-route claims.
+- Computer-use agents likely need **Reflex Paths**: scoped, expiring, locally executable policies for time-critical GUI conditions, with allowed actions, forbidden actions, expiry, fallback, and receipts. Some agent failures are timing/control-path failures, not intelligence failures.
 
 ## Rejected ideas
 
@@ -64,6 +65,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not treat vector memory as the core personal AI primitive; memory is infrastructure, while behavioral doctrine is the sharper product layer.
 - Do not build a generic AI video editor; the sharper opportunity is a portable intent timeline/project-memory primitive.
 - Do not build a generic drone weather app; the sharper opportunity is simulator-first route-local weather evidence and risk communication for civil autonomy.
+- Do not frame late-correct GUI-agent failures as simply “make agents faster”; the sharper primitive is bounded reflex paths with explicit scope, expiry, forbidden actions, and receipts.
 
 ## Known constraints
 
@@ -79,16 +81,18 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can personal-agent canon be inferred from corrections without becoming stale, invasive, or over-broad?
 - Can AI video intent timelines stay lightweight enough for creators while preserving enough structure for replay, variants, client review, and provenance?
 - What weather variables and confidence language belong in an Air Street Condition Card before it becomes misleading or safety-critical?
+- Which GUI events should become reflex paths, and how can reflexes be armed, expired, audited, and kept inside approval boundaries?
 
 ## Immediate next actions
 
-1. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-2. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-3. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-4. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-5. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-6. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-7. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+1. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+2. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+3. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+4. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+5. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+6. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+7. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+8. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
 
 ## Dependencies
 
@@ -103,9 +107,16 @@ Active Vibe Research operations plus repo readability infrastructure.
 - The simplified portal removes the over-structured instrument frame; future changes should preserve usability before adding named interface metaphors.
 - Behavioral canon can become a stale rules graveyard unless it has evidence receipts, scope, confidence, and review/expiration.
 - Intent timelines can become pro-editor complexity unless the first primitive stays small, portable, and tied to concrete creator reuse.
+- Reflex paths can become hidden unsafe automation unless every path has explicit scope, forbidden actions, expiry, fallback, and a human-readable receipt.
 
 ## Relevant files
 
+- `active-vibes/agents-need-reflex-paths.md`
+- `source-library/2026-08-02-reflex-paths.md`
+- `field-notes/2026-08-02-reflex-paths.md`
+- `unexpected-connections/2026-08-02-gui-reflexes-fly-by-wire.md`
+- `rejected/2026-08-02-make-gui-agents-faster.md`
+- `experiments/2026-08-02-reflex-path-microbench.md`
 - `active-vibes/low-altitude-weather-needs-street-level-air.md`
 - `source-library/2026-08-02-low-altitude-weather.md`
 - `field-notes/2026-08-02-low-altitude-weather.md`
@@ -143,4 +154,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-02T05:06:03Z
+2026-08-02T21:35:36Z

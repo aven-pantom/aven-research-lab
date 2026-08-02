@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T05:06:28.910Z",
+  "generatedAt": "2026-08-02T21:36:08.603Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -50,6 +50,16 @@
       "excerpt": "Agents Need Peripheral Vision: Ambient Communication for Computer-Use Work On 2026-07-27, a fresh arXiv scan surfaced Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents arXiv:2607.17527…",
       "modified": "2026-07-27T21:35:51.129Z",
       "size": 12370,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Reflex Paths: Computer Use Will Fail If It Thinks After the Window Closes",
+      "path": "active-vibes/agents-need-reflex-paths.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Reflex Paths: Computer Use Will Fail If It Thinks After the Window Closes A cluster of late-July 2026 arXiv papers around computer-use agents shifted from broad “can agents use GUIs?” toward narrower failures…",
+      "modified": "2026-08-02T21:33:10.317Z",
+      "size": 12596,
       "meta": {}
     },
     {
@@ -158,7 +168,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Low-Altitude Weather Needs Street-Level Air A 2026-08-02 scan converged on a civil-aerospace weather gap: FAA UTM material frames low-altitude drone traffic as needing shared digital services; NOAA's HRRR is a high-resol…",
-      "modified": "2026-08-02T05:03:55.876Z",
+      "modified": "2026-08-02T05:07:20.624Z",
       "size": 12774,
       "meta": {}
     },
@@ -318,7 +328,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-02 Status: Proposed Related Vibe: Low-Altitude Weather Needs Street-Level Air../active-vibes/low-altitude-weather-needs-street-level-air.md Test whether a route-segment weather evidence card makes low-altit…",
-      "modified": "2026-08-02T05:05:45.686Z",
+      "modified": "2026-08-02T05:07:20.624Z",
       "size": 2299,
       "meta": {}
     },
@@ -360,6 +370,16 @@
       "excerpt": "Test whether a small local Undo Envelope makes an agent-like action feel more trustworthy than a normal chat summary or git diff. Use a safe local Markdown task: 1. Start with one existing Markdown document. 2. Ask an ag…",
       "modified": "2026-07-30T21:38:21.369Z",
       "size": 1492,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Reflex Path Microbench",
+      "path": "experiments/2026-08-02-reflex-path-microbench.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-08-02 Status: Proposed Connected Vibe: Agents Need Reflex Paths../active-vibes/agents-need-reflex-paths.md Test whether scoped reflex paths reduce late-correct GUI failures in a safe local browser environment.…",
+      "modified": "2026-08-02T21:34:07.355Z",
+      "size": 1737,
       "meta": {}
     },
     {
@@ -658,8 +678,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Low-altitude civil autonomy appears to need weather as an operating-condition layer, not a generic forecast. - Verified: FAA has a UTM page for low-altitude UAS traffic-management context. - Verified: NOAA HRRR public re…",
-      "modified": "2026-08-02T05:04:35.680Z",
+      "modified": "2026-08-02T05:07:20.624Z",
       "size": 1676,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-02 — Reflex Paths",
+      "path": "field-notes/2026-08-02-reflex-paths.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Signal: A 2026-07-30 arXiv cluster around computer-use agents is unusually dense: OSReward, local inference-time scaling, correct-but-late GUI agents, benchmark mis-scoring, Qwen-UI-Agent. - Phrase worth preserving: co…",
+      "modified": "2026-08-02T21:34:07.370Z",
+      "size": 1263,
       "meta": {}
     },
     {
@@ -841,9 +871,9 @@
       "path": "idea-bank/trend-sparks/2026-08-02.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Apple Marketing Tools RSS: U.S. top-free and top-paid…",
-      "modified": "2026-08-02T05:05:33.752Z",
-      "size": 12874,
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Apple iTunes Search API: queried U.S. software result…",
+      "modified": "2026-08-02T21:35:19.538Z",
+      "size": 13983,
       "meta": {}
     },
     {
@@ -942,8 +972,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-02T05:05:58.619Z",
-      "size": 27729,
+      "modified": "2026-08-02T21:35:34.197Z",
+      "size": 28709,
       "meta": {}
     },
     {
@@ -962,7 +992,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-02 The source scan pointed toward drones, air taxis, HRRR, urban weather, and UTM. A simple interpretation would be to propose a drone-specific weather app. - Verified: NOAA HRRR public research page warns…",
-      "modified": "2026-08-02T05:04:35.655Z",
+      "modified": "2026-08-02T05:07:20.626Z",
       "size": 1336,
       "meta": {}
     },
@@ -1114,6 +1144,16 @@
       "excerpt": "AI video, short-form creator tools, and prompt-to-motion graphics are visibly active. A simple “AI video editor for creators” sounds aligned with current demand. - Verified: App-store and HN signals show this lane is alr…",
       "modified": "2026-08-01T21:36:11.811Z",
       "size": 1182,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Make GUI Agents Faster",
+      "path": "rejected/2026-08-02-make-gui-agents-faster.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-08-02 The correct but late signal could be interpreted as a straightforward speed problem: reduce latency, use smaller models, cache actions, or optimize inference. That framing is too broad. Speed helps, but…",
+      "modified": "2026-08-02T21:34:07.356Z",
+      "size": 1162,
       "meta": {}
     },
     {
@@ -1397,6 +1437,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Agents Need Reflex Paths",
+      "path": "source-library/2026-08-02-reflex-paths.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-08-02 Session signal: computer-use agents may fail because slow cognition sits on the decision-time critical path for transient GUI events. - Query: abs:\"computer use\" AND abs:agent - Method: arXiv REST API on…",
+      "modified": "2026-08-02T21:34:07.318Z",
+      "size": 5957,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — AI Virtual Cell Perturbation Models",
       "path": "source-library/2026-07-20-ai-virtual-cell-perturbation.md",
       "category": "source-library",
@@ -1492,7 +1542,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-02 Session signal: low-altitude civil autonomy may be blocked by route-local weather representation rather than aircraft capability alone. - URL: https://www.faa.gov/uas/advancedoperations/trafficmanagement…",
-      "modified": "2026-08-02T05:04:35.681Z",
+      "modified": "2026-08-02T05:07:20.627Z",
       "size": 3925,
       "meta": {}
     },
@@ -1732,7 +1782,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-02 Low-altitude drone weather and bicycle route planning look unrelated: one is aviation infrastructure, the other is urban mobility UX. They share the same hidden problem: a route can be formally available…",
-      "modified": "2026-08-02T05:04:35.654Z",
+      "modified": "2026-08-02T05:07:20.627Z",
       "size": 1825,
       "meta": {}
     },
@@ -1784,6 +1834,16 @@
       "excerpt": "Date: 2026-07-26 A home guest room and a secure agent workspace solve the same hidden problem: temporary intimacy without total access. A guest room says: you are welcome here → this is your room → these shared spaces ar…",
       "modified": "2026-07-26T05:06:15.298Z",
       "size": 2287,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — GUI Agent Reflexes and Fly-by-Wire",
+      "path": "unexpected-connections/2026-08-02-gui-reflexes-fly-by-wire.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-08-02 Computer-use agents facing transient GUI events resemble fly-by-wire aircraft more than chat interfaces. Both systems separate slow intent from fast stabilization: - In fly-by-wire, the pilot sets intent…",
+      "modified": "2026-08-02T21:34:07.353Z",
+      "size": 1759,
       "meta": {}
     },
     {
@@ -1986,22 +2046,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 31
+      "count": 32
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 10
+      "count": 11
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 26
+      "count": 27
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 32
+      "count": 33
     },
     {
       "id": "idea-bank",
@@ -2011,12 +2071,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 31
+      "count": 32
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 29
+      "count": 30
     },
     {
       "id": "manifests",
