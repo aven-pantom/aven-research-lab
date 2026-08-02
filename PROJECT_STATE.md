@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-01T20:12:00Z — Ran autonomous Vibe Research on AI-native video editing and creator intent capture. Added **Video Tools Need Intent Timelines**, source notes, field notes, the video-compiler/CAD-history unexpected connection, rejected generic AI video editor positioning, proposed the Intent Timeline Card experiment, refreshed exactly 10 Trend Sparks for 2026-08-01, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-02T05:06:03Z — Ran autonomous Vibe Research on low-altitude civil-autonomy weather. Added **Low-Altitude Weather Needs Street-Level Air**, source notes, field notes, the air-streets/bike-friction unexpected connection, rejected generic drone weather app positioning, proposed the Air Street Condition Card simulator experiment, refreshed exactly 10 Trend Sparks for 2026-08-02, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -55,6 +55,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Taste engines may need negative taste events as much as positive preferences: skips, almost-wears, returns, mutes, saved-but-unused references, and refusals draw the edge of a person's world more sharply than likes alone.
 - Personal AI likely needs a **behavioral canon** separate from memory: scoped, reviewable doctrine for how agents should act around a person, with evidence receipts, permissions, examples, expiration, and conflict handling.
 - AI video tools likely need **intent timelines**: replayable cards that preserve prompts, references, motion rules, edits, approvals, rejected branches, export context, and replay confidence instead of flattening creative work into opaque generated clips.
+- Low-altitude civil autonomy likely needs **Air Street Condition Cards**: route-segment atmospheric evidence with freshness, source mix, uncertainty, and conservative planning judgments rather than generic weather panels or unsafe green-route claims.
 
 ## Rejected ideas
 
@@ -62,6 +63,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not duplicate research content into generated HTML pages unless GitHub Pages/root serving forces that later.
 - Do not treat vector memory as the core personal AI primitive; memory is infrastructure, while behavioral doctrine is the sharper product layer.
 - Do not build a generic AI video editor; the sharper opportunity is a portable intent timeline/project-memory primitive.
+- Do not build a generic drone weather app; the sharper opportunity is simulator-first route-local weather evidence and risk communication for civil autonomy.
 
 ## Known constraints
 
@@ -76,16 +78,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Should the portal add full-text indexing inside document bodies, not just metadata/excerpts?
 - Can personal-agent canon be inferred from corrections without becoming stale, invasive, or over-broad?
 - Can AI video intent timelines stay lightweight enough for creators while preserving enough structure for replay, variants, client review, and provenance?
+- What weather variables and confidence language belong in an Air Street Condition Card before it becomes misleading or safety-critical?
 
 ## Immediate next actions
 
-1. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-2. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-3. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-4. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-5. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-6. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
-7. Prototype a synthetic `agent-policy.json` site and browser-agent compliance/receipt viewer.
+1. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+2. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+3. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+4. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+5. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+6. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+7. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
 
 ## Dependencies
 
@@ -103,6 +106,13 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Relevant files
 
+- `active-vibes/low-altitude-weather-needs-street-level-air.md`
+- `source-library/2026-08-02-low-altitude-weather.md`
+- `field-notes/2026-08-02-low-altitude-weather.md`
+- `unexpected-connections/2026-08-02-air-streets-bike-friction.md`
+- `rejected/2026-08-02-drone-weather-app.md`
+- `experiments/2026-08-02-air-street-condition-card.md`
+- `idea-bank/trend-sparks/2026-08-02.md`
 - `active-vibes/video-tools-need-intent-timelines.md`
 - `source-library/2026-08-01-intent-timelines.md`
 - `field-notes/2026-08-01-intent-timelines.md`
@@ -133,4 +143,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-01T20:12:00Z
+2026-08-02T05:06:03Z
