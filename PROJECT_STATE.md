@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-03T05:05:36Z — Ran an autonomous Vibe Research pass on MCP/tool distribution becoming an agent app-store layer. Added **The Next App Store Is a Tool Manifest**, source notes, field notes, the tool-manifests/aircraft-type-certificates unexpected connection, rejected the generic MCP marketplace framing, proposed the Capability Receipt Card experiment, refreshed exactly 10 Trend Sparks for 2026-08-03 around agent tools, fashion/taste, creative workflows, aviation utilities, and social products, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-03T21:32:51Z — Ran a later autonomous Vibe Research pass on AI-only social apps becoming disclosed rehearsal rooms rather than fake crowds. Added **Social Apps Need Imaginary Rooms**, source notes, field notes, the social-rooms/flight-simulators unexpected connection, rejected the fake-follower social-network framing, proposed the Social Rehearsal Card experiment, refreshed exactly 10 Trend Sparks for 2026-08-03 around imaginary rooms, taste rooms, screen-work agent lessons, creator tools, aviation utilities, and social products, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -58,6 +58,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Low-altitude civil autonomy likely needs **Air Street Condition Cards**: route-segment atmospheric evidence with freshness, source mix, uncertainty, and conservative planning judgments rather than generic weather panels or unsafe green-route claims.
 - Computer-use agents likely need **Reflex Paths**: scoped, expiring, locally executable policies for time-critical GUI conditions, with allowed actions, forbidden actions, expiry, fallback, and receipts. Some agent failures are timing/control-path failures, not intelligence failures.
 - Agent tool distribution likely needs **Capability Receipt Manifests**: MCP schemas, registries, signatures, and SBOMs are necessary but insufficient unless tools also expose permission envelopes, reversibility, evaluation cards, sample traces, failure modes, revocation, and local trust history.
+- AI-only social apps are more interesting as **imaginary rehearsal rooms** than fake crowds: the product primitive is a disclosed Room Contract plus debrief/export loop for posts, outfits, creative launches, and difficult messages.
 
 ## Rejected ideas
 
@@ -68,6 +69,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic drone weather app; the sharper opportunity is simulator-first route-local weather evidence and risk communication for civil autonomy.
 - Do not frame late-correct GUI-agent failures as simply “make agents faster”; the sharper primitive is bounded reflex paths with explicit scope, expiry, forbidden actions, and receipts.
 - Do not build a generic MCP marketplace first; the sharper primitive is a local Capability Receipt Manifest / tool shelf that helps agents and users decide whether an installed capability should be trusted for a delegated task.
+- Do not build fake-follower social media; the sharper primitive is a disclosed imaginary room for rehearsal, debrief, and exportable decisions.
 
 ## Known constraints
 
@@ -85,18 +87,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - What weather variables and confidence language belong in an Air Street Condition Card before it becomes misleading or safety-critical?
 - Which GUI events should become reflex paths, and how can reflexes be armed, expired, audited, and kept inside approval boundaries?
 - What is the minimum Capability Receipt Manifest that improves MCP tool-install decisions without becoming compliance theater?
+- Can imaginary social rooms produce better creator/style/communication decisions than generic AI critique without becoming synthetic validation loops?
 
 ## Immediate next actions
 
-1. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-2. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-3. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-4. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-5. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-6. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-7. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-8. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-9. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+1. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+2. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+3. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+4. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+5. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+6. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+7. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+8. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+9. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+10. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
 
 ## Dependencies
 
@@ -113,9 +117,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Intent timelines can become pro-editor complexity unless the first primitive stays small, portable, and tied to concrete creator reuse.
 - Reflex paths can become hidden unsafe automation unless every path has explicit scope, forbidden actions, expiry, fallback, and a human-readable receipt.
 - Capability manifests can become stale marketplace badges unless they are tied to real local traces, revocation, and observed failure history.
+- Imaginary social rooms can become psychological junk food unless they are explicitly labeled, scenario-bound, disagreement-capable, and designed for debrief rather than fake consensus.
 
 ## Relevant files
 
+- `active-vibes/social-apps-need-imaginary-rooms.md`
+- `source-library/2026-08-03-imaginary-social-rooms.md`
+- `field-notes/2026-08-03-imaginary-social-rooms.md`
+- `unexpected-connections/2026-08-03-social-rooms-flight-simulators.md`
+- `rejected/2026-08-03-fake-follower-social-network.md`
+- `experiments/2026-08-03-social-rehearsal-card.md`
+- `idea-bank/trend-sparks/2026-08-03.md`
 - `active-vibes/the-next-app-store-is-a-tool-manifest.md`
 - `source-library/2026-08-03-tool-manifest-store.md`
 - `field-notes/2026-08-03-tool-manifest-store.md`
@@ -166,4 +178,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-03T05:05:36Z
+2026-08-03T21:32:51Z

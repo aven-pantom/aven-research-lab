@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T05:06:28.007Z",
+  "generatedAt": "2026-08-03T21:37:50.542Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -233,6 +233,16 @@
       "meta": {}
     },
     {
+      "title": "Social Apps Need Imaginary Rooms: AI-Only Networks as Rehearsal Spaces, Not Fake Crowds",
+      "path": "active-vibes/social-apps-need-imaginary-rooms.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Social Apps Need Imaginary Rooms: AI-Only Networks as Rehearsal Spaces, Not Fake Crowds Verified: Apple iTunes Search on 2026-08-03 surfaced multiple AI-only or AI-heavy social apps with visible user traction: status - s…",
+      "modified": "2026-08-03T21:33:50.252Z",
+      "size": 11567,
+      "meta": {}
+    },
+    {
       "title": "Social Apps Need Portable Taste Graphs: Style, Feeds, and Identity Should Travel Separately",
       "path": "active-vibes/social-apps-need-portable-taste-graphs.md",
       "category": "active-vibes",
@@ -288,7 +298,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next App Store Is a Tool Manifest: Agents Need Installable Capabilities With Receipts MCP is crossing from protocol into distribution surface. - Verified: The MCP specification defines a standardized way for applicat…",
-      "modified": "2026-08-03T05:05:28.662Z",
+      "modified": "2026-08-03T05:07:25.039Z",
       "size": 12085,
       "meta": {}
     },
@@ -358,7 +368,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a small receipt-style manifest makes an MCP server/tool easier to evaluate for delegated agent use than a normal README or registry listing. A Capability Receipt Card will help a user answer trust questions…",
-      "modified": "2026-08-03T05:05:28.699Z",
+      "modified": "2026-08-03T05:07:25.039Z",
       "size": 2312,
       "meta": {}
     },
@@ -400,6 +410,16 @@
       "excerpt": "Date: 2026-08-02 Status: Proposed Connected Vibe: Agents Need Reflex Paths../active-vibes/agents-need-reflex-paths.md Test whether scoped reflex paths reduce late-correct GUI failures in a safe local browser environment.…",
       "modified": "2026-08-02T21:37:06.914Z",
       "size": 1737,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Social Rehearsal Card",
+      "path": "experiments/2026-08-03-social-rehearsal-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a disclosed imaginary social room can produce useful edits and risk awareness for a post, outfit, or creative artifact without pretending to be real social proof. A small Room Contract plus synthetic role re…",
+      "modified": "2026-08-03T21:35:48.920Z",
+      "size": 2455,
       "meta": {}
     },
     {
@@ -713,12 +733,22 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-03 — Imaginary Social Rooms",
+      "path": "field-notes/2026-08-03-imaginary-social-rooms.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Apple iTunes Search surfaced visible traction around AI-only social apps: status - sims but social media, Aspect: AI-Only Social Media, Fomo - AI Social Network, and Charm: AI Only Social Media. - Verified: status - sims…",
+      "modified": "2026-08-03T21:35:48.871Z",
+      "size": 2358,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-08-03 — Tool Manifest Store",
       "path": "field-notes/2026-08-03-tool-manifest-store.md",
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Session signal: MCP is shifting from a connector protocol into an app-distribution surface for agents. - Verified: The MCP 2025-06-18 specification says MCP gives applications a standardized way to share context with lan…",
-      "modified": "2026-08-03T05:05:28.620Z",
+      "modified": "2026-08-03T05:07:25.039Z",
       "size": 2616,
       "meta": {}
     },
@@ -911,10 +941,12 @@
       "path": "idea-bank/trend-sparks/2026-08-03.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Apple iTunes Search API: queried U.S. software result…",
-      "modified": "2026-08-03T05:05:28.705Z",
-      "size": 13029,
-      "meta": {}
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. This file was refreshed during the later 2026-08-03 autonomous run and still contains exactly 10 T…",
+      "modified": "2026-08-03T21:37:36.925Z",
+      "size": 13301,
+      "meta": {
+        "name": "Proof Ring for Friends"
+      }
     },
     {
       "title": "Manifest — Future-Mask Action Schema",
@@ -1012,8 +1044,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-03T05:05:52.918Z",
-      "size": 30254,
+      "modified": "2026-08-03T21:36:11.354Z",
+      "size": 31328,
       "meta": {}
     },
     {
@@ -1167,6 +1199,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Fake Follower Social Network",
+      "path": "rejected/2026-08-03-fake-follower-social-network.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "AI-only social apps show visible consumer attention. The obvious product framing is a social network where synthetic followers, comments, and DMs make the user feel popular immediately. - It optimizes validation instead…",
+      "modified": "2026-08-03T21:35:48.920Z",
+      "size": 1507,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Fluid Antenna as Generic 6G Hype",
       "path": "rejected/2026-07-21-fluid-antenna-as-6g-hype.md",
       "category": "rejected",
@@ -1192,7 +1234,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "MCP registries, Docker’s MCP catalog, OpenAI Apps SDK packaging, Product Hunt “Skill” language, and HN maker signals all point toward tool distribution for agents. The obvious product is a marketplace for MCP servers. -…",
-      "modified": "2026-08-03T05:05:28.705Z",
+      "modified": "2026-08-03T05:07:25.040Z",
       "size": 1655,
       "meta": {}
     },
@@ -1437,6 +1479,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — 2026-08-03 — Imaginary Social Rooms",
+      "path": "source-library/2026-08-03-imaginary-social-rooms.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Queries run on 2026-08-03 through https://itunes.apple.com/search with country=us, entity=software. - status - sims but social media — WishRoll Inc.; 188,980 ratings; average rating 4.63455. Store copy says users can cre…",
+      "modified": "2026-08-03T21:35:48.927Z",
+      "size": 3723,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — A Camera That Finds the Colors You Were Too Polite to Use",
       "path": "source-library/2026-07-20-photo-to-insane-palettes.md",
       "category": "source-library",
@@ -1662,7 +1714,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-03 Signal: MCP registries, Apps SDK packaging, and Docker’s MCP catalog suggest agent tools are becoming distributable app-like capabilities, but the trust primitive is still incomplete. - URL: https://raw.…",
-      "modified": "2026-08-03T05:05:28.647Z",
+      "modified": "2026-08-03T05:07:25.041Z",
       "size": 4474,
       "meta": {}
     },
@@ -1967,6 +2019,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Social Rooms and Flight Simulators",
+      "path": "unexpected-connections/2026-08-03-social-rooms-flight-simulators.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "AI-only social feeds and flight simulators solve the same hidden problem: practicing behavior in a consequential environment before entering the real one. - Scenario design: A flight simulator is useful because the situa…",
+      "modified": "2026-08-03T21:35:48.961Z",
+      "size": 2270,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Social Sandboxes and Theme Parks",
       "path": "unexpected-connections/2026-07-24-social-sandboxes-theme-parks.md",
       "category": "unexpected-connections",
@@ -2022,7 +2084,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "- Agent tool distribution / MCP registries - Aviation certification / type certificates / maintenance logs Both fields have the same hidden problem: a capability is dangerous when its interface looks simple but its opera…",
-      "modified": "2026-08-03T05:05:28.649Z",
+      "modified": "2026-08-03T05:07:25.041Z",
       "size": 2250,
       "meta": {}
     },
@@ -2116,22 +2178,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 33
+      "count": 34
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 12
+      "count": 13
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 28
+      "count": 29
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 34
+      "count": 35
     },
     {
       "id": "idea-bank",
@@ -2141,12 +2203,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 33
+      "count": 34
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 31
+      "count": 32
     },
     {
       "id": "manifests",
