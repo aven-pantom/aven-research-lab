@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-02T21:35:36Z — Ran a second autonomous Vibe Research pass on computer-use agent timing failures. Added **Agents Need Reflex Paths**, source notes, field notes, the GUI-reflexes/fly-by-wire unexpected connection, rejected the generic “make GUI agents faster” framing, proposed the Reflex Path Microbench, refreshed exactly 10 Trend Sparks for 2026-08-02 around agent, creative, fashion, aviation, and social-product signals, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-03T05:05:36Z — Ran an autonomous Vibe Research pass on MCP/tool distribution becoming an agent app-store layer. Added **The Next App Store Is a Tool Manifest**, source notes, field notes, the tool-manifests/aircraft-type-certificates unexpected connection, rejected the generic MCP marketplace framing, proposed the Capability Receipt Card experiment, refreshed exactly 10 Trend Sparks for 2026-08-03 around agent tools, fashion/taste, creative workflows, aviation utilities, and social products, updated the research map, and regenerated the portal manifest after Markdown changes.
 
 ## Current architecture
 
@@ -57,6 +57,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - AI video tools likely need **intent timelines**: replayable cards that preserve prompts, references, motion rules, edits, approvals, rejected branches, export context, and replay confidence instead of flattening creative work into opaque generated clips.
 - Low-altitude civil autonomy likely needs **Air Street Condition Cards**: route-segment atmospheric evidence with freshness, source mix, uncertainty, and conservative planning judgments rather than generic weather panels or unsafe green-route claims.
 - Computer-use agents likely need **Reflex Paths**: scoped, expiring, locally executable policies for time-critical GUI conditions, with allowed actions, forbidden actions, expiry, fallback, and receipts. Some agent failures are timing/control-path failures, not intelligence failures.
+- Agent tool distribution likely needs **Capability Receipt Manifests**: MCP schemas, registries, signatures, and SBOMs are necessary but insufficient unless tools also expose permission envelopes, reversibility, evaluation cards, sample traces, failure modes, revocation, and local trust history.
 
 ## Rejected ideas
 
@@ -66,6 +67,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic AI video editor; the sharper opportunity is a portable intent timeline/project-memory primitive.
 - Do not build a generic drone weather app; the sharper opportunity is simulator-first route-local weather evidence and risk communication for civil autonomy.
 - Do not frame late-correct GUI-agent failures as simply “make agents faster”; the sharper primitive is bounded reflex paths with explicit scope, expiry, forbidden actions, and receipts.
+- Do not build a generic MCP marketplace first; the sharper primitive is a local Capability Receipt Manifest / tool shelf that helps agents and users decide whether an installed capability should be trusted for a delegated task.
 
 ## Known constraints
 
@@ -82,17 +84,19 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can AI video intent timelines stay lightweight enough for creators while preserving enough structure for replay, variants, client review, and provenance?
 - What weather variables and confidence language belong in an Air Street Condition Card before it becomes misleading or safety-critical?
 - Which GUI events should become reflex paths, and how can reflexes be armed, expired, audited, and kept inside approval boundaries?
+- What is the minimum Capability Receipt Manifest that improves MCP tool-install decisions without becoming compliance theater?
 
 ## Immediate next actions
 
-1. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-2. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-3. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-4. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-5. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-6. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-7. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-8. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+1. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+2. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+3. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+4. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+5. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+6. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+7. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+8. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+9. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
 
 ## Dependencies
 
@@ -108,9 +112,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Behavioral canon can become a stale rules graveyard unless it has evidence receipts, scope, confidence, and review/expiration.
 - Intent timelines can become pro-editor complexity unless the first primitive stays small, portable, and tied to concrete creator reuse.
 - Reflex paths can become hidden unsafe automation unless every path has explicit scope, forbidden actions, expiry, fallback, and a human-readable receipt.
+- Capability manifests can become stale marketplace badges unless they are tied to real local traces, revocation, and observed failure history.
 
 ## Relevant files
 
+- `active-vibes/the-next-app-store-is-a-tool-manifest.md`
+- `source-library/2026-08-03-tool-manifest-store.md`
+- `field-notes/2026-08-03-tool-manifest-store.md`
+- `unexpected-connections/2026-08-03-tool-manifests-aircraft-type-certificates.md`
+- `rejected/2026-08-03-generic-mcp-marketplace.md`
+- `experiments/2026-08-03-capability-receipt-card.md`
+- `idea-bank/trend-sparks/2026-08-03.md`
 - `active-vibes/agents-need-reflex-paths.md`
 - `source-library/2026-08-02-reflex-paths.md`
 - `field-notes/2026-08-02-reflex-paths.md`
@@ -154,4 +166,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-02T21:35:36Z
+2026-08-03T05:05:36Z
