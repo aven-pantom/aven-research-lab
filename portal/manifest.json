@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:36:08.603Z",
+  "generatedAt": "2026-08-03T05:06:28.007Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -58,7 +58,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Reflex Paths: Computer Use Will Fail If It Thinks After the Window Closes A cluster of late-July 2026 arXiv papers around computer-use agents shifted from broad “can agents use GUIs?” toward narrower failures…",
-      "modified": "2026-08-02T21:33:10.317Z",
+      "modified": "2026-08-02T21:37:06.914Z",
       "size": 12596,
       "meta": {}
     },
@@ -283,6 +283,16 @@
       "meta": {}
     },
     {
+      "title": "The Next App Store Is a Tool Manifest: Agents Need Installable Capabilities With Receipts",
+      "path": "active-vibes/the-next-app-store-is-a-tool-manifest.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Next App Store Is a Tool Manifest: Agents Need Installable Capabilities With Receipts MCP is crossing from protocol into distribution surface. - Verified: The MCP specification defines a standardized way for applicat…",
+      "modified": "2026-08-03T05:05:28.662Z",
+      "size": 12085,
+      "meta": {}
+    },
+    {
       "title": "The Next Creative Tool Might Be a Tiny World: Software With Its Own Physics",
       "path": "active-vibes/tiny-world-tools.md",
       "category": "active-vibes",
@@ -343,6 +353,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Capability Receipt Card",
+      "path": "experiments/2026-08-03-capability-receipt-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a small receipt-style manifest makes an MCP server/tool easier to evaluate for delegated agent use than a normal README or registry listing. A Capability Receipt Card will help a user answer trust questions…",
+      "modified": "2026-08-03T05:05:28.699Z",
+      "size": 2312,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Intent Timeline Card",
       "path": "experiments/2026-08-01-intent-timeline-card.md",
       "category": "experiments",
@@ -378,7 +398,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-02 Status: Proposed Connected Vibe: Agents Need Reflex Paths../active-vibes/agents-need-reflex-paths.md Test whether scoped reflex paths reduce late-correct GUI failures in a safe local browser environment.…",
-      "modified": "2026-08-02T21:34:07.355Z",
+      "modified": "2026-08-02T21:37:06.914Z",
       "size": 1737,
       "meta": {}
     },
@@ -688,8 +708,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Signal: A 2026-07-30 arXiv cluster around computer-use agents is unusually dense: OSReward, local inference-time scaling, correct-but-late GUI agents, benchmark mis-scoring, Qwen-UI-Agent. - Phrase worth preserving: co…",
-      "modified": "2026-08-02T21:34:07.370Z",
+      "modified": "2026-08-02T21:37:06.914Z",
       "size": 1263,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-03 — Tool Manifest Store",
+      "path": "field-notes/2026-08-03-tool-manifest-store.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Session signal: MCP is shifting from a connector protocol into an app-distribution surface for agents. - Verified: The MCP 2025-06-18 specification says MCP gives applications a standardized way to share context with lan…",
+      "modified": "2026-08-03T05:05:28.620Z",
+      "size": 2616,
       "meta": {}
     },
     {
@@ -872,8 +902,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Apple iTunes Search API: queried U.S. software result…",
-      "modified": "2026-08-02T21:35:19.538Z",
+      "modified": "2026-08-02T21:37:06.914Z",
       "size": 13983,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-03",
+      "path": "idea-bank/trend-sparks/2026-08-03.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. These are Trend Sparks, not generic ideas. - Apple iTunes Search API: queried U.S. software result…",
+      "modified": "2026-08-03T05:05:28.705Z",
+      "size": 13029,
       "meta": {}
     },
     {
@@ -972,8 +1012,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-02T21:35:34.197Z",
-      "size": 28709,
+      "modified": "2026-08-03T05:05:52.918Z",
+      "size": 30254,
       "meta": {}
     },
     {
@@ -1147,12 +1187,22 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Generic MCP Marketplace",
+      "path": "rejected/2026-08-03-generic-mcp-marketplace.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "MCP registries, Docker’s MCP catalog, OpenAI Apps SDK packaging, Product Hunt “Skill” language, and HN maker signals all point toward tool distribution for agents. The obvious product is a marketplace for MCP servers. -…",
+      "modified": "2026-08-03T05:05:28.705Z",
+      "size": 1655,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Make GUI Agents Faster",
       "path": "rejected/2026-08-02-make-gui-agents-faster.md",
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-02 The correct but late signal could be interpreted as a straightforward speed problem: reduce latency, use smaller models, cache actions, or optimize inference. That framing is too broad. Speed helps, but…",
-      "modified": "2026-08-02T21:34:07.356Z",
+      "modified": "2026-08-02T21:37:06.915Z",
       "size": 1162,
       "meta": {}
     },
@@ -1442,7 +1492,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-02 Session signal: computer-use agents may fail because slow cognition sits on the decision-time critical path for transient GUI events. - Query: abs:\"computer use\" AND abs:agent - Method: arXiv REST API on…",
-      "modified": "2026-08-02T21:34:07.318Z",
+      "modified": "2026-08-02T21:37:06.915Z",
       "size": 5957,
       "meta": {}
     },
@@ -1604,6 +1654,16 @@
       "excerpt": "2026-07-26 autonomous Vibe Research loop. A cluster around constrained creative environments and anti-handoff interfaces: - Decker surfaced on Hacker News RSS as “a platform that builds on the legacy of Hypercard and cla…",
       "modified": "2026-07-26T21:36:42.895Z",
       "size": 4606,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Tool Manifest Store",
+      "path": "source-library/2026-08-03-tool-manifest-store.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-08-03 Signal: MCP registries, Apps SDK packaging, and Docker’s MCP catalog suggest agent tools are becoming distributable app-like capabilities, but the trust primitive is still incomplete. - URL: https://raw.…",
+      "modified": "2026-08-03T05:05:28.647Z",
+      "size": 4474,
       "meta": {}
     },
     {
@@ -1842,7 +1902,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-02 Computer-use agents facing transient GUI events resemble fly-by-wire aircraft more than chat interfaces. Both systems separate slow intent from fast stabilization: - In fly-by-wire, the pilot sets intent…",
-      "modified": "2026-08-02T21:34:07.353Z",
+      "modified": "2026-08-02T21:37:06.916Z",
       "size": 1759,
       "meta": {}
     },
@@ -1957,6 +2017,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Tool Manifests and Aircraft Type Certificates",
+      "path": "unexpected-connections/2026-08-03-tool-manifests-aircraft-type-certificates.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- Agent tool distribution / MCP registries - Aviation certification / type certificates / maintenance logs Both fields have the same hidden problem: a capability is dangerous when its interface looks simple but its opera…",
+      "modified": "2026-08-03T05:05:28.649Z",
+      "size": 2250,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Transition Tests and Flight Recorders",
       "path": "unexpected-connections/2026-07-29-transition-tests-flight-recorders.md",
       "category": "unexpected-connections",
@@ -2046,37 +2116,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 32
+      "count": 33
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 11
+      "count": 12
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 27
+      "count": 28
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 33
+      "count": 34
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 17
+      "count": 18
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 32
+      "count": 33
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 30
+      "count": 31
     },
     {
       "id": "manifests",
