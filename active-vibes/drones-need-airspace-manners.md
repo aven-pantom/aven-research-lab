@@ -162,3 +162,21 @@ Active
 - [Agents Need Flight Recorders](agents-need-flight-recorders.md): intent should be auditable against behavior, not merely announced.
 - [Agents Need Borrowed Rooms](agents-need-borrowed-rooms-not-keys.md): bounded autonomy needs visible boundaries and revocable trust.
 - [A Drone Factory That Fits on a Desk](desk-sized-factory-for-quiet-persistent-aircraft.md): printable/autonomous aircraft need evidence manifests and public legibility before they need more hardware recipes.
+
+## Research Questions
+
+### RQ-20260804-011109-fc53 — Can we build this for Notrex and the N1 Scout? How do we go about a v1, specs?
+
+Yes, but v1 should be a **simulator/interface prototype**, not a real aircraft broadcast system. The product wedge for Notrex/N1 Scout is a **Civil Drone Intent Card** layer that makes autonomous behavior legible.
+
+**V1 specs:**
+
+- 10–12 intent types: `transit`, `hold`, `yield`, `inspect`, `land`, `return_home`, `emergency`, `avoid_person`, `dock`, `low_battery`, `lost_link`, `maintenance_required`.
+- Each card includes: human phrase, machine intent, confidence, expiry, privacy level, source state, expected next state, and recorder hash.
+- Input: synthetic mission events or safe public/autopilot logs, not live flights.
+- Output: web HUD with timeline, current intent, stale-warning, and post-run mismatch report.
+- Safety rule: the system must show uncertainty and expiry. No “green safe route” claims.
+
+**Notrex framing:** Notrex can own the “manners layer” — the interface and evidence system around civil autonomy. N1 Scout can be the eventual aircraft line, but the first thing to build is the legibility layer around a fictional/simulated scout.
+
+**Evidence label:** **Inferred / Supported**. Remote ID, MAVLink, and UTM prove adjacent infrastructure; the intent grammar is still speculative.

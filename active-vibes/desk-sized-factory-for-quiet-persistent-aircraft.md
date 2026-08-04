@@ -179,3 +179,32 @@ See:
 ## Time Horizon
 
 Near term for research tooling and evidence schemas; medium term for robust civil printable-aircraft grammars; long term for broad desktop physical autonomy compilers.
+
+## Research Questions
+
+### RQ-20260804-010813-148e — How many parts can we build and how do we make them modular?
+
+Short answer: start with **12–18 named module slots**, not a complete aircraft bill of materials. For a safe N1-style civil scout concept, the useful v1 module taxonomy is:
+
+1. body/fuselage shell;
+2. wing or arm module;
+3. spar / primary structural member;
+4. nose or sensor bay;
+5. avionics bay;
+6. power bay;
+7. propulsion mount;
+8. landing/contact module;
+9. payload interface;
+10. dock/charging interface;
+11. antenna / Remote ID / comms module;
+12. wiring harness;
+13. fastener/joinery set;
+14. software/autopilot profile;
+15. flight-recorder/evidence port;
+16. inspection card.
+
+**Recommended v1:** build only the **module contract deck** first: five cards for avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface. Each card should define role, compatible neighbors, inspection points, calibration needs, known failure modes, evidence receipts, and retirement rule.
+
+**Do not start with:** printable dimensions, speed/range targets, payload recipes, or field-operation procedures. That turns the question into unsafe premature aircraft design.
+
+**Evidence label:** **Inferred** from PX4/ArduPilot modular ecosystem evidence and the existing printable-aircraft Vibe.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T00:36:46.613Z",
+  "generatedAt": "2026-08-04T05:07:15.110Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -8,8 +8,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "A Drone Factory That Fits on a Desk: 250mm Printers and Quiet Persistent Aircraft Speculative signal from Max: long-range, lightweight, electric, mostly silent, autonomous ISR-style unmanned aircraft whose airframe can b…",
-      "modified": "2026-07-19T09:55:08.627Z",
-      "size": 12575,
+      "modified": "2026-08-04T05:05:33.676Z",
+      "size": 13908,
       "meta": {}
     },
     {
@@ -38,8 +38,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs On 2026-07-27, the scan converged on a repeated structure across agent benchmarks, browser automation, computer-use demos, and web security…",
-      "modified": "2026-07-27T05:06:14.781Z",
-      "size": 12849,
+      "modified": "2026-08-04T05:05:33.677Z",
+      "size": 13957,
       "meta": {}
     },
     {
@@ -68,8 +68,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Street Signs: Websites Should Declare How Machines May Act The scan started from a small Hacker News item, OpenTrust — Browser trust signals for the AI era, then widened into a repeated web-agent contradictio…",
-      "modified": "2026-07-28T21:38:31.562Z",
-      "size": 12561,
+      "modified": "2026-08-04T05:05:33.679Z",
+      "size": 13589,
       "meta": {}
     },
     {
@@ -108,8 +108,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft Verified: NASA’s Quesst/X-59 work frames the next supersonic frontier around making supersonic flight over land socially/regulatorily acceptable through…",
-      "modified": "2026-07-18T13:45:55.530Z",
-      "size": 10170,
+      "modified": "2026-08-04T05:05:33.680Z",
+      "size": 11655,
       "meta": {}
     },
     {
@@ -118,8 +118,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Cameras Should Capture Change, Not Pictures: An App for Events, Atmosphere, and Personal World-State Max asked for \"a new type of camera app\" that might capture \"something else or stuff\" and to make it creative. The stro…",
-      "modified": "2026-07-19T09:55:08.626Z",
-      "size": 11496,
+      "modified": "2026-08-04T05:05:33.680Z",
+      "size": 12876,
       "meta": {}
     },
     {
@@ -148,8 +148,18 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Drones Need Airspace Manners: Tiny Intent Signals for Civil Autonomy Verified: FAA Remote ID explains Remote ID as a drone in flight providing identification and location information by broadcast, and says it helps the F…",
-      "modified": "2026-07-28T05:08:37.178Z",
-      "size": 11138,
+      "modified": "2026-08-04T05:05:33.677Z",
+      "size": 12493,
+      "meta": {}
+    },
+    {
+      "title": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds",
+      "path": "active-vibes/drones-need-part-numbers.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds Max asked, in the context of printable quiet aircraft and N1 Scout/Notrex drone work, how many parts can be built and how to make them modul…",
+      "modified": "2026-08-04T05:02:46.497Z",
+      "size": 11050,
       "meta": {}
     },
     {
@@ -268,8 +278,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Verified: Current ornithopter/flapping-wing robotics literature already contains several working primitives: autonomous perching, event-c…",
-      "modified": "2026-07-19T15:17:47.150Z",
-      "size": 13665,
+      "modified": "2026-08-04T05:05:33.681Z",
+      "size": 15001,
       "meta": {}
     },
     {
@@ -298,8 +308,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next App Store Is a Tool Manifest: Agents Need Installable Capabilities With Receipts MCP is crossing from protocol into distribution surface. - Verified: The MCP specification defines a standardized way for applicat…",
-      "modified": "2026-08-03T05:07:25.039Z",
-      "size": 12085,
+      "modified": "2026-08-04T05:05:33.682Z",
+      "size": 13264,
       "meta": {}
     },
     {
@@ -318,8 +328,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Verified: Ink & Switch’s local-first essay is titled “Local-first software: You own your data, in spite of the cloud,” and its descriptio…",
-      "modified": "2026-07-23T06:35:10.718Z",
-      "size": 12035,
+      "modified": "2026-08-04T05:05:33.682Z",
+      "size": 13528,
       "meta": {}
     },
     {
@@ -380,6 +390,16 @@
       "excerpt": "Test whether a compact timeline schema can preserve useful creative intent for a 15-second AI-assisted short-form video without requiring a full editor implementation. A creator can reconstruct, revise, or explain a shor…",
       "modified": "2026-08-01T21:36:11.810Z",
       "size": 1601,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — N1 Module Contract Deck",
+      "path": "experiments/2026-08-04-n1-module-contract-deck.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether N1 Scout / Notrex drone work becomes clearer when the aircraft is represented as a small set of versioned module contracts instead of as an unspecified build plan. - Drones Need Part Numbers../active-vibes/d…",
+      "modified": "2026-08-04T05:05:47.499Z",
+      "size": 2577,
       "meta": {}
     },
     {
@@ -753,6 +773,16 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-04 — Modular Drone Airframes",
+      "path": "field-notes/2026-08-04-modular-drone-airframes.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds - Max’s “how many parts can we build and how do we make them modular” question is better answered with a module taxonomy than with a shoppin…",
+      "modified": "2026-08-04T05:03:22.218Z",
+      "size": 1646,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — Wardrobes Need Simulation Memory",
       "path": "field-notes/2026-07-25-wardrobes-need-simulation-memory.md",
       "category": "field-notes",
@@ -949,6 +979,16 @@
       }
     },
     {
+      "title": "Trend Sparks — 2026-08-04",
+      "path": "idea-bank/trend-sparks/2026-08-04.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer movement. Evidence labels refer to the signal, not market validation. - Trend signal: Hacker News surfaced “Run an 80B Qwen in 4…",
+      "modified": "2026-08-04T05:04:11.962Z",
+      "size": 10715,
+      "meta": {}
+    },
+    {
       "title": "Manifest — Future-Mask Action Schema",
       "path": "manifests/2026-07-22-future-mask-action-schema.md",
       "category": "manifests",
@@ -1024,7 +1064,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
-      "modified": "2026-08-04T00:23:44.150Z",
+      "modified": "2026-08-04T00:37:46.176Z",
       "size": 4321,
       "meta": {}
     },
@@ -1044,8 +1084,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-03T21:38:46.575Z",
-      "size": 31328,
+      "modified": "2026-08-04T05:06:01.051Z",
+      "size": 32704,
       "meta": {}
     },
     {
@@ -1054,7 +1094,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
-      "modified": "2026-08-04T00:23:25.137Z",
+      "modified": "2026-08-04T00:37:46.176Z",
       "size": 2210,
       "meta": {}
     },
@@ -1074,8 +1114,8 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Virtual try-on is active in research and visible in small app repos. It fits Max's fashion/style/taste frontier and has an obvious consumer surface. The 2026-07-31 GitHub scan found multiple new AI wardrobe/try-on repos,…",
-      "modified": "2026-07-31T21:36:46.960Z",
-      "size": 1546,
+      "modified": "2026-08-04T05:05:33.684Z",
+      "size": 2721,
       "meta": {}
     },
     {
@@ -1384,7 +1424,7 @@
       "category": "questions",
       "categoryLabel": "Research Questions",
       "excerpt": "Research Questions are Max's comments and questions on specific research documents. The portal queues questions here through the local portal server: POST /api/questions Runtime queue files are intentionally ignored by g…",
-      "modified": "2026-08-04T00:23:13.819Z",
+      "modified": "2026-08-04T00:37:46.178Z",
       "size": 1111,
       "meta": {
         "status": "answered during Vibe Research YYYY-MM-DD"
@@ -1498,6 +1538,16 @@
       "excerpt": "Queries run on 2026-08-03 through https://itunes.apple.com/search with country=us, entity=software. - status - sims but social media — WishRoll Inc.; 188,980 ratings; average rating 4.63455. Store copy says users can cre…",
       "modified": "2026-08-03T21:38:46.575Z",
       "size": 3723,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — 2026-08-04 — Modular Drone Airframes",
+      "path": "source-library/2026-08-04-modular-drone-airframes.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds Max asked how many parts can be built and how to make them modular, in the context of printable quiet aircraft and N1 Scout/Notrex drone amb…",
+      "modified": "2026-08-04T05:03:22.201Z",
+      "size": 3800,
       "meta": {}
     },
     {
@@ -1951,6 +2001,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Drone Part Numbers and Software Lockfiles",
+      "path": "unexpected-connections/2026-08-04-drone-part-numbers-software-lockfiles.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Drone module contracts and software lockfiles solve the same hidden problem: a system is only reproducible when its dependencies are named, versioned, constrained, and auditable. A software lockfile does not merely list…",
+      "modified": "2026-08-04T05:03:22.215Z",
+      "size": 2059,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Guest Rooms and Capability Security",
       "path": "unexpected-connections/2026-07-26-guest-rooms-capability-security.md",
       "category": "unexpected-connections",
@@ -2176,8 +2236,8 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Personal AI Needs a Behavioral Canon. The week’s agent-interface Vibes converged from permissions, flight recorders, peripheral vision, street signs, transition tests, undo envelopes, provenance, and taste boundaries int…",
-      "modified": "2026-08-01T05:06:35.868Z",
-      "size": 2124,
+      "modified": "2026-08-04T05:05:33.683Z",
+      "size": 2600,
       "meta": {}
     }
   ],
@@ -2190,32 +2250,32 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 34
+      "count": 35
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 13
+      "count": 14
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 29
+      "count": 30
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 35
+      "count": 36
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 18
+      "count": 19
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 34
+      "count": 35
     },
     {
       "id": "rejected",

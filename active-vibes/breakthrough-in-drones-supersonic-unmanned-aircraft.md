@@ -181,3 +181,21 @@ See:
 ## Calling title rule note
 
 This Vibe establishes the style Max requested: Vibe sessions should have a title with pull, such as a breakthrough premise or frontier question, while still avoiding false certainty.
+
+## Research Questions
+
+### RQ-20260804-012703-7c56 — How do we build one with a jet engine, test, materials, and all?
+
+This should **not** start as a build plan. A jet-powered supersonic unmanned aircraft is safety-critical, legally constrained, and potentially dual-use. The responsible path is staged research infrastructure, not instructions for propulsion, materials, dimensions, or flight testing.
+
+A safe sequence:
+
+1. **Define the research purpose:** acoustic data, control-law research, materials telemetry, or simulator validation — not “make a fast drone.”
+2. **Build the evidence stack first:** telemetry schema, abort-state model, simulation-to-test comparison, range-safety checklist, legal/regulatory map.
+3. **Study existing public programs:** NASA X-59/Quesst, Boom XB-1, Hermeus Quarterhorse, university supersonic wind-tunnel work, and FAA/airspace constraints.
+4. **Run non-flight experiments:** CFD literature review, control simulation, thermal/material source map, acoustic-report template, safety-case template.
+5. **Only later, with aerospace experts and legal test infrastructure:** consider sanctioned subscale testing under proper range, insurance, approvals, and professional review.
+
+Materials and engine choices should not be specified here. The right v1 is a **Supersonic Test Stack Binder**, not a jet aircraft.
+
+**Evidence label:** **Supported** for the need for strict staged testing and governance; **Unknown** for any build-specific path.

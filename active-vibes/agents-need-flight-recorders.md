@@ -189,3 +189,24 @@ Immediate: prototype now.
 ## Unexpected Connections
 
 Agent flight recorders and aviation black boxes solve the same hidden problem: reconstructing behavior after trust has already been spent. A pilot, aircraft, weather system, and controller form a distributed action system; so do a user, model, browser, website, account, and toolchain. In both cases, the interface during action is not enough. The durable object is the post-action reconstruction layer.
+
+## Research Questions
+
+### RQ-20260804-011908-c557 — How important is this?
+
+Very important. This is one of the strongest agent-infrastructure Vibes in the lab.
+
+The reason is simple: as soon as an agent changes files, browses accounts, installs tools, edits content, or runs workflows, a chat summary is not enough. Maxwell needs to know:
+
+- what the agent saw;
+- what authority it had;
+- what it changed;
+- what it avoided;
+- where it was uncertain;
+- what can be replayed, reversed, or audited.
+
+For Aven/Hermes specifically, flight recorders could become the trust layer beneath autonomous work: cron runs, repo edits, research sessions, browser tasks, Orior dossiers, and future local tools. The primitive also connects to agent receipts, Undo Gravity, Transition Tests, Behavioral Canon, and Tool Manifest Store.
+
+**Priority:** prototype soon. The first version can be a safe local trace card around one Markdown/repo task, not a full browser recorder.
+
+**Evidence label:** **Supported** by Playwright traces, GUI-agent benchmarks, computer-use safety guidance, and current agent product movement.

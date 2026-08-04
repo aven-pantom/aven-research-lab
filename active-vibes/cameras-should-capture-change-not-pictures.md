@@ -166,3 +166,26 @@ Active
 ## Unexpected Connections
 
 Camera apps and operating-system logs share the same hidden problem: most of the world is boring most of the time, but transitions matter. A useful capture system should not store continuous raw state. It should store meaningful interrupts with enough context to reconstruct why they mattered.
+
+## Research Questions
+
+### RQ-20260804-013044-6027 — More possible experiments and which to build first?
+
+Build first: **Creative Reference Camera**.
+
+Reason: it is useful to Max immediately, avoids always-on privacy problems, does not require event-camera hardware, and can start as a mobile/web prototype around one photo plus structured interpretation.
+
+**V1 experiment:**
+
+- Input: one photo or 5-second clip.
+- User chooses capture intent: hierarchy, color, texture, spacing, mood, material, motion, typography, object relationship.
+- Output: a Reference Card with observed elements, why they matter, extracted palette/material words, compositional notes, and possible reuse prompts.
+- Test: capture 30 references from real life and see whether the cards help make better design/content decisions than normal camera roll screenshots.
+
+**Second experiment:** Atmosphere Shutter — 10 seconds of light/audio/motion compressed into an atmosphere card.
+
+**Third experiment:** Delta Camera — before/after scene diff for workspace, outfit, room, design board, or project state.
+
+Avoid first: always-on lifelogging, automatic emotional inference, proof camera, or background memory. Those are powerful but privacy-heavy and harder to make tasteful.
+
+**Evidence label:** **Inferred** from prototype risk/utility tradeoff and the existing event-camera/lifelogging source base.

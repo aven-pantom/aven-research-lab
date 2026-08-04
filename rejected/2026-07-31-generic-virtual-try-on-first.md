@@ -25,3 +25,23 @@ Viable if paired with a distinctive capture loop: almost-wears, returns, saved-b
 ## Future signal that should trigger reconsideration
 
 A consumer product or open-source tool that makes try-on behaviorally sticky through personal negative signals rather than novelty image generation.
+
+## Research Questions
+
+### RQ-20260804-015518-dec5 — What if we build it differently and market it as your AI fashion designer?
+
+That is the stronger angle. The rejected path is **generic virtual try-on first**, not fashion AI as a whole. “Your AI fashion designer” can work if the product behaves like a taste partner, not an image gimmick.
+
+Better v1:
+
+- User adds 20–30 closet items manually or from photos.
+- User logs real negative signals: skipped, almost-worn, returned, felt off, saved but unused.
+- App asks for one upcoming context: date, meeting, shoot, travel day, dinner, weather, desired feeling.
+- AI produces 3 outfit briefs, not just images: silhouette, color logic, risk, alternate, confidence, and why it fits the user’s taste boundary.
+- After wearing or rejecting, user gives feedback; the designer gets sharper.
+
+Marketing line: **“Your AI fashion designer that learns what you almost wore.”**
+
+Avoid promising perfect try-on. Promise better taste decisions. Try-on can become one output later.
+
+**Evidence label:** **Inferred / Supported** by the lab’s negative-taste Vibe, resale app-chart signal, and crowded generic VTON evidence.
