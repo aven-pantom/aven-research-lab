@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-04T00:30:00Z — Added the Research Questions workflow to the portal: per-document question form, guarded local write endpoint, pending/answered queue documentation, path-routed portal deep links, and Vibe Research instructions requiring queued questions to wait until the next autonomous run before being answered and committed into source Markdown files.
+2026-08-04T02:20:00Z — Ran autonomous Vibe Research on modular drone product lines. Added `Drones Need Part Numbers`, source notes, field notes, unexpected connection, N1 Module Contract Deck experiment, 2026-08-04 Trend Sparks, and answered 11 queued Research Questions inside their referenced Markdown documents.
 
 ## Current architecture
 
@@ -62,6 +62,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Computer-use agents likely need **Reflex Paths**: scoped, expiring, locally executable policies for time-critical GUI conditions, with allowed actions, forbidden actions, expiry, fallback, and receipts. Some agent failures are timing/control-path failures, not intelligence failures.
 - Agent tool distribution likely needs **Capability Receipt Manifests**: MCP schemas, registries, signatures, and SBOMs are necessary but insufficient unless tools also expose permission envelopes, reversibility, evaluation cards, sample traces, failure modes, revocation, and local trust history.
 - AI-only social apps are more interesting as **imaginary rehearsal rooms** than fake crowds: the product primitive is a disclosed Room Contract plus debrief/export loop for posts, outfits, creative launches, and difficult messages.
+- Modular civil drone work should start with **Drone Module Contracts**: named parts, typed interfaces, compatibility rules, inspection points, firmware assumptions, failure modes, and evidence receipts. For Notrex/N1 Scout, the first useful artifact is an N1 Module Contract Deck, not a hardware recipe.
 
 ## Rejected ideas
 
@@ -91,19 +92,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Which GUI events should become reflex paths, and how can reflexes be armed, expired, audited, and kept inside approval boundaries?
 - What is the minimum Capability Receipt Manifest that improves MCP tool-install decisions without becoming compliance theater?
 - Can imaginary social rooms produce better creator/style/communication decisions than generic AI critique without becoming synthetic validation loops?
+- What are the first five N1 Scout module contracts that create real design leverage without implying premature airworthiness?
 
 ## Immediate next actions
 
-1. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
-2. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-3. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-4. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-5. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-6. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-7. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-8. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-9. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
-10. Prototype a one-task Transition Card recorder around a safe browser task with expected delta, observed delta, source tracking, staleness risk, judgment, and recovery.
+1. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
+2. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+3. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+4. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+5. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+6. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+7. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+8. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+9. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
+10. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
 
 ## Dependencies
 
@@ -125,61 +127,26 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Relevant files
 
-- `active-vibes/social-apps-need-imaginary-rooms.md`
-- `source-library/2026-08-03-imaginary-social-rooms.md`
-- `field-notes/2026-08-03-imaginary-social-rooms.md`
-- `unexpected-connections/2026-08-03-social-rooms-flight-simulators.md`
-- `rejected/2026-08-03-fake-follower-social-network.md`
-- `experiments/2026-08-03-social-rehearsal-card.md`
-- `idea-bank/trend-sparks/2026-08-03.md`
+- `active-vibes/drones-need-part-numbers.md`
+- `source-library/2026-08-04-modular-drone-airframes.md`
+- `field-notes/2026-08-04-modular-drone-airframes.md`
+- `unexpected-connections/2026-08-04-drone-part-numbers-software-lockfiles.md`
+- `experiments/2026-08-04-n1-module-contract-deck.md`
+- `idea-bank/trend-sparks/2026-08-04.md`
+- `active-vibes/desk-sized-factory-for-quiet-persistent-aircraft.md`
+- `active-vibes/drones-need-airspace-manners.md`
+- `active-vibes/agents-need-flight-recorders.md`
+- `active-vibes/agents-need-street-signs.md`
+- `active-vibes/breakthrough-in-drones-supersonic-unmanned-aircraft.md`
+- `active-vibes/cameras-should-capture-change-not-pictures.md`
+- `active-vibes/the-bird-drone-we-can-actually-build.md`
 - `active-vibes/the-next-app-store-is-a-tool-manifest.md`
-- `source-library/2026-08-03-tool-manifest-store.md`
-- `field-notes/2026-08-03-tool-manifest-store.md`
-- `unexpected-connections/2026-08-03-tool-manifests-aircraft-type-certificates.md`
-- `rejected/2026-08-03-generic-mcp-marketplace.md`
-- `experiments/2026-08-03-capability-receipt-card.md`
-- `idea-bank/trend-sparks/2026-08-03.md`
-- `active-vibes/agents-need-reflex-paths.md`
-- `source-library/2026-08-02-reflex-paths.md`
-- `field-notes/2026-08-02-reflex-paths.md`
-- `unexpected-connections/2026-08-02-gui-reflexes-fly-by-wire.md`
-- `rejected/2026-08-02-make-gui-agents-faster.md`
-- `experiments/2026-08-02-reflex-path-microbench.md`
-- `active-vibes/low-altitude-weather-needs-street-level-air.md`
-- `source-library/2026-08-02-low-altitude-weather.md`
-- `field-notes/2026-08-02-low-altitude-weather.md`
-- `unexpected-connections/2026-08-02-air-streets-bike-friction.md`
-- `rejected/2026-08-02-drone-weather-app.md`
-- `experiments/2026-08-02-air-street-condition-card.md`
-- `idea-bank/trend-sparks/2026-08-02.md`
-- `active-vibes/video-tools-need-intent-timelines.md`
-- `source-library/2026-08-01-intent-timelines.md`
-- `field-notes/2026-08-01-intent-timelines.md`
-- `unexpected-connections/2026-08-01-video-compilers-cad-history.md`
-- `rejected/2026-08-01-generic-ai-video-editor.md`
-- `experiments/2026-08-01-intent-timeline-card.md`
-- `idea-bank/trend-sparks/2026-08-01.md`
-- `active-vibes/personal-ai-needs-behavioral-canon.md`
-- `source-library/2026-08-01-personal-ai-canon.md`
-- `field-notes/2026-08-01-personal-ai-canon.md`
-- `unexpected-connections/2026-08-01-agent-canon-aviation-sops.md`
-- `rejected/2026-08-01-vector-memory-as-personal-ai-core.md`
-- `experiments/2026-08-01-canon-card-extractor.md`
+- `active-vibes/personal-software-workshops.md`
 - `weekly-synthesis/2026-W31.md`
-- `monthly-theses/2026-08.md`
+- `rejected/2026-07-31-generic-virtual-try-on-first.md`
 - `research-map.md`
 - `portal/manifest.json`
-- `README.md`
-- `DESIGN.md`
-- `active-vibes/agents-need-borrowed-rooms-not-keys.md`
-- `active-vibes/agents-need-flight-recorders.md`
-- `active-vibes/agents-need-peripheral-vision.md`
-- `active-vibes/agents-need-street-signs.md`
-- `active-vibes/agents-need-transition-tests.md`
-- `active-vibes/agents-need-undo-gravity.md`
-- `active-vibes/creative-tools-need-provenance-sandboxes.md`
-- `active-vibes/taste-engines-need-negative-space.md`
 
 ## Last updated
 
-2026-08-03T21:32:51Z
+2026-08-04T02:20:00Z

@@ -324,3 +324,30 @@ Active
 - Tailoring and software: both reshape a base material around a specific body/context.
 - Cambria/schema lenses and brand systems: both preserve identity through changes.
 - Workshops and agents: the agent is not the product; it is the apprentice maintaining the tools.
+
+## Research Questions
+
+### RQ-20260804-015116-8aae — Research and build/write an extensive WORKSHOP.md
+
+A full `WORKSHOP.md` should be created as a separate experiment artifact, but the right structure is now clear. It should define a personal software workshop as a local-first folder that can grow tools around real work without becoming opaque generated-app sludge.
+
+Recommended `WORKSHOP.md` sections:
+
+1. Purpose — what body of work this workshop serves.
+2. Source folders — what data/files it may read.
+3. Protected zones — what it must not touch.
+4. Derived schema — inferred objects, fields, and relationships.
+5. Views — dashboards/pages/cards the user needs.
+6. Commands — safe operations the tool can run.
+7. Agent permissions — read/write/network/publish/credentials boundaries.
+8. Test fixtures — example inputs and expected outputs.
+9. Migration rules — how schema changes are handled.
+10. Receipts — what every automated change must record.
+11. Undo policy — snapshots, patches, rollback.
+12. Design language — what the tool should feel like.
+13. Maintenance backlog — known rough edges and next repairs.
+14. Export plan — how the user leaves with their data.
+
+Next action: create `experiments/2026-08-04-workshop-md-manifest.md` or run it against one real folder. Do not build a generic app builder first.
+
+**Evidence label:** **Supported** by local-first/malleable software sources already in the Vibe; **Inferred** for the manifest structure.

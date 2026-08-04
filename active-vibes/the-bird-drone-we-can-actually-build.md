@@ -343,3 +343,20 @@ Build the **research harness before the aircraft**:
 3. design an evidence schema;
 4. prototype simulator + benchtop wing rig;
 5. only then consider an indoor safe free-flight prototype.
+
+## Research Questions
+
+### RQ-20260804-014705-b2a3 — Can we build one, and who has done that on YouTube?
+
+We can likely build a **non-operational research prototype path** around an ornithopter, but not by starting with outdoor autonomous flight. Start with a bench wing rig and evidence cards.
+
+Safe v1 path:
+
+1. Wing mechanism bench rig: measure flapping consistency, vibration, current draw, and failure points.
+2. Perching/contact mock: test passive gripping/contact on a fixed rig, not in flight.
+3. Event/perception simulation: use recorded shaky footage or synthetic events to test whether sparse motion cues help.
+4. Only after stable bench evidence: supervised indoor micro-flight with off-the-shelf toy-grade ornithopter constraints, legal/safety review, and no payload beyond basic telemetry.
+
+Who has done similar work publicly: search terms worth tracking are **Festo SmartBird**, **EPFL ornithopter perching**, **Robo Raven ornithopter**, **Purdue/UMD Robo Raven**, **flapping wing MAV**, and **ornithopter robot perching**. I did not fetch YouTube pages in this cron run, so treat that as a search direction rather than verified YouTube citation.
+
+**Evidence label:** **Supported** for academic ornithopter/perching primitives already in the Vibe; **Unknown** for specific YouTube creators until separately verified.

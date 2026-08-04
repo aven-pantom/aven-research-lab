@@ -179,3 +179,22 @@ Immediate: prototype now. Near term: useful product surface in 1–3 years if ag
 ## Unexpected Connections
 
 - [Tool manifests and aircraft type certificates](../unexpected-connections/2026-08-03-tool-manifests-aircraft-type-certificates.md)
+
+## Research Questions
+
+### RQ-20260804-014831-5344 — We need receipts, but what about the store?
+
+Yes: there is still a store. But the store should be **downstream of receipts**, not the core trust primitive.
+
+Best architecture:
+
+- **Public store/catalog:** discovery, categories, screenshots, install path, author identity, package signature, changelog, examples.
+- **Local shelf:** tools actually installed for Max/Aven, with permissions, last-used state, incidents, revocation, and fit notes.
+- **Capability receipts:** observed traces from real use: what the tool did, what changed, what failed, what required approval.
+- **Policy layer:** what the agent may install/use automatically versus what requires explicit approval.
+
+The mistake would be building a generic MCP marketplace first. The better v1 is a **Tool Shelf**: five hand-curated tools with receipt cards. Once receipts are clear, the store can rank tools by trust fit, not just popularity.
+
+Possible name: **Capability Shelf** for local product; **Tool Manifest Store** for public/discovery layer.
+
+**Evidence label:** **Supported** by MCP registry/store movement; **Inferred** for local shelf architecture.

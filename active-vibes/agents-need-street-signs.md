@@ -181,3 +181,23 @@ Near term: a useful prototype is viable now; broad adoption would require 1–3 
 ## Unexpected Connections
 
 - [Agent street signs and drone intent cards](../unexpected-connections/2026-07-28-agent-street-signs-drone-intent-cards.md)
+
+## Research Questions
+
+### RQ-20260804-012131-5f06 — What should we name it?
+
+Best naming direction: **Agent Street Signs** for the concept, with a more protocol-like file name later.
+
+Strong options:
+
+1. **Agent Street Signs** — most memorable; best for essays/product framing.
+2. **Polite Web** — broader movement name; softer and more public-facing.
+3. **Agent Etiquette** — good for audit/checker product, less technical.
+4. **Action Signs** — compact, but less distinctive.
+5. **Agent Policy** — clear for a file/protocol, but generic.
+6. **Manners.txt** — charming but maybe too cute for standards work.
+7. **/.well-known/agent-policy.json** — practical implementation name, not brand name.
+
+Recommendation: use **Agent Street Signs** as the Vibe/product language and test `/.well-known/agent-policy.json` as the technical artifact. If this becomes a public tool, name the checker **StreetSign** or **PoliteWeb**.
+
+**Evidence label:** **Inferred** from positioning/taste, not external adoption evidence.
