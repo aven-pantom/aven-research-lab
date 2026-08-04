@@ -28,7 +28,23 @@ http://localhost:8787/portal/
 ```
 
 The portal intentionally fetches Markdown from the repo instead of duplicating content. If new research files are added, rebuild `portal/manifest.json`.
-The portal build path is HTML, Tailwind, and Node: `portal/index.html`, `portal/app.js`, `portal/tailwind.css`, and `scripts/build-portal-manifest.mjs`.
+The portal build path is HTML, Tailwind, and Node: `portal/index.html`, `portal/app.js`, `portal/tailwind.css`, `scripts/serve-portal.mjs`, and `scripts/build-portal-manifest.mjs`.
+
+### Research Questions
+
+The portal can queue Max's comments/questions on individual research notes. Questions are not answered immediately. They are saved to a local pending queue and answered during the next Vibe Research run, then committed back into the referenced Markdown file.
+
+Runtime queue files live under `questions/` and are ignored by git until answers are committed into source documents.
+
+To enable submissions, run the portal server with a local access-code file:
+
+```bash
+mkdir -p /root/.hermes/secrets
+# put the private question access code in /root/.hermes/secrets/aven-research-question-key
+npm run dev:portal
+```
+
+Read-only portal browsing works without the access-code file; question submission returns disabled until the file exists.
 
 ## Current map
 

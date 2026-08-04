@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:37:50.542Z",
+  "generatedAt": "2026-08-04T00:36:46.613Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -238,7 +238,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Social Apps Need Imaginary Rooms: AI-Only Networks as Rehearsal Spaces, Not Fake Crowds Verified: Apple iTunes Search on 2026-08-03 surfaced multiple AI-only or AI-heavy social apps with visible user traction: status - s…",
-      "modified": "2026-08-03T21:33:50.252Z",
+      "modified": "2026-08-03T21:38:46.572Z",
       "size": 11567,
       "meta": {}
     },
@@ -418,7 +418,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a disclosed imaginary social room can produce useful edits and risk awareness for a post, outfit, or creative artifact without pretending to be real social proof. A small Room Contract plus synthetic role re…",
-      "modified": "2026-08-03T21:35:48.920Z",
+      "modified": "2026-08-03T21:38:46.573Z",
       "size": 2455,
       "meta": {}
     },
@@ -738,7 +738,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Apple iTunes Search surfaced visible traction around AI-only social apps: status - sims but social media, Aspect: AI-Only Social Media, Fomo - AI Social Network, and Charm: AI Only Social Media. - Verified: status - sims…",
-      "modified": "2026-08-03T21:35:48.871Z",
+      "modified": "2026-08-03T21:38:46.573Z",
       "size": 2358,
       "meta": {}
     },
@@ -942,7 +942,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities derived from visible product, source, app-store, and maker signals. This file was refreshed during the later 2026-08-03 autonomous run and still contains exactly 10 T…",
-      "modified": "2026-08-03T21:37:36.925Z",
+      "modified": "2026-08-03T21:38:46.573Z",
       "size": 13301,
       "meta": {
         "name": "Proof Ring for Friends"
@@ -1024,8 +1024,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "A public autonomous research repository operated by Aven for Max. The lab now runs on Vibe Research Mode: research without a fixed answer, product brief, or category. The goal is to discover overlooked signals, unfinishe…",
-      "modified": "2026-07-25T22:29:56.872Z",
-      "size": 3536,
+      "modified": "2026-08-04T00:23:44.150Z",
+      "size": 4321,
       "meta": {}
     },
     {
@@ -1044,7 +1044,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-03T21:36:11.354Z",
+      "modified": "2026-08-03T21:38:46.575Z",
       "size": 31328,
       "meta": {}
     },
@@ -1054,8 +1054,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
-      "modified": "2026-07-25T22:29:56.872Z",
-      "size": 1969,
+      "modified": "2026-08-04T00:23:25.137Z",
+      "size": 2210,
       "meta": {}
     },
     {
@@ -1204,7 +1204,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "AI-only social apps show visible consumer attention. The obvious product framing is a social network where synthetic followers, comments, and DMs make the user feel popular immediately. - It optimizes validation instead…",
-      "modified": "2026-08-03T21:35:48.920Z",
+      "modified": "2026-08-03T21:38:46.575Z",
       "size": 1507,
       "meta": {}
     },
@@ -1379,6 +1379,18 @@
       "meta": {}
     },
     {
+      "title": "Research Questions",
+      "path": "questions/README.md",
+      "category": "questions",
+      "categoryLabel": "Research Questions",
+      "excerpt": "Research Questions are Max's comments and questions on specific research documents. The portal queues questions here through the local portal server: POST /api/questions Runtime queue files are intentionally ignored by g…",
+      "modified": "2026-08-04T00:23:13.819Z",
+      "size": 1111,
+      "meta": {
+        "status": "answered during Vibe Research YYYY-MM-DD"
+      }
+    },
+    {
       "title": "Source Capture Log — 2026-07-22",
       "path": "source-library/2026-07-22-source-capture-log.md",
       "category": "source-library",
@@ -1484,7 +1496,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Queries run on 2026-08-03 through https://itunes.apple.com/search with country=us, entity=software. - status - sims but social media — WishRoll Inc.; 188,980 ratings; average rating 4.63455. Store copy says users can cre…",
-      "modified": "2026-08-03T21:35:48.927Z",
+      "modified": "2026-08-03T21:38:46.575Z",
       "size": 3723,
       "meta": {}
     },
@@ -2024,7 +2036,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "AI-only social feeds and flight simulators solve the same hidden problem: practicing behavior in a consequential environment before entering the real one. - Scenario design: A flight simulator is useful because the situa…",
-      "modified": "2026-08-03T21:35:48.961Z",
+      "modified": "2026-08-03T21:38:46.575Z",
       "size": 2270,
       "meta": {}
     },
@@ -2224,6 +2236,11 @@
       "id": "monthly-theses",
       "label": "Monthly Theses",
       "count": 2
+    },
+    {
+      "id": "questions",
+      "label": "Research Questions",
+      "count": 1
     },
     {
       "id": "templates",

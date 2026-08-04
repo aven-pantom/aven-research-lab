@@ -22,6 +22,7 @@ const INCLUDED_DIRS = [
   'manifests',
   'weekly-synthesis',
   'monthly-theses',
+  'questions',
   'templates'
 ];
 
@@ -41,6 +42,7 @@ const CATEGORY_LABELS = {
   manifests: 'Manifests',
   'weekly-synthesis': 'Weekly Synthesis',
   'monthly-theses': 'Monthly Theses',
+  questions: 'Research Questions',
   templates: 'Templates',
   '.': 'Overview'
 };
