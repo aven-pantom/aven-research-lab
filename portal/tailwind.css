@@ -336,6 +336,99 @@
   .prose th { color: var(--accent); font: 600 10px/1.2 var(--mono); letter-spacing: .1em; text-transform: uppercase; }
   .prose hr { border: 0; border-top: 1px solid var(--line); margin: 38px 0; }
   .prose img { max-width: 100%; border-radius: var(--radius); border: 1px solid var(--line); }
+
+  .research-questions {
+    max-width: 920px;
+    margin-top: 54px;
+    padding-top: 24px;
+    border-top: 1px solid var(--line);
+  }
+  .question-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: flex-start;
+    margin-bottom: 12px;
+  }
+  .question-head h2 {
+    margin: 7px 0 0;
+    color: var(--ink);
+    font: 520 22px/1.1 var(--sans);
+    letter-spacing: -.035em;
+  }
+  .question-count {
+    flex: 0 0 auto;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 7px 10px;
+    color: var(--muted);
+    font: 500 10px/1 var(--mono);
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+  .question-policy,
+  .question-empty,
+  .question-status {
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .question-form {
+    display: grid;
+    grid-template-columns: minmax(120px, 180px) minmax(160px, 240px) auto;
+    gap: 9px;
+    margin: 18px 0 20px;
+  }
+  .question-form input,
+  .question-form textarea {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    background: var(--field);
+    color: var(--ink);
+    outline: none;
+    padding: 10px 11px;
+    font: 400 13px/1.4 var(--sans);
+  }
+  .question-form textarea {
+    grid-column: 1 / -1;
+    min-height: 104px;
+    resize: vertical;
+  }
+  .question-form input:focus,
+  .question-form textarea:focus {
+    border-color: color-mix(in oklab, var(--accent) 65%, var(--line));
+  }
+  .question-form button {
+    min-height: 40px;
+    border: 1px solid color-mix(in oklab, var(--accent) 58%, var(--line));
+    border-radius: var(--radius-sm);
+    background: var(--surface-soft);
+    color: var(--ink);
+    padding: 0 14px;
+    font-size: 12px;
+  }
+  .question-form button:disabled { opacity: .55; cursor: wait; }
+  .question-status { grid-column: 1 / -1; min-height: 20px; margin: -4px 0 0; }
+  .question-list { display: grid; gap: 10px; }
+  .question-item {
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius-sm);
+    background: color-mix(in oklab, var(--surface) 80%, transparent);
+    padding: 12px;
+  }
+  .question-item div { display: flex; justify-content: space-between; gap: 12px; margin-bottom: 8px; }
+  .question-item strong,
+  .question-item span {
+    font: 500 10px/1 var(--mono);
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+  .question-item strong { color: var(--accent); }
+  .question-item span { color: var(--faint); }
+  .question-item p { margin: 0; color: var(--ink); font-size: 13px; line-height: 1.5; }
+  .question-item .question-answer { margin-top: 10px; color: var(--muted); }
+  .question-item.pending { border-color: color-mix(in oklab, var(--accent) 34%, var(--line)); }
   .empty { color: var(--muted); padding: 24px 0; border-bottom: 1px solid var(--line-soft); font-size: 12px; }
 
   @media (max-width: 900px) {

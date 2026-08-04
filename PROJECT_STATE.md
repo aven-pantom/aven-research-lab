@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-03T21:32:51Z — Ran a later autonomous Vibe Research pass on AI-only social apps becoming disclosed rehearsal rooms rather than fake crowds. Added **Social Apps Need Imaginary Rooms**, source notes, field notes, the social-rooms/flight-simulators unexpected connection, rejected the fake-follower social-network framing, proposed the Social Rehearsal Card experiment, refreshed exactly 10 Trend Sparks for 2026-08-03 around imaginary rooms, taste rooms, screen-work agent lessons, creator tools, aviation utilities, and social products, updated the research map, and regenerated the portal manifest after Markdown changes.
+2026-08-04T00:30:00Z — Added the Research Questions workflow to the portal: per-document question form, guarded local write endpoint, pending/answered queue documentation, path-routed portal deep links, and Vibe Research instructions requiring queued questions to wait until the next autonomous run before being answered and committed into source Markdown files.
 
 ## Current architecture
 
@@ -21,9 +21,11 @@ Active Vibe Research operations plus repo readability infrastructure.
   - `portal/index.html` is the browser shell.
   - `portal/tailwind.css` is the Tailwind source for the light/dark visual system.
   - `portal/styles.css` is the compiled Tailwind output.
-  - `portal/app.js` fetches and renders Markdown from the repo.
+  - `portal/app.js` fetches and renders Markdown from the repo, supports path-routed deep links, and renders per-document Research Questions.
   - `portal/manifest.json` lists Markdown documents.
   - `scripts/build-portal-manifest.mjs` regenerates the manifest from repository files.
+  - `scripts/serve-portal.mjs` serves the portal, rewrites deep links to the shell, exposes read-only question status, and accepts guarded question submissions.
+- Research Questions queue: `questions/README.md` documents the workflow; runtime `questions/pending.jsonl` and `questions/answered.jsonl` are ignored by git until answers are committed into source documents.
 - Node/Tailwind toolchain: `package.json`, `package-lock.json`, and `tailwind.config.cjs`.
 - Design source of truth: `DESIGN.md` defines the default interface direction for future portal/app/site/dashboard/tool work.
 
@@ -37,6 +39,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `DESIGN.md` is now the project-local design source of truth for interface work: calm, precise, editorial, spatial, technical, premium, composed, and instrument-like rather than generic SaaS.
 - `DESIGN.md` is included in the portal manifest as an Overview document so the standard remains visible inside the portal.
 - The portal should remain calm and composed without over-naming or over-structuring the interface. Avoid the prior command-strip/catalogue-rail/ruler/trace-inspector composition unless Max explicitly asks for it again.
+- Research Questions are asynchronous by design: portal submissions create pending records, but Aven answers only during the next Vibe Research run and commits answers into the referenced Markdown files.
 - Avoid orange accents and brown/cream backgrounds for this portal direction; use neutral graphite/cold off-white foundations with a cooler restrained accent.
 - Use Geist, Inter, or IBM Plex for portal UI text; reserve the serif display face only for the large Research Portal heading or explicitly approved display moments.
 - Avoid making the portal typography broadly bold; prefer 450–600 weights with hierarchy from scale, spacing, and contrast.
@@ -113,6 +116,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - The custom Markdown renderer is intentionally small and may not support edge-case Markdown extensions.
 - Design polish can hide weak research structure; the Markdown corpus remains the source of truth.
 - The simplified portal removes the over-structured instrument frame; future changes should preserve usability before adding named interface metaphors.
+- The Research Questions write endpoint must not be exposed without an access-code file. Public Wormkey previews should use the guarded `scripts/serve-portal.mjs` server, not a generic unauthenticated writable endpoint.
 - Behavioral canon can become a stale rules graveyard unless it has evidence receipts, scope, confidence, and review/expiration.
 - Intent timelines can become pro-editor complexity unless the first primitive stays small, portable, and tied to concrete creator reuse.
 - Reflex paths can become hidden unsafe automation unless every path has explicit scope, forbidden actions, expiry, fallback, and a human-readable receipt.

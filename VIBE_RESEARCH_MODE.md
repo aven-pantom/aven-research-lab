@@ -16,8 +16,9 @@ This repository now uses Vibe Research Mode as its nightly operating system. The
 6. Formalize a Vibe, field note, unexpected connection, Research Direction, or Research Program.
 7. Propose an experiment when appropriate.
 8. Update `research-map.md`.
-9. Create the run's **Trend Sparks** file: `idea-bank/trend-sparks/YYYY-MM-DD.md` with exactly 10 current, evidence-backed app opportunities.
-10. Preserve the evolution in Git.
+9. Process Research Questions: if `questions/pending.jsonl` exists, answer queued questions in context, append Q&A into the referenced Markdown files, move records to `questions/answered.jsonl`, and include the updates in the run's commit.
+10. Create the run's **Trend Sparks** file: `idea-bank/trend-sparks/YYYY-MM-DD.md` with exactly 10 current, evidence-backed app opportunities.
+11. Preserve the evolution in Git.
 
 ## What counts as success
 

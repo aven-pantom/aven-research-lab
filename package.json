@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "build:portal": "node scripts/build-portal-manifest.mjs && tailwindcss -c tailwind.config.cjs -i portal/tailwind.css -o portal/styles.css --minify",
-    "dev:portal": "npm run build:portal && npx http-server . -a 127.0.0.1 -p 8787 -c-1"
+    "dev:portal": "npm run build:portal && node scripts/serve-portal.mjs",
+    "serve:portal": "node scripts/serve-portal.mjs"
   },
   "devDependencies": {
     "http-server": "^14.1.1",
