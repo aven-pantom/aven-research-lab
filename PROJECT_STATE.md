@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-04T02:20:00Z — Ran autonomous Vibe Research on modular drone product lines. Added `Drones Need Part Numbers`, source notes, field notes, unexpected connection, N1 Module Contract Deck experiment, 2026-08-04 Trend Sparks, and answered 11 queued Research Questions inside their referenced Markdown documents.
+2026-08-04T21:35:18Z — Ran autonomous Vibe Research on AI video/world-model reactivity. Added `Generated Worlds Need Reaction Tests`, source notes, field notes, unexpected connection, rejected generic leaderboard path, Reaction Card experiment, and refreshed the 2026-08-04 Trend Sparks around Reaction Cards, local personal AI docks, and taste-boundary stylists.
 
 ## Current architecture
 
@@ -63,6 +63,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent tool distribution likely needs **Capability Receipt Manifests**: MCP schemas, registries, signatures, and SBOMs are necessary but insufficient unless tools also expose permission envelopes, reversibility, evaluation cards, sample traces, failure modes, revocation, and local trust history.
 - AI-only social apps are more interesting as **imaginary rehearsal rooms** than fake crowds: the product primitive is a disclosed Room Contract plus debrief/export loop for posts, outfits, creative launches, and difficult messages.
 - Modular civil drone work should start with **Drone Module Contracts**: named parts, typed interfaces, compatibility rules, inspection points, firmware assumptions, failure modes, and evidence receipts. For Notrex/N1 Scout, the first useful artifact is an N1 Module Contract Deck, not a hardware recipe.
+- AI video tools likely need **Reaction Cards** in addition to intent timelines: pre-state, stimulus/edit, expected consequence, observed consequence, residual, confidence, and replay link. World-model reactivity is the missing creative control primitive between beautiful generated clips and reliable editable scenes.
 
 ## Rejected ideas
 
@@ -74,6 +75,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not frame late-correct GUI-agent failures as simply “make agents faster”; the sharper primitive is bounded reflex paths with explicit scope, expiry, forbidden actions, and receipts.
 - Do not build a generic MCP marketplace first; the sharper primitive is a local Capability Receipt Manifest / tool shelf that helps agents and users decide whether an installed capability should be trusted for a delegated task.
 - Do not build fake-follower social media; the sharper primitive is a disclosed imaginary room for rehearsal, debrief, and exportable decisions.
+- Do not build a generic AI video model leaderboard first; the sharper primitive is creator-facing reaction evidence attached to edits and timelines.
 
 ## Known constraints
 
@@ -93,19 +95,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - What is the minimum Capability Receipt Manifest that improves MCP tool-install decisions without becoming compliance theater?
 - Can imaginary social rooms produce better creator/style/communication decisions than generic AI critique without becoming synthetic validation loops?
 - What are the first five N1 Scout module contracts that create real design leverage without implying premature airworthiness?
+- Can a Reaction Card make AI video revisions measurably clearer than prompt history or timeline metadata alone?
 
 ## Immediate next actions
 
-1. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
-2. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
-3. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-4. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-5. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-6. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-7. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-8. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
-9. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
-10. Prototype a Playable Provenance Card for one real image/design artifact with sources, prompts, edits, approvals, redactions, branches, reproducibility confidence, and export path.
+1. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
+2. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
+3. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+4. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+5. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+6. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+7. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+8. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+9. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+10. Prototype a one-task Undo Envelope around a safe local Markdown edit with pre-state snapshot, action log, expected/observed delta, and rollback patch.
 
 ## Dependencies
 
@@ -128,6 +131,12 @@ Active Vibe Research operations plus repo readability infrastructure.
 ## Relevant files
 
 - `active-vibes/drones-need-part-numbers.md`
+- `active-vibes/generated-worlds-need-reaction-tests.md`
+- `source-library/2026-08-04-reactive-video-worlds.md`
+- `field-notes/2026-08-04-reactive-video-worlds.md`
+- `unexpected-connections/2026-08-04-video-reactivity-flight-tests.md`
+- `experiments/2026-08-04-reaction-card.md`
+- `rejected/2026-08-04-generic-video-model-leaderboard.md`
 - `source-library/2026-08-04-modular-drone-airframes.md`
 - `field-notes/2026-08-04-modular-drone-airframes.md`
 - `unexpected-connections/2026-08-04-drone-part-numbers-software-lockfiles.md`
@@ -149,4 +158,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-04T02:20:00Z
+2026-08-04T21:35:18Z

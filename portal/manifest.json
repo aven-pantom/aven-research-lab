@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T05:07:15.110Z",
+  "generatedAt": "2026-08-04T21:35:56.013Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -8,8 +8,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "A Drone Factory That Fits on a Desk: 250mm Printers and Quiet Persistent Aircraft Speculative signal from Max: long-range, lightweight, electric, mostly silent, autonomous ISR-style unmanned aircraft whose airframe can b…",
-      "modified": "2026-08-04T05:05:33.676Z",
-      "size": 13908,
+      "modified": "2026-08-04T05:08:26.881Z",
+      "size": 13907,
       "meta": {}
     },
     {
@@ -38,8 +38,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs On 2026-07-27, the scan converged on a repeated structure across agent benchmarks, browser automation, computer-use demos, and web security…",
-      "modified": "2026-08-04T05:05:33.677Z",
-      "size": 13957,
+      "modified": "2026-08-04T05:08:26.881Z",
+      "size": 13956,
       "meta": {}
     },
     {
@@ -68,8 +68,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Street Signs: Websites Should Declare How Machines May Act The scan started from a small Hacker News item, OpenTrust — Browser trust signals for the AI era, then widened into a repeated web-agent contradictio…",
-      "modified": "2026-08-04T05:05:33.679Z",
-      "size": 13589,
+      "modified": "2026-08-04T05:08:26.881Z",
+      "size": 13588,
       "meta": {}
     },
     {
@@ -108,8 +108,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft Verified: NASA’s Quesst/X-59 work frames the next supersonic frontier around making supersonic flight over land socially/regulatorily acceptable through…",
-      "modified": "2026-08-04T05:05:33.680Z",
-      "size": 11655,
+      "modified": "2026-08-04T05:08:26.881Z",
+      "size": 11654,
       "meta": {}
     },
     {
@@ -118,8 +118,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Cameras Should Capture Change, Not Pictures: An App for Events, Atmosphere, and Personal World-State Max asked for \"a new type of camera app\" that might capture \"something else or stuff\" and to make it creative. The stro…",
-      "modified": "2026-08-04T05:05:33.680Z",
-      "size": 12876,
+      "modified": "2026-08-04T05:08:26.881Z",
+      "size": 12875,
       "meta": {}
     },
     {
@@ -148,8 +148,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Drones Need Airspace Manners: Tiny Intent Signals for Civil Autonomy Verified: FAA Remote ID explains Remote ID as a drone in flight providing identification and location information by broadcast, and says it helps the F…",
-      "modified": "2026-08-04T05:05:33.677Z",
-      "size": 12493,
+      "modified": "2026-08-04T05:08:26.882Z",
+      "size": 12492,
       "meta": {}
     },
     {
@@ -158,7 +158,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds Max asked, in the context of printable quiet aircraft and N1 Scout/Notrex drone work, how many parts can be built and how to make them modul…",
-      "modified": "2026-08-04T05:02:46.497Z",
+      "modified": "2026-08-04T05:08:26.882Z",
       "size": 11050,
       "meta": {}
     },
@@ -170,6 +170,16 @@
       "excerpt": "Empty Apps Can Launch Already Populated: Social Products as Simulations Before Networks Verified: arXiv:2208.04024, Social Simulacra, describes a prototyping technique that generates populated social-computing prototypes…",
       "modified": "2026-07-24T21:35:40.444Z",
       "size": 14632,
+      "meta": {}
+    },
+    {
+      "title": "Generated Worlds Need Reaction Tests: AI Video Should Prove What Changed",
+      "path": "active-vibes/generated-worlds-need-reaction-tests.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Generated Worlds Need Reaction Tests A new arXiv paper, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity 2608.02603v1, 2026-08-03, argues that controllable video generation models are…",
+      "modified": "2026-08-04T21:33:55.280Z",
+      "size": 11496,
       "meta": {}
     },
     {
@@ -278,8 +288,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Verified: Current ornithopter/flapping-wing robotics literature already contains several working primitives: autonomous perching, event-c…",
-      "modified": "2026-08-04T05:05:33.681Z",
-      "size": 15001,
+      "modified": "2026-08-04T05:08:26.882Z",
+      "size": 15000,
       "meta": {}
     },
     {
@@ -308,8 +318,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next App Store Is a Tool Manifest: Agents Need Installable Capabilities With Receipts MCP is crossing from protocol into distribution surface. - Verified: The MCP specification defines a standardized way for applicat…",
-      "modified": "2026-08-04T05:05:33.682Z",
-      "size": 13264,
+      "modified": "2026-08-04T05:08:26.882Z",
+      "size": 13263,
       "meta": {}
     },
     {
@@ -328,8 +338,8 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Next Software Company Might Be a Workshop: Personal Tools Built While You Work Verified: Ink & Switch’s local-first essay is titled “Local-first software: You own your data, in spite of the cloud,” and its descriptio…",
-      "modified": "2026-08-04T05:05:33.682Z",
-      "size": 13528,
+      "modified": "2026-08-04T05:08:26.882Z",
+      "size": 13527,
       "meta": {}
     },
     {
@@ -398,7 +408,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether N1 Scout / Notrex drone work becomes clearer when the aircraft is represented as a small set of versioned module contracts instead of as an unspecified build plan. - Drones Need Part Numbers../active-vibes/d…",
-      "modified": "2026-08-04T05:05:47.499Z",
+      "modified": "2026-08-04T05:08:26.883Z",
       "size": 2577,
       "meta": {}
     },
@@ -420,6 +430,16 @@
       "excerpt": "Test whether a small local Undo Envelope makes an agent-like action feel more trustworthy than a normal chat summary or git diff. Use a safe local Markdown task: 1. Start with one existing Markdown document. 2. Ask an ag…",
       "modified": "2026-07-30T21:38:21.369Z",
       "size": 1492,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Reaction Card for AI Video Edits",
+      "path": "experiments/2026-08-04-reaction-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a creator-facing Reaction Card makes AI video edits more controllable than a prompt-only or timeline-only workflow. - generated-worlds-need-reaction-tests - video-tools-need-intent-timelines - agents-need-tr…",
+      "modified": "2026-08-04T21:33:55.345Z",
+      "size": 2489,
       "meta": {}
     },
     {
@@ -778,8 +798,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds - Max’s “how many parts can we build and how do we make them modular” question is better answered with a module taxonomy than with a shoppin…",
-      "modified": "2026-08-04T05:03:22.218Z",
+      "modified": "2026-08-04T05:08:26.883Z",
       "size": 1646,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-04 — Reactive Video Worlds",
+      "path": "field-notes/2026-08-04-reactive-video-worlds.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "A fresh arXiv result, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity 2608.02603v1, 2026-08-03, frames controllable video generation as world modeling and says evaluation must go beyo…",
+      "modified": "2026-08-04T21:33:55.286Z",
+      "size": 2281,
       "meta": {}
     },
     {
@@ -983,9 +1013,9 @@
       "path": "idea-bank/trend-sparks/2026-08-04.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer movement. Evidence labels refer to the signal, not market validation. - Trend signal: Hacker News surfaced “Run an 80B Qwen in 4…",
-      "modified": "2026-08-04T05:04:11.962Z",
-      "size": 10715,
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer movement. Evidence labels refer to the signal, not market validation. - Verified: Apple Marketing Tools RSS, U.S. top-free apps…",
+      "modified": "2026-08-04T21:34:56.787Z",
+      "size": 13649,
       "meta": {}
     },
     {
@@ -1084,8 +1114,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-04T05:06:01.051Z",
-      "size": 32704,
+      "modified": "2026-08-04T21:35:14.748Z",
+      "size": 33728,
       "meta": {}
     },
     {
@@ -1114,8 +1144,8 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Virtual try-on is active in research and visible in small app repos. It fits Max's fashion/style/taste frontier and has an obvious consumer surface. The 2026-07-31 GitHub scan found multiple new AI wardrobe/try-on repos,…",
-      "modified": "2026-08-04T05:05:33.684Z",
-      "size": 2721,
+      "modified": "2026-08-04T05:08:26.884Z",
+      "size": 2720,
       "meta": {}
     },
     {
@@ -1266,6 +1296,16 @@
       "excerpt": "AI video, short-form creator tools, and prompt-to-motion graphics are visibly active. A simple “AI video editor for creators” sounds aligned with current demand. - Verified: App-store and HN signals show this lane is alr…",
       "modified": "2026-08-01T21:36:11.811Z",
       "size": 1182,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Generic AI Video Model Leaderboard",
+      "path": "rejected/2026-08-04-generic-video-model-leaderboard.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "WorldExam introduces a benchmark around video/world-model reactivity. A simple direction would be to track model scores, rank tools, and publish a leaderboard-style app. - Verified: The paper’s abstract already positions…",
+      "modified": "2026-08-04T21:33:55.287Z",
+      "size": 1461,
       "meta": {}
     },
     {
@@ -1546,7 +1586,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Drones Need Part Numbers: Modular Aircraft as Product Lines, Not One-Off Builds Max asked how many parts can be built and how to make them modular, in the context of printable quiet aircraft and N1 Scout/Notrex drone amb…",
-      "modified": "2026-08-04T05:03:22.201Z",
+      "modified": "2026-08-04T05:08:26.884Z",
       "size": 3800,
       "meta": {}
     },
@@ -1738,6 +1778,16 @@
       "excerpt": "This source note was created from programmatic metadata searches through arXiv, Crossref, and Semantic Scholar on 2026-07-19. It preserves only claims supported by retrieved metadata/abstract text. It does not claim airc…",
       "modified": "2026-07-19T09:55:08.628Z",
       "size": 7785,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Reactive Video Worlds / Agent-Drivable Timelines",
+      "path": "source-library/2026-08-04-reactive-video-worlds.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-08-04 UTC A new arXiv paper, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity, frames controllable video generation models as world models and argues that visual quality plus expl…",
+      "modified": "2026-08-04T21:33:55.278Z",
+      "size": 5194,
       "meta": {}
     },
     {
@@ -2006,7 +2056,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Drone module contracts and software lockfiles solve the same hidden problem: a system is only reproducible when its dependencies are named, versioned, constrained, and auditable. A software lockfile does not merely list…",
-      "modified": "2026-08-04T05:03:22.215Z",
+      "modified": "2026-08-04T05:08:26.884Z",
       "size": 2059,
       "meta": {}
     },
@@ -2201,6 +2251,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Video Reactivity Tests and Flight-Test Cards",
+      "path": "unexpected-connections/2026-08-04-video-reactivity-flight-tests.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "AI video generation and aircraft flight testing look unrelated, but both fail when evaluation stops at appearance. A video can look beautiful while the generated world does not react correctly to a changed action. An air…",
+      "modified": "2026-08-04T21:33:55.228Z",
+      "size": 1963,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Wardrobe Apps and Agent Memory",
       "path": "unexpected-connections/2026-07-25-wardrobes-need-simulation-memory.md",
       "category": "unexpected-connections",
@@ -2236,8 +2296,8 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Personal AI Needs a Behavioral Canon. The week’s agent-interface Vibes converged from permissions, flight recorders, peripheral vision, street signs, transition tests, undo envelopes, provenance, and taste boundaries int…",
-      "modified": "2026-08-04T05:05:33.683Z",
-      "size": 2600,
+      "modified": "2026-08-04T05:08:26.884Z",
+      "size": 2599,
       "meta": {}
     }
   ],
@@ -2250,22 +2310,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 35
+      "count": 36
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 14
+      "count": 15
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 30
+      "count": 31
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 36
+      "count": 37
     },
     {
       "id": "idea-bank",
@@ -2275,12 +2335,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 32
+      "count": 33
     },
     {
       "id": "manifests",
