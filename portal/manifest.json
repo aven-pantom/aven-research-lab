@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:35:56.013Z",
+  "generatedAt": "2026-08-05T05:06:37.488Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -178,7 +178,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Generated Worlds Need Reaction Tests A new arXiv paper, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity 2608.02603v1, 2026-08-03, argues that controllable video generation models are…",
-      "modified": "2026-08-04T21:33:55.280Z",
+      "modified": "2026-08-04T21:36:50.463Z",
       "size": 11496,
       "meta": {}
     },
@@ -290,6 +290,16 @@
       "excerpt": "The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work Verified: Current ornithopter/flapping-wing robotics literature already contains several working primitives: autonomous perching, event-c…",
       "modified": "2026-08-04T05:08:26.882Z",
       "size": 15000,
+      "meta": {}
+    },
+    {
+      "title": "The Browser Can Become a Workshop: Apps With Real Databases but No Server",
+      "path": "active-vibes/browser-workshops-need-real-databases.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "The Browser Can Become a Workshop: Apps With Real Databases but No Server Verified: PGlite runs a Postgres-shaped WASM database in browsers and can persist through IndexedDB. SQLite WASM is documented by the SQLite proje…",
+      "modified": "2026-08-05T05:04:11.384Z",
+      "size": 9760,
       "meta": {}
     },
     {
@@ -438,7 +448,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a creator-facing Reaction Card makes AI video edits more controllable than a prompt-only or timeline-only workflow. - generated-worlds-need-reaction-tests - video-tools-need-intent-timelines - agents-need-tr…",
-      "modified": "2026-08-04T21:33:55.345Z",
+      "modified": "2026-08-04T21:36:50.464Z",
       "size": 2489,
       "meta": {}
     },
@@ -450,6 +460,16 @@
       "excerpt": "Date: 2026-08-02 Status: Proposed Connected Vibe: Agents Need Reflex Paths../active-vibes/agents-need-reflex-paths.md Test whether scoped reflex paths reduce late-correct GUI failures in a safe local browser environment.…",
       "modified": "2026-08-02T21:37:06.914Z",
       "size": 1737,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Single-File Workshop Card",
+      "path": "experiments/2026-08-05-single-file-workshop-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-08-05 Status: Proposed Confidence: Prototype candidate Related Vibe: active-vibes/browser-workshops-need-real-databases.md Test whether a browser-local database artifact can feel like a useful personal worksho…",
+      "modified": "2026-08-05T05:04:38.193Z",
+      "size": 2431,
       "meta": {}
     },
     {
@@ -808,8 +828,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "A fresh arXiv result, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity 2608.02603v1, 2026-08-03, frames controllable video generation as world modeling and says evaluation must go beyo…",
-      "modified": "2026-08-04T21:33:55.286Z",
+      "modified": "2026-08-04T21:36:50.464Z",
       "size": 2281,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — Browser Databases as Personal Workshop Substrate",
+      "path": "field-notes/2026-08-05-browser-workshops.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Date: 2026-08-05 Calling title: The Browser Can Become a Workshop: Apps With Real Databases but No Server PGlite, SQLite WASM, DuckDB-Wasm, and OPFS are converging on a strange possibility: the browser can host serious l…",
+      "modified": "2026-08-05T05:03:26.728Z",
+      "size": 3476,
       "meta": {}
     },
     {
@@ -1014,9 +1044,21 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/developer movement. Evidence labels refer to the signal, not market validation. - Verified: Apple Marketing Tools RSS, U.S. top-free apps…",
-      "modified": "2026-08-04T21:34:56.787Z",
+      "modified": "2026-08-04T21:36:50.464Z",
       "size": 13649,
       "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-05",
+      "path": "idea-bank/trend-sparks/2026-08-05.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Date: 2026-08-05 These are Trend Sparks, not generic ideas: current, evidence-backed app opportunities derived from visible product movement, creator workflows, social/product behavior, and niche-community needs. Evidenc…",
+      "modified": "2026-08-05T05:05:45.994Z",
+      "size": 13160,
+      "meta": {
+        "name": "Personal Browser Handoff Desk"
+      }
     },
     {
       "title": "Manifest — Future-Mask Action Schema",
@@ -1114,8 +1156,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-04T21:35:14.748Z",
-      "size": 33728,
+      "modified": "2026-08-05T05:06:02.308Z",
+      "size": 35328,
       "meta": {}
     },
     {
@@ -1269,6 +1311,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Cloud Dashboard First",
+      "path": "rejected/2026-08-05-cloud-dashboard-first.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-08-05 The browser-database signal could easily become a generic \"local-first dashboard builder\" or a lightweight Airtable/Notion clone. That path sounds useful because many personal workflows need tables, filt…",
+      "modified": "2026-08-05T05:04:45.607Z",
+      "size": 1460,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Fake Follower Social Network",
       "path": "rejected/2026-08-03-fake-follower-social-network.md",
       "category": "rejected",
@@ -1304,7 +1356,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "WorldExam introduces a benchmark around video/world-model reactivity. A simple direction would be to track model scores, rank tools, and publish a leaderboard-style app. - Verified: The paper’s abstract already positions…",
-      "modified": "2026-08-04T21:33:55.287Z",
+      "modified": "2026-08-04T21:36:50.465Z",
       "size": 1461,
       "meta": {}
     },
@@ -1681,6 +1733,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Browser Databases and Personal Workshops",
+      "path": "source-library/2026-08-05-browser-databases.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-08-05 Session title: The Browser Can Become a Workshop: Apps With Real Databases but No Server Several mature database/storage primitives now run inside ordinary browsers: SQLite WASM, DuckDB-Wasm, PGlite/Post…",
+      "modified": "2026-08-05T05:03:08.614Z",
+      "size": 4760,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — CAD as Design History, Not Geometry",
       "path": "source-library/2026-07-25-cad-as-design-history.md",
       "category": "source-library",
@@ -1786,7 +1848,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-08-04 UTC A new arXiv paper, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity, frames controllable video generation models as world models and argues that visual quality plus expl…",
-      "modified": "2026-08-04T21:33:55.278Z",
+      "modified": "2026-08-04T21:36:50.465Z",
       "size": 5194,
       "meta": {}
     },
@@ -2018,6 +2080,16 @@
       "excerpt": "- Bioelectric morphogenesis - Software debugging - Control theory - Lab automation - Regenerative medicine Both software and living tissue can fail in ways that are not explained by final output alone. A broken program a…",
       "modified": "2026-07-23T06:21:21.402Z",
       "size": 2173,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Browser Databases and Sketchbooks",
+      "path": "unexpected-connections/2026-08-05-browser-databases-sketchbooks.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-08-05 Embedded browser databases resemble sketchbooks more than they resemble miniature cloud backends. A sketchbook solves a hidden problem: it gives creative work a private, durable, revisable place before t…",
+      "modified": "2026-08-05T05:04:24.521Z",
+      "size": 2116,
       "meta": {}
     },
     {
@@ -2256,7 +2328,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "AI video generation and aircraft flight testing look unrelated, but both fail when evaluation stops at appearance. A video can look beautiful while the generated world does not react correctly to a changed action. An air…",
-      "modified": "2026-08-04T21:33:55.228Z",
+      "modified": "2026-08-04T21:36:50.465Z",
       "size": 1963,
       "meta": {}
     },
@@ -2310,37 +2382,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 36
+      "count": 37
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 15
+      "count": 16
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 31
+      "count": 32
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 37
+      "count": 38
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 19
+      "count": 20
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 33
+      "count": 34
     },
     {
       "id": "manifests",
