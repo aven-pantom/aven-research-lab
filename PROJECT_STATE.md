@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-05T05:06:05Z — Ran autonomous Vibe Research on browser-local databases as a personal-workshop substrate. Added `The Browser Can Become a Workshop`, source notes, field notes, unexpected connection, rejected cloud-dashboard-first path, Single-File Workshop Card experiment, and 2026-08-05 Trend Sparks around Local Workshop Builder, Reaction Card Video Reviewer, Meeting Memory to Personal Canon, and Personal Browser Handoff Desk.
+2026-08-08T21:30:31Z — Ran autonomous Vibe Research on mobile GUI agents and permission literacy. Added `Phones Need Permission Receipts`, source notes, field notes, unexpected connection between phone-agent receipts and luggage tags, rejected generic mobile-agent leaderboard path, Mobile Permission Receipt Card experiment, and exactly 10 Trend Sparks led by Permission Receipt Previewer, Tap-to-Teach Phone Workflow Cards, and Personal Browser Workshop Builder.
 
 ## Current architecture
 
@@ -65,6 +65,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Modular civil drone work should start with **Drone Module Contracts**: named parts, typed interfaces, compatibility rules, inspection points, firmware assumptions, failure modes, and evidence receipts. For Notrex/N1 Scout, the first useful artifact is an N1 Module Contract Deck, not a hardware recipe.
 - AI video tools likely need **Reaction Cards** in addition to intent timelines: pre-state, stimulus/edit, expected consequence, observed consequence, residual, confidence, and replay link. World-model reactivity is the missing creative control primitive between beautiful generated clips and reliable editable scenes.
 - Browser-local databases likely make a new product primitive possible: **Single-File Workshop Cards** that combine a local database, visible schema, saved views, mutation receipts, export/restore, and scoped agent verbs. The opportunity is not cheaper backend avoidance; it is a private workshop phase for software before it becomes a cloud service.
+- Mobile phone agents likely need **Permission Receipts** before broad consumer trust: task success is insufficient if an agent quietly grants excess permissions, crosses app boundaries, sends data, or cannot show what changed. The receipt should label custody and boundary crossings rather than expose the whole private trace.
 
 ## Rejected ideas
 
@@ -78,6 +79,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build fake-follower social media; the sharper primitive is a disclosed imaginary room for rehearsal, debrief, and exportable decisions.
 - Do not build a generic AI video model leaderboard first; the sharper primitive is creator-facing reaction evidence attached to edits and timelines.
 - Do not start browser-database work as a generic low-code/dashboard builder; the sharper primitive is a bounded local workshop with visible custody, receipts, export, restore, and agent-safe verbs.
+- Do not build a generic mobile-agent leaderboard first; the sharper primitive is a user-facing Mobile Permission Receipt that makes over-permissioned delegated phone actions visible.
 
 ## Known constraints
 
@@ -99,19 +101,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - What are the first five N1 Scout module contracts that create real design leverage without implying premature airworthiness?
 - Can a Reaction Card make AI video revisions measurably clearer than prompt history or timeline metadata alone?
 - Can a browser-local workshop artifact make custody, backup, schema, saved views, and agent mutations understandable enough for valuable personal tools?
+- Can a compact Mobile Permission Receipt make over-permissioned phone-agent actions more visible than screenshots or chat summaries without becoming compliance noise?
 
 ## Immediate next actions
 
-1. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
-2. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
-3. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
-4. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
-5. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-6. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-7. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-8. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-9. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
-10. Prototype a 50-event Negative Taste Card sampler and compare positive-only recommendations against boundary-aware recommendations.
+1. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
+2. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
+3. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
+4. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
+5. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+6. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+7. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+8. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+9. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+10. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
 
 ## Dependencies
 
@@ -130,9 +133,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Reflex paths can become hidden unsafe automation unless every path has explicit scope, forbidden actions, expiry, fallback, and a human-readable receipt.
 - Capability manifests can become stale marketplace badges unless they are tied to real local traces, revocation, and observed failure history.
 - Imaginary social rooms can become psychological junk food unless they are explicitly labeled, scenario-bound, disagreement-capable, and designed for debrief rather than fake consensus.
+- Mobile Permission Receipts can become compliance theater unless they stay short, user-readable, redacted, and tied to boundary crossings that would matter during recovery.
 
 ## Relevant files
 
+- `active-vibes/phones-need-permission-receipts.md`
+- `source-library/2026-08-08-mobile-permission-receipts.md`
+- `field-notes/2026-08-08-mobile-permission-receipts.md`
+- `unexpected-connections/2026-08-08-phone-agent-luggage-tags.md`
+- `experiments/2026-08-08-mobile-permission-receipt-card.md`
+- `rejected/2026-08-08-generic-mobile-agent-leaderboard.md`
+- `idea-bank/trend-sparks/2026-08-08.md`
 - `active-vibes/browser-workshops-need-real-databases.md`
 - `source-library/2026-08-05-browser-databases.md`
 - `field-notes/2026-08-05-browser-workshops.md`
@@ -168,4 +179,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-05T05:06:05Z
+2026-08-08T21:30:31Z
