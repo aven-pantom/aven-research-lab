@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T05:06:37.488Z",
+  "generatedAt": "2026-08-08T21:38:48.042Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -223,6 +223,16 @@
       "meta": {}
     },
     {
+      "title": "Phones Need Permission Receipts: Mobile Agents Must Show What They Touched",
+      "path": "active-vibes/phones-need-permission-receipts.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Phones Need Permission Receipts: Mobile Agents Must Show What They Touched Verified: A 2026 arXiv paper on mobile GUI-agent permission dialogs reports that task-completion-driven agents can grant unnecessary Android-styl…",
+      "modified": "2026-08-08T21:37:48.050Z",
+      "size": 9399,
+      "meta": {}
+    },
+    {
       "title": "Radios Need Moving Bodies: Antennas That Hunt for Better Physics",
       "path": "active-vibes/radios-need-moving-bodies.md",
       "category": "active-vibes",
@@ -298,7 +308,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "The Browser Can Become a Workshop: Apps With Real Databases but No Server Verified: PGlite runs a Postgres-shaped WASM database in browsers and can persist through IndexedDB. SQLite WASM is documented by the SQLite proje…",
-      "modified": "2026-08-05T05:04:11.384Z",
+      "modified": "2026-08-05T05:07:28.933Z",
       "size": 9760,
       "meta": {}
     },
@@ -413,6 +423,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Mobile Permission Receipt Card",
+      "path": "experiments/2026-08-08-mobile-permission-receipt-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-08-08 Status: Proposed Confidence: Prototype candidate Related Vibe: active-vibes/phones-need-permission-receipts.md Test whether a compact receipt can make mobile-agent authorization safer and more understand…",
+      "modified": "2026-08-08T21:37:48.094Z",
+      "size": 1775,
+      "meta": {}
+    },
+    {
       "title": "Experiment — N1 Module Contract Deck",
       "path": "experiments/2026-08-04-n1-module-contract-deck.md",
       "category": "experiments",
@@ -468,7 +488,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-05 Status: Proposed Confidence: Prototype candidate Related Vibe: active-vibes/browser-workshops-need-real-databases.md Test whether a browser-local database artifact can feel like a useful personal worksho…",
-      "modified": "2026-08-05T05:04:38.193Z",
+      "modified": "2026-08-05T05:07:28.934Z",
       "size": 2431,
       "meta": {}
     },
@@ -833,12 +853,22 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-08",
+      "path": "field-notes/2026-08-08-mobile-permission-receipts.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Calling title: Phones Need Permission Receipts: Mobile Agents Must Show What They Touched - Mobile GUI-agent papers are clustering around the same hidden structure: persistent task state, transition verification, real-ap…",
+      "modified": "2026-08-08T21:37:48.049Z",
+      "size": 2097,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — Browser Databases as Personal Workshop Substrate",
       "path": "field-notes/2026-08-05-browser-workshops.md",
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Date: 2026-08-05 Calling title: The Browser Can Become a Workshop: Apps With Real Databases but No Server PGlite, SQLite WASM, DuckDB-Wasm, and OPFS are converging on a strange possibility: the browser can host serious l…",
-      "modified": "2026-08-05T05:03:26.728Z",
+      "modified": "2026-08-05T05:07:28.934Z",
       "size": 3476,
       "meta": {}
     },
@@ -1054,10 +1084,22 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Date: 2026-08-05 These are Trend Sparks, not generic ideas: current, evidence-backed app opportunities derived from visible product movement, creator workflows, social/product behavior, and niche-community needs. Evidenc…",
-      "modified": "2026-08-05T05:05:45.994Z",
+      "modified": "2026-08-05T05:07:28.934Z",
       "size": 13160,
       "meta": {
         "name": "Personal Browser Handoff Desk"
+      }
+    },
+    {
+      "title": "Trend Sparks — 2026-08-08",
+      "path": "idea-bank/trend-sparks/2026-08-08.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Date: 2026-08-08 These are Trend Sparks, not generic ideas: current, evidence-backed app opportunities derived from visible product movement, creator workflows, social/product behavior, app/action infrastructure, and fro…",
+      "modified": "2026-08-08T21:37:48.106Z",
+      "size": 14177,
+      "meta": {
+        "name": "MCP Tool Shelf for Non-Developers"
       }
     },
     {
@@ -1156,8 +1198,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-05T05:06:02.308Z",
-      "size": 35328,
+      "modified": "2026-08-08T21:38:02.221Z",
+      "size": 36883,
       "meta": {}
     },
     {
@@ -1316,7 +1358,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-05 The browser-database signal could easily become a generic \"local-first dashboard builder\" or a lightweight Airtable/Notion clone. That path sounds useful because many personal workflows need tables, filt…",
-      "modified": "2026-08-05T05:04:45.607Z",
+      "modified": "2026-08-05T05:07:28.935Z",
       "size": 1460,
       "meta": {}
     },
@@ -1368,6 +1410,16 @@
       "excerpt": "MCP registries, Docker’s MCP catalog, OpenAI Apps SDK packaging, Product Hunt “Skill” language, and HN maker signals all point toward tool distribution for agents. The obvious product is a marketplace for MCP servers. -…",
       "modified": "2026-08-03T05:07:25.040Z",
       "size": 1655,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Generic Mobile-Agent Leaderboard",
+      "path": "rejected/2026-08-08-generic-mobile-agent-leaderboard.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-08-08 Mobile GUI-agent research is active, recent, and benchmark-heavy. A leaderboard or tracker could collect AndroidDaily, AndroidWorld, MobileGym, MobileWorld, GUIOdyssey, AppDeltaWorld, and related papers.…",
+      "modified": "2026-08-08T21:37:48.063Z",
+      "size": 1207,
       "meta": {}
     },
     {
@@ -1738,7 +1790,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-05 Session title: The Browser Can Become a Workshop: Apps With Real Databases but No Server Several mature database/storage primitives now run inside ordinary browsers: SQLite WASM, DuckDB-Wasm, PGlite/Post…",
-      "modified": "2026-08-05T05:03:08.614Z",
+      "modified": "2026-08-05T05:07:28.935Z",
       "size": 4760,
       "meta": {}
     },
@@ -1820,6 +1872,16 @@
       "excerpt": "Date captured: 2026-07-22 - URL: https://arxiv.org/abs/2607.19343 - arXiv ID: 2607.19343v1 - Published: 2026-07-21 - Authors listed by arXiv/project page: Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey, Lvmin…",
       "modified": "2026-07-22T05:07:54.571Z",
       "size": 4968,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Mobile Permission Receipts",
+      "path": "source-library/2026-08-08-mobile-permission-receipts.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-08-08 Session title: Phones Need Permission Receipts: Mobile Agents Must Show What They Touched - Verified: 2608.04755v1 studies Permission Literacy for mobile GUI agents. The abstract reports a four-level per…",
+      "modified": "2026-08-08T21:37:48.044Z",
+      "size": 4008,
       "meta": {}
     },
     {
@@ -2088,7 +2150,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-05 Embedded browser databases resemble sketchbooks more than they resemble miniature cloud backends. A sketchbook solves a hidden problem: it gives creative work a private, durable, revisable place before t…",
-      "modified": "2026-08-05T05:04:24.521Z",
+      "modified": "2026-08-05T05:07:28.936Z",
       "size": 2116,
       "meta": {}
     },
@@ -2180,6 +2242,16 @@
       "excerpt": "- Ornithopter robotics - Event-based vision - Wildlife/conservation technology - Scientific instrumentation - Ethology / animal behavior observation - Flight-test evidence systems Both ornithopter robotics and animal beh…",
       "modified": "2026-07-19T15:17:47.152Z",
       "size": 2439,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Phone Agent Receipts and Luggage Tags",
+      "path": "unexpected-connections/2026-08-08-phone-agent-luggage-tags.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-08-08 Mobile permission receipts resemble luggage tags more than security logs. A security log tries to record everything. That becomes unreadable on a phone, where screens are private and actions are frequent…",
+      "modified": "2026-08-08T21:37:48.051Z",
+      "size": 1415,
       "meta": {}
     },
     {
@@ -2382,37 +2454,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 37
+      "count": 38
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 16
+      "count": 17
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 32
+      "count": 33
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 38
+      "count": 39
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 20
+      "count": 21
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 34
+      "count": 35
     },
     {
       "id": "manifests",
