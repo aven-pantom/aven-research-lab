@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:38:48.042Z",
+  "generatedAt": "2026-08-08T22:15:40.579Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -228,7 +228,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Phones Need Permission Receipts: Mobile Agents Must Show What They Touched Verified: A 2026 arXiv paper on mobile GUI-agent permission dialogs reports that task-completion-driven agents can grant unnecessary Android-styl…",
-      "modified": "2026-08-08T21:37:48.050Z",
+      "modified": "2026-08-08T21:39:39.386Z",
       "size": 9399,
       "meta": {}
     },
@@ -428,7 +428,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-08 Status: Proposed Confidence: Prototype candidate Related Vibe: active-vibes/phones-need-permission-receipts.md Test whether a compact receipt can make mobile-agent authorization safer and more understand…",
-      "modified": "2026-08-08T21:37:48.094Z",
+      "modified": "2026-08-08T21:39:39.386Z",
       "size": 1775,
       "meta": {}
     },
@@ -858,7 +858,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Calling title: Phones Need Permission Receipts: Mobile Agents Must Show What They Touched - Mobile GUI-agent papers are clustering around the same hidden structure: persistent task state, transition verification, real-ap…",
-      "modified": "2026-08-08T21:37:48.049Z",
+      "modified": "2026-08-08T21:39:39.386Z",
       "size": 2097,
       "meta": {}
     },
@@ -1096,7 +1096,7 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Date: 2026-08-08 These are Trend Sparks, not generic ideas: current, evidence-backed app opportunities derived from visible product movement, creator workflows, social/product behavior, app/action infrastructure, and fro…",
-      "modified": "2026-08-08T21:37:48.106Z",
+      "modified": "2026-08-08T21:39:39.387Z",
       "size": 14177,
       "meta": {
         "name": "MCP Tool Shelf for Non-Developers"
@@ -1198,7 +1198,7 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-08T21:38:02.221Z",
+      "modified": "2026-08-08T21:39:39.388Z",
       "size": 36883,
       "meta": {}
     },
@@ -1418,7 +1418,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-08 Mobile GUI-agent research is active, recent, and benchmark-heavy. A leaderboard or tracker could collect AndroidDaily, AndroidWorld, MobileGym, MobileWorld, GUIOdyssey, AppDeltaWorld, and related papers.…",
-      "modified": "2026-08-08T21:37:48.063Z",
+      "modified": "2026-08-08T21:39:39.388Z",
       "size": 1207,
       "meta": {}
     },
@@ -1880,7 +1880,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-08 Session title: Phones Need Permission Receipts: Mobile Agents Must Show What They Touched - Verified: 2608.04755v1 studies Permission Literacy for mobile GUI agents. The abstract reports a four-level per…",
-      "modified": "2026-08-08T21:37:48.044Z",
+      "modified": "2026-08-08T21:39:39.388Z",
       "size": 4008,
       "meta": {}
     },
@@ -2250,7 +2250,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-08 Mobile permission receipts resemble luggage tags more than security logs. A security log tries to record everything. That becomes unreadable on a phone, where screens are private and actions are frequent…",
-      "modified": "2026-08-08T21:37:48.051Z",
+      "modified": "2026-08-08T21:39:39.389Z",
       "size": 1415,
       "meta": {}
     },
