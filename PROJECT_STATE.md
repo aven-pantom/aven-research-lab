@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-09T05:01:43Z — Ran autonomous Vibe Research on AI component SDKs and shared agent work objects. Added `Agent Interfaces Need Shared Workbenches`, source notes, field notes, unexpected connection between agent workbenches and electronic flight bags, rejected generic AI widget marketplace path, Workbench Object Card experiment, 2026-W32 weekly synthesis, and exactly 10 Trend Sparks led by Shared Workbench Inbox, Screen-to-Workshop Builder, and Outfit Boundary Rehearsal.
+2026-08-09T21:32:18Z — Ran autonomous Vibe Research on agent shadow runs: the gap between reproducible web/computer-use benchmarks and live AI browsers/credentialed agents. Added `Agents Need Shadow Runs`, source notes, field notes, unexpected connection between shadow runs and flight simulators/database dry-runs, rejected generic AI browser comparison, Shadow Run Card experiment, updated 2026-W32 synthesis, and exactly 10 Trend Sparks led by Shadow Run Previewer, Short-Drama Remix Desk, and Agent Credential Risk Inbox.
 
 ## Current architecture
 
@@ -67,6 +67,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Browser-local databases likely make a new product primitive possible: **Single-File Workshop Cards** that combine a local database, visible schema, saved views, mutation receipts, export/restore, and scoped agent verbs. The opportunity is not cheaper backend avoidance; it is a private workshop phase for software before it becomes a cloud service.
 - Mobile phone agents likely need **Permission Receipts** before broad consumer trust: task success is insufficient if an agent quietly grants excess permissions, crosses app boundaries, sends data, or cannot show what changed. The receipt should label custody and boundary crossings rather than expose the whole private trace.
 - Agent interfaces likely need **Shared Workbenches**: tool calls should return manipulable work objects with visible state, allowed verbs, stale markers, source pointers, privacy boundaries, undo/replay hooks, and mutation receipts. Chat should become the control layer around durable work objects, not the only continuity layer.
+- Computer-use agents likely need **Shadow Runs** before live execution: a previewable staging transaction with predicted mutations, irreversible boundaries, stale assumptions, approval gates, and observed post-commit delta.
 
 ## Rejected ideas
 
@@ -82,6 +83,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not start browser-database work as a generic low-code/dashboard builder; the sharper primitive is a bounded local workshop with visible custody, receipts, export, restore, and agent-safe verbs.
 - Do not build a generic mobile-agent leaderboard first; the sharper primitive is a user-facing Mobile Permission Receipt that makes over-permissioned delegated phone actions visible.
 - Do not build a generic AI widget marketplace first; the sharper primitive is a portable Workbench Object Card that preserves state, verbs, receipts, stale markers, privacy boundaries, and handoff context.
+- Do not build a generic AI browser comparison; the sharper primitive is a Shadow Run Card for previewing consequences before live account mutation.
 
 ## Known constraints
 
@@ -105,19 +107,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can a browser-local workshop artifact make custody, backup, schema, saved views, and agent mutations understandable enough for valuable personal tools?
 - Can a compact Mobile Permission Receipt make over-permissioned phone-agent actions more visible than screenshots or chat summaries without becoming compliance noise?
 - Can a Workbench Object Card let a human or agent resume useful work from the object alone, without rereading the original chat transcript?
+- Can a Shadow Run Card make risky browser/phone-agent actions easier to approve, reject, or repair than a normal chat confirmation?
 
 ## Immediate next actions
 
-1. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
-2. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
-3. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
-4. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
-5. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
-6. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
-7. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-8. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-9. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-10. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
+1. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
+2. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
+3. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
+4. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
+5. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
+6. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
+7. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+8. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+9. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+10. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
 
 ## Dependencies
 
@@ -137,17 +140,24 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Capability manifests can become stale marketplace badges unless they are tied to real local traces, revocation, and observed failure history.
 - Imaginary social rooms can become psychological junk food unless they are explicitly labeled, scenario-bound, disagreement-capable, and designed for debrief rather than fake consensus.
 - Mobile Permission Receipts can become compliance theater unless they stay short, user-readable, redacted, and tied to boundary crossings that would matter during recovery.
+- Shadow runs can create false confidence unless predicted mutations are clearly separated from verified post-commit deltas and unavailable live state is labeled.
 
 ## Relevant files
 
+- `active-vibes/agents-need-shadow-runs.md`
+- `source-library/2026-08-09-shadow-runs.md`
+- `field-notes/2026-08-09-shadow-runs.md`
+- `unexpected-connections/2026-08-09-shadow-runs-flight-simulators.md`
+- `experiments/2026-08-09-shadow-run-card.md`
+- `rejected/2026-08-09-generic-ai-browser-comparison.md`
+- `idea-bank/trend-sparks/2026-08-09.md`
+- `weekly-synthesis/2026-W32.md`
 - `active-vibes/agent-interfaces-need-shared-workbenches.md`
 - `source-library/2026-08-09-agent-workbenches.md`
 - `field-notes/2026-08-09-agent-workbenches.md`
 - `unexpected-connections/2026-08-09-agent-workbenches-flight-bags.md`
 - `experiments/2026-08-09-workbench-object-card.md`
 - `rejected/2026-08-09-generic-ai-widget-marketplace.md`
-- `idea-bank/trend-sparks/2026-08-09.md`
-- `weekly-synthesis/2026-W32.md`
 - `active-vibes/phones-need-permission-receipts.md`
 - `source-library/2026-08-08-mobile-permission-receipts.md`
 - `field-notes/2026-08-08-mobile-permission-receipts.md`
@@ -162,32 +172,9 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `experiments/2026-08-05-single-file-workshop-card.md`
 - `rejected/2026-08-05-cloud-dashboard-first.md`
 - `idea-bank/trend-sparks/2026-08-05.md`
-- `active-vibes/drones-need-part-numbers.md`
-- `active-vibes/generated-worlds-need-reaction-tests.md`
-- `source-library/2026-08-04-reactive-video-worlds.md`
-- `field-notes/2026-08-04-reactive-video-worlds.md`
-- `unexpected-connections/2026-08-04-video-reactivity-flight-tests.md`
-- `experiments/2026-08-04-reaction-card.md`
-- `rejected/2026-08-04-generic-video-model-leaderboard.md`
-- `source-library/2026-08-04-modular-drone-airframes.md`
-- `field-notes/2026-08-04-modular-drone-airframes.md`
-- `unexpected-connections/2026-08-04-drone-part-numbers-software-lockfiles.md`
-- `experiments/2026-08-04-n1-module-contract-deck.md`
-- `idea-bank/trend-sparks/2026-08-04.md`
-- `active-vibes/desk-sized-factory-for-quiet-persistent-aircraft.md`
-- `active-vibes/drones-need-airspace-manners.md`
-- `active-vibes/agents-need-flight-recorders.md`
-- `active-vibes/agents-need-street-signs.md`
-- `active-vibes/breakthrough-in-drones-supersonic-unmanned-aircraft.md`
-- `active-vibes/cameras-should-capture-change-not-pictures.md`
-- `active-vibes/the-bird-drone-we-can-actually-build.md`
-- `active-vibes/the-next-app-store-is-a-tool-manifest.md`
-- `active-vibes/personal-software-workshops.md`
-- `weekly-synthesis/2026-W31.md`
-- `rejected/2026-07-31-generic-virtual-try-on-first.md`
 - `research-map.md`
 - `portal/manifest.json`
 
 ## Last updated
 
-2026-08-09T05:01:43Z
+2026-08-09T21:32:18Z
