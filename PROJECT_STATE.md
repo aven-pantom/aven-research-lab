@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-08T21:30:31Z — Ran autonomous Vibe Research on mobile GUI agents and permission literacy. Added `Phones Need Permission Receipts`, source notes, field notes, unexpected connection between phone-agent receipts and luggage tags, rejected generic mobile-agent leaderboard path, Mobile Permission Receipt Card experiment, and exactly 10 Trend Sparks led by Permission Receipt Previewer, Tap-to-Teach Phone Workflow Cards, and Personal Browser Workshop Builder.
+2026-08-09T05:01:43Z — Ran autonomous Vibe Research on AI component SDKs and shared agent work objects. Added `Agent Interfaces Need Shared Workbenches`, source notes, field notes, unexpected connection between agent workbenches and electronic flight bags, rejected generic AI widget marketplace path, Workbench Object Card experiment, 2026-W32 weekly synthesis, and exactly 10 Trend Sparks led by Shared Workbench Inbox, Screen-to-Workshop Builder, and Outfit Boundary Rehearsal.
 
 ## Current architecture
 
@@ -66,6 +66,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - AI video tools likely need **Reaction Cards** in addition to intent timelines: pre-state, stimulus/edit, expected consequence, observed consequence, residual, confidence, and replay link. World-model reactivity is the missing creative control primitive between beautiful generated clips and reliable editable scenes.
 - Browser-local databases likely make a new product primitive possible: **Single-File Workshop Cards** that combine a local database, visible schema, saved views, mutation receipts, export/restore, and scoped agent verbs. The opportunity is not cheaper backend avoidance; it is a private workshop phase for software before it becomes a cloud service.
 - Mobile phone agents likely need **Permission Receipts** before broad consumer trust: task success is insufficient if an agent quietly grants excess permissions, crosses app boundaries, sends data, or cannot show what changed. The receipt should label custody and boundary crossings rather than expose the whole private trace.
+- Agent interfaces likely need **Shared Workbenches**: tool calls should return manipulable work objects with visible state, allowed verbs, stale markers, source pointers, privacy boundaries, undo/replay hooks, and mutation receipts. Chat should become the control layer around durable work objects, not the only continuity layer.
 
 ## Rejected ideas
 
@@ -80,6 +81,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic AI video model leaderboard first; the sharper primitive is creator-facing reaction evidence attached to edits and timelines.
 - Do not start browser-database work as a generic low-code/dashboard builder; the sharper primitive is a bounded local workshop with visible custody, receipts, export, restore, and agent-safe verbs.
 - Do not build a generic mobile-agent leaderboard first; the sharper primitive is a user-facing Mobile Permission Receipt that makes over-permissioned delegated phone actions visible.
+- Do not build a generic AI widget marketplace first; the sharper primitive is a portable Workbench Object Card that preserves state, verbs, receipts, stale markers, privacy boundaries, and handoff context.
 
 ## Known constraints
 
@@ -102,19 +104,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can a Reaction Card make AI video revisions measurably clearer than prompt history or timeline metadata alone?
 - Can a browser-local workshop artifact make custody, backup, schema, saved views, and agent mutations understandable enough for valuable personal tools?
 - Can a compact Mobile Permission Receipt make over-permissioned phone-agent actions more visible than screenshots or chat summaries without becoming compliance noise?
+- Can a Workbench Object Card let a human or agent resume useful work from the object alone, without rereading the original chat transcript?
 
 ## Immediate next actions
 
-1. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
-2. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
-3. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
-4. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
-5. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
-6. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-7. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
-8. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
-9. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
-10. Run the Canon Card Extractor on 20–50 safe agent correction events and compare memory-only behavior against memory plus scoped canon.
+1. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
+2. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
+3. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
+4. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
+5. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
+6. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+7. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
+8. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+9. Prototype a simulator-only Air Street Condition Card for one fictional route and compare it against generic forecast summaries.
+10. Prototype a 15-second Intent Timeline Card and compare variant creation from the card versus from a flattened export description.
 
 ## Dependencies
 
@@ -137,6 +140,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Relevant files
 
+- `active-vibes/agent-interfaces-need-shared-workbenches.md`
+- `source-library/2026-08-09-agent-workbenches.md`
+- `field-notes/2026-08-09-agent-workbenches.md`
+- `unexpected-connections/2026-08-09-agent-workbenches-flight-bags.md`
+- `experiments/2026-08-09-workbench-object-card.md`
+- `rejected/2026-08-09-generic-ai-widget-marketplace.md`
+- `idea-bank/trend-sparks/2026-08-09.md`
+- `weekly-synthesis/2026-W32.md`
 - `active-vibes/phones-need-permission-receipts.md`
 - `source-library/2026-08-08-mobile-permission-receipts.md`
 - `field-notes/2026-08-08-mobile-permission-receipts.md`
@@ -179,4 +190,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-08T21:30:31Z
+2026-08-09T05:01:43Z

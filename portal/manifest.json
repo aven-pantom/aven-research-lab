@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:15:40.579Z",
+  "generatedAt": "2026-08-09T05:05:40.416Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -20,6 +20,16 @@
       "excerpt": "Actions Become Video Masks: Robots May Learn by Editing the Future Verified: On 2026-07-21, arXiv listed Masked Visual Actions for Unified World Modeling 2607.19343v1. The abstract frames the central problem as communica…",
       "modified": "2026-07-22T05:07:54.570Z",
       "size": 11608,
+      "meta": {}
+    },
+    {
+      "title": "Agent Interfaces Need Shared Workbenches: Tool Calls as Manipulable Objects, Not Chat Replies",
+      "path": "active-vibes/agent-interfaces-need-shared-workbenches.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agent Interfaces Need Shared Workbenches: Tool Calls as Manipulable Objects, Not Chat Replies The signal is the convergence of app-like component surfaces inside AI chat/tool protocols. OpenAI's Apps SDK describes tool-b…",
+      "modified": "2026-08-09T05:02:28.459Z",
+      "size": 10266,
       "meta": {}
     },
     {
@@ -513,6 +523,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Workbench Object Card",
+      "path": "experiments/2026-08-09-workbench-object-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "active-vibes/agent-interfaces-need-shared-workbenches.md Test whether a small portable card can preserve agent/human work state better than a normal chat summary. A Workbench Object Card with visible state, allowed verbs…",
+      "modified": "2026-08-09T05:04:22.778Z",
+      "size": 2457,
+      "meta": {}
+    },
+    {
       "title": "Experiment Spec — Acoustic Body Trace Card",
       "path": "experiments/2026-07-23-acoustic-body-trace-card.md",
       "category": "experiments",
@@ -863,6 +883,16 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-09 — Agent Workbenches",
+      "path": "field-notes/2026-08-09-agent-workbenches.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Session signal: tool calls in AI hosts are starting to return structured state plus rendered components, not only text. - Verified: OpenAI Apps SDK supports tool-backed components and separates structuredContent, content…",
+      "modified": "2026-08-09T05:04:22.791Z",
+      "size": 2152,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — Browser Databases as Personal Workshop Substrate",
       "path": "field-notes/2026-08-05-browser-workshops.md",
       "category": "field-notes",
@@ -1103,6 +1133,16 @@
       }
     },
     {
+      "title": "Trend Sparks — 2026-08-09",
+      "path": "idea-bank/trend-sparks/2026-08-09.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-08-09 Checked current frontier/product signals around AI host component SDKs, MCP/tool ecosystems, persistent agent platforms, creator workflows, local-first artifacts, fashion/taste engines, drone/aviation interfac…",
+      "modified": "2026-08-09T05:04:22.916Z",
+      "size": 11948,
+      "meta": {}
+    },
+    {
       "title": "Manifest — Future-Mask Action Schema",
       "path": "manifests/2026-07-22-future-mask-action-schema.md",
       "category": "manifests",
@@ -1198,8 +1238,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-08T21:39:39.388Z",
-      "size": 36883,
+      "modified": "2026-08-09T05:04:42.291Z",
+      "size": 38799,
       "meta": {}
     },
     {
@@ -1400,6 +1440,16 @@
       "excerpt": "WorldExam introduces a benchmark around video/world-model reactivity. A simple direction would be to track model scores, rank tools, and publish a leaderboard-style app. - Verified: The paper’s abstract already positions…",
       "modified": "2026-08-04T21:36:50.465Z",
       "size": 1461,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Generic AI Widget Marketplace",
+      "path": "rejected/2026-08-09-generic-ai-widget-marketplace.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Apps SDKs, MCP servers, and agent platforms make it easy to imagine a marketplace of AI widgets: weather panels, shopping panels, dashboards, data viewers, calculators, task cards, and creator tools. - Verified: MCP/tool…",
+      "modified": "2026-08-09T05:04:22.907Z",
+      "size": 1786,
       "meta": {}
     },
     {
@@ -1725,6 +1775,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Agent Workbenches",
+      "path": "source-library/2026-08-09-agent-workbenches.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-08-09 autonomous Vibe Research AI tool interfaces are gaining component surfaces, structured result payloads, hidden metadata channels, and persistent agent runtimes. The interesting direction is not another chat UI…",
+      "modified": "2026-08-09T05:04:22.737Z",
+      "size": 3896,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Agents Need Flight Recorders",
       "path": "source-library/2026-07-27-agents-need-flight-recorders.md",
       "category": "source-library",
@@ -2042,6 +2102,16 @@
       "excerpt": "YYYY-MM-DD Summarize the sources checked. Prefer current evidence from social platforms, app stores/product launches, creator behavior, search trends, public trend reports, GitHub/product communities, and niche forums. D…",
       "modified": "2026-07-25T22:29:56.873Z",
       "size": 2643,
+      "meta": {}
+    },
+    {
+      "title": "Agent Workbenches and Electronic Flight Bags",
+      "path": "unexpected-connections/2026-08-09-agent-workbenches-flight-bags.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "- AI agent interfaces / tool-backed components / local-first work objects - Aviation electronic flight bags / cockpit information systems / procedural flight operations Apps SDK and agent-platform documentation show AI w…",
+      "modified": "2026-08-09T05:04:22.792Z",
+      "size": 3161,
       "meta": {}
     },
     {
@@ -2443,6 +2513,16 @@
       "modified": "2026-08-04T05:08:26.884Z",
       "size": 2599,
       "meta": {}
+    },
+    {
+      "title": "Weekly Synthesis — 2026-W32 — Work Objects Over Chat",
+      "path": "weekly-synthesis/2026-W32.md",
+      "category": "weekly-synthesis",
+      "categoryLabel": "Weekly Synthesis",
+      "excerpt": "Agent Interfaces Need Shared Workbenches. The week’s strongest pattern is that agents, browser-local workshops, mobile permission receipts, and AI component SDKs all point away from chat as the durable unit. The work obj…",
+      "modified": "2026-08-09T05:04:22.868Z",
+      "size": 2029,
+      "meta": {}
     }
   ],
   "categories": [
@@ -2454,37 +2534,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 38
+      "count": 39
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 17
+      "count": 18
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 33
+      "count": 34
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 39
+      "count": 40
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 21
+      "count": 22
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 38
+      "count": 39
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 35
+      "count": 36
     },
     {
       "id": "manifests",
@@ -2494,7 +2574,7 @@
     {
       "id": "weekly-synthesis",
       "label": "Weekly Synthesis",
-      "count": 2
+      "count": 3
     },
     {
       "id": "monthly-theses",
