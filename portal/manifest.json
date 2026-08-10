@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:36:53.994Z",
+  "generatedAt": "2026-08-10T05:06:10.480Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -78,7 +78,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Shadow Runs: Autonomy Should Rehearse Before It Touches Reality Browser and computer-use agents are moving from demos into real browsers, mobile browsers, desktop workspaces, and credentialed accounts. At the…",
-      "modified": "2026-08-09T21:36:13.237Z",
+      "modified": "2026-08-09T21:37:45.783Z",
       "size": 9619,
       "meta": {}
     },
@@ -160,6 +160,16 @@
       "excerpt": "Creative Tools Need Provenance Sandboxes: Receipts as Playable Material Verified: The C2PA specification defines a technical standard for binding provenance assertions to media assets, Content Credentials is a public-fac…",
       "modified": "2026-07-30T05:06:12.498Z",
       "size": 9835,
+      "meta": {}
+    },
+    {
+      "title": "Creative Tools Need Reference Contracts: AI Media Should Know What Must Not Change",
+      "path": "active-vibes/creative-tools-need-reference-contracts.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Creative Tools Need Reference Contracts: AI Media Should Know What Must Not Change Verified: Runway describes Gen-4 as generating consistent characters, objects, and locations across scenes from a single reference image.…",
+      "modified": "2026-08-10T05:05:10.915Z",
+      "size": 8677,
       "meta": {}
     },
     {
@@ -493,6 +503,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Reference Contract Card",
+      "path": "experiments/2026-08-10-reference-contract-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-08-10 active-vibes/creative-tools-need-reference-contracts.md Test whether typed reference cards make AI creative variants easier to generate, review, and correct than a normal prompt plus loose moodboard. Cre…",
+      "modified": "2026-08-10T05:05:10.973Z",
+      "size": 1856,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Reflex Path Microbench",
       "path": "experiments/2026-08-02-reflex-path-microbench.md",
       "category": "experiments",
@@ -508,7 +528,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a compact Shadow Run Card makes risky agent actions easier to evaluate than a normal chat confirmation. Users can detect bad, stale, over-broad, or irreversible agent actions faster when the agent presents a…",
-      "modified": "2026-08-09T21:36:13.268Z",
+      "modified": "2026-08-09T21:37:45.784Z",
       "size": 1928,
       "meta": {}
     },
@@ -918,8 +938,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "A cluster formed around agent browsers, mobile AI browsers, credential brokers, MCP interceptors, browser-use repos, and academic environments for web/computer/mobile agents. - arXiv search found WebArena, BrowserGym, Wo…",
-      "modified": "2026-08-09T21:36:13.274Z",
+      "modified": "2026-08-09T21:37:45.784Z",
       "size": 2369,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-10 — Reference Contracts",
+      "path": "field-notes/2026-08-10-reference-contracts.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Signal: AI creative products increasingly treat references as production controls, but the interface language still treats them like moodboard scraps. - Verified: Runway Gen-4 positions a single reference image as enough…",
+      "modified": "2026-08-10T05:05:10.999Z",
+      "size": 1302,
       "meta": {}
     },
     {
@@ -1168,8 +1198,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "- HN Algolia recent search, 2026-08-09: browser agent, MCP agent, local first, AI video editor, fashion app. - GitHub Search API, 2026-08-09: computer use agent, browser use agent, MCP server agent, local first ai app. -…",
-      "modified": "2026-08-09T21:36:13.387Z",
+      "modified": "2026-08-09T21:37:45.784Z",
       "size": 11721,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-10",
+      "path": "idea-bank/trend-sparks/2026-08-10.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities. These are Trend Sparks, not generic ideas. - Trend signal: Reference-driven AI creative tools are becoming normal: Runway Gen-4 emphasizes consistent characters/obje…",
+      "modified": "2026-08-10T05:05:11.099Z",
+      "size": 9030,
       "meta": {}
     },
     {
@@ -1268,8 +1308,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-09T21:36:39.354Z",
-      "size": 39718,
+      "modified": "2026-08-10T05:05:25.092Z",
+      "size": 41222,
       "meta": {}
     },
     {
@@ -1288,7 +1328,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Recent signals around AI browsers, mobile AI browsers, browser-use repos, credential brokers, and MCP interceptors suggest a fast-moving category. A comparison of AI browsers would mostly become feature inventory: sideba…",
-      "modified": "2026-08-09T21:36:13.338Z",
+      "modified": "2026-08-09T21:37:45.786Z",
       "size": 1065,
       "meta": {}
     },
@@ -1460,6 +1500,16 @@
       "excerpt": "Fluid antenna systems appear in current 6G/mmWave research and make large performance claims around outage probability, multiplexing, and spatial diversity. The obvious shallow path would be to frame the session as FAS w…",
       "modified": "2026-07-21T05:06:09.926Z",
       "size": 2015,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Generic AI Moodboard Generator",
+      "path": "rejected/2026-08-10-generic-ai-moodboard-generator.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-08-10 AI creative tools and visual reference behavior are clearly converging. A moodboard generator sounds adjacent to Figma Make, Runway references, Krea, Pinterest, and creator workflows. - Verified: Existin…",
+      "modified": "2026-08-10T05:05:11.011Z",
+      "size": 1371,
       "meta": {}
     },
     {
@@ -1720,7 +1770,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- Zhou et al., “WebArena: A Realistic Web Environment for Building Autonomous Agents,” arXiv:2307.13854v4, 2023. https://arxiv.org/abs/2307.13854v4 - Evidence label: Verified from arXiv API metadata and abstract. - Usefu…",
-      "modified": "2026-08-09T21:36:13.175Z",
+      "modified": "2026-08-09T21:37:45.787Z",
       "size": 4668,
       "meta": {}
     },
@@ -2022,6 +2072,16 @@
       "excerpt": "2026-08-04 UTC A new arXiv paper, WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity, frames controllable video generation models as world models and argues that visual quality plus expl…",
       "modified": "2026-08-04T21:36:50.465Z",
       "size": 5194,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Reference Contracts for AI Creative Tools",
+      "path": "source-library/2026-08-10-reference-contracts.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Access date: 2026-08-10 - URL: https://runway.com/research/introducing-runway-gen-4 - Fetch status during session: 200 - Verified: Page title extracted during session: Runway Gen-4: AI Video Generation with World Consist…",
+      "modified": "2026-08-10T05:06:01.980Z",
+      "size": 4674,
       "meta": {}
     },
     {
@@ -2395,6 +2455,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Reference Contracts and Aircraft Type Certificates",
+      "path": "unexpected-connections/2026-08-10-reference-contracts-type-certificates.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-08-10 AI creative references and aircraft type certificates look unrelated, but they solve the same hidden problem: how a system may vary without losing identity. An aircraft type certificate does not say ever…",
+      "modified": "2026-08-10T05:05:10.961Z",
+      "size": 1959,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Robot Bones, Structural Health, and Musical Instruments",
       "path": "unexpected-connections/2026-07-23-robot-bones-structural-health-musical-instruments.md",
       "category": "unexpected-connections",
@@ -2410,7 +2480,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Consumer AI agents, database migrations, and flight simulators are all trying to solve the same hidden problem: how to expose the consequence of action before production reality is touched. - A pilot does not prove compe…",
-      "modified": "2026-08-09T21:36:13.362Z",
+      "modified": "2026-08-09T21:37:45.787Z",
       "size": 2197,
       "meta": {}
     },
@@ -2580,7 +2650,7 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Agents Need Shadow Runs. The week’s agent-interface work has moved from post-hoc evidence toward pre-action consequence preview. Flight recorders, transition tests, undo envelopes, permission receipts, shared workbenches…",
-      "modified": "2026-08-09T21:36:13.389Z",
+      "modified": "2026-08-09T21:37:45.787Z",
       "size": 2508,
       "meta": {}
     }
@@ -2594,37 +2664,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 40
+      "count": 41
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 19
+      "count": 20
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 35
+      "count": 36
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 41
+      "count": 42
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 22
+      "count": 23
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 37
+      "count": 38
     },
     {
       "id": "manifests",
