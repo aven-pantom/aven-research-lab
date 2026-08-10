@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T05:06:10.480Z",
+  "generatedAt": "2026-08-10T21:35:26.861Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -168,7 +168,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Creative Tools Need Reference Contracts: AI Media Should Know What Must Not Change Verified: Runway describes Gen-4 as generating consistent characters, objects, and locations across scenes from a single reference image.…",
-      "modified": "2026-08-10T05:05:10.915Z",
+      "modified": "2026-08-10T05:07:02.621Z",
       "size": 8677,
       "meta": {}
     },
@@ -240,6 +240,16 @@
       "excerpt": "Materials That Learn After Manufacturing: The Body as a Trainable Interface A cluster of sources around mechanical neural networks, lattice-based mechanical metamaterials, topological mechanical classifiers, and soft-bod…",
       "modified": "2026-07-24T05:05:48.351Z",
       "size": 12134,
+      "meta": {}
+    },
+    {
+      "title": "Personal Agents Need Resident Microbrains: Always-On Help Cannot Wait for the Cloud",
+      "path": "active-vibes/personal-agents-need-resident-microbrains.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Personal Agents Need Resident Microbrains: Always-On Help Cannot Wait for the Cloud Verified: Meta Research’s Muse Glimmer page presents a 30B open agentic model optimized for always-on local workflows on consumer hardwa…",
+      "modified": "2026-08-10T21:34:37.853Z",
+      "size": 11219,
       "meta": {}
     },
     {
@@ -508,7 +518,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-10 active-vibes/creative-tools-need-reference-contracts.md Test whether typed reference cards make AI creative variants easier to generate, review, and correct than a normal prompt plus loose moodboard. Cre…",
-      "modified": "2026-08-10T05:05:10.973Z",
+      "modified": "2026-08-10T05:07:02.622Z",
       "size": 1856,
       "meta": {}
     },
@@ -520,6 +530,16 @@
       "excerpt": "Date: 2026-08-02 Status: Proposed Connected Vibe: Agents Need Reflex Paths../active-vibes/agents-need-reflex-paths.md Test whether scoped reflex paths reduce late-correct GUI failures in a safe local browser environment.…",
       "modified": "2026-08-02T21:37:06.914Z",
       "size": 1737,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Resident Duty Card",
+      "path": "experiments/2026-08-10-resident-duty-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a small, explicit duty card makes local always-on agent behavior more legible than normal app permissions or notification settings. A Resident Duty Card improves trust because it separates what a small local…",
+      "modified": "2026-08-10T21:34:37.912Z",
+      "size": 2288,
       "meta": {}
     },
     {
@@ -948,8 +968,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Signal: AI creative products increasingly treat references as production controls, but the interface language still treats them like moodboard scraps. - Verified: Runway Gen-4 positions a single reference image as enough…",
-      "modified": "2026-08-10T05:05:10.999Z",
+      "modified": "2026-08-10T05:07:02.622Z",
       "size": 1302,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-10 — Resident Microbrains",
+      "path": "field-notes/2026-08-10-resident-microbrains.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Small/local models are being positioned less like degraded chatbots and more like embedded duty systems. - Verified: Meta Research page for Muse Glimmer describes a 30B open agentic model optimized for always-on local wo…",
+      "modified": "2026-08-10T21:34:37.911Z",
+      "size": 1984,
       "meta": {}
     },
     {
@@ -1207,9 +1237,9 @@
       "path": "idea-bank/trend-sparks/2026-08-10.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities. These are Trend Sparks, not generic ideas. - Trend signal: Reference-driven AI creative tools are becoming normal: Runway Gen-4 emphasizes consistent characters/obje…",
-      "modified": "2026-08-10T05:05:11.099Z",
-      "size": 9030,
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities. These are Trend Sparks, not generic ideas. - Verified: Meta Research’s Muse Glimmer page describes a 30B open agentic model optimized for always-on local workflows o…",
+      "modified": "2026-08-10T21:34:37.963Z",
+      "size": 12343,
       "meta": {}
     },
     {
@@ -1308,8 +1338,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-10T05:05:25.092Z",
-      "size": 41222,
+      "modified": "2026-08-10T21:34:55.386Z",
+      "size": 42289,
       "meta": {}
     },
     {
@@ -1340,6 +1370,16 @@
       "excerpt": "Date: 2026-08-02 The source scan pointed toward drones, air taxis, HRRR, urban weather, and UTM. A simple interpretation would be to propose a drone-specific weather app. - Verified: NOAA HRRR public research page warns…",
       "modified": "2026-08-02T05:07:20.626Z",
       "size": 1336,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Offline Chatbot",
+      "path": "rejected/2026-08-10-generic-offline-chatbot.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Local models, Apple Foundation Models, tiny agentic models, and WebNN all make offline AI feel more feasible. A simple offline personal chatbot looks like the obvious consumer app. - Supported: Chat is not the hard part…",
+      "modified": "2026-08-10T21:34:37.898Z",
+      "size": 1317,
       "meta": {}
     },
     {
@@ -1508,7 +1548,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-10 AI creative tools and visual reference behavior are clearly converging. A moodboard generator sounds adjacent to Figma Make, Runway references, Krea, Pinterest, and creator workflows. - Verified: Existin…",
-      "modified": "2026-08-10T05:05:11.011Z",
+      "modified": "2026-08-10T05:07:02.626Z",
       "size": 1371,
       "meta": {}
     },
@@ -2080,8 +2120,18 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Access date: 2026-08-10 - URL: https://runway.com/research/introducing-runway-gen-4 - Fetch status during session: 200 - Verified: Page title extracted during session: Runway Gen-4: AI Video Generation with World Consist…",
-      "modified": "2026-08-10T05:06:01.980Z",
+      "modified": "2026-08-10T05:07:02.626Z",
       "size": 4674,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Resident Microbrains",
+      "path": "source-library/2026-08-10-resident-microbrains.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Personal Agents Need Resident Microbrains: Always-On Help Cannot Wait for the Cloud - Meta Research — Muse Glimmer URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model Verified: Page title durin…",
+      "modified": "2026-08-10T21:34:37.858Z",
+      "size": 5230,
       "meta": {}
     },
     {
@@ -2460,8 +2510,18 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-10 AI creative references and aircraft type certificates look unrelated, but they solve the same hidden problem: how a system may vary without losing identity. An aircraft type certificate does not say ever…",
-      "modified": "2026-08-10T05:05:10.961Z",
+      "modified": "2026-08-10T05:07:02.626Z",
       "size": 1959,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Resident Microbrains and Night Watches",
+      "path": "unexpected-connections/2026-08-10-resident-microbrains-night-watch.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Resident local agents resemble night watches more than assistants. A night watch is not the smartest person in the institution. It has a narrow duty: stay present, notice specific conditions, avoid unnecessary disturbanc…",
+      "modified": "2026-08-10T21:34:37.896Z",
+      "size": 1681,
       "meta": {}
     },
     {
@@ -2664,22 +2724,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 41
+      "count": 42
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 20
+      "count": 21
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 36
+      "count": 37
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 42
+      "count": 43
     },
     {
       "id": "idea-bank",
@@ -2689,12 +2749,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 41
+      "count": 42
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 38
+      "count": 39
     },
     {
       "id": "manifests",

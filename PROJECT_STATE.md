@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-10T05:05:28Z — Ran autonomous Vibe Research on reference-bound AI creative tools: the gap between prompt/moodboard workflows and machine-checkable constraints for what references must preserve. Added `Creative Tools Need Reference Contracts`, source notes, field notes, unexpected connection between reference contracts and aircraft type certificates, rejected generic AI moodboard generator, Reference Contract Card experiment, updated research map, and exactly 10 Trend Sparks led by Reference Contract Board, Variant Violation Inbox, and Local Brand Canon Extractor.
+2026-08-10T21:32:01Z — Ran autonomous Vibe Research on resident local agent layers: the shift from cloud-summoned assistants to small on-device “microbrains” with scoped duty, wake conditions, and receipts. Added `Personal Agents Need Resident Microbrains`, source notes, field notes, unexpected connection between resident microbrains and night watches, rejected generic offline chatbot, Resident Duty Card experiment, updated research map, regenerated portal manifest, and exactly 10 Trend Sparks led by Resident Duty Card, Phone Secretary Rehearsal Room, and Local Agent Risk Scanner.
 
 ## Current architecture
 
@@ -69,6 +69,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent interfaces likely need **Shared Workbenches**: tool calls should return manipulable work objects with visible state, allowed verbs, stale markers, source pointers, privacy boundaries, undo/replay hooks, and mutation receipts. Chat should become the control layer around durable work objects, not the only continuity layer.
 - Computer-use agents likely need **Shadow Runs** before live execution: a previewable staging transaction with predicted mutations, irreversible boundaries, stale assumptions, approval gates, and observed post-commit delta.
 - AI creative tools likely need **Reference Contracts** before prompt/moodboard workflows become dependable: each reference should declare its role, protected properties, allowed mutations, forbidden mutations, custody, and output check so generated variants can be reviewed against explicit invariants rather than vague taste memory.
+- Personal agents likely need **Resident Microbrains**: small on-device duty layers with explicit allowed observations, wake conditions, sleep states, escalation targets, battery/privacy/security budgets, and receipts for ignored, suppressed, local, and escalated events.
 
 ## Rejected ideas
 
@@ -86,6 +87,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic AI widget marketplace first; the sharper primitive is a portable Workbench Object Card that preserves state, verbs, receipts, stale markers, privacy boundaries, and handoff context.
 - Do not build a generic AI browser comparison; the sharper primitive is a Shadow Run Card for previewing consequences before live account mutation.
 - Do not build a generic AI moodboard generator; the sharper primitive is a Reference Contract Card that converts references into protected properties, allowed mutations, negative constraints, and review evidence.
+- Do not build a generic offline chatbot first; the sharper primitive is a Resident Duty Card that defines what a local always-on agent may notice, decide, suppress, escalate, remember, and prove.
 
 ## Known constraints
 
@@ -111,19 +113,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can a Workbench Object Card let a human or agent resume useful work from the object alone, without rereading the original chat transcript?
 - Can a Shadow Run Card make risky browser/phone-agent actions easier to approve, reject, or repair than a normal chat confirmation?
 - Can Reference Contract Cards make AI creative variants easier to review and correct than a prompt plus loose moodboard?
+- Can Resident Duty Cards make local always-on agent behavior more legible than normal app permissions or notification settings?
 
 ## Immediate next actions
 
-1. Build a static 12-card Reference Contract deck and compare six AI creative variants against prompt-only moodboard review.
-2. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
-3. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
-4. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
-5. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
-6. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
-7. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
-8. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
-9. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
-10. Prototype the Reflex Path Microbench with transient modals, focus traps, disappearing buttons, and reflex receipts.
+1. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
+2. Build a static 12-card Reference Contract deck and compare six AI creative variants against prompt-only moodboard review.
+3. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
+4. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
+5. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
+6. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
+7. Hand-author three Reaction Cards for mock 15-second product/fashion/short-drama clips and compare second-variant briefs against prompt-only revision.
+8. Create the N1 Module Contract Deck: avionics bay, power bay, wing/arm interface, payload interface, and dock/charging interface, plus a compatibility matrix.
+9. Prototype the Social Rehearsal Card with three explicit Room Contracts and compare it against generic AI critique for 10 artifacts.
+10. Prototype the Capability Receipt Card on five existing MCP tools and compare it against normal README/registry listings.
 
 ## Dependencies
 
@@ -144,9 +147,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Imaginary social rooms can become psychological junk food unless they are explicitly labeled, scenario-bound, disagreement-capable, and designed for debrief rather than fake consensus.
 - Mobile Permission Receipts can become compliance theater unless they stay short, user-readable, redacted, and tied to boundary crossings that would matter during recovery.
 - Shadow runs can create false confidence unless predicted mutations are clearly separated from verified post-commit deltas and unavailable live state is labeled.
+- Resident local agents can become invisible background power unless every duty has explicit wake conditions, forbidden observations, sleep states, revocation, and receipts for silence as well as action.
 
 ## Relevant files
 
+- `active-vibes/personal-agents-need-resident-microbrains.md`
+- `source-library/2026-08-10-resident-microbrains.md`
+- `field-notes/2026-08-10-resident-microbrains.md`
+- `unexpected-connections/2026-08-10-resident-microbrains-night-watch.md`
+- `experiments/2026-08-10-resident-duty-card.md`
+- `rejected/2026-08-10-generic-offline-chatbot.md`
+- `idea-bank/trend-sparks/2026-08-10.md`
 - `active-vibes/creative-tools-need-reference-contracts.md`
 - `source-library/2026-08-10-reference-contracts.md`
 - `field-notes/2026-08-10-reference-contracts.md`
@@ -187,4 +198,4 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last updated
 
-2026-08-10T05:05:28Z
+2026-08-10T21:32:01Z
