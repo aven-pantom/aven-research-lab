@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:35:26.861Z",
+  "generatedAt": "2026-08-11T05:04:53.272Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -40,6 +40,16 @@
       "excerpt": "Agents Need Borrowed Rooms, Not Keys: Personal AI Workspaces with Visible Boundaries Verified: Product Hunt's 2026-07-25 feed surfaced several agent-adjacent products around persistent workspaces, managed agent environme…",
       "modified": "2026-07-26T05:06:15.297Z",
       "size": 13740,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Continuation Ports: Work Should Resume Across Surfaces, Not Restart",
+      "path": "active-vibes/agents-need-continuation-ports.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Continuation Ports: Work Should Resume Across Surfaces, Not Restart Terminal agents, browser agents, model tool protocols, and component-based AI apps are converging, but their work still tends to live inside…",
+      "modified": "2026-08-11T05:02:49.200Z",
+      "size": 9431,
       "meta": {}
     },
     {
@@ -248,7 +258,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Personal Agents Need Resident Microbrains: Always-On Help Cannot Wait for the Cloud Verified: Meta Research’s Muse Glimmer page presents a 30B open agentic model optimized for always-on local workflows on consumer hardwa…",
-      "modified": "2026-08-10T21:34:37.853Z",
+      "modified": "2026-08-10T21:36:30.125Z",
       "size": 11219,
       "meta": {}
     },
@@ -433,6 +443,16 @@
       "meta": {}
     },
     {
+      "title": "Continuation Port Card",
+      "path": "experiments/2026-08-11-continuation-port-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Experiment 2026-08-11 Agents Need Continuation Ports../active-vibes/agents-need-continuation-ports.md Test whether a typed continuation object helps an agent resume unfinished work more safely and accurately than a norma…",
+      "modified": "2026-08-11T05:03:51.564Z",
+      "size": 1565,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Canon Card Extractor",
       "path": "experiments/2026-08-01-canon-card-extractor.md",
       "category": "experiments",
@@ -538,7 +558,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a small, explicit duty card makes local always-on agent behavior more legible than normal app permissions or notification settings. A Resident Duty Card improves trust because it separates what a small local…",
-      "modified": "2026-08-10T21:34:37.912Z",
+      "modified": "2026-08-10T21:36:30.125Z",
       "size": 2288,
       "meta": {}
     },
@@ -978,8 +998,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Small/local models are being positioned less like degraded chatbots and more like embedded duty systems. - Verified: Meta Research page for Muse Glimmer describes a 30B open agentic model optimized for always-on local wo…",
-      "modified": "2026-08-10T21:34:37.911Z",
+      "modified": "2026-08-10T21:36:30.125Z",
       "size": 1984,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-11 — Continuation Ports",
+      "path": "field-notes/2026-08-11-continuation-ports.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Agent work is spreading across terminal agents, browser agents, model protocols, app components, and local-first surfaces. The repeated missing primitive is not a better chat transcript; it is a transferable task state.…",
+      "modified": "2026-08-11T05:02:49.198Z",
+      "size": 2062,
       "meta": {}
     },
     {
@@ -1238,8 +1268,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities. These are Trend Sparks, not generic ideas. - Verified: Meta Research’s Muse Glimmer page describes a 30B open agentic model optimized for always-on local workflows o…",
-      "modified": "2026-08-10T21:34:37.963Z",
+      "modified": "2026-08-10T21:36:30.125Z",
       "size": 12343,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-11",
+      "path": "idea-bank/trend-sparks/2026-08-11.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-08-11 Checked near-primary product/source signals where available: GitHub repository metadata for Claude Code, Gemini CLI, Stagehand, MCP servers/spec docs, Vercel AI SDK, Transformers.js, Transformer Lab, Actual Bu…",
+      "modified": "2026-08-11T05:03:39.876Z",
+      "size": 12131,
       "meta": {}
     },
     {
@@ -1338,8 +1378,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-10T21:34:55.386Z",
-      "size": 42289,
+      "modified": "2026-08-11T05:04:11.727Z",
+      "size": 43743,
       "meta": {}
     },
     {
@@ -1378,7 +1418,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Local models, Apple Foundation Models, tiny agentic models, and WebNN all make offline AI feel more feasible. A simple offline personal chatbot looks like the obvious consumer app. - Supported: Chat is not the hard part…",
-      "modified": "2026-08-10T21:34:37.898Z",
+      "modified": "2026-08-10T21:36:30.127Z",
       "size": 1317,
       "meta": {}
     },
@@ -1390,6 +1430,16 @@
       "excerpt": "Virtual try-on is active in research and visible in small app repos. It fits Max's fashion/style/taste frontier and has an obvious consumer surface. The 2026-07-31 GitHub scan found multiple new AI wardrobe/try-on repos,…",
       "modified": "2026-08-04T05:08:26.884Z",
       "size": 2720,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Universal Agent Memory",
+      "path": "rejected/2026-08-11-universal-agent-memory.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Agent tools are proliferating, and it is tempting to frame the problem as persistent universal memory across all agents and apps. Prior lab work has already mapped behavioral canon, flight recorders, permission receipts,…",
+      "modified": "2026-08-11T05:02:49.252Z",
+      "size": 1242,
       "meta": {}
     },
     {
@@ -1815,6 +1865,16 @@
       "meta": {}
     },
     {
+      "title": "Source Library — 2026-08-11 — Continuation Ports",
+      "path": "source-library/2026-08-11-continuation-ports.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- URL: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro - Evidence label: Verified - Relevance: Presents MCP as a standard way for AI applications to connect with external systems through context and…",
+      "modified": "2026-08-11T05:02:49.269Z",
+      "size": 3292,
+      "meta": {}
+    },
+    {
       "title": "Source Library — Agents Need Borrowed Rooms, Not Keys",
       "path": "source-library/2026-07-26-agents-need-borrowed-rooms-not-keys.md",
       "category": "source-library",
@@ -2130,7 +2190,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Personal Agents Need Resident Microbrains: Always-On Help Cannot Wait for the Cloud - Meta Research — Muse Glimmer URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model Verified: Page title durin…",
-      "modified": "2026-08-10T21:34:37.858Z",
+      "modified": "2026-08-10T21:36:30.127Z",
       "size": 5230,
       "meta": {}
     },
@@ -2322,6 +2382,16 @@
       "excerpt": "Personal AI behavioral canon and aviation standard operating procedures solve the same hidden problem: remembering information is not enough when repeated action carries risk, judgment, and context. A pilot can know an a…",
       "modified": "2026-08-01T05:06:35.868Z",
       "size": 1757,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Agent Continuation Ports and Airlocks",
+      "path": "unexpected-connections/2026-08-11-agent-continuation-airlocks.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-08-11 Agent continuation ports have the same hidden structure as airlocks and transfer-of-control procedures. An airlock is not merely a door. It is a boundary object that lets something move between environments wi…",
+      "modified": "2026-08-11T05:02:49.160Z",
+      "size": 1779,
       "meta": {}
     },
     {
@@ -2520,7 +2590,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Resident local agents resemble night watches more than assistants. A night watch is not the smartest person in the institution. It has a narrow duty: stay present, notice specific conditions, avoid unnecessary disturbanc…",
-      "modified": "2026-08-10T21:34:37.896Z",
+      "modified": "2026-08-10T21:36:30.127Z",
       "size": 1681,
       "meta": {}
     },
@@ -2724,37 +2794,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 42
+      "count": 43
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 21
+      "count": 22
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 37
+      "count": 38
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 43
+      "count": 44
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 23
+      "count": 24
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 42
+      "count": 43
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 39
+      "count": 40
     },
     {
       "id": "manifests",
