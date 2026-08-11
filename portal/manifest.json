@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T05:04:53.272Z",
+  "generatedAt": "2026-08-11T21:37:33.891Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -48,8 +48,18 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Continuation Ports: Work Should Resume Across Surfaces, Not Restart Terminal agents, browser agents, model tool protocols, and component-based AI apps are converging, but their work still tends to live inside…",
-      "modified": "2026-08-11T05:02:49.200Z",
+      "modified": "2026-08-11T05:05:57.781Z",
       "size": 9431,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Credential Escrow: Secrets Should Be Leased, Not Remembered",
+      "path": "active-vibes/agents-need-credential-escrow.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Credential Escrow: Secrets Should Be Leased, Not Remembered Agent platforms are gaining real tool access while authentication systems still assume a human or a conventional backend is the actor. OAuth 2.1, MC…",
+      "modified": "2026-08-11T21:34:17.391Z",
+      "size": 9029,
       "meta": {}
     },
     {
@@ -448,7 +458,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Experiment 2026-08-11 Agents Need Continuation Ports../active-vibes/agents-need-continuation-ports.md Test whether a typed continuation object helps an agent resume unfinished work more safely and accurately than a norma…",
-      "modified": "2026-08-11T05:03:51.564Z",
+      "modified": "2026-08-11T05:05:57.781Z",
       "size": 1565,
       "meta": {}
     },
@@ -470,6 +480,16 @@
       "excerpt": "Test whether a small receipt-style manifest makes an MCP server/tool easier to evaluate for delegated agent use than a normal README or registry listing. A Capability Receipt Card will help a user answer trust questions…",
       "modified": "2026-08-03T05:07:25.039Z",
       "size": 2312,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Credential Lease Card",
+      "path": "experiments/2026-08-11-credential-lease-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "2026-08-11 Agents Need Credential Escrow../active-vibes/agents-need-credential-escrow.md Test whether a compact Credential Lease Card makes delegated-agent authority easier to understand, limit, and revoke than normal OA…",
+      "modified": "2026-08-11T21:34:46.534Z",
+      "size": 1921,
       "meta": {}
     },
     {
@@ -1008,8 +1028,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Agent work is spreading across terminal agents, browser agents, model protocols, app components, and local-first surfaces. The repeated missing primitive is not a better chat transcript; it is a transferable task state.…",
-      "modified": "2026-08-11T05:02:49.198Z",
+      "modified": "2026-08-11T05:05:57.782Z",
       "size": 2062,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-11 — Credential Escrow",
+      "path": "field-notes/2026-08-11-credential-escrow.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Agents are starting to act through real accounts, tools, browsers, and MCP servers, but authority still appears as hidden session state, OAuth consent, API keys, PATs, or screenshots of permission dialogs. - Verified: Va…",
+      "modified": "2026-08-11T21:34:46.491Z",
+      "size": 1532,
       "meta": {}
     },
     {
@@ -1277,9 +1307,9 @@
       "path": "idea-bank/trend-sparks/2026-08-11.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-08-11 Checked near-primary product/source signals where available: GitHub repository metadata for Claude Code, Gemini CLI, Stagehand, MCP servers/spec docs, Vercel AI SDK, Transformers.js, Transformer Lab, Actual Bu…",
-      "modified": "2026-08-11T05:03:39.876Z",
-      "size": 12131,
+      "excerpt": "2026-08-11 Checked near-primary and direct-source signals: MCP authorization spec, OAuth 2.1 draft, GNAP/RFC 9635, FedCM, WebAuthn, Vault leases, AWS temporary credentials, GitHub fine-grained PAT documentation, prior la…",
+      "modified": "2026-08-11T21:35:37.965Z",
+      "size": 12183,
       "meta": {}
     },
     {
@@ -1378,8 +1408,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-11T05:04:11.727Z",
-      "size": 43743,
+      "modified": "2026-08-11T21:36:28.580Z",
+      "size": 44722,
       "meta": {}
     },
     {
@@ -1390,6 +1420,16 @@
       "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
       "modified": "2026-08-04T00:37:46.176Z",
       "size": 2210,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Agent Password Manager",
+      "path": "rejected/2026-08-11-generic-agent-password-manager.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-08-11 Agents need credentials, and a password-manager-like product is the obvious consumer metaphor: store secrets, autofill them, and let the agent use them. - It centers storage instead of authority. - It encourag…",
+      "modified": "2026-08-11T21:34:46.535Z",
+      "size": 1233,
       "meta": {}
     },
     {
@@ -1438,7 +1478,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Agent tools are proliferating, and it is tempting to frame the problem as persistent universal memory across all agents and apps. Prior lab work has already mapped behavioral canon, flight recorders, permission receipts,…",
-      "modified": "2026-08-11T05:02:49.252Z",
+      "modified": "2026-08-11T05:05:57.783Z",
       "size": 1242,
       "meta": {}
     },
@@ -1870,7 +1910,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- URL: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro - Evidence label: Verified - Relevance: Presents MCP as a standard way for AI applications to connect with external systems through context and…",
-      "modified": "2026-08-11T05:02:49.269Z",
+      "modified": "2026-08-11T05:05:57.784Z",
       "size": 3292,
       "meta": {}
     },
@@ -2072,6 +2112,16 @@
       "excerpt": "2026-07-30 Media provenance infrastructure is maturing as defensive authenticity machinery while agent toolchains are making process traces operational. The research question is whether provenance can become a creative s…",
       "modified": "2026-07-30T05:06:12.499Z",
       "size": 4580,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Credential Escrow for Agents",
+      "path": "source-library/2026-08-11-credential-escrow.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-08-11 Agents Need Credential Escrow: Secrets Should Be Leased, Not Remembered - URL: https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization - Verified: The MCP site exposes a 2025-06-18 authori…",
+      "modified": "2026-08-11T21:34:17.384Z",
+      "size": 3142,
       "meta": {}
     },
     {
@@ -2390,7 +2440,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-08-11 Agent continuation ports have the same hidden structure as airlocks and transfer-of-control procedures. An airlock is not merely a door. It is a boundary object that lets something move between environments wi…",
-      "modified": "2026-08-11T05:02:49.160Z",
+      "modified": "2026-08-11T05:05:57.784Z",
       "size": 1779,
       "meta": {}
     },
@@ -2472,6 +2522,16 @@
       "excerpt": "- Color palette generation - Perfume/fragrance composition - Fashion/editorial styling - Brand identity - Camera-native creative tools Perfume does not present ingredients as raw chemistry. It organizes them into an expe…",
       "modified": "2026-07-20T11:52:35.795Z",
       "size": 1839,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Credential Leases and Aircraft Maintenance Releases",
+      "path": "unexpected-connections/2026-08-11-credential-leases-maintenance-release.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-08-11 Agent credential leases resemble aircraft maintenance release-to-service signoffs more than passwords. Both systems authorize a bounded action only after an evidence-bearing state is made legible: - What objec…",
+      "modified": "2026-08-11T21:34:46.559Z",
+      "size": 1471,
       "meta": {}
     },
     {
@@ -2794,22 +2854,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 43
+      "count": 44
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 22
+      "count": 23
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 38
+      "count": 39
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 44
+      "count": 45
     },
     {
       "id": "idea-bank",
@@ -2819,12 +2879,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 43
+      "count": 44
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 40
+      "count": 41
     },
     {
       "id": "manifests",
