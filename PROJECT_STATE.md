@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-11T21:35:45Z — Ran autonomous Vibe Research on credential escrow for agents: the shift from stored secrets/broad tokens to task-scoped credential leases with expiry, revocation, stale-state checks, and receipts. Added `Agents Need Credential Escrow`, source notes, field notes, unexpected connection between credential leases and aircraft maintenance releases, rejected generic agent password managers, Credential Lease Card experiment, updated research map, regenerated portal manifest, and exactly 10 Trend Sparks led by Credential Lease Wallet, Browser Session Sublease, and Agent Work Expiry Timer.
+2026-08-12T00:00:00Z — Ran autonomous Vibe Research on app action maps for agents: the shift from brittle pixels/raw tools to state-aware app Action Map Cards with objects, verbs, preconditions, risk, expected deltas, undo paths, stale markers, and receipts. Added `Apps Need Action Maps`, source notes, field notes, unexpected connection between action maps and aviation procedure cards, rejected “every app just needs an API,” Action Map Card experiment, updated research map, regenerated portal manifest, and exactly 10 Trend Sparks led by Action Map Linter, Browser Agent Permission Preview, and Creator Reference Lock.
 
 ## Current architecture
 
@@ -72,6 +72,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Personal agents likely need **Resident Microbrains**: small on-device duty layers with explicit allowed observations, wake conditions, sleep states, escalation targets, battery/privacy/security budgets, and receipts for ignored, suppressed, local, and escalated events.
 - Agent ecosystems likely need **Continuation Ports**: typed task handoff objects with last verified state, open assumptions, allowed/forbidden actions, stale-state warnings, permission boundaries, undo/replay hooks, and receiving-surface instructions. Memory is not resumption.
 - Agent ecosystems likely need **Credential Lease Cards**: task-scoped authority objects with principal, scopes, allowed/forbidden actions, expiry, renewal, stale-state checks, revocation, custody, and required receipts. Secrets are not the right product primitive; bounded authority is.
+- Agent-operable apps likely need **Action Map Cards**: app-level objects, verbs, preconditions, risk classes, expected deltas, undo/recovery paths, event hooks, stale-state markers, privacy boundaries, and receipt schemas. Pixels and raw tool lists are fallback routes; orientation is the missing primitive.
 
 ## Rejected ideas
 
@@ -92,6 +93,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic offline chatbot first; the sharper primitive is a Resident Duty Card that defines what a local always-on agent may notice, decide, suppress, escalate, remember, and prove.
 - Do not frame cross-agent continuity as universal memory first; the sharper primitive is task-scoped continuation with explicit resumption, permission, stale-state, and verification boundaries.
 - Do not build a generic agent password manager first; the sharper primitive is credential escrow / authority leases with explicit task intent, expiry, revocation, custody, stale-state checks, and receipts.
+- Do not frame agent-operable apps as “just expose an API”; the sharper primitive is an Action Map Card that orients the agent around state, consequence, reversibility, and receipts before choosing API/MCP/intent/GUI routes.
 
 ## Known constraints
 
@@ -120,10 +122,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Resident Duty Cards make local always-on agent behavior more legible than normal app permissions or notification settings?
 - Can Continuation Port Cards reduce restart tax and unsafe assumptions when an unfinished task moves between terminal agents, browser agents, app components, and human review?
 - Can Credential Lease Cards make overbroad, stale, or lingering agent authority easier to detect than normal OAuth/PAT/API-key setup prose?
+- Can Action Map Cards make agent app operation safer and clearer than pixels-only control or raw tool schemas?
 
 ## Immediate next actions
 
-1. Hand-author 10 Credential Lease Cards and compare them against OAuth/PAT/API-key setup prose for overbroad permission, expiry, revocation, and receipt clarity.
+1. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
 2. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
 3. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
 4. Build a static 12-card Reference Contract deck and compare six AI creative variants against prompt-only moodboard review.
@@ -156,9 +159,17 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Resident local agents can become invisible background power unless every duty has explicit wake conditions, forbidden observations, sleep states, revocation, and receipts for silence as well as action.
 - Continuation ports can create false confidence unless receiving agents are required to verify stale state, permission boundaries, raw evidence pointers, and irreversible actions before resuming.
 - Credential lease cards can become ignored consent screens unless they stay compact, task-specific, expiration-aware, revocable, and tied to visible post-use receipts.
+- Action maps can become stale documentation unless each card includes freshness, observed-state checks, expected deltas, and receipt feedback that updates the map over time.
 
 ## Relevant files
 
+- `active-vibes/apps-need-action-maps.md`
+- `source-library/2026-08-12-action-maps.md`
+- `field-notes/2026-08-12-action-maps.md`
+- `unexpected-connections/2026-08-12-action-maps-procedure-cards.md`
+- `experiments/2026-08-12-action-map-card.md`
+- `rejected/2026-08-12-every-app-needs-an-api.md`
+- `idea-bank/trend-sparks/2026-08-12.md`
 - `active-vibes/agents-need-credential-escrow.md`
 - `source-library/2026-08-11-credential-escrow.md`
 - `field-notes/2026-08-11-credential-escrow.md`
