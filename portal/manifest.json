@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T21:37:33.891Z",
+  "generatedAt": "2026-08-12T05:04:42.592Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -58,7 +58,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Credential Escrow: Secrets Should Be Leased, Not Remembered Agent platforms are gaining real tool access while authentication systems still assume a human or a conventional backend is the actor. OAuth 2.1, MC…",
-      "modified": "2026-08-11T21:34:17.391Z",
+      "modified": "2026-08-11T21:37:52.334Z",
       "size": 9029,
       "meta": {}
     },
@@ -130,6 +130,16 @@
       "excerpt": "Agents Need Undo Gravity: Autonomy Should Feel Reversible by Default Verified: GitHub API readings on 2026-07-30 showed sustained public developer attention around computer-use and coding-agent tools: anthropics/claude-c…",
       "modified": "2026-07-30T21:38:21.369Z",
       "size": 10822,
+      "meta": {}
+    },
+    {
+      "title": "Apps Need Action Maps: Agents Should Navigate Intent, Not Pixels",
+      "path": "active-vibes/apps-need-action-maps.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Apps Need Action Maps: Agents Should Navigate Intent, Not Pixels Apple App Intents, Android App Actions/Shortcuts, WebDriver BiDi, MCP tools, and computer-use agents are converging on the same pressure point from differe…",
+      "modified": "2026-08-12T05:03:06.010Z",
+      "size": 9538,
       "meta": {}
     },
     {
@@ -463,6 +473,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Action Map Card",
+      "path": "experiments/2026-08-12-action-map-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Action Map Card Apps Need Action Maps: Agents Should Navigate Intent, Not Pixels../active-vibes/apps-need-action-maps.md Test whether a compact Action Map Card lets an agent or human understand and execute a safe app tas…",
+      "modified": "2026-08-12T05:03:06.050Z",
+      "size": 1829,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Canon Card Extractor",
       "path": "experiments/2026-08-01-canon-card-extractor.md",
       "category": "experiments",
@@ -488,7 +508,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "2026-08-11 Agents Need Credential Escrow../active-vibes/agents-need-credential-escrow.md Test whether a compact Credential Lease Card makes delegated-agent authority easier to understand, limit, and revoke than normal OA…",
-      "modified": "2026-08-11T21:34:46.534Z",
+      "modified": "2026-08-11T21:37:52.334Z",
       "size": 1921,
       "meta": {}
     },
@@ -1038,9 +1058,21 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Agents are starting to act through real accounts, tools, browsers, and MCP servers, but authority still appears as hidden session state, OAuth consent, API keys, PATs, or screenshots of permission dialogs. - Verified: Va…",
-      "modified": "2026-08-11T21:34:46.491Z",
+      "modified": "2026-08-11T21:37:52.334Z",
       "size": 1532,
       "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-12 — App Action Maps",
+      "path": "field-notes/2026-08-12-action-maps.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Signal: App Intents, Android shortcuts/App Actions, WebDriver BiDi, MCP, accessibility automation, and computer-use agents are all trying to make software operable by machines from different layers. - Odd convergence:…",
+      "modified": "2026-08-12T05:03:05.986Z",
+      "size": 1246,
+      "meta": {
+        "signal": "App Intents, Android shortcuts/App Actions, WebDriver BiDi, MCP, accessibility automation, and computer-use agents are all trying to make software operable by machines from different layers."
+      }
     },
     {
       "title": "Field Notes — Browser Databases as Personal Workshop Substrate",
@@ -1308,8 +1340,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-08-11 Checked near-primary and direct-source signals: MCP authorization spec, OAuth 2.1 draft, GNAP/RFC 9635, FedCM, WebAuthn, Vault leases, AWS temporary credentials, GitHub fine-grained PAT documentation, prior la…",
-      "modified": "2026-08-11T21:35:37.965Z",
+      "modified": "2026-08-11T21:37:52.334Z",
       "size": 12183,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-12",
+      "path": "idea-bank/trend-sparks/2026-08-12.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-08-12 Checked current or near-current primary/product sources across Meta AI app, Apple developer tooling, Cloudflare Agents, Farcaster Frames v2, OpenAI Sora landing material, Perplexity Comet coverage/source page…",
+      "modified": "2026-08-12T05:04:09.377Z",
+      "size": 13014,
       "meta": {}
     },
     {
@@ -1408,8 +1450,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-11T21:36:28.580Z",
-      "size": 44722,
+      "modified": "2026-08-12T05:04:39.784Z",
+      "size": 46065,
       "meta": {}
     },
     {
@@ -1428,7 +1470,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-08-11 Agents need credentials, and a password-manager-like product is the obvious consumer metaphor: store secrets, autofill them, and let the agent use them. - It centers storage instead of authority. - It encourag…",
-      "modified": "2026-08-11T21:34:46.535Z",
+      "modified": "2026-08-11T21:37:52.335Z",
       "size": 1233,
       "meta": {}
     },
@@ -1610,6 +1652,16 @@
       "excerpt": "Date: 2026-08-05 The browser-database signal could easily become a generic \"local-first dashboard builder\" or a lightweight Airtable/Notion clone. That path sounds useful because many personal workflows need tables, filt…",
       "modified": "2026-08-05T05:07:28.935Z",
       "size": 1460,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Every App Just Needs an API",
+      "path": "rejected/2026-08-12-every-app-needs-an-api.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "If agents need to operate software, the obvious answer is to expose more APIs, MCP tools, or direct app integrations. APIs expose callable operations, but agent failures often come from orientation failures: wrong state,…",
+      "modified": "2026-08-12T05:03:06.032Z",
+      "size": 1216,
       "meta": {}
     },
     {
@@ -2065,6 +2117,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — App Action Maps",
+      "path": "source-library/2026-08-12-action-maps.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Apps are exposing machine-operable actions through OS intents, app shortcuts, browser automation protocols, MCP tools, and computer-use agents, but these surfaces do not yet form a coherent state-aware map for delegated…",
+      "modified": "2026-08-12T05:03:06.056Z",
+      "size": 3107,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Bodies May Have a Hidden Programming Language",
       "path": "source-library/2026-07-21-bioelectric-form-language.md",
       "category": "source-library",
@@ -2120,7 +2182,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-08-11 Agents Need Credential Escrow: Secrets Should Be Leased, Not Remembered - URL: https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization - Verified: The MCP site exposes a 2025-06-18 authori…",
-      "modified": "2026-08-11T21:34:17.384Z",
+      "modified": "2026-08-11T21:37:52.336Z",
       "size": 3142,
       "meta": {}
     },
@@ -2485,6 +2547,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — App Action Maps and Aviation Procedure Cards",
+      "path": "unexpected-connections/2026-08-12-action-maps-procedure-cards.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "App Action Maps resemble aviation procedure cards more than API documentation. Both domains involve a capable operator acting inside a complex stateful system where the wrong action in the wrong state can create cascadin…",
+      "modified": "2026-08-12T05:03:05.987Z",
+      "size": 1404,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Bioelectricity and Debuggers",
       "path": "unexpected-connections/2026-07-21-bioelectric-debuggers.md",
       "category": "unexpected-connections",
@@ -2530,7 +2602,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-08-11 Agent credential leases resemble aircraft maintenance release-to-service signoffs more than passwords. Both systems authorize a bounded action only after an evidence-bearing state is made legible: - What objec…",
-      "modified": "2026-08-11T21:34:46.559Z",
+      "modified": "2026-08-11T21:37:52.336Z",
       "size": 1471,
       "meta": {}
     },
@@ -2854,37 +2926,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 44
+      "count": 45
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 23
+      "count": 24
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 39
+      "count": 40
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 45
+      "count": 46
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 24
+      "count": 25
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 44
+      "count": 45
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 41
+      "count": 42
     },
     {
       "id": "manifests",
