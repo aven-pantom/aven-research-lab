@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:04:42.592Z",
+  "generatedAt": "2026-08-13T05:06:13.899Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -138,7 +138,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Apps Need Action Maps: Agents Should Navigate Intent, Not Pixels Apple App Intents, Android App Actions/Shortcuts, WebDriver BiDi, MCP tools, and computer-use agents are converging on the same pressure point from differe…",
-      "modified": "2026-08-12T05:03:06.010Z",
+      "modified": "2026-08-12T05:05:38.999Z",
       "size": 9538,
       "meta": {}
     },
@@ -180,6 +180,16 @@
       "excerpt": "Cells Need Debuggers, Not Oracles: Virtual Biology as an Intervention Trace Verified: Several recent single-cell perturbation prediction papers frame the problem as AI Virtual Cell modeling, while nearby critique papers…",
       "modified": "2026-07-20T05:04:28.550Z",
       "size": 10000,
+      "meta": {}
+    },
+    {
+      "title": "Clothes Need Fit Ledgers: Try-On Should Remember Friction, Not Just Render Outfits",
+      "path": "active-vibes/clothes-need-fit-ledgers.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Clothes Need Fit Ledgers: Try-On Should Remember Friction, Not Just Render Outfits AI virtual try-on, visual shopping graphs, size recommendation systems, resale loops, and return-reduction tooling are all trying to solv…",
+      "modified": "2026-08-13T05:03:34.316Z",
+      "size": 10831,
       "meta": {}
     },
     {
@@ -478,7 +488,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Action Map Card Apps Need Action Maps: Agents Should Navigate Intent, Not Pixels../active-vibes/apps-need-action-maps.md Test whether a compact Action Map Card lets an agent or human understand and execute a safe app tas…",
-      "modified": "2026-08-12T05:03:06.050Z",
+      "modified": "2026-08-12T05:05:39.000Z",
       "size": 1829,
       "meta": {}
     },
@@ -510,6 +520,16 @@
       "excerpt": "2026-08-11 Agents Need Credential Escrow../active-vibes/agents-need-credential-escrow.md Test whether a compact Credential Lease Card makes delegated-agent authority easier to understand, limit, and revoke than normal OA…",
       "modified": "2026-08-11T21:37:52.334Z",
       "size": 1921,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Fit Ledger Card",
+      "path": "experiments/2026-08-13-fit-ledger-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether lightweight fit/outcome memory improves fashion recommendations more than visual references or size-chart thinking alone. A recommendation brief that includes negative fit events, returns, alterations, and a…",
+      "modified": "2026-08-13T05:05:09.710Z",
+      "size": 2151,
       "meta": {}
     },
     {
@@ -1068,11 +1088,21 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Signal: App Intents, Android shortcuts/App Actions, WebDriver BiDi, MCP, accessibility automation, and computer-use agents are all trying to make software operable by machines from different layers. - Odd convergence:…",
-      "modified": "2026-08-12T05:03:05.986Z",
+      "modified": "2026-08-12T05:05:39.001Z",
       "size": 1246,
       "meta": {
         "signal": "App Intents, Android shortcuts/App Actions, WebDriver BiDi, MCP, accessibility automation, and computer-use agents are all trying to make software operable by machines from different layers."
       }
+    },
+    {
+      "title": "Field Notes — 2026-08-13 — Fit Ledgers",
+      "path": "field-notes/2026-08-13-fit-ledgers.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "AI virtual try-on keeps improving, but the software rarely remembers why a garment failed in real life. - Google’s AI virtual try-on and Shopping Graph show the platform side moving toward visual and structured product i…",
+      "modified": "2026-08-13T05:05:09.637Z",
+      "size": 1676,
+      "meta": {}
     },
     {
       "title": "Field Notes — Browser Databases as Personal Workshop Substrate",
@@ -1350,8 +1380,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-08-12 Checked current or near-current primary/product sources across Meta AI app, Apple developer tooling, Cloudflare Agents, Farcaster Frames v2, OpenAI Sora landing material, Perplexity Comet coverage/source page…",
-      "modified": "2026-08-12T05:04:09.377Z",
+      "modified": "2026-08-12T05:05:39.001Z",
       "size": 13014,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-13",
+      "path": "idea-bank/trend-sparks/2026-08-13.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-08-13 Checked current or near-current sources across Google AI virtual try-on, Google Shopping Graph, Shopify returns-management material, TikTok Shop, arXiv virtual try-on diffusion results, Cloudflare Agents, Farc…",
+      "modified": "2026-08-13T05:05:09.693Z",
+      "size": 12240,
       "meta": {}
     },
     {
@@ -1450,8 +1490,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-12T05:04:39.784Z",
-      "size": 46065,
+      "modified": "2026-08-13T05:05:23.822Z",
+      "size": 47494,
       "meta": {}
     },
     {
@@ -1512,6 +1552,16 @@
       "excerpt": "Virtual try-on is active in research and visible in small app repos. It fits Max's fashion/style/taste frontier and has an obvious consumer surface. The 2026-07-31 GitHub scan found multiple new AI wardrobe/try-on repos,…",
       "modified": "2026-08-04T05:08:26.884Z",
       "size": 2720,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Virtual Try-On Clone",
+      "path": "rejected/2026-08-13-generic-virtual-try-on-clone.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "AI virtual try-on is visibly active across research and shopping platforms. It touches fashion, visual creation, ecommerce, social shopping, and personal taste — all Max-aligned territory. - Google and other large platfo…",
+      "modified": "2026-08-13T05:05:09.740Z",
+      "size": 1580,
       "meta": {}
     },
     {
@@ -1660,7 +1710,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "If agents need to operate software, the obvious answer is to expose more APIs, MCP tools, or direct app integrations. APIs expose callable operations, but agent failures often come from orientation failures: wrong state,…",
-      "modified": "2026-08-12T05:03:06.032Z",
+      "modified": "2026-08-12T05:05:39.002Z",
       "size": 1216,
       "meta": {}
     },
@@ -2122,7 +2172,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Apps are exposing machine-operable actions through OS intents, app shortcuts, browser automation protocols, MCP tools, and computer-use agents, but these surfaces do not yet form a coherent state-aware map for delegated…",
-      "modified": "2026-08-12T05:03:06.056Z",
+      "modified": "2026-08-12T05:05:39.003Z",
       "size": 3107,
       "meta": {}
     },
@@ -2214,6 +2264,16 @@
       "excerpt": "Date: 2026-07-19 Session calling title: Robots Need Skin That Interrupts: Touch as an Event Stream, Not an Image A current arXiv search for event-based and neuromorphic tactile sensing produced a dense 2026 cluster. The…",
       "modified": "2026-07-19T05:05:05.793Z",
       "size": 9100,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Fit Ledgers",
+      "path": "source-library/2026-08-13-fit-ledgers.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Fashion AI is improving virtual try-on, shopping graphs, size/recommendation infrastructure, and social commerce, but the strongest missing primitive appears to be longitudinal fit/outcome memory rather than another rend…",
+      "modified": "2026-08-13T05:05:09.611Z",
+      "size": 3298,
       "meta": {}
     },
     {
@@ -2552,7 +2612,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "App Action Maps resemble aviation procedure cards more than API documentation. Both domains involve a capable operator acting inside a complex stateful system where the wrong action in the wrong state can create cascadin…",
-      "modified": "2026-08-12T05:03:05.987Z",
+      "modified": "2026-08-12T05:05:39.003Z",
       "size": 1404,
       "meta": {}
     },
@@ -2624,6 +2684,16 @@
       "excerpt": "Drone module contracts and software lockfiles solve the same hidden problem: a system is only reproducible when its dependencies are named, versioned, constrained, and auditable. A software lockfile does not merely list…",
       "modified": "2026-08-04T05:08:26.884Z",
       "size": 2059,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Fit Ledgers and Aircraft Maintenance Logbooks",
+      "path": "unexpected-connections/2026-08-13-fit-ledgers-maintenance-logbooks.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Fit Ledgers and aircraft maintenance logbooks solve the same hidden problem: they preserve anomaly memory across time so the next decision is not made from the clean surface alone. - A visible object appears acceptable:…",
+      "modified": "2026-08-13T05:05:09.681Z",
+      "size": 1652,
       "meta": {}
     },
     {
@@ -2926,37 +2996,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 45
+      "count": 46
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 24
+      "count": 25
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 40
+      "count": 41
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 46
+      "count": 47
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 25
+      "count": 26
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 45
+      "count": 46
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 42
+      "count": 43
     },
     {
       "id": "manifests",
