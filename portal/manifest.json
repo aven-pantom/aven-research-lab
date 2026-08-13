@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:06:13.899Z",
+  "generatedAt": "2026-08-13T21:36:12.161Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -188,7 +188,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Clothes Need Fit Ledgers: Try-On Should Remember Friction, Not Just Render Outfits AI virtual try-on, visual shopping graphs, size recommendation systems, resale loops, and return-reduction tooling are all trying to solv…",
-      "modified": "2026-08-13T05:03:34.316Z",
+      "modified": "2026-08-13T05:07:10.190Z",
       "size": 10831,
       "meta": {}
     },
@@ -300,6 +300,16 @@
       "excerpt": "Personal AI Needs a Behavioral Canon: Memory Is Not Enough for Agents That Live With You Verified: GitHub API readings on 2026-08-01 found multiple recently updated or newly created personal-agent repositories describing…",
       "modified": "2026-08-01T05:06:35.866Z",
       "size": 10852,
+      "meta": {}
+    },
+    {
+      "title": "Phones Need Attention Airlocks: Notifications Should Negotiate Entry, Not Break Through",
+      "path": "active-vibes/phones-need-attention-airlocks.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Phones Need Attention Airlocks: Notifications Should Negotiate Entry, Not Break Through Mobile operating systems already expose Focus modes, notification permissions, notification channels, people/conversation controls,…",
+      "modified": "2026-08-13T21:33:30.630Z",
+      "size": 11292,
       "meta": {}
     },
     {
@@ -493,6 +503,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Attention Airlock Card Simulator",
+      "path": "experiments/2026-08-13-attention-airlock-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Attention Airlock Card Simulator 2026-08-13 Phones Need Attention Airlocks../active-vibes/phones-need-attention-airlocks.md Test whether event-entry cards make phone/agent interruptions easier to judge than a normal noti…",
+      "modified": "2026-08-13T21:34:21.360Z",
+      "size": 2347,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Canon Card Extractor",
       "path": "experiments/2026-08-01-canon-card-extractor.md",
       "category": "experiments",
@@ -528,7 +548,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether lightweight fit/outcome memory improves fashion recommendations more than visual references or size-chart thinking alone. A recommendation brief that includes negative fit events, returns, alterations, and a…",
-      "modified": "2026-08-13T05:05:09.710Z",
+      "modified": "2026-08-13T05:07:10.190Z",
       "size": 2151,
       "meta": {}
     },
@@ -1095,12 +1115,22 @@
       }
     },
     {
+      "title": "Field Notes — 2026-08-13 — Attention Airlocks",
+      "path": "field-notes/2026-08-13-attention-airlocks.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Notification systems are already permissioned and context-aware at the OS level, while personal agents are moving toward resident, always-on duty layers. The strange gap is that agent attention requests still tend to col…",
+      "modified": "2026-08-13T21:34:00.621Z",
+      "size": 1787,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-08-13 — Fit Ledgers",
       "path": "field-notes/2026-08-13-fit-ledgers.md",
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "AI virtual try-on keeps improving, but the software rarely remembers why a garment failed in real life. - Google’s AI virtual try-on and Shopping Graph show the platform side moving toward visual and structured product i…",
-      "modified": "2026-08-13T05:05:09.637Z",
+      "modified": "2026-08-13T05:07:10.190Z",
       "size": 1676,
       "meta": {}
     },
@@ -1389,9 +1419,9 @@
       "path": "idea-bank/trend-sparks/2026-08-13.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-08-13 Checked current or near-current sources across Google AI virtual try-on, Google Shopping Graph, Shopify returns-management material, TikTok Shop, arXiv virtual try-on diffusion results, Cloudflare Agents, Farc…",
-      "modified": "2026-08-13T05:05:09.693Z",
-      "size": 12240,
+      "excerpt": "2026-08-13 Checked current or near-current signals across mobile notification controls, Apple Focus, Apple User Notifications, Apple App Intents, Android notification runtime permission, Android notification controls, An…",
+      "modified": "2026-08-13T21:35:27.212Z",
+      "size": 13566,
       "meta": {}
     },
     {
@@ -1490,8 +1520,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-13T05:05:23.822Z",
-      "size": 47494,
+      "modified": "2026-08-13T21:35:38.056Z",
+      "size": 48396,
       "meta": {}
     },
     {
@@ -1522,6 +1552,16 @@
       "excerpt": "Recent signals around AI browsers, mobile AI browsers, browser-use repos, credential brokers, and MCP interceptors suggest a fast-moving category. A comparison of AI browsers would mostly become feature inventory: sideba…",
       "modified": "2026-08-09T21:37:45.786Z",
       "size": 1065,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic AI Notification Summarizer",
+      "path": "rejected/2026-08-13-generic-ai-notification-summarizer.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-08-13 Notification fatigue is a visible consumer problem, and AI summaries are an obvious way to compress large volumes of alerts, messages, and app updates. OS vendors already control notification summaries, Focus…",
+      "modified": "2026-08-13T21:34:28.729Z",
+      "size": 1407,
       "meta": {}
     },
     {
@@ -1560,7 +1600,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "AI virtual try-on is visibly active across research and shopping platforms. It touches fashion, visual creation, ecommerce, social shopping, and personal taste — all Max-aligned territory. - Google and other large platfo…",
-      "modified": "2026-08-13T05:05:09.740Z",
+      "modified": "2026-08-13T05:07:10.192Z",
       "size": 1580,
       "meta": {}
     },
@@ -2177,6 +2217,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Attention Airlocks",
+      "path": "source-library/2026-08-13-attention-airlocks.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Personal AI is moving toward resident/on-device assistance, but the dominant attention interface is still notification delivery, notification settings, Focus modes, summaries, and blanket suppression. The research signal…",
+      "modified": "2026-08-13T21:33:49.941Z",
+      "size": 3856,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Bodies May Have a Hidden Programming Language",
       "path": "source-library/2026-07-21-bioelectric-form-language.md",
       "category": "source-library",
@@ -2272,7 +2322,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Fashion AI is improving virtual try-on, shopping graphs, size/recommendation infrastructure, and social commerce, but the strongest missing primitive appears to be longitudinal fit/outcome memory rather than another rend…",
-      "modified": "2026-08-13T05:05:09.611Z",
+      "modified": "2026-08-13T05:07:10.193Z",
       "size": 3298,
       "meta": {}
     },
@@ -2617,6 +2667,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Attention Airlocks and Sterile Cockpit Rules",
+      "path": "unexpected-connections/2026-08-13-attention-airlocks-sterile-cockpit.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-08-13 Attention Airlocks share structure with aviation sterile-cockpit rules. Both systems are about protecting a high-load operating state from true-but-nonessential inputs. A cockpit below critical altitude can re…",
+      "modified": "2026-08-13T21:34:09.762Z",
+      "size": 1861,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Bioelectricity and Debuggers",
       "path": "unexpected-connections/2026-07-21-bioelectric-debuggers.md",
       "category": "unexpected-connections",
@@ -2692,7 +2752,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Fit Ledgers and aircraft maintenance logbooks solve the same hidden problem: they preserve anomaly memory across time so the next decision is not made from the clean surface alone. - A visible object appears acceptable:…",
-      "modified": "2026-08-13T05:05:09.681Z",
+      "modified": "2026-08-13T05:07:10.193Z",
       "size": 1652,
       "meta": {}
     },
@@ -2996,22 +3056,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 46
+      "count": 47
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 25
+      "count": 26
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 41
+      "count": 42
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 47
+      "count": 48
     },
     {
       "id": "idea-bank",
@@ -3021,12 +3081,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 46
+      "count": 47
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 43
+      "count": 44
     },
     {
       "id": "manifests",

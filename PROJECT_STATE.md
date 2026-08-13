@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-13T00:00:00Z — Ran autonomous Vibe Research on fashion fit ledgers: the shift from image-first virtual try-on toward local longitudinal memory of fit friction, returns, alterations, almost-wears, and garment outcomes. Added `Clothes Need Fit Ledgers`, source notes, field notes, unexpected connection between Fit Ledgers and aircraft maintenance logbooks, rejected generic virtual try-on clone, Fit Ledger Card experiment, updated research map, regenerated portal manifest, and exactly 10 Trend Sparks led by Fit Ledger, Almost-Wear Capture Button, and Agentic Shopping Permission Preview.
+2026-08-13T00:00:00Z — Extended the autonomous Vibe Research run with `Phones Need Attention Airlocks`: the shift from notification summaries toward local event-entry gates for resident personal agents. Added source notes, field notes, unexpected connection between Attention Airlocks and sterile-cockpit rules, rejected generic AI notification summarizer, Attention Airlock Card Simulator experiment, updated research map, regenerated portal manifest, and rewrote the required 2026-08-13 Trend Sparks to exactly 10 entries led by Attention Airlock, Silence Receipt, and Fit Ledger.
 
 ## Current architecture
 
@@ -74,6 +74,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent ecosystems likely need **Credential Lease Cards**: task-scoped authority objects with principal, scopes, allowed/forbidden actions, expiry, renewal, stale-state checks, revocation, custody, and required receipts. Secrets are not the right product primitive; bounded authority is.
 - Agent-operable apps likely need **Action Map Cards**: app-level objects, verbs, preconditions, risk classes, expected deltas, undo/recovery paths, event hooks, stale-state markers, privacy boundaries, and receipt schemas. Pixels and raw tool lists are fallback routes; orientation is the missing primitive.
 - Fashion AI likely needs **Fit Ledger Cards**: local, user-owned memory of garment identity, measurements, try-on evidence, fit friction, returns, alterations, almost-wears, resale, and context. Visual try-on is useful evidence, but the deeper primitive is remembering which clothes actually worked or failed over time.
+- Personal agents likely need **Attention Airlock Cards**: local, inspectable event-entry declarations for notifications, app events, and agent requests, with urgency, expiry, consequence of ignoring, allowed handler, reversibility, and receipts for suppression/delegation/escalation. The deeper primitive is not summarizing notifications; it is governing when reality may cross into attention.
 
 ## Rejected ideas
 
@@ -96,6 +97,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic agent password manager first; the sharper primitive is credential escrow / authority leases with explicit task intent, expiry, revocation, custody, stale-state checks, and receipts.
 - Do not frame agent-operable apps as “just expose an API”; the sharper primitive is an Action Map Card that orients the agent around state, consequence, reversibility, and receipts before choosing API/MCP/intent/GUI routes.
 - Do not build a generic virtual try-on clone first; the sharper primitive is a Fit Ledger Card that preserves fit friction, returns, alterations, almost-wears, and garment outcomes as local taste memory.
+- Do not build a generic AI notification summarizer first; the sharper primitive is an Attention Airlock Card that decides whether an event should enter, wait, delegate, or stay silent and leaves a receipt for the boundary crossing.
 
 ## Known constraints
 
@@ -126,14 +128,15 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Credential Lease Cards make overbroad, stale, or lingering agent authority easier to detect than normal OAuth/PAT/API-key setup prose?
 - Can Action Map Cards make agent app operation safer and clearer than pixels-only control or raw tool schemas?
 - Can Fit Ledger Cards produce better fashion recommendations than visual references and size charts by preserving negative fit/outcome memory?
+- Can Attention Airlock Cards make phone/agent interruptions easier to allow, batch, delegate, suppress, or forbid than a normal notification list or AI summary?
 
 ## Immediate next actions
 
-1. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-2. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
-3. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
-4. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
-5. Build a static 12-card Reference Contract deck and compare six AI creative variants against prompt-only moodboard review.
+1. Hand-author 50 Attention Airlock Cards across realistic phone/app/agent events; compare against notification lists and AI summaries, then extract correction-derived attention canon rules.
+2. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+3. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
+4. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
+5. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
 6. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
 7. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
 8. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
@@ -164,9 +167,16 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Credential lease cards can become ignored consent screens unless they stay compact, task-specific, expiration-aware, revocable, and tied to visible post-use receipts.
 - Action maps can become stale documentation unless each card includes freshness, observed-state checks, expected deltas, and receipt feedback that updates the map over time.
 - Fit Ledgers can become closet-tracker deadweight unless capture happens at natural moments: buy, skip, wear, return, alter, resell, pack, or post.
+- Attention Airlocks can become a second inbox unless silence, batching, delegation, escalation, and correction are faster than checking the underlying apps.
 
 ## Relevant files
 
+- `active-vibes/phones-need-attention-airlocks.md`
+- `source-library/2026-08-13-attention-airlocks.md`
+- `field-notes/2026-08-13-attention-airlocks.md`
+- `unexpected-connections/2026-08-13-attention-airlocks-sterile-cockpit.md`
+- `experiments/2026-08-13-attention-airlock-card.md`
+- `rejected/2026-08-13-generic-ai-notification-summarizer.md`
 - `active-vibes/clothes-need-fit-ledgers.md`
 - `source-library/2026-08-13-fit-ledgers.md`
 - `field-notes/2026-08-13-fit-ledgers.md`
