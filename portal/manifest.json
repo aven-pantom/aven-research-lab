@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:36:12.161Z",
+  "generatedAt": "2026-08-14T05:07:44.743Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -183,6 +183,16 @@
       "meta": {}
     },
     {
+      "title": "Civil Drones Need Weather Autopsies: Flight Logs Should Explain the Air They Actually Met",
+      "path": "active-vibes/civil-drones-need-weather-autopsies.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Civil Drones Need Weather Autopsies: Flight Logs Should Explain the Air They Actually Met Low-altitude drone operations are being pulled toward managed, evidence-bearing systems: Remote ID makes aircraft identity/locatio…",
+      "modified": "2026-08-14T05:05:52.109Z",
+      "size": 10789,
+      "meta": {}
+    },
+    {
       "title": "Clothes Need Fit Ledgers: Try-On Should Remember Friction, Not Just Render Outfits",
       "path": "active-vibes/clothes-need-fit-ledgers.md",
       "category": "active-vibes",
@@ -308,7 +318,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Phones Need Attention Airlocks: Notifications Should Negotiate Entry, Not Break Through Mobile operating systems already expose Focus modes, notification permissions, notification channels, people/conversation controls,…",
-      "modified": "2026-08-13T21:33:30.630Z",
+      "modified": "2026-08-13T21:37:21.141Z",
       "size": 11292,
       "meta": {}
     },
@@ -508,7 +518,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Attention Airlock Card Simulator 2026-08-13 Phones Need Attention Airlocks../active-vibes/phones-need-attention-airlocks.md Test whether event-entry cards make phone/agent interruptions easier to judge than a normal noti…",
-      "modified": "2026-08-13T21:34:21.360Z",
+      "modified": "2026-08-13T21:37:21.142Z",
       "size": 2347,
       "meta": {}
     },
@@ -680,6 +690,16 @@
       "excerpt": "Test whether a small expected-delta / observed-delta record catches computer-use agent failures that a normal chat/action log hides. Agents Need Transition Tests../active-vibes/agents-need-transition-tests.md Use one saf…",
       "modified": "2026-07-29T21:36:09.829Z",
       "size": 1924,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Weather Autopsy Card Fixture",
+      "path": "experiments/2026-08-14-weather-autopsy-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Civil Drones Need Weather Autopsies../active-vibes/civil-drones-need-weather-autopsies.md Test whether a compact post-flight evidence card makes low-altitude drone weather uncertainty clearer than a normal forecast panel…",
+      "modified": "2026-08-14T05:05:52.082Z",
+      "size": 2271,
       "meta": {}
     },
     {
@@ -1120,7 +1140,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Notification systems are already permissioned and context-aware at the OS level, while personal agents are moving toward resident, always-on duty layers. The strange gap is that agent attention requests still tend to col…",
-      "modified": "2026-08-13T21:34:00.621Z",
+      "modified": "2026-08-13T21:37:21.142Z",
       "size": 1787,
       "meta": {}
     },
@@ -1132,6 +1152,16 @@
       "excerpt": "AI virtual try-on keeps improving, but the software rarely remembers why a garment failed in real life. - Google’s AI virtual try-on and Shopping Graph show the platform side moving toward visual and structured product i…",
       "modified": "2026-08-13T05:07:10.190Z",
       "size": 1676,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-14 — Weather Autopsies for Civil Drones",
+      "path": "field-notes/2026-08-14-weather-autopsies.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Forecasts and authorizations describe what should be true before flight; flight logs know what the aircraft actually met. The gap is a post-flight weather residual, not another weather map. - Verified: FAA Remote ID make…",
+      "modified": "2026-08-14T05:05:52.089Z",
+      "size": 1770,
       "meta": {}
     },
     {
@@ -1420,8 +1450,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-08-13 Checked current or near-current signals across mobile notification controls, Apple Focus, Apple User Notifications, Apple App Intents, Android notification runtime permission, Android notification controls, An…",
-      "modified": "2026-08-13T21:35:27.212Z",
+      "modified": "2026-08-13T21:37:21.143Z",
       "size": 13566,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-14",
+      "path": "idea-bank/trend-sparks/2026-08-14.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - Trend signal: Civil drone workflows are becoming more structured through…",
+      "modified": "2026-08-14T05:06:46.438Z",
+      "size": 11095,
       "meta": {}
     },
     {
@@ -1520,8 +1560,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-13T21:35:38.056Z",
-      "size": 48396,
+      "modified": "2026-08-14T05:06:06.720Z",
+      "size": 49981,
       "meta": {}
     },
     {
@@ -1560,7 +1600,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-08-13 Notification fatigue is a visible consumer problem, and AI summaries are an obvious way to compress large volumes of alerts, messages, and app updates. OS vendors already control notification summaries, Focus…",
-      "modified": "2026-08-13T21:34:28.729Z",
+      "modified": "2026-08-13T21:37:21.144Z",
       "size": 1407,
       "meta": {}
     },
@@ -1572,6 +1612,16 @@
       "excerpt": "Date: 2026-08-02 The source scan pointed toward drones, air taxis, HRRR, urban weather, and UTM. A simple interpretation would be to propose a drone-specific weather app. - Verified: NOAA HRRR public research page warns…",
       "modified": "2026-08-02T05:07:20.626Z",
       "size": 1336,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Drone Weather App",
+      "path": "rejected/2026-08-14-generic-drone-weather-app.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Weather is a real blocker for civil drones, and operators need better low-altitude context than airport-level forecasts. A drone-specific weather app sounds immediately useful. - Weather dashboards and aviation weather s…",
+      "modified": "2026-08-14T05:05:52.083Z",
+      "size": 1353,
       "meta": {}
     },
     {
@@ -2127,6 +2177,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — 2026-08-14 — Weather Autopsies for Civil Drones",
+      "path": "source-library/2026-08-14-weather-autopsies.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Source: https://www.faa.gov/uas/gettingstarted/remoteid - Verified: The FAA describes Remote ID as a way for drones in flight to provide identification and location information. - Use in Vibe: Shows that drone operations…",
+      "modified": "2026-08-14T05:05:52.092Z",
+      "size": 2699,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — A Camera That Finds the Colors You Were Too Polite to Use",
       "path": "source-library/2026-07-20-photo-to-insane-palettes.md",
       "category": "source-library",
@@ -2222,7 +2282,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Personal AI is moving toward resident/on-device assistance, but the dominant attention interface is still notification delivery, notification settings, Focus modes, summaries, and blanket suppression. The research signal…",
-      "modified": "2026-08-13T21:33:49.941Z",
+      "modified": "2026-08-13T21:37:21.145Z",
       "size": 3856,
       "meta": {}
     },
@@ -2672,7 +2732,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-08-13 Attention Airlocks share structure with aviation sterile-cockpit rules. Both systems are about protecting a high-load operating state from true-but-nonessential inputs. A cockpit below critical altitude can re…",
-      "modified": "2026-08-13T21:34:09.762Z",
+      "modified": "2026-08-13T21:37:21.146Z",
       "size": 1861,
       "meta": {}
     },
@@ -2744,6 +2804,16 @@
       "excerpt": "Drone module contracts and software lockfiles solve the same hidden problem: a system is only reproducible when its dependencies are named, versioned, constrained, and auditable. A software lockfile does not merely list…",
       "modified": "2026-08-04T05:08:26.884Z",
       "size": 2059,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Drone Weather Autopsies and Real-User Monitoring",
+      "path": "unexpected-connections/2026-08-14-weather-autopsies-real-user-monitoring.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Civil drone weather autopsies resemble real-user monitoring in software more than they resemble ordinary weather apps. Both systems compare an expected service state against what was actually experienced at the edge. In…",
+      "modified": "2026-08-14T05:05:52.158Z",
+      "size": 1902,
       "meta": {}
     },
     {
@@ -3056,37 +3126,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 47
+      "count": 48
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 26
+      "count": 27
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 42
+      "count": 43
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 48
+      "count": 49
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 26
+      "count": 27
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 47
+      "count": 48
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 44
+      "count": 45
     },
     {
       "id": "manifests",
