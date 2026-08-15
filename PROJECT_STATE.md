@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-14T00:00:00Z — Ran an autonomous Vibe Research session on `Civil Drones Need Weather Autopsies`: the shift from drone weather as preflight forecast UI toward simulator-first post-flight residual evidence cards. Added active Vibe, source notes, field notes, unexpected connection to software real-user monitoring, rejected generic drone weather app, Weather Autopsy Card fixture experiment, exactly 10 Trend Sparks for 2026-08-14, updated research map, and regenerated the portal manifest.
+2026-08-15T05:00:34Z — Ran an autonomous Vibe Research session on `Agents Need Eagerness Governors`: the shift from agent eagerness as hidden prompt/personality behavior toward task-scoped autonomy throttle cards. Added active Vibe, source notes, field notes, unexpected connection to aircraft automation modes, rejected generic agent settings dashboard, Eagerness Governor Card fixture experiment, exactly 10 Trend Sparks for 2026-08-15, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -76,6 +76,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Fashion AI likely needs **Fit Ledger Cards**: local, user-owned memory of garment identity, measurements, try-on evidence, fit friction, returns, alterations, almost-wears, resale, and context. Visual try-on is useful evidence, but the deeper primitive is remembering which clothes actually worked or failed over time.
 - Personal agents likely need **Attention Airlock Cards**: local, inspectable event-entry declarations for notifications, app events, and agent requests, with urgency, expiry, consequence of ignoring, allowed handler, reversibility, and receipts for suppression/delegation/escalation. The deeper primitive is not summarizing notifications; it is governing when reality may cross into attention.
 - Civil drones likely need **Weather Autopsy Cards**: post-flight residual evidence comparing forecast/authorization context against what the aircraft actually experienced, with route-class memory, freshness, privacy redaction, conservative safety judgment, and next-route constraints. The opportunity is safety learning, not another drone weather panel.
+- Agent autonomy likely needs **Eagerness Governor Cards**: task-scoped initiative envelopes that define when an agent should observe, research, ask, draft, stage, act, stop, or escalate. Prompt-level “be proactive” guidance is too hidden for long-running multi-tool work.
 
 ## Rejected ideas
 
@@ -100,6 +101,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic virtual try-on clone first; the sharper primitive is a Fit Ledger Card that preserves fit friction, returns, alterations, almost-wears, and garment outcomes as local taste memory.
 - Do not build a generic AI notification summarizer first; the sharper primitive is an Attention Airlock Card that decides whether an event should enter, wait, delegate, or stay silent and leaves a receipt for the boundary crossing.
 - Do not build a generic drone weather app first; the sharper primitive is a Weather Autopsy Card that explains forecast residuals after a flight and preserves conservative, privacy-scoped route-class learning.
+- Do not build a generic agent settings dashboard first; the sharper primitive is a task-scoped Eagerness Governor Card that travels with the work item and governs initiative phase by phase.
 
 ## Known constraints
 
@@ -132,18 +134,19 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Fit Ledger Cards produce better fashion recommendations than visual references and size charts by preserving negative fit/outcome memory?
 - Can Attention Airlock Cards make phone/agent interruptions easier to allow, batch, delegate, suppress, or forbid than a normal notification list or AI summary?
 - Can Weather Autopsy Cards turn low-altitude drone flight logs into useful forecast-residual memory without implying unsafe route authorization or exposing sensitive routes?
+- Can Eagerness Governor Cards make agent initiative more legible than prompt-only instructions without becoming a settings dashboard?
 
 ## Immediate next actions
 
-1. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-2. Hand-author 50 Attention Airlock Cards across realistic phone/app/agent events; compare against notification lists and AI summaries, then extract correction-derived attention canon rules.
-3. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-4. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
-5. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
-6. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
-7. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
-8. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
-9. Hand-author 10 Mobile Permission Receipt Cards for common phone-agent tasks and test whether over-permissioned actions become visible faster than in screenshots/chat summaries.
+1. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+2. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
+3. Hand-author 50 Attention Airlock Cards across realistic phone/app/agent events; compare against notification lists and AI summaries, then extract correction-derived attention canon rules.
+4. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+5. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
+6. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
+7. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
+8. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
+9. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
 10. Build the Single-File Workshop Card: one local browser workshop for a small research/taste corpus with schema, saved views, export/restore, and mutation receipts.
 
 ## Dependencies
@@ -172,6 +175,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Fit Ledgers can become closet-tracker deadweight unless capture happens at natural moments: buy, skip, wear, return, alter, resell, pack, or post.
 - Attention Airlocks can become a second inbox unless silence, batching, delegation, escalation, and correction are faster than checking the underlying apps.
 - Drone weather cards can become dangerous if they imply live route clearance, reveal sensitive routes, or turn sparse logs into false-confidence forecasts. Keep the first experiment simulator-only and conservative.
+- Eagerness governor cards can become a confusing settings layer unless they stay task-scoped, compact, visible during operation, and tied to real receipts for ask/stage/act/stop transitions.
 
 ## Relevant files
 
@@ -260,7 +264,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `experiments/2026-08-14-weather-autopsy-card.md`
 - `rejected/2026-08-14-generic-drone-weather-app.md`
 - `idea-bank/trend-sparks/2026-08-14.md`
+- `active-vibes/agents-need-eagerness-governors.md`
+- `source-library/2026-08-15-eagerness-governors.md`
+- `field-notes/2026-08-15-eagerness-governors.md`
+- `unexpected-connections/2026-08-15-eagerness-governors-automation-modes.md`
+- `experiments/2026-08-15-eagerness-governor-card.md`
+- `rejected/2026-08-15-generic-agent-settings-dashboard.md`
+- `idea-bank/trend-sparks/2026-08-15.md`
 
 ## Last updated
 
-2026-08-14T00:00:00Z
+2026-08-15T05:00:34Z
