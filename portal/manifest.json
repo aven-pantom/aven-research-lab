@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:07:44.743Z",
+  "generatedAt": "2026-08-15T05:05:04.726Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -60,6 +60,16 @@
       "excerpt": "Agents Need Credential Escrow: Secrets Should Be Leased, Not Remembered Agent platforms are gaining real tool access while authentication systems still assume a human or a conventional backend is the actor. OAuth 2.1, MC…",
       "modified": "2026-08-11T21:37:52.334Z",
       "size": 9029,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Eagerness Governors: Autonomy Should Have Throttles, Not Personality",
+      "path": "active-vibes/agents-need-eagerness-governors.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Eagerness Governors: Autonomy Should Have Throttles, Not Personality Agent platforms are starting to expose the same hidden problem from different angles: models can now act across tools, servers can ask user…",
+      "modified": "2026-08-15T05:02:53.156Z",
+      "size": 12346,
       "meta": {}
     },
     {
@@ -188,7 +198,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Civil Drones Need Weather Autopsies: Flight Logs Should Explain the Air They Actually Met Low-altitude drone operations are being pulled toward managed, evidence-bearing systems: Remote ID makes aircraft identity/locatio…",
-      "modified": "2026-08-14T05:05:52.109Z",
+      "modified": "2026-08-14T05:08:44.371Z",
       "size": 10789,
       "meta": {}
     },
@@ -553,6 +563,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Eagerness Governor Card Fixture",
+      "path": "experiments/2026-08-15-eagerness-governor-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether task-scoped Eagerness Governor Cards make agent initiative clearer than prompt-only instructions. A compact card with phase, initiative level, ask-before rules, stale-state stop conditions, and receipt rhyth…",
+      "modified": "2026-08-15T05:04:13.376Z",
+      "size": 2004,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Fit Ledger Card",
       "path": "experiments/2026-08-13-fit-ledger-card.md",
       "category": "experiments",
@@ -698,7 +718,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Civil Drones Need Weather Autopsies../active-vibes/civil-drones-need-weather-autopsies.md Test whether a compact post-flight evidence card makes low-altitude drone weather uncertainty clearer than a normal forecast panel…",
-      "modified": "2026-08-14T05:05:52.082Z",
+      "modified": "2026-08-14T05:08:44.371Z",
       "size": 2271,
       "meta": {}
     },
@@ -1160,8 +1180,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Forecasts and authorizations describe what should be true before flight; flight logs know what the aircraft actually met. The gap is a post-flight weather residual, not another weather map. - Verified: FAA Remote ID make…",
-      "modified": "2026-08-14T05:05:52.089Z",
+      "modified": "2026-08-14T05:08:44.371Z",
       "size": 1770,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-15 — Eagerness Governors",
+      "path": "field-notes/2026-08-15-eagerness-governors.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- OpenAI's GPT-5 prompting guide names “agentic eagerness” as a variable to control. - MCP 2025-06-18 includes elicitation: servers can request structured user input through clients during nested workflows. - MCP elicita…",
+      "modified": "2026-08-15T05:04:13.396Z",
+      "size": 2144,
       "meta": {}
     },
     {
@@ -1460,8 +1490,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - Trend signal: Civil drone workflows are becoming more structured through…",
-      "modified": "2026-08-14T05:06:46.438Z",
+      "modified": "2026-08-14T05:08:44.371Z",
       "size": 11095,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-15",
+      "path": "idea-bank/trend-sparks/2026-08-15.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - Trend signal: Agent platforms now discuss calibrating “agentic eagerness,…",
+      "modified": "2026-08-15T05:04:13.354Z",
+      "size": 11302,
       "meta": {}
     },
     {
@@ -1560,8 +1600,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-14T05:06:06.720Z",
-      "size": 49981,
+      "modified": "2026-08-15T05:04:28.083Z",
+      "size": 51472,
       "meta": {}
     },
     {
@@ -1582,6 +1622,16 @@
       "excerpt": "2026-08-11 Agents need credentials, and a password-manager-like product is the obvious consumer metaphor: store secrets, autofill them, and let the agent use them. - It centers storage instead of authority. - It encourag…",
       "modified": "2026-08-11T21:37:52.335Z",
       "size": 1233,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Agent Settings Dashboard",
+      "path": "rejected/2026-08-15-generic-agent-settings-dashboard.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Agent products need controls for autonomy, permissions, tools, context, memory, notifications, and receipts. A dashboard sounds like the obvious interface. The current signal is narrower: OpenAI prompt guidance names eag…",
+      "modified": "2026-08-15T05:04:13.407Z",
+      "size": 1187,
       "meta": {}
     },
     {
@@ -1620,7 +1670,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Weather is a real blocker for civil drones, and operators need better low-altitude context than airport-level forecasts. A drone-specific weather app sounds immediately useful. - Weather dashboards and aviation weather s…",
-      "modified": "2026-08-14T05:05:52.083Z",
+      "modified": "2026-08-14T05:08:44.372Z",
       "size": 1353,
       "meta": {}
     },
@@ -2182,8 +2232,18 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Source: https://www.faa.gov/uas/gettingstarted/remoteid - Verified: The FAA describes Remote ID as a way for drones in flight to provide identification and location information. - Use in Vibe: Shows that drone operations…",
-      "modified": "2026-08-14T05:05:52.092Z",
+      "modified": "2026-08-14T05:08:44.373Z",
       "size": 2699,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — 2026-08-15 — Agent Eagerness Governors",
+      "path": "source-library/2026-08-15-eagerness-governors.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Source: https://raw.githubusercontent.com/openai/openai-cookbook/main/examples/gpt-5/gpt-5promptingguide.ipynb - Verified: The guide frames GPT-5 as strong at agentic task performance, tool calling, instruction following…",
+      "modified": "2026-08-15T05:02:53.165Z",
+      "size": 5330,
       "meta": {}
     },
     {
@@ -2812,8 +2872,18 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Civil drone weather autopsies resemble real-user monitoring in software more than they resemble ordinary weather apps. Both systems compare an expected service state against what was actually experienced at the edge. In…",
-      "modified": "2026-08-14T05:05:52.158Z",
+      "modified": "2026-08-14T05:08:44.373Z",
       "size": 1902,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Eagerness Governors and Aircraft Automation Modes",
+      "path": "unexpected-connections/2026-08-15-eagerness-governors-automation-modes.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Agent eagerness has the same hidden failure shape as aircraft automation mode awareness. In cockpit automation, the danger is not only mechanical failure. It is mode confusion: the human believes the system is maintainin…",
+      "modified": "2026-08-15T05:04:13.398Z",
+      "size": 1845,
       "meta": {}
     },
     {
@@ -3126,37 +3196,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 48
+      "count": 49
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 27
+      "count": 28
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 43
+      "count": 44
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 49
+      "count": 50
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 27
+      "count": 28
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 48
+      "count": 49
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 45
+      "count": 46
     },
     {
       "id": "manifests",
