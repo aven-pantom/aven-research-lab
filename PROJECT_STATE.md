@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-15T06:20:00Z — Ran an autonomous Vibe Research session on `World Models Need Players`: the shift from passive world/video metrics toward agent-player, objective-driven playable benchmark traces. Added active Vibe, source notes, field notes, unexpected connection to UAV future-map planning, rejected generic world-model leaderboard, Playable Benchmark Card fixture experiment, replaced the 2026-08-15 Trend Sparks file with exactly 10 current sparks for this run, updated research map, and regenerated the portal manifest.
+2026-08-16T06:00:00Z — Ran an autonomous Vibe Research session on `Drones Need Radio Weather`: low-altitude civil drones may need communication quality represented as route-local environmental evidence rather than hidden networking infrastructure. Added active Vibe, source notes, field notes, unexpected connection to software observability, rejected generic drone coverage heatmap, Radio Weather Card fixture experiment, 2026-W33 weekly synthesis, exactly 10 Trend Sparks for 2026-08-16, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -78,6 +78,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Civil drones likely need **Weather Autopsy Cards**: post-flight residual evidence comparing forecast/authorization context against what the aircraft actually experienced, with route-class memory, freshness, privacy redaction, conservative safety judgment, and next-route constraints. The opportunity is safety learning, not another drone weather panel.
 - Agent autonomy likely needs **Eagerness Governor Cards**: task-scoped initiative envelopes that define when an agent should observe, research, ask, draft, stage, act, stop, or escalate. Prompt-level “be proactive” guidance is too hidden for long-running multi-tool work.
 - World models, creative generators, and autonomy simulators likely need **Playable Benchmark Cards**: objective-driven player traces with allowed actions, protected invariants, expected/observed deltas, failure categories, replay pointers, and confidence. The deeper primitive is judging whether an imagined future remains usable under interaction, not whether a clip or map looks plausible.
+- Low-altitude civil drones likely need **Radio Weather Cards**: communication-quality evidence with source mix, freshness, density, expected/observed margin, residuals, privacy redaction, and conservative next-route constraints. Radio maps become useful when they are treated like weather plus observability, not as hidden route-optimization infrastructure.
 
 ## Rejected ideas
 
@@ -104,6 +105,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic drone weather app first; the sharper primitive is a Weather Autopsy Card that explains forecast residuals after a flight and preserves conservative, privacy-scoped route-class learning.
 - Do not build a generic agent settings dashboard first; the sharper primitive is a task-scoped Eagerness Governor Card that travels with the work item and governs initiative phase by phase.
 - Do not build a generic world-model leaderboard first; the sharper primitive is a Playable Benchmark Card that records objective, player actions, invariants, expected/observed deltas, and failure receipts before collapsing anything into scores.
+- Do not build a generic drone coverage heatmap first; the sharper primitive is a Radio Weather Card that separates radio prediction, evidence freshness, source density, observed residuals, and conservative review language without implying operational authorization.
 
 ## Known constraints
 
@@ -138,19 +140,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Weather Autopsy Cards turn low-altitude drone flight logs into useful forecast-residual memory without implying unsafe route authorization or exposing sensitive routes?
 - Can Eagerness Governor Cards make agent initiative more legible than prompt-only instructions without becoming a settings dashboard?
 - Can Playable Benchmark Cards make generated worlds, UAV future maps, humanoid motion, and design artifacts easier to evaluate than passive quality scores or free-text reviews?
+- Can Radio Weather Cards make communication-risk evidence more legible than signal bars, heatmaps, or free-text notes without implying a route is authorized or safe?
 
 ## Immediate next actions
 
-1. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
-2. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
-3. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-4. Hand-author 50 Attention Airlock Cards across realistic phone/app/agent events; compare against notification lists and AI summaries, then extract correction-derived attention canon rules.
-5. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-6. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
-7. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
-8. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
-9. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
-10. Hand-author three Workbench Object Cards and compare continuation from card-only context versus a normal prose/chat summary.
+1. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
+2. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
+3. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+4. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
+5. Hand-author 50 Attention Airlock Cards across realistic phone/app/agent events; compare against notification lists and AI summaries, then extract correction-derived attention canon rules.
+6. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+7. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
+8. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
+9. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
+10. Build the Shadow Run Card local test app and compare it against normal chat confirmations across 10 safe scenarios.
 
 ## Dependencies
 
