@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:05:38.625Z",
+  "generatedAt": "2026-08-20T21:36:51.906Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -80,6 +80,16 @@
       "excerpt": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs On 2026-07-27, the scan converged on a repeated structure across agent benchmarks, browser automation, computer-use demos, and web security…",
       "modified": "2026-08-04T05:08:26.881Z",
       "size": 13956,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Package Quarantine: Dependencies as Evidence Events, Not Helpful Suggestions",
+      "path": "active-vibes/agents-need-package-quarantine.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Package Quarantine: Dependencies as Evidence Events, Not Helpful Suggestions Verified: Recent arXiv GUI-agent papers frame computer-use agents as capable of operating persistent digital workflows through GUI…",
+      "modified": "2026-08-20T21:34:51.300Z",
+      "size": 12603,
       "meta": {}
     },
     {
@@ -238,7 +248,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Drones Need Acoustic Footprints: Noise as Route Evidence, Not Community Afterthought Verified: NASA's Noise Exposure Maps of Urban Air Mobility explores applying airport-style noise exposure maps to UAM, using vertiport…",
-      "modified": "2026-08-20T05:04:48.261Z",
+      "modified": "2026-08-20T05:06:25.525Z",
       "size": 10713,
       "meta": {}
     },
@@ -548,7 +558,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a compact Acoustic Footprint Card can make civil-drone noise impact more legible than raw dB values, generic noise contours, or free-text community notes — without implying operational authorization or commu…",
-      "modified": "2026-08-20T05:03:20.692Z",
+      "modified": "2026-08-20T05:06:25.525Z",
       "size": 3168,
       "meta": {}
     },
@@ -670,6 +680,16 @@
       "excerpt": "Test whether a small local Undo Envelope makes an agent-like action feel more trustworthy than a normal chat summary or git diff. Use a safe local Markdown task: 1. Start with one existing Markdown document. 2. Ask an ag…",
       "modified": "2026-07-30T21:38:21.369Z",
       "size": 1492,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Package Quarantine Card Fixture",
+      "path": "experiments/2026-08-20-package-quarantine-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a small evidence card makes agent dependency acquisition clearer than normal install commands, prose approval prompts, or package-manager audit output. Hand-author 20 benign, fictional cards across: 1. npm p…",
+      "modified": "2026-08-20T21:34:51.339Z",
+      "size": 1874,
       "meta": {}
     },
     {
@@ -1280,8 +1300,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "NASA's Noise Exposure Maps of Urban Air Mobility uses simulated UAM routes, vertiports, local land use, noise-sensitive facilities, and AIRNOISEUAM predictions to build UAM noise exposure maps. That feels like an early v…",
-      "modified": "2026-08-20T05:03:20.718Z",
+      "modified": "2026-08-20T05:06:25.526Z",
       "size": 2586,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-20 — Agent Package Quarantine",
+      "path": "field-notes/2026-08-20-agent-package-quarantine.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Computer-use agents are gaining operational reach through GUI control, browser automation, terminals, MCP servers, and software-repair loops. The weak signal tonight is dependency acquisition: when an agent installs a pa…",
+      "modified": "2026-08-20T21:34:51.315Z",
+      "size": 2522,
       "meta": {}
     },
     {
@@ -1609,9 +1639,9 @@
       "path": "idea-bank/trend-sparks/2026-08-20.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - NASA/FAA scan: AAM/UAM noise exposure mapping and public aviation-noise g…",
-      "modified": "2026-08-20T05:04:48.262Z",
-      "size": 11239,
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - Agent safety/feed scan: HN RSS surfaced agent-risk discussion including a…",
+      "modified": "2026-08-20T21:35:52.697Z",
+      "size": 13670,
       "meta": {}
     },
     {
@@ -1710,8 +1740,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-20T05:05:02.258Z",
-      "size": 56052,
+      "modified": "2026-08-20T21:36:04.400Z",
+      "size": 57052,
       "meta": {}
     },
     {
@@ -1755,6 +1785,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected — Generic AI Malware Scanner for Agents",
+      "path": "rejected/2026-08-20-generic-ai-malware-scanner.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "HN RSS surfaced a headline about an AI agent suggesting a malware package, and the broader source scan showed agents gaining package, browser, terminal, and MCP authority. A scanner for AI-installed dependencies sounds l…",
+      "modified": "2026-08-20T21:34:51.346Z",
+      "size": 1524,
+      "meta": {}
+    },
+    {
       "title": "Rejected — Generic AI Notification Summarizer",
       "path": "rejected/2026-08-13-generic-ai-notification-summarizer.md",
       "category": "rejected",
@@ -1780,7 +1820,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Drone noise is public, emotional, and locally specific. A complaint/reporting app seems like an obvious way to capture community experience and turn it into maps. - It starts from grievance intake rather than from operat…",
-      "modified": "2026-08-20T05:03:20.720Z",
+      "modified": "2026-08-20T05:06:25.527Z",
       "size": 1546,
       "meta": {}
     },
@@ -2307,6 +2347,16 @@
       "meta": {}
     },
     {
+      "title": "Source Library — 2026-08-20 — Agent Package Quarantine",
+      "path": "source-library/2026-08-20-agent-package-quarantine.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- URL: https://arxiv.org/abs/2608.15930v1 - Date: 2026-08-16 - Evidence label: Verified metadata/abstract via arXiv API. - Useful claim: GUI-agent deployment is hindered by scarce/biased training data, ambiguous prompts,…",
+      "modified": "2026-08-20T21:34:51.351Z",
+      "size": 5290,
+      "meta": {}
+    },
+    {
       "title": "Source Library — Agents Need Borrowed Rooms, Not Keys",
       "path": "source-library/2026-07-26-agents-need-borrowed-rooms-not-keys.md",
       "category": "source-library",
@@ -2412,7 +2462,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Low-altitude civil aircraft are usually discussed through route safety, weather, detect-and-avoid, Remote ID, and connectivity. A separate source cluster says noise is not a late community-relations issue; it is an envir…",
-      "modified": "2026-08-20T05:03:20.681Z",
+      "modified": "2026-08-20T05:06:25.528Z",
       "size": 4823,
       "meta": {
         "type": "FAA public guidance hub."
@@ -2894,7 +2944,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Civil drone noise maps and design-system tokens look unrelated. One describes sound exposure in cities; the other describes interface styling. The shared structure is constraint inheritance. A design token is not just a…",
-      "modified": "2026-08-20T05:03:20.722Z",
+      "modified": "2026-08-20T05:06:25.528Z",
       "size": 1834,
       "meta": {}
     },
@@ -3126,6 +3176,16 @@
       "excerpt": "- Ornithopter robotics - Event-based vision - Wildlife/conservation technology - Scientific instrumentation - Ethology / animal behavior observation - Flight-test evidence systems Both ornithopter robotics and animal beh…",
       "modified": "2026-07-19T15:17:47.152Z",
       "size": 2439,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Package Quarantine and Acoustic Footprints",
+      "path": "unexpected-connections/2026-08-20-package-quarantine-acoustic-footprints.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Agent package quarantine and drone acoustic footprints solve the same hidden problem: an operation can be technically successful while exporting harm into the surrounding environment. A drone route exports acoustic impac…",
+      "modified": "2026-08-20T21:34:51.341Z",
+      "size": 1588,
       "meta": {}
     },
     {
@@ -3408,22 +3468,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 52
+      "count": 53
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 31
+      "count": 32
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 47
+      "count": 48
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 53
+      "count": 54
     },
     {
       "id": "idea-bank",
@@ -3433,12 +3493,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 52
+      "count": 53
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 49
+      "count": 50
     },
     {
       "id": "manifests",
