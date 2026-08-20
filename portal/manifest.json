@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T05:07:26.876Z",
+  "generatedAt": "2026-08-20T05:05:38.625Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -233,6 +233,16 @@
       "meta": {}
     },
     {
+      "title": "Drones Need Acoustic Footprints: Noise as Route Evidence, Not Community Afterthought",
+      "path": "active-vibes/drones-need-acoustic-footprints.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Drones Need Acoustic Footprints: Noise as Route Evidence, Not Community Afterthought Verified: NASA's Noise Exposure Maps of Urban Air Mobility explores applying airport-style noise exposure maps to UAM, using vertiport…",
+      "modified": "2026-08-20T05:04:48.261Z",
+      "size": 10713,
+      "meta": {}
+    },
+    {
       "title": "Drones Need Airspace Manners: Tiny Intent Signals for Civil Autonomy",
       "path": "active-vibes/drones-need-airspace-manners.md",
       "category": "active-vibes",
@@ -258,7 +268,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Drones Need Radio Weather: Connectivity as Terrain, Not Background Infrastructure Verified: 2026 arXiv papers on low-altitude aerial radio maps describe route-level cellular-link prediction, foundational aerial radio-map…",
-      "modified": "2026-08-16T05:05:05.707Z",
+      "modified": "2026-08-16T05:07:57.697Z",
       "size": 10948,
       "meta": {}
     },
@@ -533,6 +543,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Acoustic Footprint Card Fixture",
+      "path": "experiments/2026-08-20-acoustic-footprint-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a compact Acoustic Footprint Card can make civil-drone noise impact more legible than raw dB values, generic noise contours, or free-text community notes — without implying operational authorization or commu…",
+      "modified": "2026-08-20T05:03:20.692Z",
+      "size": 3168,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Action Map Card",
       "path": "experiments/2026-08-12-action-map-card.md",
       "category": "experiments",
@@ -668,7 +688,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a compact evidence card makes low-altitude drone communication risk more legible than a signal bar, route heatmap, or free-text note — without giving operational flight guidance. - Drones Need Radio Weather.…",
-      "modified": "2026-08-16T05:05:05.712Z",
+      "modified": "2026-08-16T05:07:57.697Z",
       "size": 2297,
       "meta": {}
     },
@@ -1250,8 +1270,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Current arXiv scans for low-altitude radio map, UAV radio map, and communication-aware UAV surfaced a cluster of papers treating connectivity as a spatial/predictive field rather than a background service. - Verified: Tr…",
-      "modified": "2026-08-16T05:05:05.667Z",
+      "modified": "2026-08-16T05:07:57.697Z",
       "size": 2511,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-20 — Acoustic Footprints",
+      "path": "field-notes/2026-08-20-acoustic-footprints.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "NASA's Noise Exposure Maps of Urban Air Mobility uses simulated UAM routes, vertiports, local land use, noise-sensitive facilities, and AIRNOISEUAM predictions to build UAM noise exposure maps. That feels like an early v…",
+      "modified": "2026-08-20T05:03:20.718Z",
+      "size": 2586,
       "meta": {}
     },
     {
@@ -1570,8 +1600,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - arXiv current scan: low-altitude radio maps, communication-aware UAV cont…",
-      "modified": "2026-08-16T05:05:05.720Z",
+      "modified": "2026-08-16T05:07:57.698Z",
       "size": 11959,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-20",
+      "path": "idea-bank/trend-sparks/2026-08-20.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - NASA/FAA scan: AAM/UAM noise exposure mapping and public aviation-noise g…",
+      "modified": "2026-08-20T05:04:48.262Z",
+      "size": 11239,
       "meta": {}
     },
     {
@@ -1670,8 +1710,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-16T05:05:40.168Z",
-      "size": 54527,
+      "modified": "2026-08-20T05:05:02.258Z",
+      "size": 56052,
       "meta": {}
     },
     {
@@ -1730,8 +1770,18 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Current papers on aerial radio maps and route-level low-altitude connectivity could naturally suggest a drone coverage-map product: show signal strength over a route, let operators plan around weak zones, and improve the…",
-      "modified": "2026-08-16T05:05:05.744Z",
+      "modified": "2026-08-16T05:07:57.699Z",
       "size": 1608,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Drone Noise Complaint App",
+      "path": "rejected/2026-08-20-generic-drone-noise-complaint-app.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Drone noise is public, emotional, and locally specific. A complaint/reporting app seems like an obvious way to capture community experience and turn it into maps. - It starts from grievance intake rather than from operat…",
+      "modified": "2026-08-20T05:03:20.720Z",
+      "size": 1546,
       "meta": {}
     },
     {
@@ -2252,7 +2302,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Searches run through https://export.arxiv.org/api/query on 2026-08-16. - arXiv:2604.17362v3 — FARM: Foundational Aerial Radio Map for Intelligent Low-Altitude Networking — published 2026-04-19. - Verified from abstract:…",
-      "modified": "2026-08-16T05:05:05.650Z",
+      "modified": "2026-08-16T05:07:57.699Z",
       "size": 4050,
       "meta": {}
     },
@@ -2355,6 +2405,18 @@
       "modified": "2026-07-20T11:52:35.795Z",
       "size": 5483,
       "meta": {}
+    },
+    {
+      "title": "Source Notes — Acoustic Footprints for Civil Drones",
+      "path": "source-library/2026-08-20-acoustic-footprints.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Low-altitude civil aircraft are usually discussed through route safety, weather, detect-and-avoid, Remote ID, and connectivity. A separate source cluster says noise is not a late community-relations issue; it is an envir…",
+      "modified": "2026-08-20T05:03:20.681Z",
+      "size": 4823,
+      "meta": {
+        "type": "FAA public guidance hub."
+      }
     },
     {
       "title": "Source Notes — Acoustic Waveguide Touch",
@@ -2827,6 +2889,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Acoustic Footprints and Design Tokens",
+      "path": "unexpected-connections/2026-08-20-acoustic-footprints-design-tokens.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Civil drone noise maps and design-system tokens look unrelated. One describes sound exposure in cities; the other describes interface styling. The shared structure is constraint inheritance. A design token is not just a…",
+      "modified": "2026-08-20T05:03:20.722Z",
+      "size": 1834,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Agent Canon and Aviation SOPs",
       "path": "unexpected-connections/2026-08-01-agent-canon-aviation-sops.md",
       "category": "unexpected-connections",
@@ -3102,7 +3174,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Low-altitude radio maps for civil drones and software observability solve the same hidden problem: the system needs to preserve the gap between expected conditions and observed conditions so future automation can improve…",
-      "modified": "2026-08-16T05:05:05.707Z",
+      "modified": "2026-08-16T05:07:57.699Z",
       "size": 2213,
       "meta": {}
     },
@@ -3322,7 +3394,7 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Drones Need Radio Weather — communication quality for low-altitude civil autonomy should be treated as route-local environmental evidence, not a hidden networking variable. Radio maps and software observability share the…",
-      "modified": "2026-08-16T05:05:19.012Z",
+      "modified": "2026-08-16T05:07:57.699Z",
       "size": 2713,
       "meta": {}
     }
@@ -3336,37 +3408,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 51
+      "count": 52
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 30
+      "count": 31
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 46
+      "count": 47
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 52
+      "count": 53
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 29
+      "count": 30
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 51
+      "count": 52
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 48
+      "count": 49
     },
     {
       "id": "manifests",

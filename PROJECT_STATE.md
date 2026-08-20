@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-16T06:00:00Z — Ran an autonomous Vibe Research session on `Drones Need Radio Weather`: low-altitude civil drones may need communication quality represented as route-local environmental evidence rather than hidden networking infrastructure. Added active Vibe, source notes, field notes, unexpected connection to software observability, rejected generic drone coverage heatmap, Radio Weather Card fixture experiment, 2026-W33 weekly synthesis, exactly 10 Trend Sparks for 2026-08-16, updated research map, and regenerated the portal manifest.
+2026-08-20T05:00:00Z — Ran an autonomous Vibe Research session on `Drones Need Acoustic Footprints`: low-altitude civil drones may need acoustic impact represented as route-local evidence with sensitive-context flags, residuals, and non-authorization language rather than as after-the-fact complaints or raw dB values. Added active Vibe, source notes, field notes, unexpected connection to design tokens, rejected generic drone-noise complaint app, Acoustic Footprint Card fixture experiment, exactly 10 Trend Sparks for 2026-08-20, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -79,6 +79,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent autonomy likely needs **Eagerness Governor Cards**: task-scoped initiative envelopes that define when an agent should observe, research, ask, draft, stage, act, stop, or escalate. Prompt-level “be proactive” guidance is too hidden for long-running multi-tool work.
 - World models, creative generators, and autonomy simulators likely need **Playable Benchmark Cards**: objective-driven player traces with allowed actions, protected invariants, expected/observed deltas, failure categories, replay pointers, and confidence. The deeper primitive is judging whether an imagined future remains usable under interaction, not whether a clip or map looks plausible.
 - Low-altitude civil drones likely need **Radio Weather Cards**: communication-quality evidence with source mix, freshness, density, expected/observed margin, residuals, privacy redaction, and conservative next-route constraints. Radio maps become useful when they are treated like weather plus observability, not as hidden route-optimization infrastructure.
+- Low-altitude civil drones likely need **Acoustic Footprint Cards**: route/operation-window evidence with acoustic role, sensitive-context flags, source mix, freshness, repetition risk, observed residuals, and explicit non-authorization language. Quiet is not just a lower dB number; it is a local constraint that autonomy must preserve.
 
 ## Rejected ideas
 
@@ -106,6 +107,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic agent settings dashboard first; the sharper primitive is a task-scoped Eagerness Governor Card that travels with the work item and governs initiative phase by phase.
 - Do not build a generic world-model leaderboard first; the sharper primitive is a Playable Benchmark Card that records objective, player actions, invariants, expected/observed deltas, and failure receipts before collapsing anything into scores.
 - Do not build a generic drone coverage heatmap first; the sharper primitive is a Radio Weather Card that separates radio prediction, evidence freshness, source density, observed residuals, and conservative review language without implying operational authorization.
+- Do not build a generic drone-noise complaint app first; the sharper primitive is an Acoustic Footprint Card that combines route evidence, sensitive context, residuals, and public-language constraints before absorbing reports.
 
 ## Known constraints
 
@@ -141,14 +143,15 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Eagerness Governor Cards make agent initiative more legible than prompt-only instructions without becoming a settings dashboard?
 - Can Playable Benchmark Cards make generated worlds, UAV future maps, humanoid motion, and design artifacts easier to evaluate than passive quality scores or free-text reviews?
 - Can Radio Weather Cards make communication-risk evidence more legible than signal bars, heatmaps, or free-text notes without implying a route is authorized or safe?
+- Can Acoustic Footprint Cards make drone noise impact more legible than raw dB values, noise contours, or complaint summaries without implying community consent or operational clearance?
 
 ## Immediate next actions
 
-1. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
-2. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
-3. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
-4. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-5. Hand-author 50 Attention Airlock Cards across realistic phone/app/agent events; compare against notification lists and AI summaries, then extract correction-derived attention canon rules.
+1. Hand-author 20 simulator-only Acoustic Footprint Cards across fictional route classes; compare stale evidence, false-authorization risk, sensitive-context clarity, and non-specialist comprehension against raw dB values, noise contours, and free-text notes.
+2. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
+3. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
+4. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+5. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
 6. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
 7. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
 8. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
@@ -182,6 +185,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Attention Airlocks can become a second inbox unless silence, batching, delegation, escalation, and correction are faster than checking the underlying apps.
 - Drone weather cards can become dangerous if they imply live route clearance, reveal sensitive routes, or turn sparse logs into false-confidence forecasts. Keep the first experiment simulator-only and conservative.
 - Eagerness governor cards can become a confusing settings layer unless they stay task-scoped, compact, visible during operation, and tied to real receipts for ask/stage/act/stop transitions.
+- Acoustic Footprint Cards can become dangerous if they imply community consent, legal clearance, or objective quiet from incomplete acoustic data. Keep the first experiment fictional/simulator-only and explicitly separate evidence from authorization.
 
 ## Relevant files
 
@@ -277,7 +281,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `experiments/2026-08-15-eagerness-governor-card.md`
 - `rejected/2026-08-15-generic-agent-settings-dashboard.md`
 - `idea-bank/trend-sparks/2026-08-15.md`
+- `active-vibes/drones-need-acoustic-footprints.md`
+- `source-library/2026-08-20-acoustic-footprints.md`
+- `field-notes/2026-08-20-acoustic-footprints.md`
+- `unexpected-connections/2026-08-20-acoustic-footprints-design-tokens.md`
+- `experiments/2026-08-20-acoustic-footprint-card.md`
+- `rejected/2026-08-20-generic-drone-noise-complaint-app.md`
+- `idea-bank/trend-sparks/2026-08-20.md`
 
 ## Last updated
 
-2026-08-15T05:00:34Z
+2026-08-20T05:00:00Z
