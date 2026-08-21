@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-21T05:01:46Z — Ran an autonomous Vibe Research session on `Agents Need Context Budgets`: agent working memory should be treated as task-scoped mission load, not infinite recall. Added active Vibe, source notes, field notes, unexpected connection to aircraft weight-and-balance, rejected generic AI context optimizer, Context Budget Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-21, updated research map, and regenerated the portal manifest.
+2026-08-21T05:37:00Z — Ran an autonomous Vibe Research session on `Agents Need State Barometers`: computer-use agents should cross-check authority source, freshness, contradiction, and expected transition before mutating state. Added active Vibe, source notes, field notes, unexpected connection to avionics cross-check, rejected generic agent confidence meter, State Barometer Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-21, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -82,6 +82,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Low-altitude civil drones likely need **Acoustic Footprint Cards**: route/operation-window evidence with acoustic role, sensitive-context flags, source mix, freshness, repetition risk, observed residuals, and explicit non-authorization language. Quiet is not just a lower dB number; it is a local constraint that autonomy must preserve.
 - Agent runtimes likely need **Package Quarantine Cards**: task-scoped evidence for dependency/tool acquisition with source, purpose, install surface, authority gained, transitive uncertainty, quarantine mode, rollback plan, and residue receipt. Dependency installation by agents is authority expansion, not setup.
 - Agent runtimes likely need **Context Budget Cards**: task-scoped working-memory declarations with mission context, verified state, loaded evidence, rules/memories, exclusions, stale conflicts, privacy-sensitive context, reserved attention, and revalidation triggers. Bigger context is not automatically safer; composition and reserve matter.
+- Computer-use agents likely need **State Barometer Cards**: task-scoped next-action instruments that declare authority source, freshness horizon, last verified state, conflicting evidence, hidden-state risk, required recheck, expected transition, stop condition, and post-action receipt. Trust should come from cross-checked state, not a generic confidence meter.
 
 ## Rejected ideas
 
@@ -112,6 +113,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic drone-noise complaint app first; the sharper primitive is an Acoustic Footprint Card that combines route evidence, sensitive context, residuals, and public-language constraints before absorbing reports.
 - Do not build a generic AI malware scanner first; the sharper primitive is a Package Quarantine Card that makes install authority, source, surface, residue, and rollback visible without pretending to solve malware detection.
 - Do not build a generic AI context optimizer first; the sharper primitive is a Context Budget Card that budgets context by role, consequence, exclusion, freshness, privacy, reserve, and mutation revalidation instead of token compression alone.
+- Do not build a generic agent confidence meter first; the sharper primitive is a State Barometer Card that names the authority source and freshness/contradiction conditions for the next mutation.
 
 ## Known constraints
 
@@ -150,12 +152,13 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Acoustic Footprint Cards make drone noise impact more legible than raw dB values, noise contours, or complaint summaries without implying community consent or operational clearance?
 - Can Package Quarantine Cards make agent dependency/tool installation safer and clearer than install commands, prose approval, or audit output without becoming security theater?
 - Can Context Budget Cards make stale, conflicting, private, or missing agent context easier to detect than summaries, attached source lists, or full context dumps without becoming token-accounting noise?
+- Can State Barometer Cards make stale, conflicting, or weak state authority easier to detect before mutation than screenshots, tool outputs, traces, or model confidence statements?
 
 ## Immediate next actions
 
-1. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
-2. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
-3. Hand-author 20 simulator-only Acoustic Footprint Cards across fictional route classes; compare stale evidence, false-authorization risk, sensitive-context clarity, and non-specialist comprehension against raw dB values, noise contours, and free-text notes.
+1. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
+2. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
+3. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
 4. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
 5. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
 6. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
@@ -194,6 +197,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Acoustic Footprint Cards can become dangerous if they imply community consent, legal clearance, or objective quiet from incomplete acoustic data. Keep the first experiment fictional/simulator-only and explicitly separate evidence from authorization.
 - Package Quarantine Cards can become security theater if they look like malware verdicts. Keep the first experiment benign/static; the card should expose authority/residue/rollback evidence, not claim a package is safe.
 - Context Budget Cards can become token-accounting theater if they expose size instead of operational role. Keep the first experiment focused on stale/conflicting/private context, excluded context, reserve, and mutation revalidation.
+- State Barometer Cards can become generic warning badges if they do not change a next-action decision. Keep the first experiment fixture-based and focused on authority source, freshness, contradiction, and required recheck before mutation.
 
 ## Relevant files
 
