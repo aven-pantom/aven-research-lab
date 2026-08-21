@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-20T21:36:40Z — Ran an autonomous Vibe Research session on `Agents Need Package Quarantine`: agent dependency acquisition should be treated as a task-scoped authority/residue event, not normal setup. Added active Vibe, source notes, field notes, unexpected connection to drone acoustic footprints, rejected generic AI malware scanner, Package Quarantine Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-20, updated research map, and regenerated the portal manifest.
+2026-08-21T05:01:46Z — Ran an autonomous Vibe Research session on `Agents Need Context Budgets`: agent working memory should be treated as task-scoped mission load, not infinite recall. Added active Vibe, source notes, field notes, unexpected connection to aircraft weight-and-balance, rejected generic AI context optimizer, Context Budget Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-21, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -81,6 +81,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Low-altitude civil drones likely need **Radio Weather Cards**: communication-quality evidence with source mix, freshness, density, expected/observed margin, residuals, privacy redaction, and conservative next-route constraints. Radio maps become useful when they are treated like weather plus observability, not as hidden route-optimization infrastructure.
 - Low-altitude civil drones likely need **Acoustic Footprint Cards**: route/operation-window evidence with acoustic role, sensitive-context flags, source mix, freshness, repetition risk, observed residuals, and explicit non-authorization language. Quiet is not just a lower dB number; it is a local constraint that autonomy must preserve.
 - Agent runtimes likely need **Package Quarantine Cards**: task-scoped evidence for dependency/tool acquisition with source, purpose, install surface, authority gained, transitive uncertainty, quarantine mode, rollback plan, and residue receipt. Dependency installation by agents is authority expansion, not setup.
+- Agent runtimes likely need **Context Budget Cards**: task-scoped working-memory declarations with mission context, verified state, loaded evidence, rules/memories, exclusions, stale conflicts, privacy-sensitive context, reserved attention, and revalidation triggers. Bigger context is not automatically safer; composition and reserve matter.
 
 ## Rejected ideas
 
@@ -110,6 +111,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic drone coverage heatmap first; the sharper primitive is a Radio Weather Card that separates radio prediction, evidence freshness, source density, observed residuals, and conservative review language without implying operational authorization.
 - Do not build a generic drone-noise complaint app first; the sharper primitive is an Acoustic Footprint Card that combines route evidence, sensitive context, residuals, and public-language constraints before absorbing reports.
 - Do not build a generic AI malware scanner first; the sharper primitive is a Package Quarantine Card that makes install authority, source, surface, residue, and rollback visible without pretending to solve malware detection.
+- Do not build a generic AI context optimizer first; the sharper primitive is a Context Budget Card that budgets context by role, consequence, exclusion, freshness, privacy, reserve, and mutation revalidation instead of token compression alone.
 
 ## Known constraints
 
@@ -147,19 +149,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Radio Weather Cards make communication-risk evidence more legible than signal bars, heatmaps, or free-text notes without implying a route is authorized or safe?
 - Can Acoustic Footprint Cards make drone noise impact more legible than raw dB values, noise contours, or complaint summaries without implying community consent or operational clearance?
 - Can Package Quarantine Cards make agent dependency/tool installation safer and clearer than install commands, prose approval, or audit output without becoming security theater?
+- Can Context Budget Cards make stale, conflicting, private, or missing agent context easier to detect than summaries, attached source lists, or full context dumps without becoming token-accounting noise?
 
 ## Immediate next actions
 
-1. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
-2. Hand-author 20 simulator-only Acoustic Footprint Cards across fictional route classes; compare stale evidence, false-authorization risk, sensitive-context clarity, and non-specialist comprehension against raw dB values, noise contours, and free-text notes.
-3. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
-4. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
-5. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
-6. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-7. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-8. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
-9. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
-10. Hand-author five Resident Duty Cards and classify 50 simulated events across ignore/local/wake/human/forbidden outcomes.
+1. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
+2. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
+3. Hand-author 20 simulator-only Acoustic Footprint Cards across fictional route classes; compare stale evidence, false-authorization risk, sensitive-context clarity, and non-specialist comprehension against raw dB values, noise contours, and free-text notes.
+4. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
+5. Hand-author 12 Playable Benchmark Cards across AI video scenes, simulator-only UAV route imagination, humanoid/contact motion, and design artifacts; compare against free-text reviews and passive quality scores.
+6. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+7. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
+8. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+9. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
+10. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
 
 ## Dependencies
 
@@ -190,6 +193,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Eagerness governor cards can become a confusing settings layer unless they stay task-scoped, compact, visible during operation, and tied to real receipts for ask/stage/act/stop transitions.
 - Acoustic Footprint Cards can become dangerous if they imply community consent, legal clearance, or objective quiet from incomplete acoustic data. Keep the first experiment fictional/simulator-only and explicitly separate evidence from authorization.
 - Package Quarantine Cards can become security theater if they look like malware verdicts. Keep the first experiment benign/static; the card should expose authority/residue/rollback evidence, not claim a package is safe.
+- Context Budget Cards can become token-accounting theater if they expose size instead of operational role. Keep the first experiment focused on stale/conflicting/private context, excluded context, reserve, and mutation revalidation.
 
 ## Relevant files
 
@@ -292,7 +296,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `experiments/2026-08-20-acoustic-footprint-card.md`
 - `rejected/2026-08-20-generic-drone-noise-complaint-app.md`
 - `idea-bank/trend-sparks/2026-08-20.md`
+- `active-vibes/agents-need-context-budgets.md`
+- `source-library/2026-08-21-context-budgets.md`
+- `field-notes/2026-08-21-context-budgets.md`
+- `unexpected-connections/2026-08-21-context-budgets-weight-and-balance.md`
+- `experiments/2026-08-21-context-budget-card.md`
+- `rejected/2026-08-21-generic-ai-context-optimizer.md`
+- `idea-bank/trend-sparks/2026-08-21.md`
 
 ## Last updated
 
-2026-08-20T05:00:00Z
+2026-08-21T05:01:46Z
