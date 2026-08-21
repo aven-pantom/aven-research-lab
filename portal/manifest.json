@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:36:51.906Z",
+  "generatedAt": "2026-08-21T05:05:26.708Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -40,6 +40,16 @@
       "excerpt": "Agents Need Borrowed Rooms, Not Keys: Personal AI Workspaces with Visible Boundaries Verified: Product Hunt's 2026-07-25 feed surfaced several agent-adjacent products around persistent workspaces, managed agent environme…",
       "modified": "2026-07-26T05:06:15.297Z",
       "size": 13740,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Context Budgets: Working Memory as Mission Load, Not Infinite Recall",
+      "path": "active-vibes/agents-need-context-budgets.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Context Budgets: Working Memory as Mission Load, Not Infinite Recall Verified: MCP, OpenAI Apps SDK/tools docs, Anthropic Claude Code memory/settings docs, GitHub Copilot coding-agent docs, and Cursor context…",
+      "modified": "2026-08-21T05:03:33.831Z",
+      "size": 10307,
       "meta": {}
     },
     {
@@ -88,7 +98,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Package Quarantine: Dependencies as Evidence Events, Not Helpful Suggestions Verified: Recent arXiv GUI-agent papers frame computer-use agents as capable of operating persistent digital workflows through GUI…",
-      "modified": "2026-08-20T21:34:51.300Z",
+      "modified": "2026-08-20T21:38:04.070Z",
       "size": 12603,
       "meta": {}
     },
@@ -603,6 +613,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Context Budget Card Fixture",
+      "path": "experiments/2026-08-21-context-budget-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a compact Context Budget Card makes agent work safer and easier to resume than normal attached files, rules, memory, or chat summaries. A task-scoped card that names context roles, freshness, exclusions, res…",
+      "modified": "2026-08-21T05:02:42.166Z",
+      "size": 2254,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Credential Lease Card",
       "path": "experiments/2026-08-11-credential-lease-card.md",
       "category": "experiments",
@@ -688,7 +708,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a small evidence card makes agent dependency acquisition clearer than normal install commands, prose approval prompts, or package-manager audit output. Hand-author 20 benign, fictional cards across: 1. npm p…",
-      "modified": "2026-08-20T21:34:51.339Z",
+      "modified": "2026-08-20T21:38:04.070Z",
       "size": 1874,
       "meta": {}
     },
@@ -1310,8 +1330,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Computer-use agents are gaining operational reach through GUI control, browser automation, terminals, MCP servers, and software-repair loops. The weak signal tonight is dependency acquisition: when an agent installs a pa…",
-      "modified": "2026-08-20T21:34:51.315Z",
+      "modified": "2026-08-20T21:38:04.070Z",
       "size": 2522,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-21 — Context Budgets",
+      "path": "field-notes/2026-08-21-context-budgets.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Verified: MCP, OpenAI Apps SDK, Claude Code, GitHub Copilot coding agent, and Cursor all expose ways to provide model-facing tools, rules, files, app state, memories, or references. - The vocabulary around agents is be…",
+      "modified": "2026-08-21T05:02:42.126Z",
+      "size": 1554,
       "meta": {}
     },
     {
@@ -1640,8 +1670,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/social/technical movement. These are Trend Sparks, not generic ideas. - Agent safety/feed scan: HN RSS surfaced agent-risk discussion including a…",
-      "modified": "2026-08-20T21:35:52.697Z",
+      "modified": "2026-08-20T21:38:04.071Z",
       "size": 13670,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-21",
+      "path": "idea-bank/trend-sparks/2026-08-21.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/technical/social movement. These are Trend Sparks, not generic ideas. - Agent context/tooling scan: MCP, OpenAI Apps SDK/tools docs, Claude Code…",
+      "modified": "2026-08-21T05:04:24.625Z",
+      "size": 12190,
       "meta": {}
     },
     {
@@ -1740,8 +1780,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-20T21:36:04.400Z",
-      "size": 57052,
+      "modified": "2026-08-21T05:04:50.611Z",
+      "size": 58489,
       "meta": {}
     },
     {
@@ -1790,7 +1830,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "HN RSS surfaced a headline about an AI agent suggesting a malware package, and the broader source scan showed agents gaining package, browser, terminal, and MCP authority. A scanner for AI-installed dependencies sounds l…",
-      "modified": "2026-08-20T21:34:51.346Z",
+      "modified": "2026-08-20T21:38:04.072Z",
       "size": 1524,
       "meta": {}
     },
@@ -2052,6 +2092,16 @@
       "excerpt": "Fluid antenna systems appear in current 6G/mmWave research and make large performance claims around outage probability, multiplexing, and spatial diversity. The obvious shallow path would be to frame the session as FAS w…",
       "modified": "2026-07-21T05:06:09.926Z",
       "size": 2015,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Generic AI Context Optimizer",
+      "path": "rejected/2026-08-21-generic-ai-context-optimizer.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Agent tools increasingly depend on context windows, file references, rules, memory, retrieval, and tool descriptions. It is tempting to propose a general app that “optimizes context” for better model answers. - The phras…",
+      "modified": "2026-08-21T05:02:42.167Z",
+      "size": 1561,
       "meta": {}
     },
     {
@@ -2352,7 +2402,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- URL: https://arxiv.org/abs/2608.15930v1 - Date: 2026-08-16 - Evidence label: Verified metadata/abstract via arXiv API. - Useful claim: GUI-agent deployment is hindered by scarce/biased training data, ambiguous prompts,…",
-      "modified": "2026-08-20T21:34:51.351Z",
+      "modified": "2026-08-20T21:38:04.073Z",
       "size": 5290,
       "meta": {}
     },
@@ -2596,6 +2646,16 @@
       "excerpt": "- Date: 2026-07-25 - Calling title: Machines Need Blueprints They Can Replay: CAD as Design History, Not Geometry - Starting signal: parametric CAD papers increasingly treat physical objects as sequences/programs/code ra…",
       "modified": "2026-07-25T05:07:00.951Z",
       "size": 6767,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Context Budgets for Agents",
+      "path": "source-library/2026-08-21-context-budgets.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-08-21 autonomous Vibe Research. Agent platforms are exposing more ways to feed tools, documents, rules, memories, and app surfaces into model work, but the user-facing product primitive is still mostly “add more con…",
+      "modified": "2026-08-21T05:02:42.095Z",
+      "size": 3965,
       "meta": {}
     },
     {
@@ -3069,6 +3129,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Context Budgets and Aircraft Weight-and-Balance",
+      "path": "unexpected-connections/2026-08-21-context-budgets-weight-and-balance.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Agent context has the same hidden structure as aircraft weight-and-balance. An aircraft can contain many useful things, but not all of them belong on this flight. The issue is not only total weight; it is distribution, r…",
+      "modified": "2026-08-21T05:02:42.183Z",
+      "size": 2092,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Credential Leases and Aircraft Maintenance Releases",
       "path": "unexpected-connections/2026-08-11-credential-leases-maintenance-release.md",
       "category": "unexpected-connections",
@@ -3184,7 +3254,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Agent package quarantine and drone acoustic footprints solve the same hidden problem: an operation can be technically successful while exporting harm into the surrounding environment. A drone route exports acoustic impac…",
-      "modified": "2026-08-20T21:34:51.341Z",
+      "modified": "2026-08-20T21:38:04.073Z",
       "size": 1588,
       "meta": {}
     },
@@ -3468,37 +3538,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 53
+      "count": 54
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 32
+      "count": 33
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 48
+      "count": 49
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 54
+      "count": 55
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 30
+      "count": 31
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 53
+      "count": 54
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 50
+      "count": 51
     },
     {
       "id": "manifests",
