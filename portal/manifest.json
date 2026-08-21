@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:05:26.708Z",
+  "generatedAt": "2026-08-21T21:34:44.139Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -48,7 +48,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Context Budgets: Working Memory as Mission Load, Not Infinite Recall Verified: MCP, OpenAI Apps SDK/tools docs, Anthropic Claude Code memory/settings docs, GitHub Copilot coding-agent docs, and Cursor context…",
-      "modified": "2026-08-21T05:03:33.831Z",
+      "modified": "2026-08-21T05:06:35.525Z",
       "size": 10307,
       "meta": {}
     },
@@ -130,6 +130,16 @@
       "excerpt": "Agents Need Shadow Runs: Autonomy Should Rehearse Before It Touches Reality Browser and computer-use agents are moving from demos into real browsers, mobile browsers, desktop workspaces, and credentialed accounts. At the…",
       "modified": "2026-08-09T21:37:45.783Z",
       "size": 9619,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need State Barometers: Autonomy Should Cross-Check Reality Before It Acts",
+      "path": "active-vibes/agents-need-state-barometers.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need State Barometers A cluster of recent GUI, web, and phone-agent papers points at the same unresolved surface: agents need to know which view of reality is authoritative before they mutate something. Screenshot…",
+      "modified": "2026-08-21T21:32:50.668Z",
+      "size": 7906,
       "meta": {}
     },
     {
@@ -618,7 +628,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a compact Context Budget Card makes agent work safer and easier to resume than normal attached files, rules, memory, or chat summaries. A task-scoped card that names context roles, freshness, exclusions, res…",
-      "modified": "2026-08-21T05:02:42.166Z",
+      "modified": "2026-08-21T05:06:35.525Z",
       "size": 2254,
       "meta": {}
     },
@@ -800,6 +810,16 @@
       "excerpt": "Test whether a disclosed imaginary social room can produce useful edits and risk awareness for a post, outfit, or creative artifact without pretending to be real social proof. A small Room Contract plus synthetic role re…",
       "modified": "2026-08-03T21:38:46.573Z",
       "size": 2455,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — State Barometer Card Fixture",
+      "path": "experiments/2026-08-21-state-barometer-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-08-21 Agents Need State Barometers../active-vibes/agents-need-state-barometers.md Test whether compact State Barometer Cards make stale, conflicting, or weak state easier to notice before a computer-use agent…",
+      "modified": "2026-08-21T21:32:15.405Z",
+      "size": 2512,
       "meta": {}
     },
     {
@@ -1340,8 +1360,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Verified: MCP, OpenAI Apps SDK, Claude Code, GitHub Copilot coding agent, and Cursor all expose ways to provide model-facing tools, rules, files, app state, memories, or references. - The vocabulary around agents is be…",
-      "modified": "2026-08-21T05:02:42.126Z",
+      "modified": "2026-08-21T05:06:35.525Z",
       "size": 1554,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-21 — State Barometers for Agents",
+      "path": "field-notes/2026-08-21-state-barometers.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Recent GUI/phone/web-agent papers keep circling the same operational hole: success depends on knowing whether the current screen, DOM, file state, tool response, memory, or task instruction is still the right authority f…",
+      "modified": "2026-08-21T21:32:15.400Z",
+      "size": 1782,
       "meta": {}
     },
     {
@@ -1679,9 +1709,9 @@
       "path": "idea-bank/trend-sparks/2026-08-21.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/technical/social movement. These are Trend Sparks, not generic ideas. - Agent context/tooling scan: MCP, OpenAI Apps SDK/tools docs, Claude Code…",
-      "modified": "2026-08-21T05:04:24.625Z",
-      "size": 12190,
+      "excerpt": "- arXiv API scan for recent GUI-agent, phone-agent, web-agent, long-context, and hybrid GUI-MCP papers. - Semantic Scholar API scan for mobile-agent and AI-video/fashion terms; rate limits interrupted some searches, so t…",
+      "modified": "2026-08-21T21:33:45.584Z",
+      "size": 12846,
       "meta": {}
     },
     {
@@ -1780,8 +1810,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-21T05:04:50.611Z",
-      "size": 58489,
+      "modified": "2026-08-21T21:34:19.721Z",
+      "size": 59489,
       "meta": {}
     },
     {
@@ -1792,6 +1822,16 @@
       "excerpt": "Do not research to answer questions. Research to discover worlds. This repository now uses Vibe Research Mode as its nightly operating system. The primary unit is not an “idea” or “answer,” but a Vibe: a structured intui…",
       "modified": "2026-08-04T00:37:46.176Z",
       "size": 2210,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Agent Confidence Meter",
+      "path": "rejected/2026-08-21-generic-agent-confidence-meter.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-08-21 GUI, web, and phone agents fail in ways that users cannot easily anticipate. A visible confidence meter sounds like a simple trust surface. - Verified: Current GUI-agent work is splitting failure into tr…",
+      "modified": "2026-08-21T21:32:15.363Z",
+      "size": 1216,
       "meta": {}
     },
     {
@@ -2100,7 +2140,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Agent tools increasingly depend on context windows, file references, rules, memory, retrieval, and tool descriptions. It is tempting to propose a general app that “optimizes context” for better model answers. - The phras…",
-      "modified": "2026-08-21T05:02:42.167Z",
+      "modified": "2026-08-21T05:06:35.527Z",
       "size": 1561,
       "meta": {}
     },
@@ -2529,6 +2569,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Agent State Barometers",
+      "path": "source-library/2026-08-21-state-barometers.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-08-21 GUI and phone-use agent work is moving from isolated screenshot grounding toward program state, transition understanding, controllable environments, and hybrid GUI/tool harnesses. The repeated weak signa…",
+      "modified": "2026-08-21T21:32:15.361Z",
+      "size": 5127,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Agent Street Signs",
       "path": "source-library/2026-07-28-agent-street-signs.md",
       "category": "source-library",
@@ -2654,7 +2704,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-08-21 autonomous Vibe Research. Agent platforms are exposing more ways to feed tools, documents, rules, memories, and app surfaces into model work, but the user-facing product primitive is still mostly “add more con…",
-      "modified": "2026-08-21T05:02:42.095Z",
+      "modified": "2026-08-21T05:06:35.527Z",
       "size": 3965,
       "meta": {}
     },
@@ -3049,6 +3099,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Agent State Barometers and Avionics Cross-Check",
+      "path": "unexpected-connections/2026-08-21-agent-state-barometers-avionics-crosscheck.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-08-21 Computer-use agents and aircraft cockpits share a hidden problem: the operator must decide which instrument is authoritative when multiple partial views disagree. - A screenshot is like an outside visual…",
+      "modified": "2026-08-21T21:32:15.397Z",
+      "size": 1739,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Agent Street Signs and Drone Intent Cards",
       "path": "unexpected-connections/2026-07-28-agent-street-signs-drone-intent-cards.md",
       "category": "unexpected-connections",
@@ -3134,7 +3194,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Agent context has the same hidden structure as aircraft weight-and-balance. An aircraft can contain many useful things, but not all of them belong on this flight. The issue is not only total weight; it is distribution, r…",
-      "modified": "2026-08-21T05:02:42.183Z",
+      "modified": "2026-08-21T05:06:35.528Z",
       "size": 2092,
       "meta": {}
     },
@@ -3538,22 +3598,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 54
+      "count": 55
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 33
+      "count": 34
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 49
+      "count": 50
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 55
+      "count": 56
     },
     {
       "id": "idea-bank",
@@ -3563,12 +3623,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 54
+      "count": 55
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 51
+      "count": 52
     },
     {
       "id": "manifests",
