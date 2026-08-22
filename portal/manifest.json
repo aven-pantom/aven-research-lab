@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T21:34:44.139Z",
+  "generatedAt": "2026-08-22T05:05:17.314Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -138,7 +138,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need State Barometers A cluster of recent GUI, web, and phone-agent papers points at the same unresolved surface: agents need to know which view of reality is authoritative before they mutate something. Screenshot…",
-      "modified": "2026-08-21T21:32:50.668Z",
+      "modified": "2026-08-21T21:35:42.782Z",
       "size": 7906,
       "meta": {}
     },
@@ -150,6 +150,16 @@
       "excerpt": "Agents Need Street Signs: Websites Should Declare How Machines May Act The scan started from a small Hacker News item, OpenTrust — Browser trust signals for the AI era, then widened into a repeated web-agent contradictio…",
       "modified": "2026-08-04T05:08:26.881Z",
       "size": 13588,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Task Models: Work Traces Should Become Procedures, Not Memories",
+      "path": "active-vibes/agents-need-task-models.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Task Models Recent computer-use-agent research is starting to treat naturalistic traces as recoverable work structure. Inducing Task Models from Computer-Use Traces frames screenshots plus mouse/keyboard even…",
+      "modified": "2026-08-22T05:02:37.741Z",
+      "size": 9528,
       "meta": {}
     },
     {
@@ -818,7 +828,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-21 Agents Need State Barometers../active-vibes/agents-need-state-barometers.md Test whether compact State Barometer Cards make stale, conflicting, or weak state easier to notice before a computer-use agent…",
-      "modified": "2026-08-21T21:32:15.405Z",
+      "modified": "2026-08-21T21:35:42.782Z",
       "size": 2512,
       "meta": {}
     },
@@ -890,6 +900,16 @@
       "excerpt": "Date: 2026-07-22 Actions Become Video Masks../active-vibes/actions-become-video-masks.md Test whether action proposals represented as partial futures are more inspectable than text logs or low-level action traces. Use a…",
       "modified": "2026-07-22T05:07:54.570Z",
       "size": 1427,
+      "meta": {}
+    },
+    {
+      "title": "Task Model Card Fixture",
+      "path": "experiments/2026-08-22-task-model-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Date: 2026-08-22 Test whether a compact Task Model Card helps an agent or human reviewer reuse a recurring workflow more safely than a prose summary or raw trace. - Agents Need Task Models../active-vibes/agents-need-task…",
+      "modified": "2026-08-22T05:02:59.846Z",
+      "size": 2049,
       "meta": {}
     },
     {
@@ -1370,7 +1390,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Recent GUI/phone/web-agent papers keep circling the same operational hole: success depends on knowing whether the current screen, DOM, file state, tool response, memory, or task instruction is still the right authority f…",
-      "modified": "2026-08-21T21:32:15.400Z",
+      "modified": "2026-08-21T21:35:42.783Z",
       "size": 1782,
       "meta": {}
     },
@@ -1382,6 +1402,16 @@
       "excerpt": "Date: 2026-08-05 Calling title: The Browser Can Become a Workshop: Apps With Real Databases but No Server PGlite, SQLite WASM, DuckDB-Wasm, and OPFS are converging on a strange possibility: the browser can host serious l…",
       "modified": "2026-08-05T05:07:28.934Z",
       "size": 3476,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — Task Models From Computer-Use Traces",
+      "path": "field-notes/2026-08-22-task-models.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Date: 2026-08-22 Inducing Task Models from Computer-Use Traces treats passively recorded screenshots and low-level actions as a source for symbolic, auditable, reusable models of everyday work. This is different from nor…",
+      "modified": "2026-08-22T05:01:56.215Z",
+      "size": 1980,
       "meta": {}
     },
     {
@@ -1710,8 +1740,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "- arXiv API scan for recent GUI-agent, phone-agent, web-agent, long-context, and hybrid GUI-MCP papers. - Semantic Scholar API scan for mobile-agent and AI-video/fashion terms; rate limits interrupted some searches, so t…",
-      "modified": "2026-08-21T21:33:45.584Z",
+      "modified": "2026-08-21T21:35:42.783Z",
       "size": 12846,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-22",
+      "path": "idea-bank/trend-sparks/2026-08-22.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "- arXiv API scan for recent computer-use agents, mobile agents, AI video editing, video virtual try-on, local/edge models, and drone/UAM papers. - GitHub API scans for computer use agent, mcp server, virtual try on, ai v…",
+      "modified": "2026-08-22T05:04:11.074Z",
+      "size": 13669,
       "meta": {}
     },
     {
@@ -1810,8 +1850,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-21T21:34:19.721Z",
-      "size": 59489,
+      "modified": "2026-08-22T05:04:37.318Z",
+      "size": 60806,
       "meta": {}
     },
     {
@@ -1830,7 +1870,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-21 GUI, web, and phone agents fail in ways that users cannot easily anticipate. A visible confidence meter sounds like a simple trust surface. - Verified: Current GUI-agent work is splitting failure into tr…",
-      "modified": "2026-08-21T21:32:15.363Z",
+      "modified": "2026-08-21T21:35:42.784Z",
       "size": 1216,
       "meta": {}
     },
@@ -2205,6 +2245,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Generic Workflow Macro Recorder",
+      "path": "rejected/2026-08-22-generic-workflow-macro-recorder.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Date: 2026-08-22 If computer-use traces can be turned into task models, the obvious product shape is a recorder that watches a user do something once and then automates it. - Verified: Inducing Task Models from Computer-…",
+      "modified": "2026-08-22T05:03:10.620Z",
+      "size": 1343,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Make GUI Agents Faster",
       "path": "rejected/2026-08-02-make-gui-agents-faster.md",
       "category": "rejected",
@@ -2574,7 +2624,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-21 GUI and phone-use agent work is moving from isolated screenshot grounding toward program state, transition understanding, controllable environments, and hybrid GUI/tool harnesses. The repeated weak signa…",
-      "modified": "2026-08-21T21:32:15.361Z",
+      "modified": "2026-08-21T21:35:42.785Z",
       "size": 5127,
       "meta": {}
     },
@@ -2869,6 +2919,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Task Models From Computer-Use Traces",
+      "path": "source-library/2026-08-22-task-models.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Date: 2026-08-22 Naturalistic computer-use traces are beginning to be treated as raw material for symbolic, auditable, reusable task models rather than only as logs, demos, or training data. The weak signal is that the n…",
+      "modified": "2026-08-22T05:01:46.465Z",
+      "size": 5512,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work",
       "path": "source-library/2026-07-19-unmanned-ornithopter.md",
       "category": "source-library",
@@ -3039,6 +3099,16 @@
       "meta": {}
     },
     {
+      "title": "Task Model Cards and Flight Checklists",
+      "path": "unexpected-connections/2026-08-22-task-model-cards-flight-checklists.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Date: 2026-08-22 A reusable agent task model is structurally closer to a flight checklist than to a macro. Both are attempts to make repeated action safe without pretending the world is static. A macro assumes the enviro…",
+      "modified": "2026-08-22T05:02:49.380Z",
+      "size": 1976,
+      "meta": {}
+    },
+    {
       "title": "Trainable Materials and Camera Profiles",
       "path": "unexpected-connections/2026-07-24-trainable-materials-and-camera-profiles.md",
       "category": "unexpected-connections",
@@ -3104,7 +3174,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-21 Computer-use agents and aircraft cockpits share a hidden problem: the operator must decide which instrument is authoritative when multiple partial views disagree. - A screenshot is like an outside visual…",
-      "modified": "2026-08-21T21:32:15.397Z",
+      "modified": "2026-08-21T21:35:42.785Z",
       "size": 1739,
       "meta": {}
     },
@@ -3598,37 +3668,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 55
+      "count": 56
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 34
+      "count": 35
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 50
+      "count": 51
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 56
+      "count": 57
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 31
+      "count": 32
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 55
+      "count": 56
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 52
+      "count": 53
     },
     {
       "id": "manifests",
