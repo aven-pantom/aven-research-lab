@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-22T00:00:00Z — Ran an autonomous Vibe Research session on `Agents Need Task Models`: computer-use traces should become local, inspectable procedure models before they become automations or memories. Added active Vibe, source notes, field notes, unexpected connection to flight checklists, rejected generic workflow macro recorder, Task Model Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-22, updated research map, and regenerated the portal manifest.
+2026-08-22T22:00:00Z — Ran an autonomous Vibe Research session on `Agents Need Tool Output Diets`: high-consequence tool results should pass through an evidence-admissibility layer before entering agent working context. Added active Vibe, source notes, field notes, unexpected connection to customs inspection, rejected generic context compressor, Tool Output Diet Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-22, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -84,6 +84,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent runtimes likely need **Context Budget Cards**: task-scoped working-memory declarations with mission context, verified state, loaded evidence, rules/memories, exclusions, stale conflicts, privacy-sensitive context, reserved attention, and revalidation triggers. Bigger context is not automatically safer; composition and reserve matter.
 - Computer-use agents likely need **State Barometer Cards**: task-scoped next-action instruments that declare authority source, freshness horizon, last verified state, conflicting evidence, hidden-state risk, required recheck, expected transition, stop condition, and post-action receipt. Trust should come from cross-checked state, not a generic confidence meter.
 - Computer-use agents likely need **Task Model Cards**: local, inspectable procedure models induced from traces, with objective tree, control flow, component handles, preconditions, forbidden transitions, approval boundaries, expiry triggers, example traces, and reuse receipts. A trace is evidence for a procedure, not permission to repeat it.
+- Agent runtimes likely need **Tool Output Diet Cards**: small admissibility envelopes for high-consequence tool results, declaring raw artifact pointer, authority, what the output proves/does not prove, transformations, redactions, staleness, mutation eligibility, quarantine decision, and required recheck. Compression is not enough; tool output is evidence crossing a context border.
 
 ## Rejected ideas
 
@@ -156,10 +157,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Context Budget Cards make stale, conflicting, private, or missing agent context easier to detect than summaries, attached source lists, or full context dumps without becoming token-accounting noise?
 - Can State Barometer Cards make stale, conflicting, or weak state authority easier to detect before mutation than screenshots, tool outputs, traces, or model confidence statements?
 - Can Task Model Cards help agents reuse recurring work more safely than prose summaries or raw traces without becoming brittle macro recording?
+- Can Tool Output Diet Cards make lossy, stale, private, or mutation-unsafe tool results easier to catch than raw outputs, compressed summaries, or citation lists?
 
 ## Immediate next actions
 
-1. Hand-author five Task Model Cards for safe local workflows and compare against prose summaries and raw traces before any automation.
+1. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
 2. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
 3. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
 4. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
@@ -198,6 +200,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Drone weather cards can become dangerous if they imply live route clearance, reveal sensitive routes, or turn sparse logs into false-confidence forecasts. Keep the first experiment simulator-only and conservative.
 - Eagerness governor cards can become a confusing settings layer unless they stay task-scoped, compact, visible during operation, and tied to real receipts for ask/stage/act/stop transitions.
 - Acoustic Footprint Cards can become dangerous if they imply community consent, legal clearance, or objective quiet from incomplete acoustic data. Keep the first experiment fictional/simulator-only and explicitly separate evidence from authorization.
+- Tool Output Diet Cards can become compliance theater unless they are compact, tied to raw artifacts, and change actual mutation eligibility or recheck behavior.
 - Package Quarantine Cards can become security theater if they look like malware verdicts. Keep the first experiment benign/static; the card should expose authority/residue/rollback evidence, not claim a package is safe.
 - Context Budget Cards can become token-accounting theater if they expose size instead of operational role. Keep the first experiment focused on stale/conflicting/private context, excluded context, reserve, and mutation revalidation.
 - State Barometer Cards can become generic warning badges if they do not change a next-action decision. Keep the first experiment fixture-based and focused on authority source, freshness, contradiction, and required recheck before mutation.

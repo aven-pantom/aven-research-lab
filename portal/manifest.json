@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:05:17.314Z",
+  "generatedAt": "2026-08-22T21:35:19.853Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -83,6 +83,16 @@
       "meta": {}
     },
     {
+      "title": "Agents Need Editors at the Door: Tool Output as Evidence, Not Token Sludge",
+      "path": "active-vibes/agents-need-tool-output-diets.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Tool Output Diets Agent runtimes are gaining access to MCP servers, browser drivers, codebase indexes, RAG stores, local memories, package managers, and logs. The newest friction is no longer simple tool acce…",
+      "modified": "2026-08-22T21:33:44.279Z",
+      "size": 9805,
+      "meta": {}
+    },
+    {
       "title": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs",
       "path": "active-vibes/agents-need-flight-recorders.md",
       "category": "active-vibes",
@@ -158,7 +168,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Task Models Recent computer-use-agent research is starting to treat naturalistic traces as recoverable work structure. Inducing Task Models from Computer-Use Traces frames screenshots plus mouse/keyboard even…",
-      "modified": "2026-08-22T05:02:37.741Z",
+      "modified": "2026-08-22T05:06:23.194Z",
       "size": 9528,
       "meta": {}
     },
@@ -833,6 +843,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Tool Output Diet Card Fixture",
+      "path": "experiments/2026-08-22-tool-output-diet-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a small Tool Output Diet Card makes agent tool results easier to trust, challenge, and reuse than raw outputs, compressed summaries, or normal citations. A card that declares what a tool output is allowed to…",
+      "modified": "2026-08-22T21:33:01.838Z",
+      "size": 2168,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Transition Card Recorder",
       "path": "experiments/2026-07-29-transition-card-recorder.md",
       "category": "experiments",
@@ -908,7 +928,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Date: 2026-08-22 Test whether a compact Task Model Card helps an agent or human reviewer reuse a recurring workflow more safely than a prose summary or raw trace. - Agents Need Task Models../active-vibes/agents-need-task…",
-      "modified": "2026-08-22T05:02:59.846Z",
+      "modified": "2026-08-22T05:06:23.194Z",
       "size": 2049,
       "meta": {}
     },
@@ -1395,6 +1415,16 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-22 — Tool Output Diets",
+      "path": "field-notes/2026-08-22-tool-output-diets.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Signal: headroomlabs-ai/headroom explicitly markets compression of tool outputs, logs, files, and RAG chunks before they reach the LLM. This is a blunt but important sign: tool output volume is becoming a runtime surfa…",
+      "modified": "2026-08-22T21:33:01.828Z",
+      "size": 1410,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — Browser Databases as Personal Workshop Substrate",
       "path": "field-notes/2026-08-05-browser-workshops.md",
       "category": "field-notes",
@@ -1410,7 +1440,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Date: 2026-08-22 Inducing Task Models from Computer-Use Traces treats passively recorded screenshots and low-level actions as a source for symbolic, auditable, reusable models of everyday work. This is different from nor…",
-      "modified": "2026-08-22T05:01:56.215Z",
+      "modified": "2026-08-22T05:06:23.194Z",
       "size": 1980,
       "meta": {}
     },
@@ -1749,9 +1779,9 @@
       "path": "idea-bank/trend-sparks/2026-08-22.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "- arXiv API scan for recent computer-use agents, mobile agents, AI video editing, video virtual try-on, local/edge models, and drone/UAM papers. - GitHub API scans for computer use agent, mcp server, virtual try on, ai v…",
-      "modified": "2026-08-22T05:04:11.074Z",
-      "size": 13669,
+      "excerpt": "- arXiv API scan for tool-use agents, software architecture, model routing, agentic search, task-model induction, AI video editing, group/identity image generation, video virtual try-on, UAM/drone coordination, and synth…",
+      "modified": "2026-08-22T21:34:49.147Z",
+      "size": 14494,
       "meta": {}
     },
     {
@@ -1850,8 +1880,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-22T05:04:37.318Z",
-      "size": 60806,
+      "modified": "2026-08-22T21:35:18.913Z",
+      "size": 61720,
       "meta": {}
     },
     {
@@ -2225,6 +2255,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Generic Context Compressor",
+      "path": "rejected/2026-08-22-generic-context-compressor.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Tool outputs, logs, codebase indexes, and RAG chunks are getting too large for agent working context. A compressor that shrinks everything before the model reads it sounds immediately useful. - Compression alone does not…",
+      "modified": "2026-08-22T21:33:01.856Z",
+      "size": 1315,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Generic MCP Marketplace",
       "path": "rejected/2026-08-03-generic-mcp-marketplace.md",
       "category": "rejected",
@@ -2250,7 +2290,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Date: 2026-08-22 If computer-use traces can be turned into task models, the obvious product shape is a recorder that watches a user do something once and then automates it. - Verified: Inducing Task Models from Computer-…",
-      "modified": "2026-08-22T05:03:10.620Z",
+      "modified": "2026-08-22T05:06:23.196Z",
       "size": 1343,
       "meta": {}
     },
@@ -2924,7 +2964,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Date: 2026-08-22 Naturalistic computer-use traces are beginning to be treated as raw material for symbolic, auditable, reusable task models rather than only as logs, demos, or training data. The weak signal is that the n…",
-      "modified": "2026-08-22T05:01:46.465Z",
+      "modified": "2026-08-22T05:06:23.196Z",
       "size": 5512,
       "meta": {}
     },
@@ -2966,6 +3006,16 @@
       "excerpt": "Date: 2026-08-03 Signal: MCP registries, Apps SDK packaging, and Docker’s MCP catalog suggest agent tools are becoming distributable app-like capabilities, but the trust primitive is still incomplete. - URL: https://raw.…",
       "modified": "2026-08-03T05:07:25.041Z",
       "size": 4474,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Tool Output Diets",
+      "path": "source-library/2026-08-22-tool-output-diets.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Agent ecosystems are accumulating powerful tools, MCP servers, browser drivers, codebase indexes, and local knowledge stores. The bottleneck is starting to look less like “can the agent call a tool?” and more like “what…",
+      "modified": "2026-08-22T21:33:01.830Z",
+      "size": 4731,
       "meta": {}
     },
     {
@@ -3104,7 +3154,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Date: 2026-08-22 A reusable agent task model is structurally closer to a flight checklist than to a macro. Both are attempts to make repeated action safe without pretending the world is static. A macro assumes the enviro…",
-      "modified": "2026-08-22T05:02:49.380Z",
+      "modified": "2026-08-22T05:06:23.198Z",
       "size": 1976,
       "meta": {}
     },
@@ -3549,6 +3599,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Tool Output Diets and Customs Inspection",
+      "path": "unexpected-connections/2026-08-22-tool-output-diets-customs-inspection.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Agent tool outputs look less like groceries for a bigger context window and more like goods crossing a border. A customs office does not inspect every atom of every shipment. It checks declared contents, origin, destinat…",
+      "modified": "2026-08-22T21:33:01.827Z",
+      "size": 2081,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Transition Tests and Flight Recorders",
       "path": "unexpected-connections/2026-07-29-transition-tests-flight-recorders.md",
       "category": "unexpected-connections",
@@ -3668,22 +3728,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 56
+      "count": 57
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 35
+      "count": 36
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 51
+      "count": 52
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 57
+      "count": 58
     },
     {
       "id": "idea-bank",
@@ -3693,12 +3753,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 56
+      "count": 57
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 53
+      "count": 54
     },
     {
       "id": "manifests",
