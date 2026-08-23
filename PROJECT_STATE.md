@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-22T22:00:00Z — Ran an autonomous Vibe Research session on `Agents Need Tool Output Diets`: high-consequence tool results should pass through an evidence-admissibility layer before entering agent working context. Added active Vibe, source notes, field notes, unexpected connection to customs inspection, rejected generic context compressor, Tool Output Diet Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-22, updated research map, and regenerated the portal manifest.
+2026-08-23T22:00:00Z — Ran an autonomous Vibe Research session on `Agents Need Workspace Cartography`: coding agents need a repository-surface collision map before mutation, not only branches, PRs, CI, and merge queues after work is proposed. Added active Vibe, source notes, field notes, unexpected connection to construction clash detection, rejected generic multi-agent project manager, Workspace Cartography Card fixture experiment, weekly synthesis for W34, exactly 10 Trend Sparks for 2026-08-23, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -85,6 +85,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Computer-use agents likely need **State Barometer Cards**: task-scoped next-action instruments that declare authority source, freshness horizon, last verified state, conflicting evidence, hidden-state risk, required recheck, expected transition, stop condition, and post-action receipt. Trust should come from cross-checked state, not a generic confidence meter.
 - Computer-use agents likely need **Task Model Cards**: local, inspectable procedure models induced from traces, with objective tree, control flow, component handles, preconditions, forbidden transitions, approval boundaries, expiry triggers, example traces, and reuse receipts. A trace is evidence for a procedure, not permission to repeat it.
 - Agent runtimes likely need **Tool Output Diet Cards**: small admissibility envelopes for high-consequence tool results, declaring raw artifact pointer, authority, what the output proves/does not prove, transformations, redactions, staleness, mutation eligibility, quarantine decision, and required recheck. Compression is not enough; tool output is evidence crossing a context border.
+- Agent workspaces likely need **Workspace Cartography Cards**: live, repo-native maps of claimed files, semantic surfaces, actor identity, stale HEADs, active overlaps, recheck triggers, tests, and claim-release receipts. Parallel coding agents need traffic control before another layer of intelligence.
 
 ## Rejected ideas
 
@@ -117,6 +118,8 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic AI context optimizer first; the sharper primitive is a Context Budget Card that budgets context by role, consequence, exclusion, freshness, privacy, reserve, and mutation revalidation instead of token compression alone.
 - Do not build a generic agent confidence meter first; the sharper primitive is a State Barometer Card that names the authority source and freshness/contradiction conditions for the next mutation.
 - Do not build a generic workflow macro recorder first; the sharper primitive is a Task Model Card that turns traces into reviewable, conditional procedures with boundaries, expiry, and rechecks before automation.
+- Do not build a generic context compressor first; the sharper primitive is a Tool Output Diet Card that treats outputs as admissible evidence with authority, staleness, redaction, proof limits, mutation eligibility, and raw artifact pointers.
+- Do not build a generic multi-agent project manager first; the sharper primitive is Workspace Cartography: claimed repo surfaces, stale-state warnings, overlap detection, and claim-release receipts.
 
 ## Known constraints
 
@@ -158,19 +161,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can State Barometer Cards make stale, conflicting, or weak state authority easier to detect before mutation than screenshots, tool outputs, traces, or model confidence statements?
 - Can Task Model Cards help agents reuse recurring work more safely than prose summaries or raw traces without becoming brittle macro recording?
 - Can Tool Output Diet Cards make lossy, stale, private, or mutation-unsafe tool results easier to catch than raw outputs, compressed summaries, or citation lists?
+- Can Workspace Cartography Cards prevent duplicate work, stale assumptions, or unsafe overlap before agents spend context and tool calls on doomed branches?
 
 ## Immediate next actions
 
-1. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
-2. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
-3. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
-4. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
-5. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
-6. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
-7. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-8. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-9. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
-10. Hand-author five Continuation Port Cards and compare resumption quality against normal prose handoffs.
+1. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
+2. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
+3. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
+4. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
+5. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
+6. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
+7. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+8. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
+9. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+10. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
 
 ## Dependencies
 
@@ -205,6 +209,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Context Budget Cards can become token-accounting theater if they expose size instead of operational role. Keep the first experiment focused on stale/conflicting/private context, excluded context, reserve, and mutation revalidation.
 - State Barometer Cards can become generic warning badges if they do not change a next-action decision. Keep the first experiment fixture-based and focused on authority source, freshness, contradiction, and required recheck before mutation.
 - Task Model Cards can become renamed macro recorders if they jump from trace to automation without review. Keep the first experiment fixture-based, local, and focused on objectives, boundaries, expiry, state checks, and reuse receipts.
+- Workspace Cartography Cards can become project-management theater if they only restate branch names. Keep the first experiment focused on concrete collisions: stale HEADs, overlapping semantic surfaces, required rechecks, and claim-release receipts.
 
 ## Relevant files
 
@@ -321,7 +326,15 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `experiments/2026-08-22-task-model-card.md`
 - `rejected/2026-08-22-generic-workflow-macro-recorder.md`
 - `idea-bank/trend-sparks/2026-08-22.md`
+- `active-vibes/agents-need-workspace-cartography.md`
+- `source-library/2026-08-23-workspace-cartography.md`
+- `field-notes/2026-08-23-workspace-cartography.md`
+- `unexpected-connections/2026-08-23-workspace-cartography-clash-detection.md`
+- `experiments/2026-08-23-workspace-cartography-card.md`
+- `rejected/2026-08-23-generic-multi-agent-project-manager.md`
+- `idea-bank/trend-sparks/2026-08-23.md`
+- `weekly-synthesis/2026-W34.md`
 
 ## Last updated
 
-2026-08-22T05:05:05Z
+2026-08-23T22:00:00Z

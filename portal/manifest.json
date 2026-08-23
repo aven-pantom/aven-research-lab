@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:35:19.853Z",
+  "generatedAt": "2026-08-23T05:08:03.017Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -88,7 +88,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Agents Need Tool Output Diets Agent runtimes are gaining access to MCP servers, browser drivers, codebase indexes, RAG stores, local memories, package managers, and logs. The newest friction is no longer simple tool acce…",
-      "modified": "2026-08-22T21:33:44.279Z",
+      "modified": "2026-08-22T21:36:22.825Z",
       "size": 9805,
       "meta": {}
     },
@@ -260,6 +260,16 @@
       "excerpt": "Clothes Need Fit Ledgers: Try-On Should Remember Friction, Not Just Render Outfits AI virtual try-on, visual shopping graphs, size recommendation systems, resale loops, and return-reduction tooling are all trying to solv…",
       "modified": "2026-08-13T05:07:10.190Z",
       "size": 10831,
+      "meta": {}
+    },
+    {
+      "title": "Coding Agents Need Traffic Control: Workspaces With Collision Maps, Not Blind Branches",
+      "path": "active-vibes/agents-need-workspace-cartography.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Coding Agents Need Traffic Control: Workspaces With Collision Maps, Not Blind Branches Verified: Git worktrees let multiple working trees share one repository while checking out different branches, and GitHub merge queue…",
+      "modified": "2026-08-23T05:06:00.921Z",
+      "size": 9695,
       "meta": {}
     },
     {
@@ -848,7 +858,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a small Tool Output Diet Card makes agent tool results easier to trust, challenge, and reuse than raw outputs, compressed summaries, or normal citations. A card that declares what a tool output is allowed to…",
-      "modified": "2026-08-22T21:33:01.838Z",
+      "modified": "2026-08-22T21:36:22.825Z",
       "size": 2168,
       "meta": {}
     },
@@ -880,6 +890,16 @@
       "excerpt": "active-vibes/agent-interfaces-need-shared-workbenches.md Test whether a small portable card can preserve agent/human work state better than a normal chat summary. A Workbench Object Card with visible state, allowed verbs…",
       "modified": "2026-08-09T05:06:33.970Z",
       "size": 2457,
+      "meta": {}
+    },
+    {
+      "title": "Experiment — Workspace Cartography Card Fixture",
+      "path": "experiments/2026-08-23-workspace-cartography-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a lightweight Workspace Cartography Card makes concurrent agent/human repo work safer and clearer than branch names, status output, and PR descriptions alone. Create 10 hand-authored cards from safe reposito…",
+      "modified": "2026-08-23T05:06:00.953Z",
+      "size": 1971,
       "meta": {}
     },
     {
@@ -1420,8 +1440,18 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Signal: headroomlabs-ai/headroom explicitly markets compression of tool outputs, logs, files, and RAG chunks before they reach the LLM. This is a blunt but important sign: tool output volume is becoming a runtime surfa…",
-      "modified": "2026-08-22T21:33:01.828Z",
+      "modified": "2026-08-22T21:36:22.826Z",
       "size": 1410,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-23 — Workspace Cartography",
+      "path": "field-notes/2026-08-23-workspace-cartography.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Coding agents are shifting software work from “one human edits a branch” to “several actors mutate overlapping surfaces.” Git has worktrees. GitHub has merge queues. Coding agents can take tasks and propose PRs. But the…",
+      "modified": "2026-08-23T05:06:00.942Z",
+      "size": 1857,
       "meta": {}
     },
     {
@@ -1780,8 +1810,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "- arXiv API scan for tool-use agents, software architecture, model routing, agentic search, task-model induction, AI video editing, group/identity image generation, video virtual try-on, UAM/drone coordination, and synth…",
-      "modified": "2026-08-22T21:34:49.147Z",
+      "modified": "2026-08-22T21:36:22.826Z",
       "size": 14494,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-08-23",
+      "path": "idea-bank/trend-sparks/2026-08-23.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/source movement. Evidence is based on source docs and a GitHub API snapshot collected on 2026-08-23; repository popularity is a signal, not proof…",
+      "modified": "2026-08-23T05:06:00.974Z",
+      "size": 10626,
       "meta": {}
     },
     {
@@ -1880,8 +1920,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-22T21:35:18.913Z",
-      "size": 61720,
+      "modified": "2026-08-23T05:06:17.765Z",
+      "size": 63713,
       "meta": {}
     },
     {
@@ -2260,7 +2300,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Tool outputs, logs, codebase indexes, and RAG chunks are getting too large for agent working context. A compressor that shrinks everything before the model reads it sounds immediately useful. - Compression alone does not…",
-      "modified": "2026-08-22T21:33:01.856Z",
+      "modified": "2026-08-22T21:36:22.827Z",
       "size": 1315,
       "meta": {}
     },
@@ -2282,6 +2322,16 @@
       "excerpt": "Date: 2026-08-08 Mobile GUI-agent research is active, recent, and benchmark-heavy. A leaderboard or tracker could collect AndroidDaily, AndroidWorld, MobileGym, MobileWorld, GUIOdyssey, AppDeltaWorld, and related papers.…",
       "modified": "2026-08-08T21:39:39.388Z",
       "size": 1207,
+      "meta": {}
+    },
+    {
+      "title": "Rejected Path — Generic Multi-Agent Project Manager",
+      "path": "rejected/2026-08-23-generic-multi-agent-project-manager.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "If multiple coding agents work at once, a dashboard assigning tasks, showing statuses, and chatting with agents sounds useful. The idea collapses into familiar project-management software with agent labels. It does not a…",
+      "modified": "2026-08-23T05:06:00.947Z",
+      "size": 1051,
       "meta": {}
     },
     {
@@ -3014,7 +3064,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Agent ecosystems are accumulating powerful tools, MCP servers, browser drivers, codebase indexes, and local knowledge stores. The bottleneck is starting to look less like “can the agent call a tool?” and more like “what…",
-      "modified": "2026-08-22T21:33:01.830Z",
+      "modified": "2026-08-22T21:36:22.828Z",
       "size": 4731,
       "meta": {}
     },
@@ -3026,6 +3076,16 @@
       "excerpt": "2026-07-30, UTC environment clock. Weak but useful signal: current agent tooling momentum is accompanied by scattered attempts to make agent work reversible, recorded, human-gated, and local. All readings were collected…",
       "modified": "2026-07-30T21:38:21.370Z",
       "size": 3932,
+      "meta": {}
+    },
+    {
+      "title": "Source Notes — Workspace Cartography for Coding Agents",
+      "path": "source-library/2026-08-23-workspace-cartography.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Coding agents are becoming assignable workers across terminals, IDEs, issues, branches, and PRs. Existing source-control primitives isolate work and validate integration, but they do not by themselves expose a live map o…",
+      "modified": "2026-08-23T05:06:00.923Z",
+      "size": 4804,
       "meta": {}
     },
     {
@@ -3604,7 +3664,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Agent tool outputs look less like groceries for a bigger context window and more like goods crossing a border. A customs office does not inspect every atom of every shipment. It checks declared contents, origin, destinat…",
-      "modified": "2026-08-22T21:33:01.827Z",
+      "modified": "2026-08-22T21:36:22.828Z",
       "size": 2081,
       "meta": {}
     },
@@ -3669,6 +3729,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Workspace Cartography and Construction Clash Detection",
+      "path": "unexpected-connections/2026-08-23-workspace-cartography-clash-detection.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Multi-agent coding and construction coordination share a hidden problem: independently valid work can become invalid when it occupies the same future space. In construction, a duct, beam, pipe, cable tray, and access pan…",
+      "modified": "2026-08-23T05:06:00.909Z",
+      "size": 1936,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection: Robot Skin and Operating-System Interrupts",
       "path": "unexpected-connections/2026-07-19-robot-skin-operating-system-interrupts.md",
       "category": "unexpected-connections",
@@ -3717,6 +3787,16 @@
       "modified": "2026-08-16T05:07:57.699Z",
       "size": 2713,
       "meta": {}
+    },
+    {
+      "title": "Weekly Synthesis — 2026-W34 — Workspaces Need Instruments",
+      "path": "weekly-synthesis/2026-W34.md",
+      "category": "weekly-synthesis",
+      "categoryLabel": "Weekly Synthesis",
+      "excerpt": "Coding Agents Need Traffic Control: Workspaces With Collision Maps, Not Blind Branches. The agent research thread moved from individual action safety to shared workspace coordination. Branches, worktrees, PRs, CI, and me…",
+      "modified": "2026-08-23T05:06:01.007Z",
+      "size": 2240,
+      "meta": {}
     }
   ],
   "categories": [
@@ -3728,37 +3808,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 57
+      "count": 58
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 36
+      "count": 37
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 52
+      "count": 53
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 58
+      "count": 59
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 32
+      "count": 33
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 57
+      "count": 58
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 54
+      "count": 55
     },
     {
       "id": "manifests",
@@ -3768,7 +3848,7 @@
     {
       "id": "weekly-synthesis",
       "label": "Weekly Synthesis",
-      "count": 4
+      "count": 5
     },
     {
       "id": "monthly-theses",
