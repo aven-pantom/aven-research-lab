@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-23T22:00:00Z — Ran an autonomous Vibe Research session on `Agents Need Workspace Cartography`: coding agents need a repository-surface collision map before mutation, not only branches, PRs, CI, and merge queues after work is proposed. Added active Vibe, source notes, field notes, unexpected connection to construction clash detection, rejected generic multi-agent project manager, Workspace Cartography Card fixture experiment, weekly synthesis for W34, exactly 10 Trend Sparks for 2026-08-23, updated research map, and regenerated the portal manifest.
+2026-08-23T21:31:31Z — Ran an autonomous Vibe Research session on `Taste Needs Compilers`: personal style/taste should become executable constraints before downstream recommendation or generation. Added active Vibe, source notes, field notes, unexpected connection to design tokens, rejected generic AI stylist, Taste Constraint Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-23, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -86,6 +86,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Computer-use agents likely need **Task Model Cards**: local, inspectable procedure models induced from traces, with objective tree, control flow, component handles, preconditions, forbidden transitions, approval boundaries, expiry triggers, example traces, and reuse receipts. A trace is evidence for a procedure, not permission to repeat it.
 - Agent runtimes likely need **Tool Output Diet Cards**: small admissibility envelopes for high-consequence tool results, declaring raw artifact pointer, authority, what the output proves/does not prove, transformations, redactions, staleness, mutation eligibility, quarantine decision, and required recheck. Compression is not enough; tool output is evidence crossing a context border.
 - Agent workspaces likely need **Workspace Cartography Cards**: live, repo-native maps of claimed files, semantic surfaces, actor identity, stale HEADs, active overlaps, recheck triggers, tests, and claim-release receipts. Parallel coding agents need traffic control before another layer of intelligence.
+- Taste engines likely need **Taste Constraint Cards**: editable, portable style laws compiled from saves, rejections, wear/fit history, references, prompts, and context, with protected properties, allowed/forbidden mutations, exceptions, expiry, and evaluation tests. Moodboards become more useful when examples compile into constraints.
 
 ## Rejected ideas
 
@@ -120,6 +121,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic workflow macro recorder first; the sharper primitive is a Task Model Card that turns traces into reviewable, conditional procedures with boundaries, expiry, and rechecks before automation.
 - Do not build a generic context compressor first; the sharper primitive is a Tool Output Diet Card that treats outputs as admissible evidence with authority, staleness, redaction, proof limits, mutation eligibility, and raw artifact pointers.
 - Do not build a generic multi-agent project manager first; the sharper primitive is Workspace Cartography: claimed repo surfaces, stale-state warnings, overlap detection, and claim-release receipts.
+- Do not build a generic AI stylist first; the sharper primitive is a Taste Constraint Card that compiles saves, refusals, fit history, references, and contexts into editable style laws before recommendation or generation.
 
 ## Known constraints
 
@@ -165,11 +167,11 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Immediate next actions
 
-1. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
-2. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
-3. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
-4. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
-5. Hand-author 20 benign Package Quarantine Cards across npm, pip, Homebrew, browser extension, MCP server, shell script, GitHub clone, model/tool download, global install, and temporary sandbox scenarios; compare against install commands, prose approvals, and audit output.
+1. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
+2. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
+3. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
+4. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
+5. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
 6. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
 7. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
 8. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:08:03.017Z",
+  "generatedAt": "2026-08-23T21:36:36.263Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -268,7 +268,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Coding Agents Need Traffic Control: Workspaces With Collision Maps, Not Blind Branches Verified: Git worktrees let multiple working trees share one repository while checking out different branches, and GitHub merge queue…",
-      "modified": "2026-08-23T05:06:00.921Z",
+      "modified": "2026-08-23T05:08:31.462Z",
       "size": 9695,
       "meta": {}
     },
@@ -480,6 +480,16 @@
       "excerpt": "Taste Engines Need Negative Space: Style Learned From Rejections, Skips, and Almost-Wears Verified: GitHub API readings on 2026-07-31 showed a cluster of newly created or recently pushed fashion/try-on projects: zaid5561…",
       "modified": "2026-07-31T21:36:46.959Z",
       "size": 10858,
+      "meta": {}
+    },
+    {
+      "title": "Taste Needs Compilers: Personal Style Should Become Executable Constraints, Not Moodboards",
+      "path": "active-vibes/taste-needs-compilers-not-moodboards.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Taste Needs Compilers: Personal Style Should Become Executable Constraints, Not Moodboards Verified: arXiv search on 2026-08-23 returned active fashion recommendation work that increasingly mixes personalization, aesthet…",
+      "modified": "2026-08-23T21:33:25.167Z",
+      "size": 11789,
       "meta": {}
     },
     {
@@ -853,6 +863,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Taste Constraint Card Fixture",
+      "path": "experiments/2026-08-23-taste-constraint-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether raw taste artifacts become more useful when compiled into explicit, editable constraints before recommendation or generation. Create a synthetic but realistic fixture with 30 artifacts: - 8 loved outfits or…",
+      "modified": "2026-08-23T21:35:06.820Z",
+      "size": 1633,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Tool Output Diet Card Fixture",
       "path": "experiments/2026-08-22-tool-output-diet-card.md",
       "category": "experiments",
@@ -898,7 +918,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a lightweight Workspace Cartography Card makes concurrent agent/human repo work safer and clearer than branch names, status output, and PR descriptions alone. Create 10 hand-authored cards from safe reposito…",
-      "modified": "2026-08-23T05:06:00.953Z",
+      "modified": "2026-08-23T05:08:31.462Z",
       "size": 1971,
       "meta": {}
     },
@@ -1445,12 +1465,22 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-23 — Taste Compilers",
+      "path": "field-notes/2026-08-23-taste-compilers.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- arXiv fashion recommendation search showed a useful arc: surveys and compatibility models → LLM/sequential recommendation → diffusion/generative outfit recommendation → negative-feedback styling. - Product surfaces spl…",
+      "modified": "2026-08-23T21:35:06.755Z",
+      "size": 1557,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-08-23 — Workspace Cartography",
       "path": "field-notes/2026-08-23-workspace-cartography.md",
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Coding agents are shifting software work from “one human edits a branch” to “several actors mutate overlapping surfaces.” Git has worktrees. GitHub has merge queues. Coding agents can take tasks and propose PRs. But the…",
-      "modified": "2026-08-23T05:06:00.942Z",
+      "modified": "2026-08-23T05:08:31.462Z",
       "size": 1857,
       "meta": {}
     },
@@ -1819,10 +1849,12 @@
       "path": "idea-bank/trend-sparks/2026-08-23.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/source movement. Evidence is based on source docs and a GitHub API snapshot collected on 2026-08-23; repository popularity is a signal, not proof…",
-      "modified": "2026-08-23T05:06:00.974Z",
-      "size": 10626,
-      "meta": {}
+      "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/source movement. Evidence is based on arXiv/API/page scans and GitHub API snapshots collected on 2026-08-23. Popularity, stars, and product pages…",
+      "modified": "2026-08-23T21:36:33.182Z",
+      "size": 11804,
+      "meta": {
+        "name": "Fashion Affiliate Fit Ledger"
+      }
     },
     {
       "title": "Manifest — Future-Mask Action Schema",
@@ -1920,8 +1952,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-23T05:06:17.765Z",
-      "size": 63713,
+      "modified": "2026-08-23T21:35:23.058Z",
+      "size": 64742,
       "meta": {}
     },
     {
@@ -2265,6 +2297,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected Path — Generic AI Stylist",
+      "path": "rejected/2026-08-23-generic-ai-stylist.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Fashion recommendation papers, creator commerce, visual boards, and virtual try-on all point toward demand for better styling help. A generic AI stylist collapses the signal into an obvious crowded product: upload closet…",
+      "modified": "2026-08-23T21:35:06.787Z",
+      "size": 1161,
+      "meta": {}
+    },
+    {
       "title": "Rejected Path — Generic AI Video Editor",
       "path": "rejected/2026-08-01-generic-ai-video-editor.md",
       "category": "rejected",
@@ -2330,7 +2372,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "If multiple coding agents work at once, a dashboard assigning tasks, showing statuses, and chatting with agents sounds useful. The idea collapses into familiar project-management software with agent labels. It does not a…",
-      "modified": "2026-08-23T05:06:00.947Z",
+      "modified": "2026-08-23T05:08:31.464Z",
       "size": 1051,
       "meta": {}
     },
@@ -3019,6 +3061,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Taste Compilers",
+      "path": "source-library/2026-08-23-taste-compilers.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "Taste evidence is scattered across fashion recommendations, creator shops, visual boards, self-hosted media, and AI creative workflows. The missing layer may be a compiler that turns artifacts into user-owned constraints…",
+      "modified": "2026-08-23T21:35:06.734Z",
+      "size": 6273,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — The Bird Drone We Can Actually Build: An Unmanned Ornithopter for Quiet Civil Work",
       "path": "source-library/2026-07-19-unmanned-ornithopter.md",
       "category": "source-library",
@@ -3084,7 +3136,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Coding agents are becoming assignable workers across terminals, IDEs, issues, branches, and PRs. Existing source-control primitives isolate work and validate integration, but they do not by themselves expose a live map o…",
-      "modified": "2026-08-23T05:06:00.923Z",
+      "modified": "2026-08-23T05:08:31.464Z",
       "size": 4804,
       "meta": {}
     },
@@ -3629,6 +3681,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Taste Compilers and Design Tokens",
+      "path": "unexpected-connections/2026-08-23-taste-compilers-design-tokens.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Personal taste and design systems share a hidden transition: examples must become constraints before they can travel. A moodboard is to personal style what a screenshot folder is to a design system. It points at a world,…",
+      "modified": "2026-08-23T21:35:06.772Z",
+      "size": 1821,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Taste Graphs and Custom Feeds Share the Same Hidden Object",
       "path": "unexpected-connections/2026-07-29-taste-graphs-custom-feeds.md",
       "category": "unexpected-connections",
@@ -3734,7 +3796,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Multi-agent coding and construction coordination share a hidden problem: independently valid work can become invalid when it occupies the same future space. In construction, a duct, beam, pipe, cable tray, and access pan…",
-      "modified": "2026-08-23T05:06:00.909Z",
+      "modified": "2026-08-23T05:08:31.465Z",
       "size": 1936,
       "meta": {}
     },
@@ -3794,7 +3856,7 @@
       "category": "weekly-synthesis",
       "categoryLabel": "Weekly Synthesis",
       "excerpt": "Coding Agents Need Traffic Control: Workspaces With Collision Maps, Not Blind Branches. The agent research thread moved from individual action safety to shared workspace coordination. Branches, worktrees, PRs, CI, and me…",
-      "modified": "2026-08-23T05:06:01.007Z",
+      "modified": "2026-08-23T05:08:31.465Z",
       "size": 2240,
       "meta": {}
     }
@@ -3808,22 +3870,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 58
+      "count": 59
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 37
+      "count": 38
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 53
+      "count": 54
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 59
+      "count": 60
     },
     {
       "id": "idea-bank",
@@ -3833,12 +3895,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 58
+      "count": 59
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 55
+      "count": 56
     },
     {
       "id": "manifests",
