@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:06:54.895Z",
+  "generatedAt": "2026-08-24T21:35:35.939Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -203,12 +203,22 @@
       "meta": {}
     },
     {
+      "title": "Apps Need Component Test Ports: GUI Agents Fail Inside Widgets Before They Fail at Workflows",
+      "path": "active-vibes/apps-need-component-test-ports.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Apps Need Component Test Ports: GUI Agents Fail Inside Widgets Before They Fail at Workflows Verified: arXiv 2608.18307v1, ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents, argues that computer-…",
+      "modified": "2026-08-24T21:33:44.646Z",
+      "size": 10108,
+      "meta": {}
+    },
+    {
       "title": "Assistants Need Moment Sense: Help Must Arrive at the Right Instant, Not Just the Right Answer",
       "path": "active-vibes/assistants-need-moment-sense.md",
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Assistants Need Moment Sense: Help Must Arrive at the Right Instant, Not Just the Right Answer Verified: arXiv paper 2608.21360, OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs, published 2026-08-21,…",
-      "modified": "2026-08-24T05:04:47.407Z",
+      "modified": "2026-08-24T05:07:30.134Z",
       "size": 8558,
       "meta": {}
     },
@@ -673,6 +683,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Component Test Port Card Fixture",
+      "path": "experiments/2026-08-24-component-test-port-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether component-level cards make GUI-agent work safer and more diagnosable than raw screenshots, accessibility trees, or prose instructions alone. A small Component Test Port Card will reduce wrong actions, redund…",
+      "modified": "2026-08-24T21:33:44.645Z",
+      "size": 2103,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Context Budget Card Fixture",
       "path": "experiments/2026-08-21-context-budget-card.md",
       "category": "experiments",
@@ -738,7 +758,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether a compact task-phase card makes real-time assistant interventions better timed than always-answer or confidence-threshold policies. Create 30 fictional but realistic task moments across: - live cooking/tutor…",
-      "modified": "2026-08-24T05:04:47.464Z",
+      "modified": "2026-08-24T05:07:30.134Z",
       "size": 1696,
       "meta": {}
     },
@@ -1505,12 +1525,22 @@
       "meta": {}
     },
     {
+      "title": "Field Notes — 2026-08-24 — Component Test Ports",
+      "path": "field-notes/2026-08-24-component-test-ports.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- Verified: arXiv search on 2026-08-24 surfaced 2608.18307v1, ComponentBench, which names a missing middle layer in GUI-agent evaluation: realistic component-centered interactions between long workflows and atomic ground…",
+      "modified": "2026-08-24T21:33:44.657Z",
+      "size": 1854,
+      "meta": {}
+    },
+    {
       "title": "Field Notes — 2026-08-24 — Moment Sense",
       "path": "field-notes/2026-08-24-moment-sense.md",
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- arXiv 2608.21360 OmniAssistBench was the strongest signal: the abstract explicitly names failures around visual prompts, historical context, and delaying response until the target event. - GitHub API scan showed strong…",
-      "modified": "2026-08-24T05:04:47.407Z",
+      "modified": "2026-08-24T05:07:30.134Z",
       "size": 1841,
       "meta": {}
     },
@@ -1891,9 +1921,9 @@
       "path": "idea-bank/trend-sparks/2026-08-24.md",
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
-      "excerpt": "2026-08-24 Checked current public signals through GitHub API, arXiv API, and Hacker News Algolia date search. Strongest evidence came from active repositories around browser agents, MCP tools, local-first agents, AI vide…",
-      "modified": "2026-08-24T05:04:47.498Z",
-      "size": 13182,
+      "excerpt": "2026-08-24 Checked current public signals through arXiv API, Semantic Scholar metadata where available, GitHub API repository search, and Hacker News Algolia date search. Strongest signals came from GUI/computer-use-agen…",
+      "modified": "2026-08-24T21:34:47.771Z",
+      "size": 13187,
       "meta": {}
     },
     {
@@ -1992,8 +2022,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-24T05:05:44.689Z",
-      "size": 66241,
+      "modified": "2026-08-24T21:35:31.743Z",
+      "size": 67249,
       "meta": {}
     },
     {
@@ -2107,6 +2137,16 @@
       "meta": {}
     },
     {
+      "title": "Rejected — Generic GUI Agent Benchmark Dashboard",
+      "path": "rejected/2026-08-24-generic-gui-agent-benchmark-dashboard.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "Recent arXiv papers show active movement around GUI-agent benchmarks, component-level diagnosis, atomicity-aware workflow evaluation, and hybrid GUI-MCP routing. A dashboard collecting benchmark scores would be easy to i…",
+      "modified": "2026-08-24T21:34:47.760Z",
+      "size": 1281,
+      "meta": {}
+    },
+    {
       "title": "Rejected — Generic Offline Chatbot",
       "path": "rejected/2026-08-10-generic-offline-chatbot.md",
       "category": "rejected",
@@ -2122,7 +2162,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "OmniAssistBench and live-agent infrastructure make real-time assistants feel timely. The obvious product framing is a general always-on AI helper for video, screen, and voice. The generic assistant framing collapses the…",
-      "modified": "2026-08-24T05:04:47.463Z",
+      "modified": "2026-08-24T05:07:30.135Z",
       "size": 1274,
       "meta": {}
     },
@@ -2679,6 +2719,16 @@
       "meta": {}
     },
     {
+      "title": "Source Library — 2026-08-24 — Component Test Ports",
+      "path": "source-library/2026-08-24-component-test-ports.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "- Source: arXiv 2608.18307v1 - URL: https://arxiv.org/abs/2608.18307v1 - Published: 2026-08-18 - Evidence label: Verified - Notes: Claims a gap between long-horizon workflow benchmarks and atomic GUI-grounding tests. Int…",
+      "modified": "2026-08-24T21:33:44.648Z",
+      "size": 3685,
+      "meta": {}
+    },
+    {
       "title": "Source Library — Agents Need Borrowed Rooms, Not Keys",
       "path": "source-library/2026-07-26-agents-need-borrowed-rooms-not-keys.md",
       "category": "source-library",
@@ -3046,7 +3096,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "A new arXiv benchmark, OmniAssistBench, frames real-time omni-modal assistance as a dynamic interaction problem. The strongest phrase in the abstract is that models “fail to delay response until the target event.” That t…",
-      "modified": "2026-08-24T05:04:47.451Z",
+      "modified": "2026-08-24T05:07:30.136Z",
       "size": 5531,
       "meta": {}
     },
@@ -3481,6 +3531,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Component Test Ports and Aircraft Built-In Tests",
+      "path": "unexpected-connections/2026-08-24-component-test-ports-built-in-tests.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "GUI-agent component test ports resemble aircraft built-in test and line-replaceable-unit logic more than normal app documentation. Both domains face the same hidden problem: a larger mission should not proceed just becau…",
+      "modified": "2026-08-24T21:33:44.646Z",
+      "size": 1431,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Context Budgets and Aircraft Weight-and-Balance",
       "path": "unexpected-connections/2026-08-21-context-budgets-weight-and-balance.md",
       "category": "unexpected-connections",
@@ -3586,7 +3646,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Real-time AI assistants and aviation crew-resource discipline share the same hidden problem: the right information can be dangerous or useless if it arrives at the wrong moment. In aviation, sterile-cockpit rules limit n…",
-      "modified": "2026-08-24T05:04:47.449Z",
+      "modified": "2026-08-24T05:07:30.136Z",
       "size": 1860,
       "meta": {}
     },
@@ -3940,22 +4000,22 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 60
+      "count": 61
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 39
+      "count": 40
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 55
+      "count": 56
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 61
+      "count": 62
     },
     {
       "id": "idea-bank",
@@ -3965,12 +4025,12 @@
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 60
+      "count": 61
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 57
+      "count": 58
     },
     {
       "id": "manifests",
