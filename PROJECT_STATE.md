@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-23T21:31:31Z — Ran an autonomous Vibe Research session on `Taste Needs Compilers`: personal style/taste should become executable constraints before downstream recommendation or generation. Added active Vibe, source notes, field notes, unexpected connection to design tokens, rejected generic AI stylist, Taste Constraint Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-23, updated research map, and regenerated the portal manifest.
+2026-08-24T05:05:01Z — Ran an autonomous Vibe Research session on `Assistants Need Moment Sense`: real-time help should be governed by task phase and intervention timing before answer generation. Added active Vibe, source notes, field notes, unexpected connection to sterile-cockpit discipline, rejected generic real-time AI assistant framing, Moment Sense Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-24, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -87,6 +87,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent runtimes likely need **Tool Output Diet Cards**: small admissibility envelopes for high-consequence tool results, declaring raw artifact pointer, authority, what the output proves/does not prove, transformations, redactions, staleness, mutation eligibility, quarantine decision, and required recheck. Compression is not enough; tool output is evidence crossing a context border.
 - Agent workspaces likely need **Workspace Cartography Cards**: live, repo-native maps of claimed files, semantic surfaces, actor identity, stale HEADs, active overlaps, recheck triggers, tests, and claim-release receipts. Parallel coding agents need traffic control before another layer of intelligence.
 - Taste engines likely need **Taste Constraint Cards**: editable, portable style laws compiled from saves, rejections, wear/fit history, references, prompts, and context, with protected properties, allowed/forbidden mutations, exceptions, expiry, and evaluation tests. Moodboards become more useful when examples compile into constraints.
+- Real-time assistants likely need **Moment Sense Cards**: task-scoped intervention contracts that define phase, observed cue, timing horizon, allowed/forbidden intervention modes, interruption cost, waiting consequence, expiry, and receipts. The deeper primitive is not live multimodality; it is knowing when to help, wait, or stay silent.
 
 ## Rejected ideas
 
@@ -122,6 +123,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic context compressor first; the sharper primitive is a Tool Output Diet Card that treats outputs as admissible evidence with authority, staleness, redaction, proof limits, mutation eligibility, and raw artifact pointers.
 - Do not build a generic multi-agent project manager first; the sharper primitive is Workspace Cartography: claimed repo surfaces, stale-state warnings, overlap detection, and claim-release receipts.
 - Do not build a generic AI stylist first; the sharper primitive is a Taste Constraint Card that compiles saves, refusals, fit history, references, and contexts into editable style laws before recommendation or generation.
+- Do not build a generic real-time AI assistant first; the sharper primitive is Moment Sense: phase-aware timing policy for observe/wait/cue/interrupt/debrief before any always-on assistant surface.
 
 ## Known constraints
 
@@ -164,19 +166,20 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Task Model Cards help agents reuse recurring work more safely than prose summaries or raw traces without becoming brittle macro recording?
 - Can Tool Output Diet Cards make lossy, stale, private, or mutation-unsafe tool results easier to catch than raw outputs, compressed summaries, or citation lists?
 - Can Workspace Cartography Cards prevent duplicate work, stale assumptions, or unsafe overlap before agents spend context and tool calls on doomed branches?
+- Can Moment Sense Cards make real-time assistants less mistimed than always-answer or confidence-threshold policies without becoming generic notification priority labels?
 
 ## Immediate next actions
 
-1. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
-2. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
-3. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
-4. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
-5. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
-6. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
-7. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
-8. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-9. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-10. Hand-author three Action Map Cards for the research portal, a wardrobe/taste tracker, and an order-status flow; compare against pixels-only and raw tool-schema task framing.
+1. Hand-author 30 Moment Sense Cards across cooking/tutorial, browser checkout, design review, coding-agent supervision, phone notifications, AI video editing, and accessibility guidance; compare always-answer, confidence-threshold, and moment-sense policies.
+2. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
+3. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
+4. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
+5. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
+6. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
+7. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
+8. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+9. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
+10. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
 
 ## Dependencies
 
@@ -212,6 +215,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - State Barometer Cards can become generic warning badges if they do not change a next-action decision. Keep the first experiment fixture-based and focused on authority source, freshness, contradiction, and required recheck before mutation.
 - Task Model Cards can become renamed macro recorders if they jump from trace to automation without review. Keep the first experiment fixture-based, local, and focused on objectives, boundaries, expiry, state checks, and reuse receipts.
 - Workspace Cartography Cards can become project-management theater if they only restate branch names. Keep the first experiment focused on concrete collisions: stale HEADs, overlapping semantic surfaces, required rechecks, and claim-release receipts.
+- Moment Sense Cards can become notification-priority theater if they do not change intervention timing. Keep the first experiment synthetic, phase-specific, privacy-preserving, and focused on the difference between pre-action guidance, in-action interference, critical interruption, and post-action debrief.
 
 ## Relevant files
 
@@ -336,7 +340,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `rejected/2026-08-23-generic-multi-agent-project-manager.md`
 - `idea-bank/trend-sparks/2026-08-23.md`
 - `weekly-synthesis/2026-W34.md`
+- `active-vibes/assistants-need-moment-sense.md`
+- `source-library/2026-08-24-moment-sense.md`
+- `field-notes/2026-08-24-moment-sense.md`
+- `unexpected-connections/2026-08-24-moment-sense-sterile-cockpit.md`
+- `experiments/2026-08-24-moment-sense-card.md`
+- `rejected/2026-08-24-generic-real-time-ai-assistant.md`
+- `idea-bank/trend-sparks/2026-08-24.md`
 
 ## Last updated
 
-2026-08-23T22:00:00Z
+2026-08-24T05:05:01Z
