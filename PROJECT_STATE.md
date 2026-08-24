@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-24T05:05:01Z — Ran an autonomous Vibe Research session on `Assistants Need Moment Sense`: real-time help should be governed by task phase and intervention timing before answer generation. Added active Vibe, source notes, field notes, unexpected connection to sterile-cockpit discipline, rejected generic real-time AI assistant framing, Moment Sense Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-24, updated research map, and regenerated the portal manifest.
+2026-08-24T21:34:53Z — Ran an autonomous Vibe Research session on `Apps Need Component Test Ports`: GUI agents fail inside components before they fail at workflows, and apps may need safe component-level probes with expected transitions, side-effect class, reset paths, and receipts. Added active Vibe, source notes, field notes, unexpected connection to aircraft built-in tests, rejected generic GUI-agent benchmark dashboard framing, Component Test Port Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-24, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -88,6 +88,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Agent workspaces likely need **Workspace Cartography Cards**: live, repo-native maps of claimed files, semantic surfaces, actor identity, stale HEADs, active overlaps, recheck triggers, tests, and claim-release receipts. Parallel coding agents need traffic control before another layer of intelligence.
 - Taste engines likely need **Taste Constraint Cards**: editable, portable style laws compiled from saves, rejections, wear/fit history, references, prompts, and context, with protected properties, allowed/forbidden mutations, exceptions, expiry, and evaluation tests. Moodboards become more useful when examples compile into constraints.
 - Real-time assistants likely need **Moment Sense Cards**: task-scoped intervention contracts that define phase, observed cue, timing horizon, allowed/forbidden intervention modes, interruption cost, waiting consequence, expiry, and receipts. The deeper primitive is not live multimodality; it is knowing when to help, wait, or stay silent.
+- Agent-operable apps likely need **Component Test Port Cards**: bounded component declarations with allowed probes, expected transitions, side-effect class, reset path, timing hazards, and receipts. Whole-workflow success hides the actual failure layer; agents need to know whether the date picker, modal, table, permission dialog, or rich text editor is safe before mutating workflow state.
 
 ## Rejected ideas
 
@@ -124,6 +125,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic multi-agent project manager first; the sharper primitive is Workspace Cartography: claimed repo surfaces, stale-state warnings, overlap detection, and claim-release receipts.
 - Do not build a generic AI stylist first; the sharper primitive is a Taste Constraint Card that compiles saves, refusals, fit history, references, and contexts into editable style laws before recommendation or generation.
 - Do not build a generic real-time AI assistant first; the sharper primitive is Moment Sense: phase-aware timing policy for observe/wait/cue/interrupt/debrief before any always-on assistant surface.
+- Do not build a generic GUI-agent benchmark dashboard first; the sharper primitive is Component Test Ports that convert component tests, accessibility anchors, action maps, and safe probes into runtime evidence before workflow automation.
 
 ## Known constraints
 
@@ -167,14 +169,15 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Tool Output Diet Cards make lossy, stale, private, or mutation-unsafe tool results easier to catch than raw outputs, compressed summaries, or citation lists?
 - Can Workspace Cartography Cards prevent duplicate work, stale assumptions, or unsafe overlap before agents spend context and tool calls on doomed branches?
 - Can Moment Sense Cards make real-time assistants less mistimed than always-answer or confidence-threshold policies without becoming generic notification priority labels?
+- Can Component Test Port Cards make GUI-agent component failures easier to diagnose and prevent than screenshots, accessibility trees, prose instructions, or whole-workflow benchmarks?
 
 ## Immediate next actions
 
-1. Hand-author 30 Moment Sense Cards across cooking/tutorial, browser checkout, design review, coding-agent supervision, phone notifications, AI video editing, and accessibility guidance; compare always-answer, confidence-threshold, and moment-sense policies.
-2. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
-3. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
-4. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
-5. Hand-author 20 State Barometer Cards across local files, browser flows, phone-like permissions, package installs, creative timelines, wardrobe flows, continuation ports, context budgets, and simulator-only drone evidence cards; compare against summaries, traces, screenshots/tool outputs, and confidence statements.
+1. Hand-author 12 Component Test Port Cards across dropdown, date picker, modal, table row action, file upload mock, settings toggle, permission dialog mock, cart quantity mock, rich text editor, multi-select, drag/drop list, and disabled payment-like mock form.
+2. Hand-author 30 Moment Sense Cards across cooking/tutorial, browser checkout, design review, coding-agent supervision, phone notifications, AI video editing, and accessibility guidance; compare always-answer, confidence-threshold, and moment-sense policies.
+3. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
+4. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
+5. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
 6. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
 7. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
 8. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
@@ -216,6 +219,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Task Model Cards can become renamed macro recorders if they jump from trace to automation without review. Keep the first experiment fixture-based, local, and focused on objectives, boundaries, expiry, state checks, and reuse receipts.
 - Workspace Cartography Cards can become project-management theater if they only restate branch names. Keep the first experiment focused on concrete collisions: stale HEADs, overlapping semantic surfaces, required rechecks, and claim-release receipts.
 - Moment Sense Cards can become notification-priority theater if they do not change intervention timing. Keep the first experiment synthetic, phase-specific, privacy-preserving, and focused on the difference between pre-action guidance, in-action interference, critical interruption, and post-action debrief.
+- Component Test Port Cards can become stale design-system documentation unless they are generated from or checked against executable component behavior. Keep the first experiment local, resettable, safe, and focused on whether the card changes an agent's next action.
 
 ## Relevant files
 
@@ -347,7 +351,13 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `experiments/2026-08-24-moment-sense-card.md`
 - `rejected/2026-08-24-generic-real-time-ai-assistant.md`
 - `idea-bank/trend-sparks/2026-08-24.md`
+- `active-vibes/apps-need-component-test-ports.md`
+- `source-library/2026-08-24-component-test-ports.md`
+- `field-notes/2026-08-24-component-test-ports.md`
+- `unexpected-connections/2026-08-24-component-test-ports-built-in-tests.md`
+- `experiments/2026-08-24-component-test-port-card.md`
+- `rejected/2026-08-24-generic-gui-agent-benchmark-dashboard.md`
 
 ## Last updated
 
-2026-08-24T05:05:01Z
+2026-08-24T21:34:53Z
