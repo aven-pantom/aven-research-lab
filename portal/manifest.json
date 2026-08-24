@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:36:36.263Z",
+  "generatedAt": "2026-08-24T05:06:54.895Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -200,6 +200,16 @@
       "excerpt": "Apps Need Action Maps: Agents Should Navigate Intent, Not Pixels Apple App Intents, Android App Actions/Shortcuts, WebDriver BiDi, MCP tools, and computer-use agents are converging on the same pressure point from differe…",
       "modified": "2026-08-12T05:05:38.999Z",
       "size": 9538,
+      "meta": {}
+    },
+    {
+      "title": "Assistants Need Moment Sense: Help Must Arrive at the Right Instant, Not Just the Right Answer",
+      "path": "active-vibes/assistants-need-moment-sense.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Assistants Need Moment Sense: Help Must Arrive at the Right Instant, Not Just the Right Answer Verified: arXiv paper 2608.21360, OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs, published 2026-08-21,…",
+      "modified": "2026-08-24T05:04:47.407Z",
+      "size": 8558,
       "meta": {}
     },
     {
@@ -488,7 +498,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Taste Needs Compilers: Personal Style Should Become Executable Constraints, Not Moodboards Verified: arXiv search on 2026-08-23 returned active fashion recommendation work that increasingly mixes personalization, aesthet…",
-      "modified": "2026-08-23T21:33:25.167Z",
+      "modified": "2026-08-23T21:37:40.277Z",
       "size": 11789,
       "meta": {}
     },
@@ -723,6 +733,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Moment Sense Card Fixture",
+      "path": "experiments/2026-08-24-moment-sense-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Test whether a compact task-phase card makes real-time assistant interventions better timed than always-answer or confidence-threshold policies. Create 30 fictional but realistic task moments across: - live cooking/tutor…",
+      "modified": "2026-08-24T05:04:47.464Z",
+      "size": 1696,
+      "meta": {}
+    },
+    {
       "title": "Experiment — N1 Module Contract Deck",
       "path": "experiments/2026-08-04-n1-module-contract-deck.md",
       "category": "experiments",
@@ -868,7 +888,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether raw taste artifacts become more useful when compiled into explicit, editable constraints before recommendation or generation. Create a synthetic but realistic fixture with 30 artifacts: - 8 loved outfits or…",
-      "modified": "2026-08-23T21:35:06.820Z",
+      "modified": "2026-08-23T21:37:40.277Z",
       "size": 1633,
       "meta": {}
     },
@@ -1470,7 +1490,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- arXiv fashion recommendation search showed a useful arc: surveys and compatibility models → LLM/sequential recommendation → diffusion/generative outfit recommendation → negative-feedback styling. - Product surfaces spl…",
-      "modified": "2026-08-23T21:35:06.755Z",
+      "modified": "2026-08-23T21:37:40.277Z",
       "size": 1557,
       "meta": {}
     },
@@ -1482,6 +1502,16 @@
       "excerpt": "Coding agents are shifting software work from “one human edits a branch” to “several actors mutate overlapping surfaces.” Git has worktrees. GitHub has merge queues. Coding agents can take tasks and propose PRs. But the…",
       "modified": "2026-08-23T05:08:31.462Z",
       "size": 1857,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-08-24 — Moment Sense",
+      "path": "field-notes/2026-08-24-moment-sense.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "- arXiv 2608.21360 OmniAssistBench was the strongest signal: the abstract explicitly names failures around visual prompts, historical context, and delaying response until the target event. - GitHub API scan showed strong…",
+      "modified": "2026-08-24T05:04:47.407Z",
+      "size": 1841,
       "meta": {}
     },
     {
@@ -1850,11 +1880,21 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "Exactly 10 current, evidence-backed app opportunities from visible product/source movement. Evidence is based on arXiv/API/page scans and GitHub API snapshots collected on 2026-08-23. Popularity, stars, and product pages…",
-      "modified": "2026-08-23T21:36:33.182Z",
+      "modified": "2026-08-23T21:37:40.278Z",
       "size": 11804,
       "meta": {
         "name": "Fashion Affiliate Fit Ledger"
       }
+    },
+    {
+      "title": "Trend Sparks — 2026-08-24",
+      "path": "idea-bank/trend-sparks/2026-08-24.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-08-24 Checked current public signals through GitHub API, arXiv API, and Hacker News Algolia date search. Strongest evidence came from active repositories around browser agents, MCP tools, local-first agents, AI vide…",
+      "modified": "2026-08-24T05:04:47.498Z",
+      "size": 13182,
+      "meta": {}
     },
     {
       "title": "Manifest — Future-Mask Action Schema",
@@ -1952,8 +1992,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-23T21:35:23.058Z",
-      "size": 64742,
+      "modified": "2026-08-24T05:05:44.689Z",
+      "size": 66241,
       "meta": {}
     },
     {
@@ -2074,6 +2114,16 @@
       "excerpt": "Local models, Apple Foundation Models, tiny agentic models, and WebNN all make offline AI feel more feasible. A simple offline personal chatbot looks like the obvious consumer app. - Supported: Chat is not the hard part…",
       "modified": "2026-08-10T21:36:30.127Z",
       "size": 1317,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Real-Time AI Assistant",
+      "path": "rejected/2026-08-24-generic-real-time-ai-assistant.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "OmniAssistBench and live-agent infrastructure make real-time assistants feel timely. The obvious product framing is a general always-on AI helper for video, screen, and voice. The generic assistant framing collapses the…",
+      "modified": "2026-08-24T05:04:47.463Z",
+      "size": 1274,
       "meta": {}
     },
     {
@@ -2302,7 +2352,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Fashion recommendation papers, creator commerce, visual boards, and virtual try-on all point toward demand for better styling help. A generic AI stylist collapses the signal into an obvious crowded product: upload closet…",
-      "modified": "2026-08-23T21:35:06.787Z",
+      "modified": "2026-08-23T21:37:40.279Z",
       "size": 1161,
       "meta": {}
     },
@@ -2991,6 +3041,16 @@
       "meta": {}
     },
     {
+      "title": "Source Notes — Moment Sense",
+      "path": "source-library/2026-08-24-moment-sense.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "A new arXiv benchmark, OmniAssistBench, frames real-time omni-modal assistance as a dynamic interaction problem. The strongest phrase in the abstract is that models “fail to delay response until the target event.” That t…",
+      "modified": "2026-08-24T05:04:47.451Z",
+      "size": 5531,
+      "meta": {}
+    },
+    {
       "title": "Source Notes — Negative Taste Signals",
       "path": "source-library/2026-07-31-negative-taste-signals.md",
       "category": "source-library",
@@ -3066,7 +3126,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "Taste evidence is scattered across fashion recommendations, creator shops, visual boards, self-hosted media, and AI creative workflows. The missing layer may be a compiler that turns artifacts into user-owned constraints…",
-      "modified": "2026-08-23T21:35:06.734Z",
+      "modified": "2026-08-23T21:37:40.280Z",
       "size": 6273,
       "meta": {}
     },
@@ -3521,6 +3581,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Moment Sense and Sterile Cockpit Discipline",
+      "path": "unexpected-connections/2026-08-24-moment-sense-sterile-cockpit.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "Real-time AI assistants and aviation crew-resource discipline share the same hidden problem: the right information can be dangerous or useless if it arrives at the wrong moment. In aviation, sterile-cockpit rules limit n…",
+      "modified": "2026-08-24T05:04:47.449Z",
+      "size": 1860,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Music Skips and Wardrobe Almost-Wears",
       "path": "unexpected-connections/2026-07-31-music-skips-wardrobe-almost-wears.md",
       "category": "unexpected-connections",
@@ -3686,7 +3756,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "Personal taste and design systems share a hidden transition: examples must become constraints before they can travel. A moodboard is to personal style what a screenshot folder is to a design system. It points at a world,…",
-      "modified": "2026-08-23T21:35:06.772Z",
+      "modified": "2026-08-23T21:37:40.280Z",
       "size": 1821,
       "meta": {}
     },
@@ -3870,37 +3940,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 59
+      "count": 60
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 38
+      "count": 39
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 54
+      "count": 55
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 60
+      "count": 61
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 33
+      "count": 34
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 59
+      "count": 60
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 56
+      "count": 57
     },
     {
       "id": "manifests",
