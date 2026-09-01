@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:35:35.939Z",
+  "generatedAt": "2026-09-01T05:06:38.343Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -208,7 +208,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Apps Need Component Test Ports: GUI Agents Fail Inside Widgets Before They Fail at Workflows Verified: arXiv 2608.18307v1, ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents, argues that computer-…",
-      "modified": "2026-08-24T21:33:44.646Z",
+      "modified": "2026-08-24T21:36:42.731Z",
       "size": 10108,
       "meta": {}
     },
@@ -240,6 +240,16 @@
       "excerpt": "Breakthrough in Drones: How to Make a Supersonic Unmanned Aircraft Verified: NASA’s Quesst/X-59 work frames the next supersonic frontier around making supersonic flight over land socially/regulatorily acceptable through…",
       "modified": "2026-08-04T05:08:26.881Z",
       "size": 11654,
+      "meta": {}
+    },
+    {
+      "title": "Camera Rolls Need Memory Ledgers: Personal Media Should Become Evidence, Not Infinite Storage",
+      "path": "active-vibes/camera-rolls-need-memory-ledgers.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Camera Rolls Need Memory Ledgers: Personal Media Should Become Evidence, Not Infinite Storage Verified: arXiv 2607.11487, LightMem-Ego: Your AI Memory for Everyday Life, frames mobile/wearable assistants as continuous vi…",
+      "modified": "2026-09-01T05:03:14.061Z",
+      "size": 11284,
       "meta": {}
     },
     {
@@ -688,7 +698,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Test whether component-level cards make GUI-agent work safer and more diagnosable than raw screenshots, accessibility trees, or prose instructions alone. A small Component Test Port Card will reduce wrong actions, redund…",
-      "modified": "2026-08-24T21:33:44.645Z",
+      "modified": "2026-08-24T21:36:42.731Z",
       "size": 2103,
       "meta": {}
     },
@@ -1000,6 +1010,16 @@
       "excerpt": "Date: 2026-07-22 Actions Become Video Masks../active-vibes/actions-become-video-masks.md Test whether action proposals represented as partial futures are more inspectable than text logs or low-level action traces. Use a…",
       "modified": "2026-07-22T05:07:54.570Z",
       "size": 1427,
+      "meta": {}
+    },
+    {
+      "title": "Media Memory Ledger Card Fixture",
+      "path": "experiments/2026-09-01-media-memory-ledger-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "Experiment Proposed Prototype candidate - Camera Rolls Need Memory Ledgers../active-vibes/camera-rolls-need-memory-ledgers.md Test whether small local ledger cards over personal media events help agents reason more safel…",
+      "modified": "2026-09-01T05:04:25.872Z",
+      "size": 2175,
       "meta": {}
     },
     {
@@ -1530,7 +1550,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "- Verified: arXiv search on 2026-08-24 surfaced 2608.18307v1, ComponentBench, which names a missing middle layer in GUI-agent evaluation: realistic component-centered interactions between long workflows and atomic ground…",
-      "modified": "2026-08-24T21:33:44.657Z",
+      "modified": "2026-08-24T21:36:42.731Z",
       "size": 1854,
       "meta": {}
     },
@@ -1542,6 +1562,16 @@
       "excerpt": "- arXiv 2608.21360 OmniAssistBench was the strongest signal: the abstract explicitly names failures around visual prompts, historical context, and delaying response until the target event. - GitHub API scan showed strong…",
       "modified": "2026-08-24T05:07:30.134Z",
       "size": 1841,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — 2026-09-01 — Media Memory Ledgers",
+      "path": "field-notes/2026-09-01-media-memory-ledgers.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "Recent arXiv results around personal memory, camera-first agents, egocentric video memory, multimodal history management, and wearable VLM security all point at the same hidden problem: personal media is becoming action…",
+      "modified": "2026-09-01T05:04:02.509Z",
+      "size": 3189,
       "meta": {}
     },
     {
@@ -1922,8 +1952,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-08-24 Checked current public signals through arXiv API, Semantic Scholar metadata where available, GitHub API repository search, and Hacker News Algolia date search. Strongest signals came from GUI/computer-use-agen…",
-      "modified": "2026-08-24T21:34:47.771Z",
+      "modified": "2026-08-24T21:36:42.732Z",
       "size": 13187,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-09-01",
+      "path": "idea-bank/trend-sparks/2026-09-01.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-09-01 Checked current public signals through arXiv API, GitHub API repository search, official product pages, and Hacker News Algolia date search. Strongest signals came from camera-first personal memory papers, loc…",
+      "modified": "2026-09-01T05:05:37.590Z",
+      "size": 14151,
       "meta": {}
     },
     {
@@ -2022,8 +2062,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-08-24T21:35:31.743Z",
-      "size": 67249,
+      "modified": "2026-09-01T05:05:52.445Z",
+      "size": 68845,
       "meta": {}
     },
     {
@@ -2074,6 +2114,16 @@
       "excerpt": "Recent signals around AI browsers, mobile AI browsers, browser-use repos, credential brokers, and MCP interceptors suggest a fast-moving category. A comparison of AI browsers would mostly become feature inventory: sideba…",
       "modified": "2026-08-09T21:37:45.786Z",
       "size": 1065,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic AI Camera Roll Search",
+      "path": "rejected/2026-09-01-generic-ai-camera-roll-search.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-09-01 The camera roll is already the richest personal dataset most people have. Incumbent movement around AI photo search and new research around camera-first/wearable agents make the surface feel obviously importan…",
+      "modified": "2026-09-01T05:04:37.619Z",
+      "size": 1941,
       "meta": {}
     },
     {
@@ -2142,7 +2192,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "Recent arXiv papers show active movement around GUI-agent benchmarks, component-level diagnosis, atomicity-aware workflow evaluation, and hybrid GUI-MCP routing. A dashboard collecting benchmark scores would be easy to i…",
-      "modified": "2026-08-24T21:34:47.760Z",
+      "modified": "2026-08-24T21:36:42.733Z",
       "size": 1281,
       "meta": {}
     },
@@ -2724,7 +2774,7 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "- Source: arXiv 2608.18307v1 - URL: https://arxiv.org/abs/2608.18307v1 - Published: 2026-08-18 - Evidence label: Verified - Notes: Claims a gap between long-horizon workflow benchmarks and atomic GUI-grounding tests. Int…",
-      "modified": "2026-08-24T21:33:44.648Z",
+      "modified": "2026-08-24T21:36:42.734Z",
       "size": 3685,
       "meta": {}
     },
@@ -2746,6 +2796,16 @@
       "excerpt": "2026-07-19 A new camera app may need to capture change, atmosphere, semantic transitions, and personal world-state rather than only pictures and videos. - URL: https://arxiv.org/abs/1904.08405 - Type: survey / near-prima…",
       "modified": "2026-07-19T09:55:08.627Z",
       "size": 3424,
+      "meta": {}
+    },
+    {
+      "title": "Source Library — Media Memory Ledgers",
+      "path": "source-library/2026-09-01-media-memory-ledgers.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-09-01 Personal AI memory research is moving from text-only recollection toward camera-first, wearable, egocentric, multimodal history. The useful thread is not “search my photos.” It is evidence-bounded personal med…",
+      "modified": "2026-09-01T05:03:47.133Z",
+      "size": 6729,
       "meta": {}
     },
     {
@@ -3511,6 +3571,16 @@
       "meta": {}
     },
     {
+      "title": "Unexpected Connection — Camera Rolls and Accounting Ledgers",
+      "path": "unexpected-connections/2026-09-01-camera-rolls-accounting-ledgers.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-09-01 Camera rolls look like archives, but personal agents need them to behave more like accounting ledgers. Both domains start with messy real-world events. The valuable object is not the event itself. It is the ad…",
+      "modified": "2026-09-01T05:04:14.587Z",
+      "size": 2064,
+      "meta": {}
+    },
+    {
       "title": "Unexpected Connection — Cell Perturbation Models and Software Debuggers",
       "path": "unexpected-connections/2026-07-20-cell-perturbations-software-debuggers.md",
       "category": "unexpected-connections",
@@ -3536,7 +3606,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "GUI-agent component test ports resemble aircraft built-in test and line-replaceable-unit logic more than normal app documentation. Both domains face the same hidden problem: a larger mission should not proceed just becau…",
-      "modified": "2026-08-24T21:33:44.646Z",
+      "modified": "2026-08-24T21:36:42.734Z",
       "size": 1431,
       "meta": {}
     },
@@ -4000,37 +4070,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 61
+      "count": 62
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 40
+      "count": 41
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 56
+      "count": 57
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 62
+      "count": 63
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 34
+      "count": 35
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 61
+      "count": 62
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 58
+      "count": 59
     },
     {
       "id": "manifests",
