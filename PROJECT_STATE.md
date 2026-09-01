@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-08-24T21:34:53Z — Ran an autonomous Vibe Research session on `Apps Need Component Test Ports`: GUI agents fail inside components before they fail at workflows, and apps may need safe component-level probes with expected transitions, side-effect class, reset paths, and receipts. Added active Vibe, source notes, field notes, unexpected connection to aircraft built-in tests, rejected generic GUI-agent benchmark dashboard framing, Component Test Port Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-08-24, updated research map, and regenerated the portal manifest.
+2026-09-01T05:05:55Z — Ran an autonomous Vibe Research session on `Camera Rolls Need Memory Ledgers`: personal media is becoming action evidence for agents, but camera rolls lack proof limits, conflicts, expiry, privacy class, and allowed-use receipts. Added active Vibe, source notes, field notes, unexpected connection to accounting ledgers, rejected generic AI camera-roll search framing, Media Memory Ledger Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-09-01, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -89,6 +89,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Taste engines likely need **Taste Constraint Cards**: editable, portable style laws compiled from saves, rejections, wear/fit history, references, prompts, and context, with protected properties, allowed/forbidden mutations, exceptions, expiry, and evaluation tests. Moodboards become more useful when examples compile into constraints.
 - Real-time assistants likely need **Moment Sense Cards**: task-scoped intervention contracts that define phase, observed cue, timing horizon, allowed/forbidden intervention modes, interruption cost, waiting consequence, expiry, and receipts. The deeper primitive is not live multimodality; it is knowing when to help, wait, or stay silent.
 - Agent-operable apps likely need **Component Test Port Cards**: bounded component declarations with allowed probes, expected transitions, side-effect class, reset path, timing hazards, and receipts. Whole-workflow success hides the actual failure layer; agents need to know whether the date picker, modal, table, permission dialog, or rich text editor is safe before mutating workflow state.
+- Personal media likely needs **Media Memory Ledger Cards**: local, inspectable evidence objects attached to camera-roll, screenshot, wearable, and reference captures, declaring what the media proves, what it does not prove, object continuity, stale conditions, privacy class, conflicts, allowed agent uses, and receipts. Search retrieves the archive; ledgers govern whether an agent may act from it.
 
 ## Rejected ideas
 
@@ -126,6 +127,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic AI stylist first; the sharper primitive is a Taste Constraint Card that compiles saves, refusals, fit history, references, and contexts into editable style laws before recommendation or generation.
 - Do not build a generic real-time AI assistant first; the sharper primitive is Moment Sense: phase-aware timing policy for observe/wait/cue/interrupt/debrief before any always-on assistant surface.
 - Do not build a generic GUI-agent benchmark dashboard first; the sharper primitive is Component Test Ports that convert component tests, accessibility anchors, action maps, and safe probes into runtime evidence before workflow automation.
+- Do not build a generic AI camera-roll search app first; the sharper primitive is a Media Memory Ledger that turns selected captures into local, conflict-aware, privacy-scoped evidence for agent action.
 
 ## Known constraints
 
@@ -183,6 +185,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 8. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
 9. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
 10. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+11. Hand-author 40 Media Memory Ledger Cards across wardrobe, creative references, home objects, receipt/repair, screenshots, and travel/place memory; compare against caption search and freeform memory.
 
 ## Dependencies
 
@@ -220,6 +223,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Workspace Cartography Cards can become project-management theater if they only restate branch names. Keep the first experiment focused on concrete collisions: stale HEADs, overlapping semantic surfaces, required rechecks, and claim-release receipts.
 - Moment Sense Cards can become notification-priority theater if they do not change intervention timing. Keep the first experiment synthetic, phase-specific, privacy-preserving, and focused on the difference between pre-action guidance, in-action interference, critical interruption, and post-action debrief.
 - Component Test Port Cards can become stale design-system documentation unless they are generated from or checked against executable component behavior. Keep the first experiment local, resettable, safe, and focused on whether the card changes an agent's next action.
+- Media Memory Ledger Cards can become private-archive bureaucracy or surveillance infrastructure unless the first fixture is synthetic/redacted, selective, local, and tied to natural events where proof limits change agent decisions.
 
 ## Relevant files
 
@@ -357,7 +361,14 @@ Active Vibe Research operations plus repo readability infrastructure.
 - `unexpected-connections/2026-08-24-component-test-ports-built-in-tests.md`
 - `experiments/2026-08-24-component-test-port-card.md`
 - `rejected/2026-08-24-generic-gui-agent-benchmark-dashboard.md`
+- `active-vibes/camera-rolls-need-memory-ledgers.md`
+- `source-library/2026-09-01-media-memory-ledgers.md`
+- `field-notes/2026-09-01-media-memory-ledgers.md`
+- `unexpected-connections/2026-09-01-camera-rolls-accounting-ledgers.md`
+- `experiments/2026-09-01-media-memory-ledger-card.md`
+- `rejected/2026-09-01-generic-ai-camera-roll-search.md`
+- `idea-bank/trend-sparks/2026-09-01.md`
 
 ## Last updated
 
-2026-08-24T21:34:53Z
+2026-09-01T05:05:55Z
