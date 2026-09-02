@@ -10,7 +10,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 
 ## Last verified state
 
-2026-09-01T05:05:55Z — Ran an autonomous Vibe Research session on `Camera Rolls Need Memory Ledgers`: personal media is becoming action evidence for agents, but camera rolls lack proof limits, conflicts, expiry, privacy class, and allowed-use receipts. Added active Vibe, source notes, field notes, unexpected connection to accounting ledgers, rejected generic AI camera-roll search framing, Media Memory Ledger Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-09-01, updated research map, and regenerated the portal manifest.
+2026-09-02T05:05:34Z — Ran an autonomous Vibe Research session on `Agents Need Memory Compost`: long-lived personal AI memory needs lifecycle authority, decay, contradiction handling, and composted patterns rather than a growing pile of retrievable facts. Added active Vibe, source notes, field notes, unexpected connection to soil ecology, rejected generic agent memory dashboard framing, Memory Compost Card fixture experiment, refreshed exactly 10 Trend Sparks for 2026-09-02, updated research map, and regenerated the portal manifest.
 
 ## Current architecture
 
@@ -90,6 +90,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Real-time assistants likely need **Moment Sense Cards**: task-scoped intervention contracts that define phase, observed cue, timing horizon, allowed/forbidden intervention modes, interruption cost, waiting consequence, expiry, and receipts. The deeper primitive is not live multimodality; it is knowing when to help, wait, or stay silent.
 - Agent-operable apps likely need **Component Test Port Cards**: bounded component declarations with allowed probes, expected transitions, side-effect class, reset path, timing hazards, and receipts. Whole-workflow success hides the actual failure layer; agents need to know whether the date picker, modal, table, permission dialog, or rich text editor is safe before mutating workflow state.
 - Personal media likely needs **Media Memory Ledger Cards**: local, inspectable evidence objects attached to camera-roll, screenshot, wearable, and reference captures, declaring what the media proves, what it does not prove, object continuity, stale conditions, privacy class, conflicts, allowed agent uses, and receipts. Search retrieves the archive; ledgers govern whether an agent may act from it.
+- Long-lived personal agents likely need **Memory Compost Cards**: local memory lifecycle objects that downgrade stale memories into soft context, warnings, taste constraints, canon candidates, or deleted/quarantined residue. The important question is not only what the agent remembers, but what authority each memory still has.
 
 ## Rejected ideas
 
@@ -128,6 +129,7 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Do not build a generic real-time AI assistant first; the sharper primitive is Moment Sense: phase-aware timing policy for observe/wait/cue/interrupt/debrief before any always-on assistant surface.
 - Do not build a generic GUI-agent benchmark dashboard first; the sharper primitive is Component Test Ports that convert component tests, accessibility anchors, action maps, and safe probes into runtime evidence before workflow automation.
 - Do not build a generic AI camera-roll search app first; the sharper primitive is a Media Memory Ledger that turns selected captures into local, conflict-aware, privacy-scoped evidence for agent action.
+- Do not build a generic agent memory dashboard first; the sharper primitive is Memory Compost: lifecycle authority states that decide whether remembered material may act, ask, warn, shape taste, become canon, expire, quarantine, or be deleted.
 
 ## Known constraints
 
@@ -172,20 +174,22 @@ Active Vibe Research operations plus repo readability infrastructure.
 - Can Workspace Cartography Cards prevent duplicate work, stale assumptions, or unsafe overlap before agents spend context and tool calls on doomed branches?
 - Can Moment Sense Cards make real-time assistants less mistimed than always-answer or confidence-threshold policies without becoming generic notification priority labels?
 - Can Component Test Port Cards make GUI-agent component failures easier to diagnose and prevent than screenshots, accessibility trees, prose instructions, or whole-workflow benchmarks?
+- Can Memory Compost Cards reduce stale-memory errors without becoming memory-maintenance paperwork?
 
 ## Immediate next actions
 
-1. Hand-author 12 Component Test Port Cards across dropdown, date picker, modal, table row action, file upload mock, settings toggle, permission dialog mock, cart quantity mock, rich text editor, multi-select, drag/drop list, and disabled payment-like mock form.
-2. Hand-author 30 Moment Sense Cards across cooking/tutorial, browser checkout, design review, coding-agent supervision, phone notifications, AI video editing, and accessibility guidance; compare always-answer, confidence-threshold, and moment-sense policies.
-3. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
-4. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
-5. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
-6. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
-7. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
-8. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
-9. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
-10. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
-11. Hand-author 40 Media Memory Ledger Cards across wardrobe, creative references, home objects, receipt/repair, screenshots, and travel/place memory; compare against caption search and freeform memory.
+1. Hand-author 50 Memory Compost Cards across work preferences, agent corrections, design taste, wardrobe fit, media ledger events, browser traces, stale facts, and sensitive memories; test raw retrieval vs recency-only vs lifecycle-authority behavior.
+2. Hand-author 12 Component Test Port Cards across dropdown, date picker, modal, table row action, file upload mock, settings toggle, permission dialog mock, cart quantity mock, rich text editor, multi-select, drag/drop list, and disabled payment-like mock form.
+3. Hand-author 30 Moment Sense Cards across cooking/tutorial, browser checkout, design review, coding-agent supervision, phone notifications, AI video editing, and accessibility guidance; compare always-answer, confidence-threshold, and moment-sense policies.
+4. Hand-author a 30-artifact Taste Constraint Card fixture across loved saves, rejected items, almost-wears, fit ledger events, and reference boards; compare positive-only, negative-added, and compiled-constraint briefs.
+5. Hand-author 10 Workspace Cartography Cards across safe repo scenarios and compare against branch/status/PR summaries for stale-state and overlap detection.
+6. Hand-author 20 Tool Output Diet Cards across safe tool-result scenarios and compare against raw outputs, compressed summaries, and normal citations before runtime integration.
+7. Hand-author 20 Context Budget Cards across coding, browser, creative, wardrobe, research, drone-simulator, resident-agent, package-install, credential-lease, and continuation scenarios; compare against summaries, source lists, and full context dumps.
+8. Hand-author 20 simulator-only Radio Weather Cards using synthetic route classes; compare stale evidence, residual clarity, and false-authorization risk against signal bars, heatmaps, and free-text notes.
+9. Hand-author 25 Eagerness Governor Cards across coding, browser, shopping, calendar, file, CRM, and phone-agent tasks; compare against prompt-only control.
+10. Hand-author 20 simulator-only Weather Autopsy Cards from fictional civil drone scenarios; compare against normal forecast panel + free-text note.
+11. Hand-author 30 Fit Ledger Cards across kept/worn, returned/avoided, and almost-worn/altered garments; compare recommendation briefs with and without fit-friction history.
+12. Hand-author 40 Media Memory Ledger Cards across wardrobe, creative references, home objects, receipt/repair, screenshots, and travel/place memory; compare against caption search and freeform memory.
 
 ## Dependencies
 
