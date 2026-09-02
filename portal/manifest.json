@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:06:38.343Z",
+  "generatedAt": "2026-09-02T05:06:35.965Z",
   "repository": "aven-pantom/aven-research-lab",
   "documents": [
     {
@@ -100,6 +100,16 @@
       "excerpt": "Agents Need Flight Recorders: Computer Use as Replayable Evidence, Not Chat Logs On 2026-07-27, the scan converged on a repeated structure across agent benchmarks, browser automation, computer-use demos, and web security…",
       "modified": "2026-08-04T05:08:26.881Z",
       "size": 13956,
+      "meta": {}
+    },
+    {
+      "title": "Agents Need Memory Compost: Personal AI Should Decay Into Usable Soil, Not Hoard Facts",
+      "path": "active-vibes/agents-need-memory-compost.md",
+      "category": "active-vibes",
+      "categoryLabel": "Active Vibes",
+      "excerpt": "Agents Need Memory Compost: Personal AI Should Decay Into Usable Soil, Not Hoard Facts Verified: GitHub API checks on 2026-09-02 show heavy current builder movement around long-lived agents and memory infrastructure: mem…",
+      "modified": "2026-09-02T05:03:31.013Z",
+      "size": 12851,
       "meta": {}
     },
     {
@@ -248,7 +258,7 @@
       "category": "active-vibes",
       "categoryLabel": "Active Vibes",
       "excerpt": "Camera Rolls Need Memory Ledgers: Personal Media Should Become Evidence, Not Infinite Storage Verified: arXiv 2607.11487, LightMem-Ego: Your AI Memory for Everyday Life, frames mobile/wearable assistants as continuous vi…",
-      "modified": "2026-09-01T05:03:14.061Z",
+      "modified": "2026-09-01T05:07:38.172Z",
       "size": 11284,
       "meta": {}
     },
@@ -753,6 +763,16 @@
       "meta": {}
     },
     {
+      "title": "Experiment — Memory Compost Card Fixture",
+      "path": "experiments/2026-09-02-memory-compost-card.md",
+      "category": "experiments",
+      "categoryLabel": "Experiments",
+      "excerpt": "2026-09-02 Agents Need Memory Compost../active-vibes/agents-need-memory-compost.md Test whether memory lifecycle/authority labels improve long-lived agent behavior compared with raw retrieved memories or recency-only mem…",
+      "modified": "2026-09-02T05:05:23.114Z",
+      "size": 2072,
+      "meta": {}
+    },
+    {
       "title": "Experiment — Mobile Permission Receipt Card",
       "path": "experiments/2026-08-08-mobile-permission-receipt-card.md",
       "category": "experiments",
@@ -1018,7 +1038,7 @@
       "category": "experiments",
       "categoryLabel": "Experiments",
       "excerpt": "Experiment Proposed Prototype candidate - Camera Rolls Need Memory Ledgers../active-vibes/camera-rolls-need-memory-ledgers.md Test whether small local ledger cards over personal media events help agents reason more safel…",
-      "modified": "2026-09-01T05:04:25.872Z",
+      "modified": "2026-09-01T05:07:38.172Z",
       "size": 2175,
       "meta": {}
     },
@@ -1570,7 +1590,7 @@
       "category": "field-notes",
       "categoryLabel": "Field Notes",
       "excerpt": "Recent arXiv results around personal memory, camera-first agents, egocentric video memory, multimodal history management, and wearable VLM security all point at the same hidden problem: personal media is becoming action…",
-      "modified": "2026-09-01T05:04:02.509Z",
+      "modified": "2026-09-01T05:07:38.172Z",
       "size": 3189,
       "meta": {}
     },
@@ -1582,6 +1602,16 @@
       "excerpt": "Date: 2026-08-05 Calling title: The Browser Can Become a Workshop: Apps With Real Databases but No Server PGlite, SQLite WASM, DuckDB-Wasm, and OPFS are converging on a strange possibility: the browser can host serious l…",
       "modified": "2026-08-05T05:07:28.934Z",
       "size": 3476,
+      "meta": {}
+    },
+    {
+      "title": "Field Notes — Memory Compost",
+      "path": "field-notes/2026-09-02-memory-compost.md",
+      "category": "field-notes",
+      "categoryLabel": "Field Notes",
+      "excerpt": "2026-09-02 Agent memory is becoming infrastructure, but the visible language still leans toward persistence and retrieval. The strange gap is memory decay: not deleting everything, not remembering everything, but transfo…",
+      "modified": "2026-09-02T05:05:23.085Z",
+      "size": 1512,
       "meta": {}
     },
     {
@@ -1962,8 +1992,18 @@
       "category": "idea-bank",
       "categoryLabel": "Idea Bank",
       "excerpt": "2026-09-01 Checked current public signals through arXiv API, GitHub API repository search, official product pages, and Hacker News Algolia date search. Strongest signals came from camera-first personal memory papers, loc…",
-      "modified": "2026-09-01T05:05:37.590Z",
+      "modified": "2026-09-01T05:07:38.172Z",
       "size": 14151,
+      "meta": {}
+    },
+    {
+      "title": "Trend Sparks — 2026-09-02",
+      "path": "idea-bank/trend-sparks/2026-09-02.md",
+      "category": "idea-bank",
+      "categoryLabel": "Idea Bank",
+      "excerpt": "2026-09-02 Checked current public signals through arXiv API, GitHub API repository snapshots, raw project READMEs, App Store/product pages, and selected public product pages. Strongest signals came from agent memory infr…",
+      "modified": "2026-09-02T05:05:23.173Z",
+      "size": 13281,
       "meta": {}
     },
     {
@@ -2062,8 +2102,8 @@
       "category": ".",
       "categoryLabel": "Overview",
       "excerpt": "This is the living map of Vibe Research. It should make the repository feel like a connected knowledge system, not a folder of documents. As of 2026-07-18, the lab runs in Vibe Research Mode. Research begins from signals…",
-      "modified": "2026-09-01T05:05:52.445Z",
-      "size": 68845,
+      "modified": "2026-09-02T05:05:48.559Z",
+      "size": 70423,
       "meta": {}
     },
     {
@@ -2084,6 +2124,16 @@
       "excerpt": "Date: 2026-08-21 GUI, web, and phone agents fail in ways that users cannot easily anticipate. A visible confidence meter sounds like a simple trust surface. - Verified: Current GUI-agent work is splitting failure into tr…",
       "modified": "2026-08-21T21:35:42.784Z",
       "size": 1216,
+      "meta": {}
+    },
+    {
+      "title": "Rejected — Generic Agent Memory Dashboard",
+      "path": "rejected/2026-09-02-generic-agent-memory-dashboard.md",
+      "category": "rejected",
+      "categoryLabel": "Rejected",
+      "excerpt": "2026-09-02 Agent memory infrastructure is visibly active, and users will need to inspect what persistent agents remember. A dashboard sounds like the obvious product surface. A generic dashboard treats all remembered ite…",
+      "modified": "2026-09-02T05:05:23.129Z",
+      "size": 1278,
       "meta": {}
     },
     {
@@ -2122,7 +2172,7 @@
       "category": "rejected",
       "categoryLabel": "Rejected",
       "excerpt": "2026-09-01 The camera roll is already the richest personal dataset most people have. Incumbent movement around AI photo search and new research around camera-first/wearable agents make the surface feel obviously importan…",
-      "modified": "2026-09-01T05:04:37.619Z",
+      "modified": "2026-09-01T05:07:38.173Z",
       "size": 1941,
       "meta": {}
     },
@@ -2804,8 +2854,18 @@
       "category": "source-library",
       "categoryLabel": "Source Library",
       "excerpt": "2026-09-01 Personal AI memory research is moving from text-only recollection toward camera-first, wearable, egocentric, multimodal history. The useful thread is not “search my photos.” It is evidence-bounded personal med…",
-      "modified": "2026-09-01T05:03:47.133Z",
+      "modified": "2026-09-01T05:07:38.175Z",
       "size": 6729,
+      "meta": {}
+    },
+    {
+      "title": "Source Library — Memory Compost",
+      "path": "source-library/2026-09-02-memory-compost.md",
+      "category": "source-library",
+      "categoryLabel": "Source Library",
+      "excerpt": "2026-09-02 Agent memory infrastructure is visibly moving from experiments into normal tooling, but most product language still emphasizes persistence, retrieval, context, and personalization. The underexplored problem is…",
+      "modified": "2026-09-02T05:05:23.052Z",
+      "size": 5547,
       "meta": {}
     },
     {
@@ -3576,7 +3636,7 @@
       "category": "unexpected-connections",
       "categoryLabel": "Unexpected Connections",
       "excerpt": "2026-09-01 Camera rolls look like archives, but personal agents need them to behave more like accounting ledgers. Both domains start with messy real-world events. The valuable object is not the event itself. It is the ad…",
-      "modified": "2026-09-01T05:04:14.587Z",
+      "modified": "2026-09-01T05:07:38.175Z",
       "size": 2064,
       "meta": {}
     },
@@ -3708,6 +3768,16 @@
       "excerpt": "2026-07-30 C2PA-style media provenance and agent flight recorders appear to solve different problems: one protects media authenticity; the other makes autonomous work auditable. But structurally they share the same missi…",
       "modified": "2026-07-30T05:06:12.500Z",
       "size": 1873,
+      "meta": {}
+    },
+    {
+      "title": "Unexpected Connection — Memory Compost and Soil Ecology",
+      "path": "unexpected-connections/2026-09-02-memory-compost-soil-ecology.md",
+      "category": "unexpected-connections",
+      "categoryLabel": "Unexpected Connections",
+      "excerpt": "2026-09-02 Personal AI memory and soil ecology share a hidden problem: residue must be transformed before it can safely feed future action. In soil, compost is not trash and not the original organism. It is decayed, mixe…",
+      "modified": "2026-09-02T05:05:23.153Z",
+      "size": 1700,
       "meta": {}
     },
     {
@@ -4070,37 +4140,37 @@
     {
       "id": "active-vibes",
       "label": "Active Vibes",
-      "count": 62
+      "count": 63
     },
     {
       "id": "experiments",
       "label": "Experiments",
-      "count": 41
+      "count": 42
     },
     {
       "id": "field-notes",
       "label": "Field Notes",
-      "count": 57
+      "count": 58
     },
     {
       "id": "source-library",
       "label": "Source Library",
-      "count": 63
+      "count": 64
     },
     {
       "id": "idea-bank",
       "label": "Idea Bank",
-      "count": 35
+      "count": 36
     },
     {
       "id": "unexpected-connections",
       "label": "Unexpected Connections",
-      "count": 62
+      "count": 63
     },
     {
       "id": "rejected",
       "label": "Rejected",
-      "count": 59
+      "count": 60
     },
     {
       "id": "manifests",
